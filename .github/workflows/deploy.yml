@@ -91,7 +91,7 @@ jobs:
           bundle exec jekyll build --verbose --trace
       - name: Purge unused CSS 🧹
         run: |
-          npm install -g purgecssƒ
+          npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
