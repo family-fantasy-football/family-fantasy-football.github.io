@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<!-- 
+<!--
 <table id="standings" data-toggle="table" data-url="{{ '/assets/standings.json' | relative_url }}">
   <thead>
     <tr>
-      <th data-field="team">Team</th>  
+      <th data-field="team">Team</th>
       <th data-field="record">Record</th>
       <th data-field="last3">Last 3 Games</th>
     </tr>
