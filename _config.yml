@@ -283,9 +283,10 @@ sass:
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
-
+encoding: UTF-8
 jekyll-minifier:
   exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*", "python_generation"]
+  compress_css: false
   uglifier_args:
     harmony: true
 
