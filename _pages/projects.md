@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: teams
+permalink: /teams/
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [2024-25, 2025-26]
 horizontal: false
 ---
 
