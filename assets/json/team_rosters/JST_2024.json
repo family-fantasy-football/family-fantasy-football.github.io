@@ -1,1 +1,42 @@
-[{"player_name": "Christian McCaffrey", "pos": "RB", "total_points": "40.30", "proj_points": "230.81", "avg_points": "3.10", "pct_perform": "17.46"}, {"player_name": "Isiah Pacheco", "pos": "RB", "total_points": "33.80", "proj_points": "160.47", "avg_points": "2.60", "pct_perform": "21.06"}, {"player_name": "Rachaad White", "pos": "RB", "total_points": "125.70", "proj_points": "151.80", "avg_points": "9.67", "pct_perform": "82.81"}, {"player_name": "DK Metcalf", "pos": "WR", "total_points": "115.30", "proj_points": "145.45", "avg_points": "8.87", "pct_perform": "79.27"}, {"player_name": "Calvin Ridley", "pos": "WR", "total_points": "114.60", "proj_points": "139.86", "avg_points": "8.82", "pct_perform": "81.94"}, {"player_name": "Jayden Reed", "pos": "WR", "total_points": "146.10", "proj_points": "114.16", "avg_points": "11.24", "pct_perform": "127.97"}, {"player_name": "David Njoku", "pos": "TE", "total_points": "92.20", "proj_points": "106.05", "avg_points": "7.09", "pct_perform": "86.94"}, {"player_name": "Keenan Allen", "pos": "WR", "total_points": "96.10", "proj_points": "122.31", "avg_points": "7.39", "pct_perform": "78.57"}, {"player_name": "Courtland Sutton", "pos": "WR", "total_points": "149.30", "proj_points": "117.74", "avg_points": "11.48", "pct_perform": "126.80"}, {"player_name": "Jordan Addison", "pos": "WR", "total_points": "107.50", "proj_points": "117.31", "avg_points": "8.27", "pct_perform": "91.63"}, {"player_name": "Chuba Hubbard", "pos": "RB", "total_points": "164.00", "proj_points": "92.72", "avg_points": "12.62", "pct_perform": "176.88"}, {"player_name": "Pat Freiermuth", "pos": "TE", "total_points": "84.70", "proj_points": "83.96", "avg_points": "6.52", "pct_perform": "100.88"}, {"player_name": "Jordan Mason", "pos": "RB", "total_points": "109.50", "proj_points": "58.80", "avg_points": "8.42", "pct_perform": "186.23"}, {"player_name": "Bo Nix", "pos": "QB", "total_points": "226.78", "proj_points": "147.40", "avg_points": "17.44", "pct_perform": "153.85"}, {"player_name": "Zach Charbonnet", "pos": "RB", "total_points": "97.50", "proj_points": "93.45", "avg_points": "7.50", "pct_perform": "104.33"}, {"player_name": "Anthony Richardson", "pos": "QB", "total_points": "128.74", "proj_points": "210.97", "avg_points": "9.90", "pct_perform": "61.02"}, {"player_name": "Derek Carr", "pos": "QB", "total_points": "138.94", "proj_points": "167.21", "avg_points": "10.69", "pct_perform": "83.09"}, {"player_name": "Brandin Cooks", "pos": "WR", "total_points": "28.90", "proj_points": "97.00", "avg_points": "2.22", "pct_perform": "29.80"}, {"player_name": "Tre Tucker", "pos": "WR", "total_points": "83.20", "proj_points": "79.59", "avg_points": "6.40", "pct_perform": "104.53"}]
+[
+  {
+    "player_name": "Christian McCaffrey",
+    "pos": "RB",
+    "total_points": "40.30",
+    "proj_points": "230.81",
+    "avg_points": "3.10",
+    "pct_perform": "17.46"
+  },
+  { "player_name": "Isiah Pacheco", "pos": "RB", "total_points": "33.80", "proj_points": "160.47", "avg_points": "2.60", "pct_perform": "21.06" },
+  { "player_name": "Rachaad White", "pos": "RB", "total_points": "125.70", "proj_points": "151.80", "avg_points": "9.67", "pct_perform": "82.81" },
+  { "player_name": "DK Metcalf", "pos": "WR", "total_points": "115.30", "proj_points": "145.45", "avg_points": "8.87", "pct_perform": "79.27" },
+  { "player_name": "Calvin Ridley", "pos": "WR", "total_points": "114.60", "proj_points": "139.86", "avg_points": "8.82", "pct_perform": "81.94" },
+  { "player_name": "Jayden Reed", "pos": "WR", "total_points": "146.10", "proj_points": "114.16", "avg_points": "11.24", "pct_perform": "127.97" },
+  { "player_name": "David Njoku", "pos": "TE", "total_points": "92.20", "proj_points": "106.05", "avg_points": "7.09", "pct_perform": "86.94" },
+  { "player_name": "Keenan Allen", "pos": "WR", "total_points": "96.10", "proj_points": "122.31", "avg_points": "7.39", "pct_perform": "78.57" },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "total_points": "149.30",
+    "proj_points": "117.74",
+    "avg_points": "11.48",
+    "pct_perform": "126.80"
+  },
+  { "player_name": "Jordan Addison", "pos": "WR", "total_points": "107.50", "proj_points": "117.31", "avg_points": "8.27", "pct_perform": "91.63" },
+  { "player_name": "Chuba Hubbard", "pos": "RB", "total_points": "164.00", "proj_points": "92.72", "avg_points": "12.62", "pct_perform": "176.88" },
+  { "player_name": "Pat Freiermuth", "pos": "TE", "total_points": "84.70", "proj_points": "83.96", "avg_points": "6.52", "pct_perform": "100.88" },
+  { "player_name": "Jordan Mason", "pos": "RB", "total_points": "109.50", "proj_points": "58.80", "avg_points": "8.42", "pct_perform": "186.23" },
+  { "player_name": "Bo Nix", "pos": "QB", "total_points": "226.78", "proj_points": "147.40", "avg_points": "17.44", "pct_perform": "153.85" },
+  { "player_name": "Zach Charbonnet", "pos": "RB", "total_points": "97.50", "proj_points": "93.45", "avg_points": "7.50", "pct_perform": "104.33" },
+  {
+    "player_name": "Anthony Richardson",
+    "pos": "QB",
+    "total_points": "128.74",
+    "proj_points": "210.97",
+    "avg_points": "9.90",
+    "pct_perform": "61.02"
+  },
+  { "player_name": "Derek Carr", "pos": "QB", "total_points": "138.94", "proj_points": "167.21", "avg_points": "10.69", "pct_perform": "83.09" },
+  { "player_name": "Brandin Cooks", "pos": "WR", "total_points": "28.90", "proj_points": "97.00", "avg_points": "2.22", "pct_perform": "29.80" },
+  { "player_name": "Tre Tucker", "pos": "WR", "total_points": "83.20", "proj_points": "79.59", "avg_points": "6.40", "pct_perform": "104.53" }
+]

@@ -1,1 +1,27 @@
-[{"player_name": "Josh Allen", "pos": "QB", "total_points": "251.74", "proj_points": "239.80", "avg_points": "19.36", "pct_perform": "104.98"}, {"player_name": "Jonathan Taylor", "pos": "RB", "total_points": "135.20", "proj_points": "180.59", "avg_points": "10.40", "pct_perform": "74.86"}, {"player_name": "C.J. Stroud", "pos": "QB", "total_points": "180.58", "proj_points": "211.50", "avg_points": "13.89", "pct_perform": "85.38"}, {"player_name": "Davante Adams", "pos": "WR", "total_points": "97.80", "proj_points": "144.86", "avg_points": "7.52", "pct_perform": "67.51"}, {"player_name": "Drake London", "pos": "WR", "total_points": "150.30", "proj_points": "140.64", "avg_points": "11.56", "pct_perform": "106.87"}, {"player_name": "George Pickens", "pos": "WR", "total_points": "127.90", "proj_points": "132.85", "avg_points": "9.84", "pct_perform": "96.27"}, {"player_name": "Zamir White", "pos": "RB", "total_points": "26.30", "proj_points": "126.06", "avg_points": "2.02", "pct_perform": "20.86"}, {"player_name": "Kyle Pitts", "pos": "TE", "total_points": "84.90", "proj_points": "104.94", "avg_points": "6.53", "pct_perform": "80.90"}, {"player_name": "Brian Robinson Jr.", "pos": "RB", "total_points": "128.50", "proj_points": "123.37", "avg_points": "9.88", "pct_perform": "104.16"}, {"player_name": "Jakobi Meyers", "pos": "WR", "total_points": "113.40", "proj_points": "106.15", "avg_points": "8.72", "pct_perform": "106.83"}, {"player_name": "DeAndre Hopkins", "pos": "WR", "total_points": "94.30", "proj_points": "110.89", "avg_points": "7.25", "pct_perform": "85.04"}, {"player_name": "T.J. Hockenson", "pos": "TE", "total_points": "36.90", "proj_points": "77.11", "avg_points": "2.84", "pct_perform": "47.85"}, {"player_name": "Bucky Irving", "pos": "RB", "total_points": "153.20", "proj_points": "75.56", "avg_points": "11.78", "pct_perform": "202.75"}, {"player_name": "Kareem Hunt", "pos": "RB", "total_points": "112.20", "proj_points": "0.00", "avg_points": "8.63", "pct_perform": "N/A"}, {"player_name": "Trey Sermon", "pos": "RB", "total_points": "38.60", "proj_points": "41.00", "avg_points": "2.97", "pct_perform": "94.14"}, {"player_name": "Sterling Shepard", "pos": "WR", "total_points": "48.40", "proj_points": "0.00", "avg_points": "3.72", "pct_perform": "N/A"}, {"player_name": "Zach Ertz", "pos": "TE", "total_points": "104.10", "proj_points": "44.51", "avg_points": "8.01", "pct_perform": "233.90"}, {"player_name": "Will Levis", "pos": "QB", "total_points": "105.56", "proj_points": "175.52", "avg_points": "8.12", "pct_perform": "60.14"}]
+[
+  { "player_name": "Josh Allen", "pos": "QB", "total_points": "251.74", "proj_points": "239.80", "avg_points": "19.36", "pct_perform": "104.98" },
+  { "player_name": "Jonathan Taylor", "pos": "RB", "total_points": "135.20", "proj_points": "180.59", "avg_points": "10.40", "pct_perform": "74.86" },
+  { "player_name": "C.J. Stroud", "pos": "QB", "total_points": "180.58", "proj_points": "211.50", "avg_points": "13.89", "pct_perform": "85.38" },
+  { "player_name": "Davante Adams", "pos": "WR", "total_points": "97.80", "proj_points": "144.86", "avg_points": "7.52", "pct_perform": "67.51" },
+  { "player_name": "Drake London", "pos": "WR", "total_points": "150.30", "proj_points": "140.64", "avg_points": "11.56", "pct_perform": "106.87" },
+  { "player_name": "George Pickens", "pos": "WR", "total_points": "127.90", "proj_points": "132.85", "avg_points": "9.84", "pct_perform": "96.27" },
+  { "player_name": "Zamir White", "pos": "RB", "total_points": "26.30", "proj_points": "126.06", "avg_points": "2.02", "pct_perform": "20.86" },
+  { "player_name": "Kyle Pitts", "pos": "TE", "total_points": "84.90", "proj_points": "104.94", "avg_points": "6.53", "pct_perform": "80.90" },
+  {
+    "player_name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "total_points": "128.50",
+    "proj_points": "123.37",
+    "avg_points": "9.88",
+    "pct_perform": "104.16"
+  },
+  { "player_name": "Jakobi Meyers", "pos": "WR", "total_points": "113.40", "proj_points": "106.15", "avg_points": "8.72", "pct_perform": "106.83" },
+  { "player_name": "DeAndre Hopkins", "pos": "WR", "total_points": "94.30", "proj_points": "110.89", "avg_points": "7.25", "pct_perform": "85.04" },
+  { "player_name": "T.J. Hockenson", "pos": "TE", "total_points": "36.90", "proj_points": "77.11", "avg_points": "2.84", "pct_perform": "47.85" },
+  { "player_name": "Bucky Irving", "pos": "RB", "total_points": "153.20", "proj_points": "75.56", "avg_points": "11.78", "pct_perform": "202.75" },
+  { "player_name": "Kareem Hunt", "pos": "RB", "total_points": "112.20", "proj_points": "0.00", "avg_points": "8.63", "pct_perform": "N/A" },
+  { "player_name": "Trey Sermon", "pos": "RB", "total_points": "38.60", "proj_points": "41.00", "avg_points": "2.97", "pct_perform": "94.14" },
+  { "player_name": "Sterling Shepard", "pos": "WR", "total_points": "48.40", "proj_points": "0.00", "avg_points": "3.72", "pct_perform": "N/A" },
+  { "player_name": "Zach Ertz", "pos": "TE", "total_points": "104.10", "proj_points": "44.51", "avg_points": "8.01", "pct_perform": "233.90" },
+  { "player_name": "Will Levis", "pos": "QB", "total_points": "105.56", "proj_points": "175.52", "avg_points": "8.12", "pct_perform": "60.14" }
+]
