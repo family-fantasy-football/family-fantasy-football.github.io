@@ -14,5 +14,6 @@ jobs:
         with:
           comment_tag: prettier-failed
           pr_number: ${{ github.event.client_payload.pr_number }}
+          args: --exclude-path python_generation
           message: |
             Failed [prettier code check](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.event.client_payload.run_id }}). Check [this file](${{ github.event.client_payload.artifact_url }}) for more information.
