@@ -21,11 +21,9 @@ pretty_table: True
 
 This is the site for the Family Fantasy Footbal League!
 
-
 <div style="margin-bottom: 30px;">
   Your text here
 </div>
-
 
 <table 
  data-click-to-select="true"
@@ -42,5 +40,3 @@ This is the site for the Family Fantasy Footbal League!
    </tr>
  </thead>
 </table>
-
-
