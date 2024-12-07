@@ -285,8 +285,9 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*", "python_generation"]
-  compress_html: false
+  compress_html: true
+  compress_javascript: false
+  compress_css: false
   uglifier_args:
     harmony: true
 
