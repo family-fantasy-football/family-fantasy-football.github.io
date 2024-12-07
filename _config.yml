@@ -247,6 +247,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - python_generation
 keep_files:
   - CNAME
   - .nojekyll
@@ -273,13 +274,16 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: ["assets", "python_generation"]
+      path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "python_generation/*"
     values:
       sitemap: false
 
 sass:
   style: compressed
-  sourcemap: never
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
