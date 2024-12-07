@@ -17,6 +17,7 @@ import json
 
 from utils import *
 from fetch import *
+from make_assests import *
 
 def main():
     SWID = "{42614A28-F6F5-4052-A14A-28F6F52052AF}" 
@@ -24,8 +25,9 @@ def main():
     LEAGUE_ID = 697625923
     YEAR = 2024
     league=  League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
-    
-    
+    week = league.nfl_week
+    teams = league.teams
+    generate_roster_table(league, week-1)
     
     
 if __name__ == "__main__":
