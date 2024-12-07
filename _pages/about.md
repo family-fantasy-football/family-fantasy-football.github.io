@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -13,13 +13,35 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Does this do it live? Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- 
+<table id="standings" data-toggle="table" data-url="{{ '/assets/standings.json' | relative_url }}">
+  <thead>
+    <tr>
+      <th data-field="team">Team</th>  
+      <th data-field="record">Record</th>
+      <th data-field="last3">Last 3 Games</th>
+    </tr>
+  </thead>
+</table> -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<table 
+ data-click-to-select="true"
+ data-height="460"
+ data-pagination="true" 
+ data-search="true"
+ data-toggle="table"
+ data-url="{{ "/assets/json/standings.json"}}">
+ <thead>
+   <tr>
+     <th data-checkbox="true"></th>
+     <th data-field="team" data-halign="left" data-align="center" data-sortable="true">Team</th>
+     <th data-field="record" data-halign="center" data-align="right" data-sortable="true">Record</th>
+     <th data-field="last3" data-halign="right" data-align="left" data-sortable="true">Last 3 Games</th>
+   </tr>
+ </thead>
+</table>
