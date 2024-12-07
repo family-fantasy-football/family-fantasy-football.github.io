@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://christian-ratcliff.github.io/family-fantasy-football//sitemap.xml
+Sitemap: https://christian-ratcliff.github.io/sitemap.xml
