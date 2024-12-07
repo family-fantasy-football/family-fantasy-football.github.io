@@ -9,7 +9,7 @@ related_publications: false
 pretty_table: True
 ---
 
-<!-- <center> Through Week 13 </center>
+### <center> Through Week 13 </center>
 
 <table
  data-click-to-select="true"
@@ -27,4 +27,4 @@ pretty_table: True
      <th data-field="pct_perform" data-halign="center" data-align="center" data-sortable="true">Performance</th>
    </tr>
  </thead>
-</table> -->
+</table>

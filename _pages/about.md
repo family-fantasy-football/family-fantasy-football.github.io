@@ -22,7 +22,7 @@ This is the site for the Family Fantasy Footbal League!
   Your text here
 </div>
 
-<!-- <table
+<table
  data-click-to-select="true"
  data-height="690"
  data-pagination="true"
@@ -36,4 +36,4 @@ This is the site for the Family Fantasy Footbal League!
      <th data-field="last3" data-halign="center" data-align="center" data-sortable="true">Last 3 Games</th>
    </tr>
  </thead>
-</table> -->
+</table>
