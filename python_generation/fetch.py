@@ -11,16 +11,38 @@ import subprocess
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from PIL import Image
 import os
 import json
 
 from utils import *
 
+def save_team_logos(league):
+    os.makedirs('../assets/img', exist_ok=True)
+    
+    options = Options()
+    options = webdriver.ChromeOptions()
+    options.binary_location = '/usr/bin/chromium-browser'  # Path to the Chromium binary
+    options.add_argument('--headless')  # Run in headless mode (no GUI)
+    options.add_argument('--no-sandbox')  # Disable the sandbox for Chromium in Docker
+    options.add_argument('--disable-dev-shm-usage')  # Useful for Docker environments
+
+    # Initialize the webdriver with Chromium
+    driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=options)
+    # driver = webdriver.Chrome(options=options)
+    
+    for team in league.teams:
+        if team.logo_url:
+            driver.get(team.logo_url)
+            driver.save_screenshot(f"../assets/img/{clean_team_name(team.team_abbrev)}_{league.year}.jpg")
+            
+    driver.quit()
+
 def clean_team_name(team_name):
     return team_name.encode('ascii', 'ignore').decode('ascii')
 
-def _get_manager_names(owners: list) -> str:
+def get_manager_names(owners: list) -> str:
     """Convert owners list to formatted string of full names"""
     manager_names = []
     for owner in owners:
@@ -86,7 +108,7 @@ def grade_pick(value_diff, mean_value_diff, std_value_diff):
     else:
         return "D"  # Below average
 
-def _get_highest_scoring_week(through_week, box_scores):
+def get_highest_scoring_week(through_week, box_scores):
         highest_week = None
         highest_score = 0
         
@@ -101,7 +123,7 @@ def _get_highest_scoring_week(through_week, box_scores):
                     highest_week = (score.away_team, week, score.away_score)
         return highest_week
     
-def _get_lowest_scoring_week(through_week, box_scores):
+def get_lowest_scoring_week(through_week, box_scores):
         lowest_week = None
         lowest_score = 1000
         
@@ -220,7 +242,7 @@ def _get_best_trades(trades):
                     'week': trade_week,
                     'team': clean_team_name(team.team_name),
                     'team_abbrev': team.team_abbrev,
-                    'managers': _get_manager_names(team.owners),
+                    'managers': get_manager_names(team.owners),
                     'gave_up': [p.name for p in players['leaving']],
                     'gave_up_formatted': [format_name(p.name) for p in players['leaving']],
                     'received': [p.name for p in players['receiving']],
@@ -456,7 +478,7 @@ def _get_efficiencies(through_week, box_scores_dict, team):
                 
     return weekly_effs, total_bench_points, total_optimal_points, total_actual_points
 
-def _get_positional_scoring_amounts(box_score_dict, through_week, team):
+def get_positional_scoring_amounts(box_score_dict, through_week, team):
     positions = {'QB': [], 'RB': [], 'WR': [], 'TE': [], 'D/ST': [], 'K': []}
             
     for week in range(1, through_week + 1):
@@ -472,7 +494,7 @@ def _get_positional_scoring_amounts(box_score_dict, through_week, team):
 
 
 
-def _get_luck_values(team, outcomes, mov, teams, through_week):
+def get_luck_values(team, outcomes, mov, teams, through_week):
     expected_wins_dict = calculate_expected_wins(teams, through_week)
     expected_wins = expected_wins_dict[team.team_id]
     actual_wins = outcomes.count('W')
@@ -485,7 +507,7 @@ def _get_luck_values(team, outcomes, mov, teams, through_week):
     
     return expected_wins, actual_wins, luck_factor, close_wins, close_losses
 
-def _get_records_against(schedule, scores, outcomes):
+def get_records_against(schedule, scores, outcomes):
     opponent_stats = {}
     for week, (opponent, score, outcome) in enumerate(zip(schedule, scores, outcomes)):
         if opponent.team_id not in opponent_stats:
@@ -501,7 +523,7 @@ def _get_records_against(schedule, scores, outcomes):
             
     return opponent_stats
 
-def _get_drafted_player_data(through_week, trades, league, transactions, draft_results):
+def get_drafted_player_data(through_week, trades, league, transactions, draft_results):
     # Process trades to track players traded and their points after being traded
     traded_players = []
     for trade in trades:

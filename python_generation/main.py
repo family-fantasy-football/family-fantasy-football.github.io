@@ -13,11 +13,13 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from PIL import Image
 import os
+import matplotlib.pyplot as plt
 import json
 
 from utils import *
 from fetch import *
 from make_assests import *
+from page_generation import *
 
 def main():
     SWID = "{42614A28-F6F5-4052-A14A-28F6F52052AF}" 
@@ -27,8 +29,23 @@ def main():
     league=  League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
     week = league.nfl_week
     teams = league.teams
-    generate_roster_table(league, week-1)
+    weekly_rankings = []
+    reg_season_length= league.settings.reg_season_count
+    box_scores_cache = {}  # Initialize cache
+    teams = sorted(league.teams, key=lambda x: (x.wins, x.points_for), reverse=True)
+    def get_box_scores(week, cache=box_scores_cache):
+        if week not in cache:
+            cache[week] = league.box_scores(week)
+        return cache[week]
+    box_scores = {week: get_box_scores(week) for week in range(1, reg_season_length + 1)}
     
+    save_team_logos(league)
+    generate_roster_table(league, week-1)
+    generate_standings_table(league, week-1)
+    
+    generate_about_md(league, reg_season_length, teams, box_scores)
+    for team in teams:
+        generate_indv_team_page_md(league, league.nfl_week, team)
     
 if __name__ == "__main__":
     main()
