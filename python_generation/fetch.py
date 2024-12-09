@@ -22,16 +22,17 @@ def save_team_logos(league):
     os.makedirs('../assets/img', exist_ok=True)
     
     options = Options()
-    options = webdriver.ChromeOptions()
-    options.binary_location = '/usr/bin/chromium-browser'  # Path to the Chromium binary
+    # options = webdriver.ChromeOptions()
+    # options.binary_location = '/usr/bin/chromium-browser'  # Path to the Chromium binary
     options.add_argument('--headless')  # Run in headless mode (no GUI)
     options.add_argument('--no-sandbox')  # Disable the sandbox for Chromium in Docker
     options.add_argument('--disable-dev-shm-usage')  # Useful for Docker environments
 
     # Initialize the webdriver with Chromium
-    driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=options)
+    driver = webdriver.Chrome(ChromeDriverManager().install())
     # driver = webdriver.Chrome(options=options)
-    
+    driver.get('https://www.google.com')
+
     for team in league.teams:
         if team.logo_url:
             driver.get(team.logo_url)

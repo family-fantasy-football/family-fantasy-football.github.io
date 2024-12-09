@@ -30,8 +30,14 @@ RUN apt-get update -y && \
         nodejs \
         procps \
         python3-pip \
+        wget \
+        curl \
+        gnupg \
+        ca-certificates \
+        unzip \
         zlib1g-dev && \
     pip --no-cache-dir install --upgrade --break-system-packages nbconvert
+
 
 # clean up
 RUN apt-get clean && \
@@ -48,6 +54,8 @@ ENV EXECJS_RUNTIME=Node \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
     LC_ALL=en_US.UTF-8
+    CHROMIUM_BIN=/usr/bin/chromium
+    CHROMEDRIVER_PATH=/usr/bin/chromium-driver
 
 # create a directory for the jekyll site
 RUN mkdir /srv/jekyll
