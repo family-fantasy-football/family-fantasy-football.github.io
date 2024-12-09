@@ -2,7 +2,7 @@
 layout: page
 permalink: /weekly/
 title: weekly
-nav: true
-nav_order: 5
+nav: false
+nav_order: 2
 description: eventually this will be a dropdown with each week
 ---

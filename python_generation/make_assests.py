@@ -349,7 +349,7 @@ def create_standings_bump_json(teams, through_week):
     # Create the complete ECharts option
     echarts_option = {
         'title': {
-            'text': 'Team Rankings Over Time',
+            'text': 'Standings Over Time',
             'left': 'center'
         },
         'tooltip': {
@@ -476,6 +476,7 @@ def generate_team_json(league, teams, box_scores_dict, reg_season_length, trades
         for player in team_players:
             pick_grade = grade_pick(player['value_diff'], mean_value_diff, std_value_diff)
             team_draft.append({
+                "team": player['drafted_team'].team_name,
                 "round": player['round_num'],
                 "pick": player['round_pick'],
                 "player_name": player['player_name'],
@@ -606,3 +607,30 @@ def generate_weekly_scores_json(teams, reg_season_length, league):
         filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_weekly_scores.json"
         with open(os.path.join(output_folder, filename), 'w') as f:
             json.dump(echarts_data, f, indent=2)
+            
+
+
+def combine_draft_json():
+    folder_path = "../assets/json/team_data/"
+    output_file = "../assets/json/team_data/draft_total_2024.json"
+    combined_data = []
+
+    # Loop through all files in the folder
+    for file_name in os.listdir(folder_path):
+        # Check if the file ends with '_2024_draft.json'
+        if file_name.endswith('_2024_draft.json'):
+            file_path = os.path.join(folder_path, file_name)
+            # Load JSON data
+            with open(file_path, 'r') as json_file:
+                data = json.load(json_file)
+                if isinstance(data, list):
+                    combined_data.extend(data)  # Add list data to combined data
+                else:
+                    raise ValueError(f"File {file_name} does not contain a list of records.")
+
+    # Sort the combined data by the specified column
+    sorted_data = sorted(combined_data, key=lambda x: x["draft_position"])
+
+    # Save the sorted data to a new JSON file
+    with open(output_file, 'w') as out_file:
+        json.dump(sorted_data, out_file, indent=2)

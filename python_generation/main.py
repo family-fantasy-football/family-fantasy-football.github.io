@@ -15,6 +15,8 @@ from PIL import Image
 import os
 import matplotlib.pyplot as plt
 import json
+import requests
+from datetime import datetime, timedelta
 
 from utils import *
 from fetch import *
@@ -62,6 +64,12 @@ def main():
     generate_about_md(league, reg_season_length, teams, box_scores)
     for team in teams:
         generate_indv_team_page_md(league, league.nfl_week, team, )
+    combine_draft_json()
+    
+    
+    
+    # get_rostered_news(league)
+    
     
 if __name__ == "__main__":
     main()

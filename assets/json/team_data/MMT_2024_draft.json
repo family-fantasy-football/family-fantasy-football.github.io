@@ -1,5 +1,6 @@
 [
   {
+    "team": "Michael's Managable Team",
     "round": 1,
     "pick": 3,
     "player_name": "CeeDee Lamb",
@@ -11,6 +12,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 2,
     "pick": 8,
     "player_name": "Saquon Barkley",
@@ -22,6 +24,7 @@
     "grade": "A"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
@@ -33,6 +36,7 @@
     "grade": "D"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 4,
     "pick": 8,
     "player_name": "Sam LaPorta",
@@ -44,6 +48,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 5,
     "pick": 3,
     "player_name": "James Cook",
@@ -55,6 +60,7 @@
     "grade": "B"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 6,
     "pick": 8,
     "player_name": "Stefon Diggs",
@@ -66,6 +72,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 7,
     "pick": 3,
     "player_name": "Amari Cooper",
@@ -77,6 +84,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 8,
     "pick": 8,
     "player_name": "Aaron Jones",
@@ -88,6 +96,7 @@
     "grade": "A"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 9,
     "pick": 3,
     "player_name": "Rhamondre Stevenson",
@@ -99,6 +108,7 @@
     "grade": "B"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 10,
     "pick": 8,
     "player_name": "Deshaun Watson",
@@ -110,6 +120,7 @@
     "grade": "D"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 11,
     "pick": 3,
     "player_name": "Jaylen Warren",
@@ -121,6 +132,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 12,
     "pick": 8,
     "player_name": "J.K. Dobbins",
@@ -132,6 +144,7 @@
     "grade": "A"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 13,
     "pick": 3,
     "player_name": "Brock Bowers",
@@ -143,6 +156,7 @@
     "grade": "A"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 14,
     "pick": 8,
     "player_name": "Hollywood Brown",
@@ -154,6 +168,7 @@
     "grade": "D"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 15,
     "pick": 3,
     "player_name": "Xavier Legette",
@@ -165,6 +180,7 @@
     "grade": "B"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 16,
     "pick": 8,
     "player_name": "Trey Benson",
@@ -176,6 +192,7 @@
     "grade": "C"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 17,
     "pick": 3,
     "player_name": "Dontayvion Wicks",
@@ -187,6 +204,7 @@
     "grade": "B"
   },
   {
+    "team": "Michael's Managable Team",
     "round": 18,
     "pick": 8,
     "player_name": "Kendre Miller",

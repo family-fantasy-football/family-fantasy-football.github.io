@@ -1,5 +1,6 @@
 [
   {
+    "team": "Hit and Ruggs",
     "round": 1,
     "pick": 8,
     "player_name": "Justin Jefferson",
@@ -11,6 +12,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 2,
     "pick": 3,
     "player_name": "Breece Hall",
@@ -22,6 +24,7 @@
     "grade": "C"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 3,
     "pick": 8,
     "player_name": "De'Von Achane",
@@ -33,6 +36,7 @@
     "grade": "A"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 4,
     "pick": 3,
     "player_name": "Marvin Harrison Jr.",
@@ -44,6 +48,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 5,
     "pick": 8,
     "player_name": "Jaylen Waddle",
@@ -55,6 +60,7 @@
     "grade": "C"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 6,
     "pick": 3,
     "player_name": "Cooper Kupp",
@@ -66,6 +72,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 7,
     "pick": 8,
     "player_name": "Trey McBride",
@@ -77,6 +84,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 8,
     "pick": 3,
     "player_name": "Tua Tagovailoa",
@@ -88,6 +96,7 @@
     "grade": "D"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 9,
     "pick": 8,
     "player_name": "Jared Goff",
@@ -99,6 +108,7 @@
     "grade": "A"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 10,
     "pick": 3,
     "player_name": "Diontae Johnson",
@@ -110,6 +120,7 @@
     "grade": "D"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 11,
     "pick": 8,
     "player_name": "Rome Odunze",
@@ -121,6 +132,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 12,
     "pick": 3,
     "player_name": "Chase Brown",
@@ -132,6 +144,7 @@
     "grade": "A"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 13,
     "pick": 8,
     "player_name": "Dallas Goedert",
@@ -143,6 +156,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 14,
     "pick": 3,
     "player_name": "Blake Corum",
@@ -154,6 +168,7 @@
     "grade": "D"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 15,
     "pick": 8,
     "player_name": "Ty Chandler",
@@ -165,6 +180,7 @@
     "grade": "D"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 16,
     "pick": 3,
     "player_name": "Geno Smith",
@@ -176,6 +192,7 @@
     "grade": "B"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 17,
     "pick": 8,
     "player_name": "Hunter Henry",
@@ -187,6 +204,7 @@
     "grade": "D"
   },
   {
+    "team": "Hit and Ruggs",
     "round": 18,
     "pick": 3,
     "player_name": "Josh Downs",

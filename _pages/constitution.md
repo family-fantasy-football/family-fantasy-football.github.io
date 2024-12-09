@@ -4,7 +4,7 @@ permalink: /constitution/
 title: constitution
 description: leauge constitution (yet to be ratified)
 nav: true
-nav_order: 2
+nav_order: 6
 ---
 
 <!-- _pages/publications.md -->

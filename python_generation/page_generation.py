@@ -218,8 +218,8 @@ def generate_indv_team_page_md(league, week, team):
     content = f"""\
 ---
 layout: page
-title: {team.team_name}
-description:
+title: {clean_team_name(team.team_name).lower()}
+description: {get_manager_names(team.owners)}
 img: assets/img/{team.team_abbrev}_{league.year}.jpg
 importance: {team.team_id+1}
 category: {league.year}-{league.year-1999}

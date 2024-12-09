@@ -4,9 +4,40 @@ title: teams
 permalink: /teams/
 description:
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [2024-25, 2025-26]
 horizontal: false
+dropdown: true
+children:
+  - title: WKCR
+    permalink: /projects/WKCR_2024/
+  - title: divider
+  - title: PONY
+    permalink: /projects/PONY_2024/
+  - title: divider
+  - title: TOM
+    permalink: /projects/TOM_2024/
+  - title: divider
+  - title: HMB
+    permalink: /projects/HMB_2024/
+  - title: divider
+  - title: JST
+    permalink: /projects/JST_2024/
+  - title: divider
+  - title: TIB
+    permalink: /projects/TIB_2024/
+  - title: divider
+  - title: MMT
+    permalink: /projects/MMT_2024/
+  - title: divider
+  - title: RRT
+    permalink: /projects/RRT_2024/
+  - title: divider
+  - title: KTT
+    permalink: /projects/KTT_2024/
+  - title: divider
+  - title: ARV
+    permalink: /projects/ARV_2024/
 ---
 
 <!-- pages/teams.md -->

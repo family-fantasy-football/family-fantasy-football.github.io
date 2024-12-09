@@ -68,7 +68,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 ```echarts
 {
     "title": {
-        "text": "Team Rankings Over Time",
+        "text": "Standings Over Time",
         "left": "center"
     },
     "tooltip": {

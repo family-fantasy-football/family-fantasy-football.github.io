@@ -670,3 +670,56 @@ def get_non_flex_positions(box_scores, week=1):
                    and 'FLEX' not in player.slot_position)  # Exclude FLEX positions
     
     return sorted(list(positions))
+
+def get_rostered_news(league: League) -> Dict:
+        # Get all rostered players by name
+        rostered_players = {}
+        for team in league.teams:
+            for player in team.roster:
+                if player.lineupSlot != 'IR' or 'BE':
+                    rostered_players[player.name.lower()] = {
+                        'name': player.name,
+                        'team_name': clean_team_name(team.team_name),
+                        'position': player.position,
+                        'team_abbrev': team.team_abbrev,
+                        'lineup_slot': player.lineupSlot
+                    }
+        
+        # Fetch from ESPN's main injury API
+        response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
+        news_data = response.json()
+        last_update_time = datetime.strptime(news_data['timestamp'], '%Y-%m-%dT%H:%M:%SZ')
+        last_update_time = last_update_time.replace(tzinfo=timezone.utc)
+        now = datetime.now(timezone.utc)
+        
+        relevant_news = []
+        for team in news_data.get('injuries', []):
+            for news in team.get('injuries', []):
+                player_name = news.get('athlete', {}).get('displayName', '').lower()
+                if player_name in rostered_players:
+                    if now-last_update_time <= timedelta(days=7):
+                        relevant_news.append({
+                            **rostered_players[player_name],
+                            'status': news.get('status', 'Unknown'),
+                            'description': news.get('longComment', ''),
+                            'last_update': news.get('date')
+                        })
+        # Group the relevant news by team
+        team_recaps = {}
+        for news_item in relevant_news:
+            team_name = news_item['team_name']
+            if team_name not in team_recaps:
+                team_recaps[team_name] = []
+            team_recaps[team_name].append(news_item) 
+            
+        # Print the weekly recap for each team
+        for team_name, news_items in team_recaps.items():
+            print(f"Weekly Recap for {team_name}:")
+            for news in news_items:
+                print(f"  Player: {news['name']} ({news['position']})")
+                print(f"    Status: {news['status']}")
+                print(f"    Description: {news['description']}")
+                print(f"    Last Update: {datetime.strptime(news['last_update'], '%Y-%m-%dT%H:%MZ')-timedelta(hours=5)} EST")
+            print("-" * 50)  # Separator between teams
+            
+        return #sorted(relevant_news, key=lambda x: (x['team_name'],x['lineup_slot'], x['name']))
