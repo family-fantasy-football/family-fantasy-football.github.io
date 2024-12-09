@@ -1,0 +1,200 @@
+[
+  {
+    "round": 1,
+    "pick": 4,
+    "player_name": "Travis Kelce",
+    "points": "115.7",
+    "before_trade": "115.7",
+    "after_trade": "0.0",
+    "draft_position": 4,
+    "value_diff": "-12.6",
+    "grade": "B"
+  },
+  {
+    "round": 2,
+    "pick": 7,
+    "player_name": "Garrett Wilson",
+    "points": "158.7",
+    "before_trade": "158.7",
+    "after_trade": "0.0",
+    "draft_position": 17,
+    "value_diff": "-2.9",
+    "grade": "B"
+  },
+  {
+    "round": 3,
+    "pick": 4,
+    "player_name": "Kyler Murray",
+    "points": "222.9",
+    "before_trade": "222.9",
+    "after_trade": "0.0",
+    "draft_position": 24,
+    "value_diff": "20.9",
+    "grade": "B"
+  },
+  {
+    "round": 4,
+    "pick": 7,
+    "player_name": "Travis Etienne Jr.",
+    "points": "80.0",
+    "before_trade": "80.0",
+    "after_trade": "0.0",
+    "draft_position": 37,
+    "value_diff": "-74.5",
+    "grade": "D"
+  },
+  {
+    "round": 5,
+    "pick": 4,
+    "player_name": "Nico Collins",
+    "points": "131.7",
+    "before_trade": "90.7",
+    "after_trade": "41.0",
+    "draft_position": 44,
+    "value_diff": "-14.1",
+    "grade": "B"
+  },
+  {
+    "round": 6,
+    "pick": 7,
+    "player_name": "Zay Flowers",
+    "points": "144.7",
+    "before_trade": "144.7",
+    "after_trade": "0.0",
+    "draft_position": 57,
+    "value_diff": "9.2",
+    "grade": "B"
+  },
+  {
+    "round": 7,
+    "pick": 4,
+    "player_name": "David Montgomery",
+    "points": "198.2",
+    "before_trade": "198.2",
+    "after_trade": "0.0",
+    "draft_position": 64,
+    "value_diff": "70.9",
+    "grade": "A"
+  },
+  {
+    "round": 8,
+    "pick": 7,
+    "player_name": "Kirk Cousins",
+    "points": "169.8",
+    "before_trade": "169.8",
+    "after_trade": "0.0",
+    "draft_position": 77,
+    "value_diff": "-22.0",
+    "grade": "C"
+  },
+  {
+    "round": 9,
+    "pick": 4,
+    "player_name": "Xavier Worthy",
+    "points": "102.8",
+    "before_trade": "102.8",
+    "after_trade": "0.0",
+    "draft_position": 84,
+    "value_diff": "-10.4",
+    "grade": "B"
+  },
+  {
+    "round": 10,
+    "pick": 7,
+    "player_name": "Christian Watson",
+    "points": "81.4",
+    "before_trade": "81.4",
+    "after_trade": "0.0",
+    "draft_position": 97,
+    "value_diff": "-42.0",
+    "grade": "C"
+  },
+  {
+    "round": 11,
+    "pick": 4,
+    "player_name": "Tony Pollard",
+    "points": "158.5",
+    "before_trade": "158.5",
+    "after_trade": "0.0",
+    "draft_position": 104,
+    "value_diff": "40.9",
+    "grade": "A"
+  },
+  {
+    "round": 12,
+    "pick": 7,
+    "player_name": "Gus Edwards",
+    "points": "32.0",
+    "before_trade": "32.0",
+    "after_trade": "0.0",
+    "draft_position": 117,
+    "value_diff": "-70.9",
+    "grade": "D"
+  },
+  {
+    "round": 13,
+    "pick": 4,
+    "player_name": "Nick Chubb",
+    "points": "58.7",
+    "before_trade": "58.7",
+    "after_trade": "0.0",
+    "draft_position": 124,
+    "value_diff": "-37.5",
+    "grade": "C"
+  },
+  {
+    "round": 14,
+    "pick": 7,
+    "player_name": "Curtis Samuel",
+    "points": "38.9",
+    "before_trade": "38.9",
+    "after_trade": "0.0",
+    "draft_position": 137,
+    "value_diff": "-64.3",
+    "grade": "D"
+  },
+  {
+    "round": 15,
+    "pick": 4,
+    "player_name": "Adonai Mitchell",
+    "points": "38.0",
+    "before_trade": "38.0",
+    "after_trade": "0.0",
+    "draft_position": 144,
+    "value_diff": "-44.1",
+    "grade": "C"
+  },
+  {
+    "round": 16,
+    "pick": 7,
+    "player_name": "Taysom Hill",
+    "points": "90.8",
+    "before_trade": "90.8",
+    "after_trade": "0.0",
+    "draft_position": 157,
+    "value_diff": "6.4",
+    "grade": "B"
+  },
+  {
+    "round": 17,
+    "pick": 4,
+    "player_name": "Alexander Mattison",
+    "points": "95.0",
+    "before_trade": "95.0",
+    "after_trade": "0.0",
+    "draft_position": 164,
+    "value_diff": "28.9",
+    "grade": "B"
+  },
+  {
+    "round": 18,
+    "pick": 7,
+    "player_name": "Luke McCaffrey",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 177,
+    "value_diff": "-45.5",
+    "grade": "C"
+  }
+]

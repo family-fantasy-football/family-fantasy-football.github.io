@@ -92,7 +92,7 @@ def calculate_expected_wins(teams, through_week):
     return expected_wins
 
   
-def _get_expected_points(league, player_id, through_week):
+def get_expected_points(league, player_id, through_week):
     return league.player_info(playerId = player_id).stats[0]['projected_points']/17*through_week
 
 def grade_pick(value_diff, mean_value_diff, std_value_diff):
@@ -139,7 +139,7 @@ def get_lowest_scoring_week(through_week, box_scores):
                     lowest_week = (score.away_team, week, score.away_score)
         return lowest_week
 
-def _get_margins_of_victory_records(through_week, box_scores):
+def get_margins_of_victory_records(through_week, box_scores):
     highest_margin = (0, None, None, None, None, None)
     lowest_margin = (float('inf'), None, None, None, None, None)
     
@@ -165,7 +165,7 @@ def _get_margins_of_victory_records(through_week, box_scores):
                 
     return highest_margin, lowest_margin
 
-def _get_best_trades(trades):
+def get_best_trades(trades):
     trade_impacts = []
     for trade in trades:
         trade_epoch = trade.date
@@ -261,7 +261,7 @@ def _get_best_trades(trades):
             
     return trade_impacts
 
-def _get_best_acquisitions(league, waiver_adds, fa_adds, trades):
+def get_best_acquisitions(league, waiver_adds, fa_adds, trades):
     pickups = {}
     # print("\nProcessing Pickups:")
     for activity in (waiver_adds + fa_adds):
@@ -351,7 +351,7 @@ def _get_best_acquisitions(league, waiver_adds, fa_adds, trades):
 
     return list(pickups.values())
 
-def _get_benchings(through_week, box_scores_dict, teams):
+def get_benchings(through_week, box_scores_dict, teams):
     worst_benchings = {}  # Use dict to track unique player-week combinations
     for week in range(1, through_week + 1):
         for team in teams:
@@ -396,7 +396,7 @@ def _get_benchings(through_week, box_scores_dict, teams):
                             }
     return worst_benchings
 
-def _get_streaks(outcomes):
+def get_streaks(outcomes):
     current_streak = 0
     streak_type = ''
     for outcome in reversed(outcomes):
@@ -427,7 +427,7 @@ def _get_streaks(outcomes):
             current_lose_streak = 0
     return longest_win_streak, longest_lose_streak, current_streak, streak_type
 
-def _get_efficiencies(through_week, box_scores_dict, team):
+def get_efficiencies(through_week, box_scores_dict, team):
     weekly_effs = []
     total_bench_points = 0
     total_optimal_points = 0
@@ -626,7 +626,7 @@ def get_drafted_player_data(through_week, trades, league, transactions, draft_re
         # Calculate the total points for this pick (points before leaving + points after trade)
         total_points = total_points_before_leave + total_points_after_trade
         # Retrieve the expected points for the player
-        expected_points = _get_expected_points(league, pick.playerId, through_week)
+        expected_points = get_expected_points(league, pick.playerId, through_week)
 
         # Calculate value_diff for the player
         value_diff = total_points - expected_points  # Points earned - projected points
@@ -650,7 +650,7 @@ def get_drafted_player_data(through_week, trades, league, transactions, draft_re
         })
     return drafted_players, all_value_diffs
 
-def _get_draft_order(league):
+def get_draft_order(league):
     draft_order = {}
     for pick in league.draft:
         if pick.round_num == 1:  # Only look at first round picks

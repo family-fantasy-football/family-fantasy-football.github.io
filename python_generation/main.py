@@ -38,14 +38,30 @@ def main():
             cache[week] = league.box_scores(week)
         return cache[week]
     box_scores = {week: get_box_scores(week) for week in range(1, reg_season_length + 1)}
+    activity_size = 350  # Increased size to minimize API calls
+    transactions = league.recent_activity(size=activity_size)
+    waiver_adds = []
+    fa_adds = []
+    trades = []
     
-    save_team_logos(league)
+    for activity in transactions:
+        activity_str = str(activity)
+        if "WAIVER" in activity_str:
+            waiver_adds.append(activity)
+        elif "FA ADDED" in activity_str:
+            fa_adds.append(activity)
+        elif "TRADED" in activity_str:
+            trades.append(activity)
+    
+    generate_team_json(league, teams, box_scores, reg_season_length, trades, transactions)
+    generate_weekly_scores_json(teams, reg_season_length, league)
+    # save_team_logos(league)
     generate_roster_table(league, week-1)
     generate_standings_table(league, week-1)
     
     generate_about_md(league, reg_season_length, teams, box_scores)
     for team in teams:
-        generate_indv_team_page_md(league, league.nfl_week, team)
+        generate_indv_team_page_md(league, league.nfl_week, team, )
     
 if __name__ == "__main__":
     main()

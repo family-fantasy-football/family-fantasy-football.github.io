@@ -28,7 +28,6 @@ def generate_about_md(league, week, teams, box_scores):
     for pos in get_non_flex_positions(box_scores, 1):
         create_weekly_position_rankings_json(teams,week, box_scores, pos)
     generate_echarts_heatmap_json(teams, box_scores, week)
-    
     bump_chart_data_path = '../assets/json/bump_chart_data.json'
     qb_data_path = "../assets/json/weekly_qb_rankings.json"
     rb_data_path = "../assets/json/weekly_rb_rankings.json"
@@ -210,7 +209,12 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 
 
 def generate_indv_team_page_md(league, week, team):
-    
+    weekly_scoring_chart = f"assets/json/team_data/{team.team_abbrev}_{league.year}_weekly_scores.json"
+    with open(weekly_scoring_chart, "r") as json_file:
+        weekly_scores = json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_weekly_scores = json.loads(weekly_scores)
+    formatted_weekly_scores = json.dumps(parsed_weekly_scores, indent=4) 
     content = f"""\
 ---
 layout: page
@@ -227,6 +231,7 @@ pretty_table: True
 
 ### <center> Through Week {week} </center>
 
+#### Roster
 <table
  data-click-to-select="true"
  data-height="1100"
@@ -235,7 +240,7 @@ pretty_table: True
  data-url="{{{{ "/assets/json/team_rosters/{team.team_abbrev}_{league.year}.json"}}}}">
  <thead>
    <tr>
-     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th>
+     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
      <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th>
      <th data-field="total_points" data-halign="center" data-align="center" data-sortable="true">Total Points</th>
      <th data-field="proj_points" data-halign="center" data-align="center" data-sortable="true">Projected Points</th>
@@ -243,6 +248,102 @@ pretty_table: True
      <th data-field="pct_perform" data-halign="center" data-align="center" data-sortable="true">Performance</th>
    </tr>
  </thead>
+</table>
+
+<br><br>
+
+```echarts
+{formatted_weekly_scores}
+```
+<br><br>
+#### Summary
+<table
+data-click-to-select="true"
+data-height="930"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_summary.json" }}}}">
+<thead>
+    <tr>
+        <th data-field="category" data-halign="left" data-align="left" data-sortable="false">Category</th>
+        <th data-field="value" data-halign="center" data-align="center" data-sortable="false">Value</th>
+    </tr>
+</thead>
+</table>
+
+<br><br>
+
+#### Positional Scoring
+<table
+data-click-to-select="true"
+data-height="282"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_positions.json" }}}}">
+<thead>
+    <tr>
+        <th data-field="position" data-halign="left" data-align="left" data-sortable="false">Position</th>
+        <th data-field="average" data-halign="center" data-align="center" data-sortable="true">Average</th>
+        <th data-field="highest" data-halign="center" data-align="center" data-sortable="true">Highest</th>
+        <th data-field="lowest" data-halign="center" data-align="center" data-sortable="true">Lowest</th>
+    </tr>
+</thead>
+</table>
+
+<br><br>
+
+#### Lineup Efficiency
+<table
+    data-click-to-select="true"
+    data-height="810"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_weekly.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="week" data-halign="left" data-align="left" data-sortable="true">Week</th>
+            <th data-field="efficiency" data-halign="center" data-align="center" data-sortable="true">Efficiency</th>
+        </tr>
+    </thead>
+</table>
+
+<br><br>
+
+#### Draft Recap
+<table
+    data-click-to-select="true"
+    data-height="1100"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_draft.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="round" data-halign="center" data-align="center" data-sortable="true">Round</th>
+            <th data-field="pick" data-halign="center" data-align="center" data-sortable="false">Pick</th>
+            <th data-field="draft_position" data-halign="center" data-align="center" data-sortable="true">Overall</th>
+            <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+            <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Total Points</th>
+            <th data-field="grade" data-halign="center" data-align="center" data-sortable="true">Grade</th>
+        </tr>
+    </thead>
+</table>
+
+<br><br>
+    
+#### Head-to-Head Record
+<table
+    data-click-to-select="true"
+    data-height="575"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_h2h.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="opponent" data-halign="left" data-align="left" data-sortable="false">Opponent</th>
+            <th data-field="record" data-halign="center" data-align="center" data-sortable="true">Record</th>
+            <th data-field="points" data-halign="center" data-align="center" data-sortable="false">Avg Score</th>
+        </tr>
+    </thead>
 </table>
 """
 

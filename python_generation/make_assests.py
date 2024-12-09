@@ -386,3 +386,223 @@ def create_standings_bump_json(teams, through_week):
         json.dump(echarts_option, f, indent=2)
     
     # return 'bump_chart_data.json'
+    
+    
+def generate_team_json(league, teams, box_scores_dict, reg_season_length, trades, transactions):
+    """Generate JSON files for each team's data"""
+    output_folder="../assets/json/team_data"
+    os.makedirs(output_folder, exist_ok=True)
+    draft_results = league.draft 
+    drafted_players, all_value_diffs = get_drafted_player_data(reg_season_length, trades, league, transactions, draft_results)
+    mean_value_diff = np.mean(all_value_diffs)
+    std_value_diff = np.std(all_value_diffs)
+
+    
+    for team in teams:
+        # Get team stats
+        outcomes = team.outcomes[:reg_season_length]
+        scores = team.scores[:reg_season_length]
+        schedule = team.schedule[:reg_season_length]
+        mov = team.mov[:reg_season_length]
+        
+        weekly_effs, total_bench_points, total_optimal_points, total_actual_points = get_efficiencies(
+            reg_season_length, box_scores_dict, team)
+        
+        expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(
+            team, outcomes, mov, teams, reg_season_length)
+        
+        longest_win_streak, longest_lose_streak, current_streak, streak_type = get_streaks(outcomes)
+        
+        # Create team summary data
+        team_summary = [
+            {"category": "Record", "value": f"{team.wins}-{team.losses}-{team.ties}"},
+            {"category": "Points For", "value": f"{team.points_for:.2f}"},
+            {"category": "Avg Points For", "value": f"{team.points_for/reg_season_length:.2f}"},
+            {"category": "Points Against", "value": f"{team.points_against:.2f}"},
+            {"category": "Avg Points Against", "value": f"{team.points_against/reg_season_length:.2f}"},
+            {"category": "Points Left on Bench", "value": f"{total_bench_points:.2f}"},
+            {"category": "Efficiency", "value": f"{total_actual_points/total_optimal_points*100:.2f}%"},
+            {"category": "Current Streak", "value": f"{current_streak} {streak_type}"},
+            {"category": "Longest Win Streak", "value": str(longest_win_streak)},
+            {"category": "Longest Losing Streak", "value": str(longest_lose_streak)},
+            {"category": "Expected Wins", "value": f"{expected_wins:.1f}"},
+            {"category": "Actual Wins", "value": str(actual_wins)},
+            {"category": "Luck Factor", "value": f"{luck_factor:.1f}"},
+            {"category": "Close Games", "value": f"{close_wins}-{close_losses}"},
+            {"category": "Season Pattern", "value": "".join(outcomes)}
+        ]
+        
+        # Save team summary
+        filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_summary.json"
+        with open(os.path.join(output_folder, filename), 'w') as f:
+            json.dump(team_summary, f, indent=2)
+        
+        # Generate positional stats
+        positions = get_positional_scoring_amounts(box_scores_dict, reg_season_length, team)
+        pos_stats = []
+        act_pos = get_non_flex_positions(box_scores_dict,1)
+        for pos in act_pos:
+            scores = positions[pos]
+            if scores:
+                pos_stats.append({
+                    "position": pos,
+                    "average": round(sum(scores) / len(scores), 1),
+                    "highest": round(max(scores), 1),
+                    "lowest": round(min(scores), 1)
+                })
+        
+        # Save positional stats
+        pos_filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_positions.json"
+        with open(os.path.join(output_folder, pos_filename), 'w') as f:
+            json.dump(pos_stats, f, indent=2)
+            
+        
+        weekly_data = []
+        for week, eff in enumerate(weekly_effs, 1):
+            weekly_data.append({
+                "week": f"Week {week}",
+                "efficiency": f"{eff:.1f}%"
+            })
+
+        # Save weekly efficiency data
+        weekly_filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_weekly_eff.json"
+        with open(os.path.join(output_folder, weekly_filename), 'w') as f:
+            json.dump(weekly_data, f, indent=2)
+            
+            
+        team_draft = []
+        team_players = [player for player in drafted_players if player["drafted_team_id"] == team.team_id]
+
+        for player in team_players:
+            pick_grade = grade_pick(player['value_diff'], mean_value_diff, std_value_diff)
+            team_draft.append({
+                "round": player['round_num'],
+                "pick": player['round_pick'],
+                "player_name": player['player_name'],
+                "points": f"{player['total_points']:.1f}",
+                "before_trade": f"{player['points_before_leave']:.1f}",
+                "after_trade": f"{player['points_after_trade']:.1f}",
+                "draft_position": player['draft_position'],
+                "value_diff": f"{player['value_diff']:.1f}",
+                "grade": pick_grade
+                })
+                
+        draft_filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_draft.json"
+        with open(os.path.join(output_folder, draft_filename), 'w') as f:
+            json.dump(team_draft, f, indent=2)
+            
+        # In generate_team_data_json, add:
+        scores = team.scores[:reg_season_length]
+        outcomes = team.outcomes[:reg_season_length]
+        schedule = team.schedule[:reg_season_length]
+        opponent_stats = get_records_against(schedule, scores, outcomes)
+
+        h2h_data = []
+        for opp_id, stats in opponent_stats.items():
+            opp_team = next(t for t in teams if t.team_id == opp_id)
+            wins = stats['wins']
+            losses = stats['games'] - stats['wins']
+            avg_pf = stats['points_for'] / stats['games']
+            avg_pa = stats['points_against'] / stats['games']
+            
+            h2h_data.append({
+                "opponent": clean_team_name(opp_team.team_name),
+                "record": f"{wins}-{losses}",
+                "points": f"{avg_pf:.1f}-{avg_pa:.1f}"
+            })
+
+        # Save head to head data
+        h2h_filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_h2h.json"
+        with open(os.path.join(output_folder, h2h_filename), 'w') as f:
+            json.dump(h2h_data, f, indent=2)    
+        
+
+def generate_weekly_scores_json(teams, reg_season_length, league):
+    """Generate JSON for weekly scores line graph including league averages"""
+    output_folder="assets/json/team_data"
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # First calculate league average scores for each week
+    league_avg_for = []
+    
+    for week in range(reg_season_length):
+        week_scores = []
+        for team in teams:
+            if week < len(team.scores):
+                week_scores.append(team.scores[week])
+
+        
+        # Calculate averages for the week
+        avg_score = sum(week_scores) / len(week_scores) if week_scores else 0
+        
+        league_avg_for.append(round(avg_score, 1))
+    
+    # Generate eCharts data for each team
+    for team in teams:
+        echarts_data = {
+            "tooltip": {
+                "trigger": "axis"
+            },
+            "legend": {
+                "data": ["Points For", "Points Against", "League Avg"]
+            },
+            "grid": {
+                "top": "10%",
+                "bottom": "5%",
+                "left": "6%",
+                "right": "0%"
+            },
+            "xAxis": {
+                "type": "category",
+                "data": [f"Week {w+1}" for w in range(reg_season_length)]
+            },
+            "yAxis": {
+                "type": "value",
+                "name": "Points",
+                "nameLocation": "center",
+                "nameGap": 35,
+                "nameTextStyle": {
+                    "fontSize": 16
+                },
+                "axisLabel": {
+                    "fontSize": 14
+                },
+            },
+            "series": [
+                {
+                    "name": "Points For",
+                    "type": "line",
+                    "data": [round(score, 1) for score in team.scores[:reg_season_length]],
+                    "symbol": "circle",
+                    "symbolSize": 8,
+                    "lineStyle": {
+                        "width": 3
+                    }
+                },
+                {
+                    "name": "Points Against",
+                    "type": "line",
+                    "data": [round(team.schedule[w].scores[w], 1) for w in range(reg_season_length)],
+                    "symbol": "circle",
+                    "symbolSize": 8,
+                    "lineStyle": {
+                        "width": 3
+                    }
+                },
+                {
+                    "name": "League Avg",
+                    "type": "line",
+                    "data": league_avg_for,
+                    "symbol": "none",
+                    "lineStyle": {
+                        "type": "dashed",
+                        "width": 2
+                    }
+                },
+            ]
+        }
+        
+        # Save team's weekly data
+        filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_weekly_scores.json"
+        with open(os.path.join(output_folder, filename), 'w') as f:
+            json.dump(echarts_data, f, indent=2)

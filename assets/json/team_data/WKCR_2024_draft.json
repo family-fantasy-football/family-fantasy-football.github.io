@@ -1,0 +1,200 @@
+[
+  {
+    "round": 1,
+    "pick": 7,
+    "player_name": "Lamar Jackson",
+    "points": "321.4",
+    "before_trade": "321.4",
+    "after_trade": "0.0",
+    "draft_position": 7,
+    "value_diff": "89.1",
+    "grade": "A"
+  },
+  {
+    "round": 2,
+    "pick": 4,
+    "player_name": "Ja'Marr Chase",
+    "points": "232.8",
+    "before_trade": "232.8",
+    "after_trade": "0.0",
+    "draft_position": 14,
+    "value_diff": "51.5",
+    "grade": "A"
+  },
+  {
+    "round": 3,
+    "pick": 7,
+    "player_name": "Puka Nacua",
+    "points": "125.3",
+    "before_trade": "125.3",
+    "after_trade": "0.0",
+    "draft_position": 27,
+    "value_diff": "-38.1",
+    "grade": "C"
+  },
+  {
+    "round": 4,
+    "pick": 4,
+    "player_name": "Derrick Henry",
+    "points": "247.7",
+    "before_trade": "247.7",
+    "after_trade": "0.0",
+    "draft_position": 34,
+    "value_diff": "84.6",
+    "grade": "A"
+  },
+  {
+    "round": 5,
+    "pick": 7,
+    "player_name": "DJ Moore",
+    "points": "140.8",
+    "before_trade": "140.8",
+    "after_trade": "0.0",
+    "draft_position": 47,
+    "value_diff": "-0.6",
+    "grade": "B"
+  },
+  {
+    "round": 6,
+    "pick": 4,
+    "player_name": "Caleb Williams",
+    "points": "204.3",
+    "before_trade": "204.3",
+    "after_trade": "0.0",
+    "draft_position": 54,
+    "value_diff": "11.5",
+    "grade": "B"
+  },
+  {
+    "round": 7,
+    "pick": 7,
+    "player_name": "Mark Andrews",
+    "points": "112.9",
+    "before_trade": "112.9",
+    "after_trade": "0.0",
+    "draft_position": 67,
+    "value_diff": "-4.2",
+    "grade": "B"
+  },
+  {
+    "round": 8,
+    "pick": 4,
+    "player_name": "Rashee Rice",
+    "points": "52.9",
+    "before_trade": "52.9",
+    "after_trade": "0.0",
+    "draft_position": 74,
+    "value_diff": "-78.4",
+    "grade": "D"
+  },
+  {
+    "round": 9,
+    "pick": 7,
+    "player_name": "Christian Kirk",
+    "points": "57.4",
+    "before_trade": "57.4",
+    "after_trade": "0.0",
+    "draft_position": 87,
+    "value_diff": "-67.8",
+    "grade": "D"
+  },
+  {
+    "round": 10,
+    "pick": 4,
+    "player_name": "Keon Coleman",
+    "points": "72.7",
+    "before_trade": "72.7",
+    "after_trade": "0.0",
+    "draft_position": 94,
+    "value_diff": "-34.7",
+    "grade": "C"
+  },
+  {
+    "round": 11,
+    "pick": 7,
+    "player_name": "Tyjae Spears",
+    "points": "42.5",
+    "before_trade": "42.5",
+    "after_trade": "0.0",
+    "draft_position": 107,
+    "value_diff": "-72.6",
+    "grade": "D"
+  },
+  {
+    "round": 12,
+    "pick": 4,
+    "player_name": "Zack Moss",
+    "points": "70.4",
+    "before_trade": "70.4",
+    "after_trade": "0.0",
+    "draft_position": 114,
+    "value_diff": "-36.8",
+    "grade": "C"
+  },
+  {
+    "round": 13,
+    "pick": 7,
+    "player_name": "Tyler Allgeier",
+    "points": "9.1",
+    "before_trade": "9.1",
+    "after_trade": "0.0",
+    "draft_position": 127,
+    "value_diff": "-88.2",
+    "grade": "D"
+  },
+  {
+    "round": 14,
+    "pick": 4,
+    "player_name": "DeMario Douglas",
+    "points": "36.9",
+    "before_trade": "2.2",
+    "after_trade": "34.7",
+    "draft_position": 134,
+    "value_diff": "-66.4",
+    "grade": "D"
+  },
+  {
+    "round": 15,
+    "pick": 7,
+    "player_name": "Rico Dowdle",
+    "points": "117.5",
+    "before_trade": "117.5",
+    "after_trade": "0.0",
+    "draft_position": 147,
+    "value_diff": "14.6",
+    "grade": "B"
+  },
+  {
+    "round": 16,
+    "pick": 4,
+    "player_name": "Bryce Young",
+    "points": "9.6",
+    "before_trade": "9.6",
+    "after_trade": "0.0",
+    "draft_position": 154,
+    "value_diff": "-161.4",
+    "grade": "D"
+  },
+  {
+    "round": 17,
+    "pick": 7,
+    "player_name": "Rashod Bateman",
+    "points": "11.8",
+    "before_trade": "11.8",
+    "after_trade": "0.0",
+    "draft_position": 167,
+    "value_diff": "-58.5",
+    "grade": "C"
+  },
+  {
+    "round": 18,
+    "pick": 4,
+    "player_name": "Wan'Dale Robinson",
+    "points": "17.6",
+    "before_trade": "17.6",
+    "after_trade": "0.0",
+    "draft_position": 174,
+    "value_diff": "-60.7",
+    "grade": "C"
+  }
+]

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: past seasons
+title: other
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: teams
-    permalink: /teams/
+  - title: announcements
+    permalink: /announcements/
   - title: divider
-  - title: blog
+  - title: blogs
     permalink: /blog/
 ---

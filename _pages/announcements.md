@@ -1,7 +1,7 @@
 ---
 layout: page
 title: announcements
-nav: announcements
+nav: false
 permalink: /announcements/
 ---
 

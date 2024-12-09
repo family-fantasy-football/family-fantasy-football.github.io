@@ -1,0 +1,200 @@
+[
+  {
+    "round": 1,
+    "pick": 1,
+    "player_name": "Josh Allen",
+    "points": "303.6",
+    "before_trade": "303.6",
+    "after_trade": "0.0",
+    "draft_position": 1,
+    "value_diff": "63.8",
+    "grade": "A"
+  },
+  {
+    "round": 2,
+    "pick": 10,
+    "player_name": "Jonathan Taylor",
+    "points": "135.2",
+    "before_trade": "135.2",
+    "after_trade": "0.0",
+    "draft_position": 20,
+    "value_diff": "-45.4",
+    "grade": "C"
+  },
+  {
+    "round": 3,
+    "pick": 1,
+    "player_name": "C.J. Stroud",
+    "points": "180.6",
+    "before_trade": "180.6",
+    "after_trade": "0.0",
+    "draft_position": 21,
+    "value_diff": "-30.9",
+    "grade": "C"
+  },
+  {
+    "round": 4,
+    "pick": 10,
+    "player_name": "Davante Adams",
+    "points": "119.2",
+    "before_trade": "119.2",
+    "after_trade": "0.0",
+    "draft_position": 40,
+    "value_diff": "-25.7",
+    "grade": "C"
+  },
+  {
+    "round": 5,
+    "pick": 1,
+    "player_name": "Drake London",
+    "points": "159.8",
+    "before_trade": "159.8",
+    "after_trade": "0.0",
+    "draft_position": 41,
+    "value_diff": "19.2",
+    "grade": "B"
+  },
+  {
+    "round": 6,
+    "pick": 10,
+    "player_name": "Brandon Aiyuk",
+    "points": "49.9",
+    "before_trade": "49.9",
+    "after_trade": "0.0",
+    "draft_position": 60,
+    "value_diff": "-91.5",
+    "grade": "D"
+  },
+  {
+    "round": 7,
+    "pick": 1,
+    "player_name": "George Pickens",
+    "points": "127.9",
+    "before_trade": "127.9",
+    "after_trade": "0.0",
+    "draft_position": 61,
+    "value_diff": "-5.0",
+    "grade": "B"
+  },
+  {
+    "round": 8,
+    "pick": 10,
+    "player_name": "Zamir White",
+    "points": "26.3",
+    "before_trade": "26.3",
+    "after_trade": "0.0",
+    "draft_position": 80,
+    "value_diff": "-99.8",
+    "grade": "D"
+  },
+  {
+    "round": 9,
+    "pick": 1,
+    "player_name": "Kyle Pitts",
+    "points": "86.8",
+    "before_trade": "86.8",
+    "after_trade": "0.0",
+    "draft_position": 81,
+    "value_diff": "-18.1",
+    "grade": "B"
+  },
+  {
+    "round": 10,
+    "pick": 10,
+    "player_name": "Brian Robinson Jr.",
+    "points": "128.5",
+    "before_trade": "128.5",
+    "after_trade": "0.0",
+    "draft_position": 100,
+    "value_diff": "5.1",
+    "grade": "B"
+  },
+  {
+    "round": 11,
+    "pick": 1,
+    "player_name": "Matthew Stafford",
+    "points": "135.6",
+    "before_trade": "135.6",
+    "after_trade": "0.0",
+    "draft_position": 101,
+    "value_diff": "-48.3",
+    "grade": "C"
+  },
+  {
+    "round": 12,
+    "pick": 10,
+    "player_name": "Jakobi Meyers",
+    "points": "123.6",
+    "before_trade": "123.6",
+    "after_trade": "0.0",
+    "draft_position": 120,
+    "value_diff": "17.5",
+    "grade": "B"
+  },
+  {
+    "round": 13,
+    "pick": 1,
+    "player_name": "DeAndre Hopkins",
+    "points": "105.5",
+    "before_trade": "105.5",
+    "after_trade": "0.0",
+    "draft_position": 121,
+    "value_diff": "-5.4",
+    "grade": "B"
+  },
+  {
+    "round": 14,
+    "pick": 10,
+    "player_name": "T.J. Hockenson",
+    "points": "43.4",
+    "before_trade": "43.4",
+    "after_trade": "0.0",
+    "draft_position": 140,
+    "value_diff": "-33.7",
+    "grade": "C"
+  },
+  {
+    "round": 15,
+    "pick": 1,
+    "player_name": "Ja'Lynn Polk",
+    "points": "17.9",
+    "before_trade": "17.9",
+    "after_trade": "0.0",
+    "draft_position": 141,
+    "value_diff": "-69.8",
+    "grade": "D"
+  },
+  {
+    "round": 16,
+    "pick": 10,
+    "player_name": "Antonio Gibson",
+    "points": "27.2",
+    "before_trade": "27.2",
+    "after_trade": "0.0",
+    "draft_position": 160,
+    "value_diff": "-66.2",
+    "grade": "D"
+  },
+  {
+    "round": 17,
+    "pick": 1,
+    "player_name": "Khalil Herbert",
+    "points": "9.0",
+    "before_trade": "9.0",
+    "after_trade": "0.0",
+    "draft_position": 161,
+    "value_diff": "-64.9",
+    "grade": "D"
+  },
+  {
+    "round": 18,
+    "pick": 10,
+    "player_name": "Kendrick Bourne",
+    "points": "1.1",
+    "before_trade": "1.1",
+    "after_trade": "0.0",
+    "draft_position": 180,
+    "value_diff": "-58.2",
+    "grade": "C"
+  }
+]
