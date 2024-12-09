@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Christian McCaffrey",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.7,
+    "projected": 17.66
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.4,
+    "projected": 10.69
+  },
+  {
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.3,
+    "projected": 11.56
+  },
+  {
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.6,
+    "projected": 12.26
+  },
+  {
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.5,
+    "projected": 11.68
+  },
+  {
+    "player_name": "David Njoku",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 21.7,
+    "projected": 9.47
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.2,
+    "projected": 12.1
+  },
+  {
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 2.3,
+    "projected": 16.37
+  },
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 12.16,
+    "projected": 19.14
+  },
+  {
+    "player_name": "Anthony Richardson",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 21.16,
+    "projected": 18.15
+  }
+]

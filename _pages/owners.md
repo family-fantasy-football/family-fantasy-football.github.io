@@ -3,7 +3,7 @@ layout: profiles
 permalink: /owners/
 title: owners
 description: owners of the teams
-nav: true
+nav: false
 nav_order: 7
 
 profiles:

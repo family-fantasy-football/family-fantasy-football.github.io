@@ -15,6 +15,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from PIL import Image
 import os
 import json
+import glob
 
 from utils import *
 
@@ -351,11 +352,11 @@ def get_best_acquisitions(league, waiver_adds, fa_adds, trades):
 
     return list(pickups.values())
 
-def get_benchings(through_week, box_scores_dict, teams):
+def get_benchings(through_week, box_score, teams):
     worst_benchings = {}  # Use dict to track unique player-week combinations
-    for week in range(1, through_week + 1):
+    for week in range(1, through_week):
         for team in teams:
-            box_scores = box_scores_dict[week]
+            box_scores = box_score[week]
             box = next((b for b in box_scores if b.home_team == team or b.away_team == team), None)
             if box:
                 lineup = box.home_lineup if box.home_team == team else box.away_lineup
@@ -671,55 +672,172 @@ def get_non_flex_positions(box_scores, week=1):
     
     return sorted(list(positions))
 
-def get_rostered_news(league: League) -> Dict:
-        # Get all rostered players by name
-        rostered_players = {}
-        for team in league.teams:
-            for player in team.roster:
-                if player.lineupSlot != 'IR' or 'BE':
-                    rostered_players[player.name.lower()] = {
-                        'name': player.name,
-                        'team_name': clean_team_name(team.team_name),
-                        'position': player.position,
-                        'team_abbrev': team.team_abbrev,
-                        'lineup_slot': player.lineupSlot
-                    }
+def create_records_json(league: League, box_scores):
+    records = {
+        "all_time": [],
+        "season": [],
+        "game": []
+    }
+    all_time_records = []
+    highest_week = get_highest_scoring_week(league.current_week-1, box_scores)
+    if highest_week:
+        all_time_records.append({
+            "category": "Highest Single Game Score",
+            "value": round(highest_week[2], 2),
+            "team": clean_team_name(highest_week[0].team_name),
+            "details": f"Week {highest_week[1]}",
+            "year": league.year
+        })
         
-        # Fetch from ESPN's main injury API
-        response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
-        news_data = response.json()
-        last_update_time = datetime.strptime(news_data['timestamp'], '%Y-%m-%dT%H:%M:%SZ')
-        last_update_time = last_update_time.replace(tzinfo=timezone.utc)
-        now = datetime.now(timezone.utc)
-        
-        relevant_news = []
-        for team in news_data.get('injuries', []):
-            for news in team.get('injuries', []):
-                player_name = news.get('athlete', {}).get('displayName', '').lower()
-                if player_name in rostered_players:
-                    if now-last_update_time <= timedelta(days=7):
-                        relevant_news.append({
-                            **rostered_players[player_name],
-                            'status': news.get('status', 'Unknown'),
-                            'description': news.get('longComment', ''),
-                            'last_update': news.get('date')
-                        })
-        # Group the relevant news by team
-        team_recaps = {}
-        for news_item in relevant_news:
-            team_name = news_item['team_name']
-            if team_name not in team_recaps:
-                team_recaps[team_name] = []
-            team_recaps[team_name].append(news_item) 
+    lowest_week = get_lowest_scoring_week(league.current_week-1, box_scores)
+    if lowest_week:
+        all_time_records.append({
+            "category": "Lowest Single Game Score",
+            "value": round(lowest_week[2], 2),
+            "team": clean_team_name(lowest_week[0].team_name),
+            "details": f"Week {lowest_week[1]}",
+            "year": league.year
+        })
+    
+    
+    # Get highest margin and lowest margin
+    highest_margin, lowest_margin = get_margins_of_victory_records(
+        league.settings.reg_season_count, box_scores
+    )
+    
+    all_time_records.extend([
+        {
+            "category": "Highest Margin of Victory",
+            "value": f"{highest_margin[0]:.2f}",
+            "team": f"{clean_team_name(highest_margin[2].team_name)} vs {clean_team_name(highest_margin[3].team_name)}",
+            "year": league.year
+        },
+        {
+            "category": "Lowest Margin of Victory",
+            "value": f"{lowest_margin[0]:.2f}",
+            "team": f"{clean_team_name(lowest_margin[2].team_name)} vs {clean_team_name(lowest_margin[3].team_name)}",
+            "year": league.year
+        }
+    ])
+
+    # Process season records - find highest values
+    top_points_team = max(league.teams, key=lambda x: x.points_for)
+    most_points_against = max(league.teams, key=lambda x: x.points_against)
+    
+    season_records = [
+        {
+            "category": "Most Points Scored",
+            "value": round(top_points_team.points_for, 2),
+            "team": clean_team_name(top_points_team.team_name),
+            "details": f"{top_points_team.wins}-{top_points_team.losses}"
+        },
+        {
+            "category": "Most Points Against",
+            "value": round(most_points_against.points_against, 2),
+            "team": clean_team_name(most_points_against.team_name),
+            "details": f"{most_points_against.wins}-{most_points_against.losses}"
+        }
+    ]
+    
+    # Process game records - find top performances
+    best_game_score = 0
+    best_individual = 0
+    best_player_info = None
+    best_game_info = None
+    
+    for week in range(1, league.current_week):
+        for box in box_scores[week]:
+            if not box.away_team:  # Skip bye weeks
+                continue
             
-        # Print the weekly recap for each team
-        for team_name, news_items in team_recaps.items():
-            print(f"Weekly Recap for {team_name}:")
-            for news in news_items:
-                print(f"  Player: {news['name']} ({news['position']})")
-                print(f"    Status: {news['status']}")
-                print(f"    Description: {news['description']}")
-                print(f"    Last Update: {datetime.strptime(news['last_update'], '%Y-%m-%dT%H:%MZ')-timedelta(hours=5)} EST")
-            print("-" * 50)  # Separator between teams
-            
-        return #sorted(relevant_news, key=lambda x: (x['team_name'],x['lineup_slot'], x['name']))
+            # Check for highest game score
+            if box.home_score > best_game_score:
+                best_game_score = box.home_score
+                best_game_info = (box.home_team, week, box.away_team)
+            if box.away_score > best_game_score:
+                best_game_score = box.away_score
+                best_game_info = (box.away_team, week, box.home_team)
+                
+            # Check for best individual performance
+            all_players = box.home_lineup + box.away_lineup
+            for player in all_players:
+                if player.slot_position != 'BE' and player.points > best_individual:
+                    best_individual = player.points
+                    best_player_info = (player, box.home_team if player in box.home_lineup else box.away_team, week)
+    
+    game_records = []
+    if best_game_info:
+        game_records.append({
+            "category": "Highest Game Score",
+            "value": round(best_game_score, 2),
+            "details": f"{clean_team_name(best_game_info[0].team_name)} vs {clean_team_name(best_game_info[2].team_name)}",
+            "week": best_game_info[1]
+        })
+    
+    if best_player_info:
+        game_records.append({
+            "category": "Best Individual Performance",
+            "value": round(best_individual, 2),
+            "details": f"{best_player_info[0].name} ({clean_team_name(best_player_info[1].team_name)})",
+            "week": best_player_info[2]
+        })
+
+    # Sort all records by value
+    records["all_time"] = sorted(all_time_records, key=lambda x: float(str(x["value"]).split("-")[0]), reverse=True)
+    records["season"] = sorted(season_records, key=lambda x: float(str(x["value"]).split("-")[0]) 
+                             if isinstance(x["value"], str) else float(x["value"]), reverse=True)
+    records["game"] = sorted(game_records, key=lambda x: float(x["value"]), reverse=True)
+
+    # Save JSON files
+    os.makedirs(f"../assets/json/records", exist_ok=True)
+    for record_type, data in records.items():
+        with open(f"../assets/json/records/{record_type}_records.json", 'w') as f:
+            json.dump(data, f, indent=2)
+    
+    return records
+
+def create_team_history_json(league: League):
+    history_by_year = {}
+    year = league.year
+    
+    # Create current year data
+    standings = league.standings()
+    current_year_data = []
+    
+    for team in standings:
+        team_data = {
+            "team_name": clean_team_name(team.team_name),
+            "managers": get_manager_names(team.owners),
+            "final_rank": team.final_standing if team.final_standing != 0 else team.standing,
+            "record": f"{team.wins}-{team.losses}",
+            "points": round(team.points_for, 2),
+            "playoff_result": "TBD",  # This would need to be updated at end of season
+            "division": team.division_name,
+            "division_result": "TBD"  # This would need to be updated at end of season
+        }
+        current_year_data.append(team_data)
+    
+    history_by_year[str(year)] = current_year_data
+    
+    # Save JSON file for current year
+    os.makedirs(f"../assets/json/history", exist_ok=True)
+    with open(f"../assets/json/history/{year}_teams.json", 'w') as f:
+        json.dump(current_year_data, f, indent=2)
+    
+    return history_by_year
+
+# def get_highest_scoring_week(through_week: int, box_scores_dict: Dict) -> Tuple:
+#     highest_week = None
+#     highest_score = 0
+    
+#     for week in range(1, through_week + 1):
+#         scores = box_scores_dict[week]
+#         for score in scores:
+#             if score.home_score > highest_score:
+#                 highest_score = score.home_score
+#                 highest_week = (score.home_team, week, score.home_score)
+#             if score.away_score > highest_score:
+#                 highest_score = score.away_score
+#                 highest_week = (score.away_team, week, score.away_score)
+    
+#     return highest_week

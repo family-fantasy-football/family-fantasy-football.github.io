@@ -2,8 +2,8 @@
     "grid": {
         "top": "10%",
         "bottom": "15%",
-        "left": "20%",
-        "right": "9%"
+        "left": "5%",
+        "right": "0%"
     },
     "xAxis": {
         "type": "category",
@@ -25,18 +25,18 @@
     "yAxis": {
         "type": "category",
         "data": [
-            "Pink Pony Club",
-            "Hamlin My Business ",
-            "Who Killed Charbonne",
-            "Tom and Jerry",
-            "To Infinity and Bija",
-            "Hit and Ruggs",
-            "Mama Daughter Duo",
-            "Abbey Road to Victor",
-            "Michael's Managable ",
-            "Fantasy Guru Kayden"
+            "PONY",
+            "HMB",
+            "WKCR",
+            "TOM",
+            "TIB",
+            "RRT",
+            "JST",
+            "ARV",
+            "MMT",
+            "KTT"
         ],
-        "name": "Team",
+        "name": "",
         "nameLocation": "end",
         "nameTextStyle": {
             "fontSize": 16
@@ -50,6 +50,7 @@
         "max": 10,
         "calculable": true,
         "orient": "vertical",
+        "show": false,
         "right": "right",
         "bottom": "30%",
         "text": [],

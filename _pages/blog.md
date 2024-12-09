@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /blogs/
-title: blogs
-nav: false
-nav_order: 1
+permalink: /reports/
+title: reports
+nav: true
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:

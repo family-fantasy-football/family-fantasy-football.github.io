@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 19.42,
+    "projected": 15.5
+  },
+  {
+    "player_name": "Xavier Legette",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.3,
+    "projected": 7.85
+  },
+  {
+    "player_name": "Dontayvion Wicks",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.0,
+    "projected": 7.9
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.9,
+    "projected": 13.97
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.7,
+    "projected": 17.61
+  },
+  {
+    "player_name": "James Cook",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.5,
+    "projected": 14.03
+  },
+  {
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.1,
+    "projected": 9.29
+  },
+  {
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.9,
+    "projected": 12.48
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.4,
+    "projected": 9.11
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 7.98,
+    "projected": 18.57
+  }
+]

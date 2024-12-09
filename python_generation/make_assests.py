@@ -152,8 +152,8 @@ def create_weekly_position_rankings_json(teams, reg_season_length, box_scores, p
         "grid": {
             "top": "10%",
             "bottom": "13%",
-            "left": "10%",
-            "right": "8%"
+            "left": "5%",
+            "right": "0%"
         },
         "xAxis": {
             "type": "category",
@@ -186,6 +186,7 @@ def create_weekly_position_rankings_json(teams, reg_season_length, box_scores, p
             "calculable": True,
             "orient": "vertical",
             "right": "right",
+            "show": False,
             "bottom": "30%",
             "text": [],
             "inRange": {
@@ -212,7 +213,7 @@ def generate_echarts_heatmap_json(teams, box_scores, through_week):
     for team in teams:
         positions = get_positional_scoring_amounts(box_scores, through_week, team)
         avg_points = {pos: sum(pts) / len(pts) if pts else 0 for pos, pts in positions.items()}
-        avg_points['Team'] = team.team_name
+        avg_points['Team'] = team.team_abbrev
         position_data.append(avg_points)
     
     df = pd.DataFrame(position_data)
@@ -237,8 +238,8 @@ def generate_echarts_heatmap_json(teams, box_scores, through_week):
         "grid": {
             "top": "10%",
             "bottom": "15%",
-            "left": "20%",
-            "right": "9%"
+            "left": "5%",
+            "right": "0%"
         },
         "xAxis": {
             "type": "category",
@@ -255,7 +256,7 @@ def generate_echarts_heatmap_json(teams, box_scores, through_week):
         "yAxis": {
             "type": "category",
             "data": y_axis_labels,  # Use preprocessed team names
-            "name": "Team",
+            "name": "",
             "nameLocation": "end",
             "nameTextStyle": {
                 "fontSize": 16
@@ -269,6 +270,7 @@ def generate_echarts_heatmap_json(teams, box_scores, through_week):
             "max": len(teams),
             "calculable": True,
             "orient": "vertical",
+            "show": False,
             "right": "right",
             "bottom": "30%",
             "text": [],
@@ -374,9 +376,9 @@ def create_standings_bump_json(teams, through_week):
         },
         'series': series_data,
         "grid": {
-        "left": "8%",
+        "left": "1%",
         "right": "0%",
-        "bottom": "10%",
+        "bottom": "1%",
         "top": "10%",
         "containLabel": True
         }
@@ -520,7 +522,7 @@ def generate_team_json(league, teams, box_scores_dict, reg_season_length, trades
 
 def generate_weekly_scores_json(teams, reg_season_length, league):
     """Generate JSON for weekly scores line graph including league averages"""
-    output_folder="assets/json/team_data"
+    output_folder="../assets/json/team_data"
     os.makedirs(output_folder, exist_ok=True)
     
     # First calculate league average scores for each week
@@ -604,8 +606,8 @@ def generate_weekly_scores_json(teams, reg_season_length, league):
         }
         
         # Save team's weekly data
-        filename = f"{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_weekly_scores.json"
-        with open(os.path.join(output_folder, filename), 'w') as f:
+        filename = f"../assets/json/team_data/{clean_team_name(team.team_abbrev).replace(' ', '_')}_{league.year}_weekly_scores.json"
+        with open(filename, 'w') as f:
             json.dump(echarts_data, f, indent=2)
             
 

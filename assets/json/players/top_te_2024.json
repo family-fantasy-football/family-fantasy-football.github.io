@@ -1,0 +1,82 @@
+[
+  {
+    "player_name": "Brock Bowers",
+    "team": "Who Killed Charbonnet Ramsey?",
+    "draft": "13.3",
+    "overall_pick": 123,
+    "points": 162.2,
+    "projected": 95.3
+  },
+  {
+    "player_name": "George Kittle",
+    "team": "Hamlin My Business ",
+    "draft": "7.5",
+    "overall_pick": 65,
+    "points": 156.0,
+    "projected": 118.58
+  },
+  {
+    "player_name": "Trey McBride",
+    "team": "Hit and Ruggs",
+    "draft": "7.8",
+    "overall_pick": 68,
+    "points": 137.3,
+    "projected": 116.08
+  },
+  {
+    "player_name": "Jonnu Smith",
+    "team": "Tom and Jerry",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 129.6,
+    "projected": 55.75
+  },
+  {
+    "player_name": "Travis Kelce",
+    "team": "Abbey Road to Victory",
+    "draft": "1.4",
+    "overall_pick": 4,
+    "points": 118.3,
+    "projected": 138.14
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "team": "Tom and Jerry",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 114.0,
+    "projected": 58.48
+  },
+  {
+    "player_name": "Mark Andrews",
+    "team": "Who Killed Charbonnet Ramsey?",
+    "draft": "7.7",
+    "overall_pick": 67,
+    "points": 112.9,
+    "projected": 126.12
+  },
+  {
+    "player_name": "Cade Otton",
+    "team": "Pink Pony Club",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 107.7,
+    "projected": 72.4
+  },
+  {
+    "player_name": "David Njoku",
+    "team": "Mama Daughter Duo",
+    "draft": "9.2",
+    "overall_pick": 82,
+    "points": 105.9,
+    "projected": 114.21
+  },
+  {
+    "player_name": "Zach Ertz",
+    "team": "Fantasy Guru Kayden",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 104.1,
+    "projected": 47.93
+  }
+]

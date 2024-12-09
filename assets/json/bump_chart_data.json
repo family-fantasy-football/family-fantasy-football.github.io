@@ -380,9 +380,9 @@
     }
   ],
   "grid": {
-    "left": "8%",
+    "left": "1%",
     "right": "0%",
-    "bottom": "10%",
+    "bottom": "1%",
     "top": "10%",
     "containLabel": true
   }

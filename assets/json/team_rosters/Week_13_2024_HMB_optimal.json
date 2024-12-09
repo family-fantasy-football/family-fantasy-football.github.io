@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 19.26,
+    "projected": 19.45
+  },
+  {
+    "player_name": "Nick Westbrook-Ikhine",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.6,
+    "projected": 8.4
+  },
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.3,
+    "projected": 11.78
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.2,
+    "projected": 10.67
+  },
+  {
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.9,
+    "projected": 11.28
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.9,
+    "projected": 20.08
+  },
+  {
+    "player_name": "Hunter Henry",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 11.0,
+    "projected": 8.48
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 11.3,
+    "projected": 13.27
+  },
+  {
+    "player_name": "Marquez Valdes-Scantling",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.6,
+    "projected": 8.31
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 15.62,
+    "projected": 17.13
+  }
+]

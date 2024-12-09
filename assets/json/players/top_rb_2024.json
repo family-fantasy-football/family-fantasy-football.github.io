@@ -1,0 +1,82 @@
+[
+  {
+    "player_name": "Saquon Barkley",
+    "team": "Michael's Managable Team",
+    "draft": "2.8",
+    "overall_pick": 18,
+    "points": 285.5,
+    "projected": 188.9
+  },
+  {
+    "player_name": "Derrick Henry",
+    "team": "Who Killed Charbonnet Ramsey?",
+    "draft": "4.4",
+    "overall_pick": 34,
+    "points": 247.7,
+    "projected": 175.62
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "team": "To Infinity and Bijan!",
+    "draft": "1.10",
+    "overall_pick": 10,
+    "points": 220.3,
+    "projected": 214.66
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "team": "Pink Pony Club",
+    "draft": "2.5",
+    "overall_pick": 15,
+    "points": 219.8,
+    "projected": 175.59
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "team": "Tom and Jerry",
+    "draft": "5.9",
+    "overall_pick": 49,
+    "points": 216.3,
+    "projected": 162.38
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "team": "Tom and Jerry",
+    "draft": "6.2",
+    "overall_pick": 52,
+    "points": 214.8,
+    "projected": 161.31
+  },
+  {
+    "player_name": "Kyren Williams",
+    "team": "Pink Pony Club",
+    "draft": "3.6",
+    "overall_pick": 26,
+    "points": 208.8,
+    "projected": 177.54
+  },
+  {
+    "player_name": "De'Von Achane",
+    "team": "Hit and Ruggs",
+    "draft": "3.8",
+    "overall_pick": 28,
+    "points": 198.9,
+    "projected": 154.66
+  },
+  {
+    "player_name": "Joe Mixon",
+    "team": "Hamlin My Business ",
+    "draft": "4.6",
+    "overall_pick": 36,
+    "points": 198.6,
+    "projected": 162.5
+  },
+  {
+    "player_name": "David Montgomery",
+    "team": "Abbey Road to Victory",
+    "draft": "7.4",
+    "overall_pick": 64,
+    "points": 198.22,
+    "projected": 137.1
+  }
+]

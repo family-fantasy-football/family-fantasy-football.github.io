@@ -1,0 +1,62 @@
+[
+  {
+    "team": "Michael's Managable Team",
+    "round": 2,
+    "pick": 8,
+    "player_name": "Saquon Barkley",
+    "points": "285.5",
+    "before_trade": "285.5",
+    "after_trade": "0.0",
+    "draft_position": 18,
+    "value_diff": "110.1",
+    "grade": "A"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "round": 14,
+    "pick": 9,
+    "player_name": "Chuba Hubbard",
+    "points": "182.7",
+    "before_trade": "182.7",
+    "after_trade": "0.0",
+    "draft_position": 139,
+    "value_diff": "90.0",
+    "grade": "A"
+  },
+  {
+    "team": "Who Killed Charbonnet Ramsey?",
+    "round": 1,
+    "pick": 7,
+    "player_name": "Lamar Jackson",
+    "points": "321.4",
+    "before_trade": "321.4",
+    "after_trade": "0.0",
+    "draft_position": 7,
+    "value_diff": "89.1",
+    "grade": "A"
+  },
+  {
+    "team": "Who Killed Charbonnet Ramsey?",
+    "round": 4,
+    "pick": 4,
+    "player_name": "Derrick Henry",
+    "points": "247.7",
+    "before_trade": "247.7",
+    "after_trade": "0.0",
+    "draft_position": 34,
+    "value_diff": "84.6",
+    "grade": "A"
+  },
+  {
+    "team": "Michael's Managable Team",
+    "round": 13,
+    "pick": 3,
+    "player_name": "Brock Bowers",
+    "points": "162.2",
+    "before_trade": "86.7",
+    "after_trade": "75.5",
+    "draft_position": 123,
+    "value_diff": "73.7",
+    "grade": "A"
+  }
+]

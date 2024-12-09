@@ -8,6 +8,9 @@ children:
   - title: announcements
     permalink: /announcements/
   - title: divider
-  - title: blogs
-    permalink: /blogs/
+  - title: team history
+    permalink: /teamhistory/
+  - title: divider
+  - title: records
+    permalink: /records/
 ---
