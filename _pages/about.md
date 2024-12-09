@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: about
 title: home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -467,6 +467,10 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "bottom": "15%",
         "left": "5%",
         "right": "0%"
+    },
+    "tooltip": {
+        "trigger": "item",
+        "formatter": "Position {b}: Team {c}"
     },
     "xAxis": {
         "type": "category",

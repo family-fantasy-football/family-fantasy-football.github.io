@@ -103,7 +103,7 @@ def generate_about_md(league, week, teams, box_scores):
     # Define the Markdown content
     content = f"""\
 ---
-layout: page
+layout: about
 title: home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
