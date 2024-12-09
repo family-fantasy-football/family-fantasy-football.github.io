@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-This will talk about how players are performing throughout the year, the best, the worst, etc. 
+This will talk about how players are performing throughout the year, the best, the worst, etc.

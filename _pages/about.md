@@ -24,7 +24,6 @@ chart:
 
 </div>
 
-
 The current top scorer is: Kyle Hamlin (1762.02)
 
 The current top scorer is: Abbey Hamlin and Christine Hamlin (1438.72)
@@ -36,7 +35,6 @@ Lowest Scoring Week: Abbey Hamlin and Christine Hamlin - 73.28 points (Week 7)
 Luckiest Team: Tom Ratcliff (1.4) Wins Above Expected
 
 Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
-
 
 ### Current Standings:
 
@@ -63,7 +61,6 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 
 <br><br>
 <br><br>
-
 
 ```echarts
 {
@@ -456,10 +453,12 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
     }
 }
 ```
+
 <br><br>
 <br><br>
 
 ### Average Position Rankings
+
 ```echarts
 {
     "grid": {
@@ -738,13 +737,14 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         }
     ]
 }
-````
-
+```
 
 ### Position Breakdowns By Week
+
 <br><br>
 
 ##### QB
+
 ```echarts
 {
     "grid": {
@@ -1486,6 +1486,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 ```
 
 ##### RB
+
 ```echarts
 {
     "grid": {
@@ -2227,6 +2228,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 ```
 
 ##### WR
+
 ```echarts
 {
     "grid": {
@@ -2968,6 +2970,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 ```
 
 ##### TE
+
 ```echarts
 {
     "grid": {
