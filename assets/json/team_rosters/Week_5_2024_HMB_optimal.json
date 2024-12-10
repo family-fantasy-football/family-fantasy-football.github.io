@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 33.78,
+    "projected": 17.71
+  },
+  {
+    "player_name": "Darius Slayton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.2,
+    "projected": 8.16
+  },
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.9,
+    "projected": 10.61
+  },
+  {
+    "player_name": "Ray-Ray McCloud III",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.6,
+    "projected": 8.73
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.0,
+    "projected": 13.95
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.6,
+    "projected": 11.33
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 16.4,
+    "projected": 10.01
+  },
+  {
+    "player_name": "Jaleel McLaughlin",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 7.74
+  },
+  {
+    "player_name": "Chris Godwin",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.1,
+    "projected": 12.27
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 13.06,
+    "projected": 19.17
+  }
+]

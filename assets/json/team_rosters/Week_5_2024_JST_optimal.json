@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.14,
+    "projected": 14.42
+  },
+  {
+    "player_name": "Jayden Reed",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.7,
+    "projected": 13.06
+  },
+  {
+    "player_name": "Demarcus Robinson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.3,
+    "projected": 8.12
+  },
+  {
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.5,
+    "projected": 12.5
+  },
+  {
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.5,
+    "projected": 13.42
+  },
+  {
+    "player_name": "Jordan Mason",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.3,
+    "projected": 17.4
+  },
+  {
+    "player_name": "Pat Freiermuth",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 7.7,
+    "projected": 7.02
+  },
+  {
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.1,
+    "projected": 10.34
+  },
+  {
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.1,
+    "projected": 8.77
+  },
+  {
+    "player_name": "Daniel Jones",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 22.08,
+    "projected": 16.79
+  }
+]

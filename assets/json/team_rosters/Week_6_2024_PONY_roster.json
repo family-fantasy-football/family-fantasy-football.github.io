@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jalen Hurts",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 21.86,
+    "projected": 20.0
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.6,
+    "projected": 14.79
+  },
+  {
+    "player_name": "Deebo Samuel Sr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.2,
+    "projected": 14.02
+  },
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 20.96,
+    "projected": 24.45
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.9,
+    "projected": 10.85
+  },
+  {
+    "player_name": "James Conner",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 4.6,
+    "projected": 13.14
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 20.3,
+    "projected": 13.71
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.2,
+    "projected": 11.08
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 2.6,
+    "projected": 9.23
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 19.7,
+    "projected": 11.47
+  }
+]

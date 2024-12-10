@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.14,
+    "projected": 16.65
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.9,
+    "projected": 9.47
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.4,
+    "projected": 14.85
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.3,
+    "projected": 9.02
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.2,
+    "projected": 19.73
+  },
+  {
+    "player_name": "Devin Singletary",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.0,
+    "projected": 11.88
+  },
+  {
+    "player_name": "Dalton Kincaid",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.3,
+    "projected": 8.18
+  },
+  {
+    "player_name": "Gabe Davis",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.8,
+    "projected": 8.37
+  },
+  {
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.7,
+    "projected": 12.69
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 13.3,
+    "projected": 14.73
+  }
+]

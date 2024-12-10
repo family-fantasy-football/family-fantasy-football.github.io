@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Kirk Cousins",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 4.92,
+    "projected": 14.62
+  },
+  {
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.0,
+    "projected": 8.84
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.8,
+    "projected": 8.26
+  },
+  {
+    "player_name": "Curtis Samuel",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.3,
+    "projected": 4.88
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 23.0,
+    "projected": 14.76
+  },
+  {
+    "player_name": "Alexander Mattison",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.4,
+    "projected": 9.21
+  },
+  {
+    "player_name": "Taysom Hill",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 37.52,
+    "projected": 7.92
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.9,
+    "projected": 12.22
+  },
+  {
+    "player_name": "Nick Chubb",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.0,
+    "projected": 13.58
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 4.9,
+    "projected": 9.65
+  }
+]

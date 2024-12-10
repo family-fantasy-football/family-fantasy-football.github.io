@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 13.0,
+    "projected": 17.55
+  },
+  {
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.7,
+    "projected": 11.43
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.4,
+    "projected": 16.88
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.8,
+    "projected": 12.9
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.1,
+    "projected": 9.28
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 28.88,
+    "projected": 16.52
+  },
+  {
+    "player_name": "Isaiah Likely",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.1,
+    "projected": 5.96
+  },
+  {
+    "player_name": "Alec Pierce",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 1.4,
+    "projected": 5.52
+  },
+  {
+    "player_name": "Jalen Nailor",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 1.6,
+    "projected": 3.13
+  },
+  {
+    "player_name": "Andrei Iosivas",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.4,
+    "projected": 6.67
+  }
+]

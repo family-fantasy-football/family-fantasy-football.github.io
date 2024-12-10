@@ -1,0 +1,47 @@
+{
+  "tooltip": {
+    "trigger": "item",
+    "formatter": "{a} <br/>{b}: {d}%"
+  },
+  "legend": {
+    "orient": "vertical",
+    "left": "left",
+    "data": [
+      "QB",
+      "RB",
+      "WR",
+      "TE",
+      "D/ST",
+      "K"
+    ]
+  },
+  "series": [
+    {
+      "name": "Position Points",
+      "type": "pie",
+      "radius": [
+        "50%",
+        "70%"
+      ],
+      "avoidLabelOverlap": false,
+      "data": [
+        {
+          "value": 20.4,
+          "name": "QB"
+        },
+        {
+          "value": 26.7,
+          "name": "RB"
+        },
+        {
+          "value": 60.4,
+          "name": "WR"
+        },
+        {
+          "value": 4.9,
+          "name": "TE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 19.72,
+    "projected": 23.22
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.7,
+    "projected": 10.4
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.4,
+    "projected": 10.95
+  },
+  {
+    "player_name": "Tutu Atwell",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.5,
+    "projected": 9.33
+  },
+  {
+    "player_name": "Trey Sermon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.3,
+    "projected": 11.73
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.0,
+    "projected": 19.08
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 10.0,
+    "projected": 9.42
+  },
+  {
+    "player_name": "Roschon Johnson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 14.5,
+    "projected": 6.44
+  },
+  {
+    "player_name": "James Conner",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 13.0,
+    "projected": 12.07
+  },
+  {
+    "player_name": "Justin Fields",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 15.94,
+    "projected": 20.15
+  }
+]

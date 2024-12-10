@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 33.72,
+    "projected": 19.99
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 23.82,
+    "projected": 19.24
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.0,
+    "projected": 17.03
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.8,
+    "projected": 15.05
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.0,
+    "projected": 16.15
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 13.2,
+    "projected": 10.45
+  },
+  {
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.3,
+    "projected": 13.77
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.2,
+    "projected": 10.92
+  },
+  {
+    "player_name": "Jameson Williams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.8,
+    "projected": 7.13
+  },
+  {
+    "player_name": "Hunter Henry",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 1.9,
+    "projected": 8.45
+  }
+]

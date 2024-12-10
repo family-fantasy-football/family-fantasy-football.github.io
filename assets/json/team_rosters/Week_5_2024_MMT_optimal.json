@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 16.38,
+    "projected": 18.09
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.2,
+    "projected": 11.03
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.9,
+    "projected": 17.37
+  },
+  {
+    "player_name": "Amari Cooper",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.0,
+    "projected": 10.43
+  },
+  {
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.2,
+    "projected": 10.41
+  },
+  {
+    "player_name": "James Cook",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.9,
+    "projected": 14.29
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 19.7,
+    "projected": 6.57
+  },
+  {
+    "player_name": "Aaron Jones",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.8,
+    "projected": 15.65
+  },
+  {
+    "player_name": "Dontayvion Wicks",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.0,
+    "projected": 10.4
+  },
+  {
+    "player_name": "Deshaun Watson",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 8.4,
+    "projected": 15.51
+  }
+]

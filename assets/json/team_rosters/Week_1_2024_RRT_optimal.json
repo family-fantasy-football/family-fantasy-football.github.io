@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 18.62,
+    "projected": 15.35
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 25.0,
+    "projected": 12.07
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.9,
+    "projected": 14.82
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.7,
+    "projected": 11.22
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.5,
+    "projected": 12.43
+  },
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.8,
+    "projected": 15.54
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.5,
+    "projected": 9.64
+  },
+  {
+    "player_name": "Ty Chandler",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.7,
+    "projected": 8.32
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 5.1,
+    "projected": 7.85
+  },
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 17.84,
+    "projected": 17.2
+  }
+]

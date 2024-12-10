@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 25.9,
+    "projected": 17.43
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.6,
+    "projected": 12.78
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.8,
+    "projected": 10.38
+  },
+  {
+    "player_name": "Andrei Iosivas",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.6,
+    "projected": 5.0
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.9,
+    "projected": 17.14
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.5,
+    "projected": 13.59
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 13.2,
+    "projected": 7.09
+  },
+  {
+    "player_name": "Austin Ekeler",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.8,
+    "projected": 14.05
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.0,
+    "projected": 6.75
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 25.62,
+    "projected": 18.07
+  }
+]

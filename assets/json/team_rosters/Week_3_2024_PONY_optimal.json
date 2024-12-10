@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 28.06,
+    "projected": 18.14
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 41.0,
+    "projected": 9.12
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.0,
+    "projected": 9.04
+  },
+  {
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.2,
+    "projected": 7.97
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 30.6,
+    "projected": 17.19
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.3,
+    "projected": 14.23
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 12.5,
+    "projected": 8.4
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 11.4,
+    "projected": 13.25
+  },
+  {
+    "player_name": "Tank Dell",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.7,
+    "projected": 10.33
+  },
+  {
+    "player_name": "Justin Fields",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 18.4,
+    "projected": 15.72
+  }
+]

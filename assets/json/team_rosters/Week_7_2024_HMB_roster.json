@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 1.8,
+    "projected": 11.46
+  },
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.94,
+    "projected": 19.27
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 17.18,
+    "projected": 18.03
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 25.4,
+    "projected": 13.78
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.1,
+    "projected": 16.07
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 12.2,
+    "projected": 11.34
+  },
+  {
+    "player_name": "Chris Godwin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.0,
+    "projected": 15.15
+  },
+  {
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 16.2,
+    "projected": 11.99
+  },
+  {
+    "player_name": "Jameson Williams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 0.1,
+    "projected": 8.97
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.0,
+    "projected": 9.41
+  }
+]

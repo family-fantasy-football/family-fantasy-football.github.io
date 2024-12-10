@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 18.8,
+    "projected": 16.47
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.7,
+    "projected": 8.89
+  },
+  {
+    "player_name": "Alec Pierce",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 6.61
+  },
+  {
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.8,
+    "projected": 11.53
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 43.0,
+    "projected": 13.94
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.1,
+    "projected": 13.45
+  },
+  {
+    "player_name": "Isaiah Likely",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.6,
+    "projected": 7.36
+  },
+  {
+    "player_name": "Austin Ekeler",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 9.18
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.8,
+    "projected": 7.73
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 12.94,
+    "projected": 21.22
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 29.14,
+    "projected": 18.14
+  },
+  {
+    "player_name": "Cedric Tillman",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.5,
+    "projected": 8.65
+  },
+  {
+    "player_name": "Ray-Ray McCloud III",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.0,
+    "projected": 6.97
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.4,
+    "projected": 15.07
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.6,
+    "projected": 16.88
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.2,
+    "projected": 16.5
+  },
+  {
+    "player_name": "Hunter Henry",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.1,
+    "projected": 7.54
+  },
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 14.89
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.9,
+    "projected": 10.8
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 19.48,
+    "projected": 16.11
+  }
+]

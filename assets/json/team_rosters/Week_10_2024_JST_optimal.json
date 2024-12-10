@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 16.1,
+    "projected": 14.84
+  },
+  {
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.9,
+    "projected": 9.11
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.0,
+    "projected": 9.3
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.9,
+    "projected": 8.66
+  },
+  {
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 22.9,
+    "projected": 14.71
+  },
+  {
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.0,
+    "projected": 9.03
+  },
+  {
+    "player_name": "Pat Freiermuth",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.2,
+    "projected": 5.93
+  },
+  {
+    "player_name": "Christian McCaffrey",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 13.7,
+    "projected": 16.65
+  },
+  {
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.9,
+    "projected": 9.08
+  },
+  {
+    "player_name": "Daniel Jones",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 12.2,
+    "projected": 17.12
+  }
+]

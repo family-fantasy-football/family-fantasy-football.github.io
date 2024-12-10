@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 24.0,
+    "projected": 16.32
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.7,
+    "projected": 13.56
+  },
+  {
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.4,
+    "projected": 11.38
+  },
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 17.76,
+    "projected": 14.94
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.9,
+    "projected": 15.72
+  },
+  {
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.2,
+    "projected": 12.11
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 17.06,
+    "projected": 15.76
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.3,
+    "projected": 12.05
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.8,
+    "projected": 10.28
+  },
+  {
+    "player_name": "Cole Kmet",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 21.5,
+    "projected": 5.66
+  }
+]

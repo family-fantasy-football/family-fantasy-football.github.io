@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 33.42,
+    "projected": 21.84
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 36.3,
+    "projected": 13.36
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.1,
+    "projected": 17.97
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 25.0,
+    "projected": 11.41
+  },
+  {
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 23.56,
+    "projected": 13.37
+  },
+  {
+    "player_name": "Christian Kirk",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.8,
+    "projected": 9.95
+  },
+  {
+    "player_name": "Zack Moss",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.7,
+    "projected": 11.33
+  },
+  {
+    "player_name": "Mike Gesicki",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 4.1,
+    "projected": 5.77
+  },
+  {
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.4,
+    "projected": 9.16
+  },
+  {
+    "player_name": "Antonio Gibson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 6.1,
+    "projected": 8.74
+  }
+]

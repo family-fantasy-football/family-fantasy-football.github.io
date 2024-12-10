@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 26.0,
+    "projected": 20.23
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 26.1,
+    "projected": 10.79
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.6,
+    "projected": 15.19
+  },
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.2,
+    "projected": 15.23
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.4,
+    "projected": 17.43
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.9,
+    "projected": 15.02
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 21.8,
+    "projected": 12.44
+  },
+  {
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 14.6,
+    "projected": 15.8
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.2,
+    "projected": 13.41
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 24.06,
+    "projected": 17.32
+  }
+]

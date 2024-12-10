@@ -675,10 +675,49 @@ chart:
             ])
         
         markdown_content.append("\n")
+    
+    def biggest_overachiever(matchups):
+        overachievers = []
+        for matchup in matchups:
+            # Handle home team
+            home_team = matchup.home_team
+            if home_team and hasattr(matchup, 'home_score') and hasattr(matchup, 'home_projected'):
+                overachievers.append((home_team.team_name, matchup.home_score - matchup.home_projected))
+            
+            # Handle away team
+            away_team = matchup.away_team
+            if away_team and hasattr(matchup, 'away_score') and hasattr(matchup, 'away_projected'):
+                overachievers.append((away_team.team_name, matchup.away_score - matchup.away_projected))
+        
+        # Find the biggest overachiever
+        return max(overachievers, key=lambda x: x[1])
+
+    def biggest_underachiever(matchups):
+        underachievers = []
+        for matchup in matchups:
+            # Handle home team
+            home_team = matchup.home_team
+            if home_team and hasattr(matchup, 'home_score') and hasattr(matchup, 'home_projected'):
+                underachievers.append((home_team.team_name, matchup.home_score - matchup.home_projected))
+            
+            # Handle away team
+            away_team = matchup.away_team
+            if away_team and hasattr(matchup, 'away_score') and hasattr(matchup, 'away_projected'):
+                underachievers.append((away_team.team_name, matchup.away_score - matchup.away_projected))
+        
+        # Find the biggest underachiever
+        return min(underachievers, key=lambda x: x[1])
+
+
+    # Find the biggest overachiever and underachiever
+    overachiever = biggest_overachiever(box_scores[week])
+    underachiever = biggest_underachiever(box_scores[week])
     markdown_content.extend([
-        f"### League Stats \n",
+        f"### League Info \n",
         f"**Total Points Scored:** {total_points_in_week:.2f} <br>",
-        f"**Avg. Points Scored:** {total_points_in_week/len(league.teams):.2f}",
+        f"**Avg. Points Scored:** {total_points_in_week/len(league.teams):.2f}<br>",
+        f"**Biggest Overachiever:** {overachiever[0]} exceeded projections by {overachiever[1]:.2f} points (THIS IS JUST BC OF 2 WEEK PLAYOFFS)<br>",
+        f"**Biggest Underachiever:** {underachiever[0]} fell short of projections by {underachiever[1]:.2f} points (THIS IS JUST BC OF 2 WEEK PLAYOFFS)"
     ])
     # Create standings data for JSON
     standings_data = []
@@ -703,7 +742,7 @@ chart:
         "## Current Standings\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"575\"",
+        "data-height=\"635\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         f"data-url=\"{{{{ \"/assets/json/standings/{standings_filename}\"}}}}\">",

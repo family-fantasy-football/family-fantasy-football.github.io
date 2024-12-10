@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Deshaun Watson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 5.12,
+    "projected": 12.2
+  },
+  {
+    "player_name": "Amari Cooper",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.6,
+    "projected": 9.23
+  },
+  {
+    "player_name": "Dontayvion Wicks",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.3,
+    "projected": 4.02
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.8,
+    "projected": 12.03
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 25.7,
+    "projected": 17.72
+  },
+  {
+    "player_name": "Aaron Jones",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.1,
+    "projected": 14.16
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.3,
+    "projected": 10.96
+  },
+  {
+    "player_name": "James Cook",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.2,
+    "projected": 14.42
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.1,
+    "projected": 14.96
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 6.9,
+    "projected": 8.0
+  }
+]

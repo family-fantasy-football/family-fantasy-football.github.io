@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 24.16,
+    "projected": 22.53
+  },
+  {
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.2,
+    "projected": 7.27
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.9,
+    "projected": 15.37
+  },
+  {
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.5,
+    "projected": 8.46
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.2,
+    "projected": 17.5
+  },
+  {
+    "player_name": "Zack Moss",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.9,
+    "projected": 8.64
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 12.1,
+    "projected": 6.9
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 14.6,
+    "projected": 8.3
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 11.2,
+    "projected": 7.21
+  },
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 11.52,
+    "projected": 14.33
+  }
+]

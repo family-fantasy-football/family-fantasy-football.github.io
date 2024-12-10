@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Kirk Cousins",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 28.64,
+    "projected": 16.63
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.5,
+    "projected": 10.43
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.0,
+    "projected": 11.29
+  },
+  {
+    "player_name": "Garrett Wilson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.8,
+    "projected": 13.35
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.42,
+    "projected": 14.15
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.2,
+    "projected": 13.67
+  },
+  {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 20.0,
+    "projected": 8.31
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 11.7,
+    "projected": 8.21
+  },
+  {
+    "player_name": "Alexander Mattison",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 6.9,
+    "projected": 8.99
+  },
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 22.18,
+    "projected": 18.12
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 30.92,
+    "projected": 21.54
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.7,
+    "projected": 7.22
+  },
+  {
+    "player_name": "DeAndre Hopkins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.3,
+    "projected": 6.2
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.7,
+    "projected": 11.53
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 26.0,
+    "projected": 16.7
+  },
+  {
+    "player_name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.2,
+    "projected": 12.74
+  },
+  {
+    "player_name": "Kyle Pitts",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.9,
+    "projected": 7.9
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.9,
+    "projected": 7.74
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.2,
+    "projected": 9.75
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 12.84,
+    "projected": 14.96
+  }
+]

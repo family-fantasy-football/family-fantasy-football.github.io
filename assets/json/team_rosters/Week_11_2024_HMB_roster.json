@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.6,
+    "projected": 11.73
+  },
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 29.04,
+    "projected": 18.75
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 18.36,
+    "projected": 19.89
+  },
+  {
+    "player_name": "Joe Mixon",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 34.3,
+    "projected": 18.94
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.4,
+    "projected": 12.97
+  },
+  {
+    "player_name": "Najee Harris",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.3,
+    "projected": 11.52
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.3,
+    "projected": 10.65
+  },
+  {
+    "player_name": "Hunter Henry",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.3,
+    "projected": 8.53
+  },
+  {
+    "player_name": "Cedric Tillman",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.2,
+    "projected": 9.95
+  },
+  {
+    "player_name": "Aaron Jones",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 4.8,
+    "projected": 14.37
+  }
+]

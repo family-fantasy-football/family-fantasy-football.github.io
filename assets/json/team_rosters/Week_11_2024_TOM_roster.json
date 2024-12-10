@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.84,
+    "projected": 16.74
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.0,
+    "projected": 12.93
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 20.24,
+    "projected": 16.14
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.9,
+    "projected": 19.34
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.4,
+    "projected": 13.48
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.8,
+    "projected": 10.16
+  },
+  {
+    "player_name": "Austin Ekeler",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 13.6,
+    "projected": 7.7
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 0.0,
+    "projected": 6.98
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.1,
+    "projected": 10.07
+  },
+  {
+    "player_name": "Tank Dell",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.8,
+    "projected": 9.84
+  }
+]

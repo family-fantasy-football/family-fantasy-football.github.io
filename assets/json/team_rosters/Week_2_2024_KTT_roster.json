@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 9.76,
+    "projected": 21.06
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.5,
+    "projected": 17.58
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 21.5,
+    "projected": 12.76
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.4,
+    "projected": 12.38
+  },
+  {
+    "player_name": "Brandon Aiyuk",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.3,
+    "projected": 11.85
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.9,
+    "projected": 10.33
+  },
+  {
+    "player_name": "Zamir White",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.3,
+    "projected": 9.72
+  },
+  {
+    "player_name": "Kyle Pitts",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.5,
+    "projected": 9.62
+  },
+  {
+    "player_name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 14.1,
+    "projected": 13.42
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 6.64,
+    "projected": 17.56
+  }
+]

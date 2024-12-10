@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 20.1,
+    "projected": 18.7
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.7,
+    "projected": 13.7
+  },
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 17.32,
+    "projected": 17.22
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.5,
+    "projected": 15.89
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 2.1,
+    "projected": 8.12
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.32,
+    "projected": 15.75
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.6,
+    "projected": 11.43
+  },
+  {
+    "player_name": "Gabe Davis",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 0.0,
+    "projected": 8.43
+  },
+  {
+    "player_name": "Tyler Lockett",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 1.4,
+    "projected": 10.82
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 24.6,
+    "projected": 8.41
+  }
+]
