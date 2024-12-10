@@ -23,8 +23,8 @@ from fetch import *
 from make_assests import *
 
 def generate_about_md(league, week, teams, box_scores):
-    # create_weekly_scores_boxplot(teams, week)
-    # create_team_scatter_plot(league, week)
+    create_weekly_scores_boxplot_json(teams, week)
+    create_team_scatter_json(league, week)
     generate_roster_table(league, week)
     generate_standings_table(league, week)
     create_standings_bump_json(teams, week)
@@ -37,6 +37,8 @@ def generate_about_md(league, week, teams, box_scores):
     te_data_path = "../assets/json/weekly_te_rankings.json"
     wr_data_path = "../assets/json/weekly_wr_rankings.json"
     avg_pos_data_path = "../assets/json/heatmap_config.json"
+    scatter_plot_data_path = "../assets/json/plots/scatter_data.json"
+    boxplot_data_path = "../assets/json/plots/boxplot_data.json"
     # Load JSON data from file
     with open(bump_chart_data_path, "r") as json_file:
         bump_chart_data = json_file.read()
@@ -73,6 +75,18 @@ def generate_about_md(league, week, teams, box_scores):
     # Ensure JSON is properly formatted
     parsed_avg_pos_json = json.loads(avg_pos_data)
     formatted_avg_pos_json = json.dumps(parsed_avg_pos_json, indent=4)  # Prettify JSON
+    
+    with open(scatter_plot_data_path, "r") as json_file:
+        scatter_plot_data = json_file.read()
+    # Ensure JSON is properly formatted
+    scatter_plot_json = json.loads(scatter_plot_data)
+    formatted_scatter_plot_json = json.dumps(scatter_plot_json, indent=4)  # Prettify JSON
+    
+    with open(boxplot_data_path, "r") as json_file:
+        boxplot_data = json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_boxplot_plot_json = json.loads(boxplot_data)
+    formatted_boxplot_plot_json = json.dumps(parsed_boxplot_plot_json, indent=4)
     
     
     top_scorer = max(teams, key=lambda x: x.points_for)
@@ -175,7 +189,15 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 ```
 <br><br>
 
+```echarts
+{formatted_scatter_plot_json}
+```
+<br><br>
 
+```echarts
+{formatted_boxplot_plot_json}
+```
+<br><br>
 
 ### Average Position Rankings
 ```echarts

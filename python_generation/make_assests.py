@@ -15,10 +15,7 @@ from PIL import Image
 import os
 import json
 import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-from scipy.spatial import distance
-import matplotlib.pyplot as plt  # For generating colors
-import plotly.express as px
+
 
 from utils import *
 from fetch import *
@@ -738,157 +735,180 @@ def combine_draft_json():
     with open(output_file, 'w') as out_file:
         json.dump(sorted_data, out_file, indent=2)
 
-
-def create_team_scatter_plot(league, through_week):
+  
+        
+def create_weekly_scores_boxplot_json(teams, through_week, output_dir: str = "../assets/json"):
+    boxplot_data = {
+        "title": {
+            "text": "Weekly Score Distribution by Team",
+            "left": "center"
+        },
+        "xAxis": {
+            "type": "category",
+            "name": "Teams",
+            "nameLocation": "middle",
+            "nameGap": 30,
+            "data": [team.team_abbrev for team in teams]
+        },
+        "yAxis": {
+            "type": "value",
+            "name": "Points Scored",
+            "nameLocation": "middle",
+            "nameGap": 30
+        },
+        "series": [
+            {
+                "name": "Weekly Scores",
+                "type": "boxplot",
+                "data": [],
+                "itemStyle": {
+                    "borderWidth": 2
+                }
+            },
+            {
+                "name": "All Scores",
+                "type": "scatter",
+                "data": []
+            }
+        ],
+        "grid": {
+            "left": "4%",
+            "right": "1%",
+            "bottom": "1%",
+            "top": "10%",
+            "containLabel": True
+        }
+    }
+    
+    # Calculate box plot data and gather all scores
+    for idx, team in enumerate(teams):
+        scores = team.scores[:through_week]
+        
+        # Calculate statistics
+        q1 = np.percentile(scores, 25)
+        median = np.percentile(scores, 50)
+        q3 = np.percentile(scores, 75)
+        iqr = q3 - q1
+        lower_fence = max(min(scores), q1 - 1.5 * iqr)
+        upper_fence = min(max(scores), q3 + 1.5 * iqr)
+        
+        # Add box plot data
+        boxplot_data["series"][0]["data"].append([
+            round(lower_fence, 2),
+            round(q1, 2),
+            round(median, 2),
+            round(q3, 2),
+            round(upper_fence, 2)
+        ])
+        
+        # Add all scores as scatter points
+        for score in scores:
+            boxplot_data["series"][1]["data"].append([
+                idx,            # x-coordinate (team index)
+                round(score, 2),  # y-coordinate (score)
+                team.team_abbrev  # name for tooltip
+            ])
+    
+    os.makedirs(f"{output_dir}/plots", exist_ok=True)
+    with open(f"{output_dir}/plots/boxplot_data.json", 'w') as f:
+        json.dump(boxplot_data, f, indent=2)
+        
+def create_team_scatter_json(league, through_week, output_dir: str = "../assets/json"):
     # Get team data
-    team_data = []
+    points_for = []
+    points_against = []
     for team in league.teams:
-        points_for = sum(team.scores[:through_week])
-        points_against = sum(opponent.scores[i] for i, opponent in enumerate(team.schedule[:through_week]))
-        team_data.append({
-            'team': clean_team_name(team.team_name),
-            'points_for': points_for,
-            'points_against': points_against,
-        })
+        pf = sum(team.scores[:through_week])
+        pa = sum(opponent.scores[i] for i, opponent in enumerate(team.schedule[:through_week]))
+        points_for.append(pf)
+        points_against.append(pa)
+
+    # Calculate ranges and averages
+    min_val = min(min(points_for), min(points_against)) - 150
+    max_val = max(max(points_for), max(points_against)) + 150
+    avg_pf = np.mean(points_for)
+    avg_pa = np.mean(points_against)
+
+    scatter_data = {
+        "title": {
+            "text": "Points For vs Points Against",
+            "left": "center"
+        },
+        "tooltip": {
+            "trigger": "item",
+            "formatter": "{b}"
+        },
+        "xAxis": {
+            "type": "value",
+            "name": "Points For",
+            "nameLocation": "middle",
+            "nameGap": 30,
+            "min": min_val,
+            "max": max_val
+        },
+        "yAxis": {
+            "type": "value",
+            "name": "Points Against",
+            "nameLocation": "middle",
+            "nameGap": 40,
+            "min": min_val,
+            "max": max_val
+        },
+        "series": [
+            {
+                "name": "Teams",
+                "type": "scatter",
+                "symbolSize": 15,
+                "data": [
+                    {
+                        "name": clean_team_name(team.team_name),
+                        "value": [round(pf, 2), round(pa, 2)]
+                    }
+                    for team, pf, pa in zip(league.teams, points_for, points_against)
+                ],
+                "label": {
+                    "show": True,
+                    "position": "top",
+                    "formatter": "{b}"
+                }
+            },
+            {
+                "name": "Diagonal",
+                "type": "line",
+                "lineStyle": {
+                    "type": "dashed",
+                    "color": "gray"
+                },
+                "showSymbol": False,
+                "data": [[min_val, min_val], [max_val, max_val]]
+            },
+            {
+                "name": "Average Lines",
+                "type": "line",
+                "markLine": {
+                    "silent": True,
+                    "data": [
+                        {
+                            "xAxis": round(avg_pf, 2),
+                            "lineStyle": {"color": "blue", "opacity": 0.5}
+                        },
+                        {
+                            "yAxis": round(avg_pa, 2),
+                            "lineStyle": {"color": "red", "opacity": 0.5}
+                        }
+                    ]
+                }
+            }
+        ],
+        "grid": {
+            "left": "0%",
+            "right": "5%",
+            "bottom": "10%",
+            "top": "10%",
+            "containLabel": True
+        }
+    }
     
-    # Generate unique colors for each team
-    num_teams = len(league.teams)
-    cmap = plt.get_cmap("tab20")
-    colors = [cmap(i / num_teams) for i in range(num_teams)]
-    color_hex = [f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}" for r, g, b, _ in colors]
-    team_colors = {clean_team_name(team.team_name): color for team, color in zip(league.teams, color_hex)}
-
-    avg_points_for = np.mean([t['points_for'] for t in team_data])
-    avg_points_against = np.mean([t['points_against'] for t in team_data])
-
-    # Create points array for distance calculation
-    points = np.array([[t['points_for'], t['points_against']] for t in team_data])
-    
-    # Calculate distances between all points
-    dist_matrix = distance.cdist(points, points)
-    
-    # Set threshold for "close" points
-    threshold = 50  # Adjust this value based on your data scale
-    
-    # Determine text positions with slight adjustments to move them closer
-    text_offsets = []  # Store the offset for each label
-    for i, point in enumerate(points):
-        close_points = np.where(dist_matrix[i] < threshold)[0]
-        close_points = close_points[close_points != i]  # Remove self
-        
-        if len(close_points) > 0:
-            if i % 2 == 0:
-                text_offsets.append((0, 30/2))  # Slight offset to bring text closer
-            else:
-                text_offsets.append((-0, -30/2))  # Slight offset to bring text closer
-        else:
-            if point[0] > avg_points_for and point[1] > avg_points_against:
-                text_offsets.append((0, 30/2))
-            elif point[0] > avg_points_for:
-                text_offsets.append((0, -30/2))
-            elif point[1] > avg_points_against:
-                text_offsets.append((-0, 30/2))
-            else:
-                text_offsets.append((-0, -30/2))
-
-    # Add scatter plot
-    fig = go.Figure()
-
-    fig.add_trace(go.Scatter(
-        x=[t['points_for'] for t in team_data],
-        y=[t['points_against'] for t in team_data],
-        mode='markers',
-        hovertemplate="<b>%{text}</b><br>" +
-                      "Points For: %{x:.1f}<br>" +
-                      "Points Against: %{y:.1f}<extra></extra>",
-        marker=dict(
-            size=15,
-            color=[team_colors[t['team']] for t in team_data]  # Assign unique colors
-        ),
-        text=[t['team'] for t in team_data],
-    ))
-
-    # Apply text annotations with the calculated offsets
-    for i, (x_pos, y_pos) in enumerate(zip([t['points_for'] for t in team_data], [t['points_against'] for t in team_data])):
-        offset_x, offset_y = text_offsets[i]
-        fig.add_annotation(
-            x=x_pos + offset_x,
-            y=y_pos + offset_y,
-            text=team_data[i]['team'],
-            showarrow=False,
-            font=dict(size=12,color="black"),
-            textangle=0,
-            # bgcolor='rgba(255,255,255,0.7)',  # Optional: Background color for the text
-            # borderpad=2,
-            # bordercolor='rgba(0,0,0,0.2)',  # Optional: Border color for the text
-            # opacity=0.8
-        )
-
-    min_val = min(min(t['points_for'] for t in team_data), min(t['points_against'] for t in team_data)) - 150
-    max_val = max(max(t['points_for'] for t in team_data), max(t['points_against'] for t in team_data)) + 150
-    
-    # Add diagonal line
-    fig.add_trace(go.Scatter(
-        x=[min_val, max_val],
-        y=[min_val, max_val],
-        mode='lines',
-        line=dict(dash='dash', color='gray'),
-        showlegend=False,
-        hoverinfo='skip'
-    ))
-
-    # Add horizontal and vertical averages
-    fig.add_hline(y=avg_points_against, line_color="red", opacity=0.5,
-                  annotation_text=f"",
-                  annotation_position="right")
-    fig.add_vline(x=avg_points_for, line_color="blue", opacity=0.5,
-                  annotation_text=f"",
-                  annotation_position="top")
-
-    # Update layout
-    fig.update_layout(
-        xaxis_title="Points For",
-        yaxis_title="Points Against",
-        xaxis=dict(range=[min_val, max_val]),
-        yaxis=dict(range=[min_val, max_val], side='right'),
-        width=1050,
-        height=600,
-        showlegend=False,
-        margin=dict(l=30, r=100, t=10, b=0)
-    )
-
-    fig.write_html('../assets/plotly/scatter_plot.html')
-
-
-def create_weekly_scores_boxplot(teams, through_week):
-    # Generate unique colors for each team
-    num_teams = len(teams)
-    cmap = plt.get_cmap("tab20")  # Choose the color map
-    colors = [cmap(i / num_teams) for i in range(num_teams)]
-    color_hex = [f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}" for r, g, b, _ in colors]
-    team_colors = {clean_team_name(team.team_name): color for team, color in zip(teams, color_hex)}
-
-    fig = go.Figure()
-    
-    for team in teams:
-        fig.add_trace(go.Box(
-            y=team.scores[:through_week],
-            name=team.team_abbrev,
-            boxpoints='all',
-            jitter=0.3,
-            pointpos=-1.8,
-            marker_color=team_colors[clean_team_name(team.team_name)]  # Add this line to set the color
-        ))
-    
-    fig.update_layout(
-        # title='Weekly Score Distribution by Team',
-        yaxis_title='Points Scored',
-        xaxis_title='Teams',
-        showlegend=False,
-        height=600,
-        width=900
-        
-        # margin=dict(l=40, r=10, t=20, b=50)
-    )
-    
-    fig.write_html('../assets/plotly/boxes_plot.html')
+    os.makedirs(f"{output_dir}/plots", exist_ok=True)
+    with open(f"{output_dir}/plots/scatter_data.json", 'w') as f:
+        json.dump(scatter_data, f, indent=2)
