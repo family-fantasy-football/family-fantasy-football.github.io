@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.54,
+    "projected": 17.18
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 38.1,
+    "projected": 17.47
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 35.8,
+    "projected": 15.42
+  },
+  {
+    "player_name": "Jalen McMillan",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.9,
+    "projected": 4.21
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.6,
+    "projected": 11.32
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 12.3,
+    "projected": 5.64
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.7,
+    "projected": 13.18
+  },
+  {
+    "player_name": "Amari Cooper",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 12.5,
+    "projected": 9.07
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.9,
+    "projected": 11.45
+  },
+  {
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 14.06,
+    "projected": 15.62
+  }
+]

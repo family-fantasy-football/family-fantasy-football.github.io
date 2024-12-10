@@ -8,7 +8,7 @@
     "before_trade": "303.6",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "63.8",
+    "value_diff": "45.4",
     "grade": "A"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "40.3",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "-190.5",
+    "value_diff": "-208.3",
     "grade": "D"
   },
   {
@@ -28,11 +28,11 @@
     "round": 1,
     "pick": 3,
     "player_name": "CeeDee Lamb",
-    "points": "158.4",
-    "before_trade": "158.4",
+    "points": "176.8",
+    "before_trade": "176.8",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-40.7",
+    "value_diff": "-37.6",
     "grade": "C"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "118.3",
     "after_trade": "0.0",
     "draft_position": 4,
-    "value_diff": "-10.0",
+    "value_diff": "-19.8",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "144.7",
     "after_trade": "0.0",
     "draft_position": 5,
-    "value_diff": "-43.4",
+    "value_diff": "-57.9",
     "grade": "C"
   },
   {
@@ -68,8 +68,8 @@
     "before_trade": "282.5",
     "after_trade": "0.0",
     "draft_position": 6,
-    "value_diff": "42.1",
-    "grade": "A"
+    "value_diff": "23.6",
+    "grade": "B"
   },
   {
     "team": "Who Killed Charbonnet Ramsey?",
@@ -80,7 +80,7 @@
     "before_trade": "321.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "89.1",
+    "value_diff": "71.2",
     "grade": "A"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "197.7",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "22.5",
+    "value_diff": "9.0",
     "grade": "B"
   },
   {
@@ -104,8 +104,8 @@
     "before_trade": "217.1",
     "after_trade": "0.0",
     "draft_position": 9,
-    "value_diff": "-18.2",
-    "grade": "B"
+    "value_diff": "-36.3",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -116,7 +116,7 @@
     "before_trade": "220.3",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "21.0",
+    "value_diff": "5.6",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "185.7",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "10.4",
+    "value_diff": "-3.1",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "131.6",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "-32.7",
+    "value_diff": "-45.4",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "166.3",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-29.1",
+    "value_diff": "-44.1",
     "grade": "C"
   },
   {
@@ -160,11 +160,11 @@
     "round": 2,
     "pick": 4,
     "player_name": "Ja'Marr Chase",
-    "points": "232.8",
-    "before_trade": "232.8",
+    "points": "270.9",
+    "before_trade": "270.9",
     "after_trade": "0.0",
     "draft_position": 14,
-    "value_diff": "51.5",
+    "value_diff": "75.7",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "219.8",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "56.7",
+    "value_diff": "44.2",
     "grade": "A"
   },
   {
@@ -184,11 +184,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Joe Burrow",
-    "points": "259.5",
-    "before_trade": "259.5",
+    "points": "284.0",
+    "before_trade": "284.0",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "46.3",
+    "value_diff": "54.5",
     "grade": "A"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "158.7",
     "after_trade": "0.0",
     "draft_position": 17,
-    "value_diff": "-2.9",
+    "value_diff": "-15.3",
     "grade": "B"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "285.5",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "110.1",
+    "value_diff": "96.6",
     "grade": "A"
   },
   {
@@ -224,7 +224,7 @@
     "before_trade": "66.5",
     "after_trade": "0.0",
     "draft_position": 19,
-    "value_diff": "-144.5",
+    "value_diff": "-160.7",
     "grade": "D"
   },
   {
@@ -236,7 +236,7 @@
     "before_trade": "135.2",
     "after_trade": "0.0",
     "draft_position": 20,
-    "value_diff": "-45.4",
+    "value_diff": "-59.3",
     "grade": "C"
   },
   {
@@ -248,7 +248,7 @@
     "before_trade": "180.6",
     "after_trade": "0.0",
     "draft_position": 21,
-    "value_diff": "-30.9",
+    "value_diff": "-47.2",
     "grade": "C"
   },
   {
@@ -260,7 +260,7 @@
     "before_trade": "40.9",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-119.6",
+    "value_diff": "-131.9",
     "grade": "D"
   },
   {
@@ -272,7 +272,7 @@
     "before_trade": "116.5",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-95.1",
+    "value_diff": "-111.3",
     "grade": "D"
   },
   {
@@ -284,7 +284,7 @@
     "before_trade": "222.9",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "20.9",
+    "value_diff": "5.4",
     "grade": "B"
   },
   {
@@ -296,7 +296,7 @@
     "before_trade": "211.5",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "13.2",
+    "value_diff": "-2.1",
     "grade": "B"
   },
   {
@@ -308,7 +308,7 @@
     "before_trade": "208.8",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "43.9",
+    "value_diff": "31.3",
     "grade": "A"
   },
   {
@@ -320,7 +320,7 @@
     "before_trade": "125.3",
     "after_trade": "0.0",
     "draft_position": 27,
-    "value_diff": "-38.1",
+    "value_diff": "-50.7",
     "grade": "C"
   },
   {
@@ -332,7 +332,7 @@
     "before_trade": "198.9",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "55.3",
+    "value_diff": "44.2",
     "grade": "A"
   },
   {
@@ -344,7 +344,7 @@
     "before_trade": "188.1",
     "after_trade": "0.0",
     "draft_position": 29,
-    "value_diff": "30.0",
+    "value_diff": "17.8",
     "grade": "B"
   },
   {
@@ -356,7 +356,7 @@
     "before_trade": "122.5",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "-28.0",
+    "value_diff": "-39.6",
     "grade": "C"
   },
   {
@@ -368,8 +368,8 @@
     "before_trade": "188.2",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "-14.6",
-    "grade": "B"
+    "value_diff": "-30.2",
+    "grade": "C"
   },
   {
     "team": "Tom and Jerry",
@@ -380,7 +380,7 @@
     "before_trade": "60.7",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-94.2",
+    "value_diff": "-106.1",
     "grade": "D"
   },
   {
@@ -392,7 +392,7 @@
     "before_trade": "128.0",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-14.8",
+    "value_diff": "-25.8",
     "grade": "B"
   },
   {
@@ -404,7 +404,7 @@
     "before_trade": "247.7",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "84.6",
+    "value_diff": "72.1",
     "grade": "A"
   },
   {
@@ -416,7 +416,7 @@
     "before_trade": "94.5",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-50.9",
+    "value_diff": "-62.0",
     "grade": "C"
   },
   {
@@ -428,7 +428,7 @@
     "before_trade": "198.6",
     "after_trade": "0.0",
     "draft_position": 36,
-    "value_diff": "47.7",
+    "value_diff": "36.1",
     "grade": "A"
   },
   {
@@ -440,7 +440,7 @@
     "before_trade": "80.0",
     "after_trade": "0.0",
     "draft_position": 37,
-    "value_diff": "-74.5",
+    "value_diff": "-86.4",
     "grade": "D"
   },
   {
@@ -452,7 +452,7 @@
     "before_trade": "92.5",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "-35.8",
+    "value_diff": "-45.6",
     "grade": "C"
   },
   {
@@ -464,7 +464,7 @@
     "before_trade": "149.6",
     "after_trade": "0.0",
     "draft_position": 39,
-    "value_diff": "-2.2",
+    "value_diff": "-13.9",
     "grade": "B"
   },
   {
@@ -476,7 +476,7 @@
     "before_trade": "119.2",
     "after_trade": "0.0",
     "draft_position": 40,
-    "value_diff": "-25.7",
+    "value_diff": "-36.8",
     "grade": "C"
   },
   {
@@ -488,7 +488,7 @@
     "before_trade": "159.8",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "19.2",
+    "value_diff": "8.3",
     "grade": "B"
   },
   {
@@ -500,7 +500,7 @@
     "before_trade": "122.2",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "-23.3",
+    "value_diff": "-34.4",
     "grade": "C"
   },
   {
@@ -512,7 +512,7 @@
     "before_trade": "178.7",
     "after_trade": "0.0",
     "draft_position": 43,
-    "value_diff": "27.8",
+    "value_diff": "16.2",
     "grade": "B"
   },
   {
@@ -524,7 +524,7 @@
     "before_trade": "90.7",
     "after_trade": "41.0",
     "draft_position": 44,
-    "value_diff": "-14.1",
+    "value_diff": "-25.3",
     "grade": "B"
   },
   {
@@ -536,7 +536,7 @@
     "before_trade": "142.1",
     "after_trade": "0.0",
     "draft_position": 45,
-    "value_diff": "3.4",
+    "value_diff": "-7.3",
     "grade": "B"
   },
   {
@@ -548,7 +548,7 @@
     "before_trade": "261.8",
     "after_trade": "0.0",
     "draft_position": 46,
-    "value_diff": "66.1",
+    "value_diff": "51.0",
     "grade": "A"
   },
   {
@@ -560,7 +560,7 @@
     "before_trade": "140.8",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "-0.6",
+    "value_diff": "-11.5",
     "grade": "B"
   },
   {
@@ -572,7 +572,7 @@
     "before_trade": "113.6",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-23.1",
+    "value_diff": "-33.7",
     "grade": "C"
   },
   {
@@ -584,7 +584,7 @@
     "before_trade": "216.3",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "65.5",
+    "value_diff": "53.9",
     "grade": "A"
   },
   {
@@ -596,7 +596,7 @@
     "before_trade": "148.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-2.4",
+    "value_diff": "-14.0",
     "grade": "B"
   },
   {
@@ -608,7 +608,7 @@
     "before_trade": "90.0",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-48.6",
+    "value_diff": "-59.3",
     "grade": "C"
   },
   {
@@ -620,7 +620,7 @@
     "before_trade": "214.8",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "65.0",
+    "value_diff": "53.5",
     "grade": "A"
   },
   {
@@ -632,7 +632,7 @@
     "before_trade": "134.2",
     "after_trade": "0.0",
     "draft_position": 53,
-    "value_diff": "-2.6",
+    "value_diff": "-13.1",
     "grade": "B"
   },
   {
@@ -644,7 +644,7 @@
     "before_trade": "204.3",
     "after_trade": "0.0",
     "draft_position": 54,
-    "value_diff": "11.5",
+    "value_diff": "-3.3",
     "grade": "B"
   },
   {
@@ -656,7 +656,7 @@
     "before_trade": "54.6",
     "after_trade": "53.2",
     "draft_position": 55,
-    "value_diff": "-32.3",
+    "value_diff": "-43.1",
     "grade": "C"
   },
   {
@@ -668,7 +668,7 @@
     "before_trade": "154.7",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "29.8",
+    "value_diff": "20.2",
     "grade": "B"
   },
   {
@@ -680,7 +680,7 @@
     "before_trade": "144.7",
     "after_trade": "0.0",
     "draft_position": 57,
-    "value_diff": "9.2",
+    "value_diff": "-1.3",
     "grade": "B"
   },
   {
@@ -692,7 +692,7 @@
     "before_trade": "98.4",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-41.8",
+    "value_diff": "-52.6",
     "grade": "C"
   },
   {
@@ -704,7 +704,7 @@
     "before_trade": "41.5",
     "after_trade": "63.7",
     "draft_position": 59,
-    "value_diff": "-87.5",
+    "value_diff": "-102.3",
     "grade": "D"
   },
   {
@@ -716,7 +716,7 @@
     "before_trade": "49.9",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-91.5",
+    "value_diff": "-102.3",
     "grade": "D"
   },
   {
@@ -728,7 +728,7 @@
     "before_trade": "127.9",
     "after_trade": "0.0",
     "draft_position": 61,
-    "value_diff": "-5.0",
+    "value_diff": "-15.2",
     "grade": "B"
   },
   {
@@ -740,7 +740,7 @@
     "before_trade": "124.0",
     "after_trade": "0.0",
     "draft_position": 62,
-    "value_diff": "-15.9",
+    "value_diff": "-26.6",
     "grade": "B"
   },
   {
@@ -752,7 +752,7 @@
     "before_trade": "64.4",
     "after_trade": "21.7",
     "draft_position": 63,
-    "value_diff": "-46.1",
+    "value_diff": "-56.3",
     "grade": "C"
   },
   {
@@ -764,7 +764,7 @@
     "before_trade": "198.2",
     "after_trade": "0.0",
     "draft_position": 64,
-    "value_diff": "70.9",
+    "value_diff": "61.1",
     "grade": "A"
   },
   {
@@ -776,7 +776,7 @@
     "before_trade": "156.0",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "45.9",
+    "value_diff": "37.4",
     "grade": "A"
   },
   {
@@ -788,7 +788,7 @@
     "before_trade": "71.3",
     "after_trade": "19.3",
     "draft_position": 66,
-    "value_diff": "-44.5",
+    "value_diff": "-54.9",
     "grade": "C"
   },
   {
@@ -800,7 +800,7 @@
     "before_trade": "112.9",
     "after_trade": "0.0",
     "draft_position": 67,
-    "value_diff": "-4.2",
+    "value_diff": "-13.2",
     "grade": "B"
   },
   {
@@ -812,7 +812,7 @@
     "before_trade": "137.3",
     "after_trade": "0.0",
     "draft_position": 68,
-    "value_diff": "29.5",
+    "value_diff": "21.2",
     "grade": "B"
   },
   {
@@ -824,7 +824,7 @@
     "before_trade": "47.8",
     "after_trade": "18.2",
     "draft_position": 69,
-    "value_diff": "-40.8",
+    "value_diff": "-49.1",
     "grade": "C"
   },
   {
@@ -832,12 +832,12 @@
     "round": 7,
     "pick": 10,
     "player_name": "Tee Higgins",
-    "points": "107.3",
-    "before_trade": "107.3",
+    "points": "110.6",
+    "before_trade": "110.6",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-22.1",
-    "grade": "C"
+    "value_diff": "-28.8",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -848,7 +848,7 @@
     "before_trade": "64.6",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-38.3",
+    "value_diff": "-46.2",
     "grade": "C"
   },
   {
@@ -860,7 +860,7 @@
     "before_trade": "161.7",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "44.2",
+    "value_diff": "35.1",
     "grade": "A"
   },
   {
@@ -872,7 +872,7 @@
     "before_trade": "88.0",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-95.9",
+    "value_diff": "-110.0",
     "grade": "D"
   },
   {
@@ -884,7 +884,7 @@
     "before_trade": "52.9",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "-78.4",
+    "value_diff": "-88.5",
     "grade": "D"
   },
   {
@@ -896,7 +896,7 @@
     "before_trade": "175.6",
     "after_trade": "0.0",
     "draft_position": 75,
-    "value_diff": "52.3",
+    "value_diff": "42.8",
     "grade": "A"
   },
   {
@@ -908,7 +908,7 @@
     "before_trade": "112.8",
     "after_trade": "0.0",
     "draft_position": 76,
-    "value_diff": "-19.7",
+    "value_diff": "-29.9",
     "grade": "B"
   },
   {
@@ -920,7 +920,7 @@
     "before_trade": "169.8",
     "after_trade": "0.0",
     "draft_position": 77,
-    "value_diff": "-22.0",
+    "value_diff": "-36.8",
     "grade": "C"
   },
   {
@@ -932,7 +932,7 @@
     "before_trade": "121.1",
     "after_trade": "46.9",
     "draft_position": 78,
-    "value_diff": "39.3",
+    "value_diff": "29.4",
     "grade": "A"
   },
   {
@@ -944,7 +944,7 @@
     "before_trade": "146.1",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "31.9",
+    "value_diff": "23.2",
     "grade": "B"
   },
   {
@@ -956,7 +956,7 @@
     "before_trade": "26.3",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-99.8",
+    "value_diff": "-109.5",
     "grade": "D"
   },
   {
@@ -968,7 +968,7 @@
     "before_trade": "86.8",
     "after_trade": "0.0",
     "draft_position": 81,
-    "value_diff": "-18.1",
+    "value_diff": "-26.2",
     "grade": "B"
   },
   {
@@ -980,7 +980,7 @@
     "before_trade": "105.9",
     "after_trade": "0.0",
     "draft_position": 82,
-    "value_diff": "-0.1",
+    "value_diff": "-8.3",
     "grade": "B"
   },
   {
@@ -992,7 +992,7 @@
     "before_trade": "138.5",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "9.4",
+    "value_diff": "-0.6",
     "grade": "B"
   },
   {
@@ -1004,7 +1004,7 @@
     "before_trade": "105.2",
     "after_trade": "0.0",
     "draft_position": 84,
-    "value_diff": "-8.0",
+    "value_diff": "-16.7",
     "grade": "B"
   },
   {
@@ -1016,7 +1016,7 @@
     "before_trade": "157.1",
     "after_trade": "0.0",
     "draft_position": 85,
-    "value_diff": "34.0",
+    "value_diff": "24.5",
     "grade": "A"
   },
   {
@@ -1028,7 +1028,7 @@
     "before_trade": "172.3",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "52.9",
+    "value_diff": "43.7",
     "grade": "A"
   },
   {
@@ -1040,7 +1040,7 @@
     "before_trade": "57.4",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "-67.8",
+    "value_diff": "-77.4",
     "grade": "D"
   },
   {
@@ -1052,7 +1052,7 @@
     "before_trade": "222.5",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "42.9",
+    "value_diff": "29.1",
     "grade": "A"
   },
   {
@@ -1064,7 +1064,7 @@
     "before_trade": "259.3",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "71.6",
+    "value_diff": "57.2",
     "grade": "A"
   },
   {
@@ -1076,7 +1076,7 @@
     "before_trade": "145.2",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-45.3",
+    "value_diff": "-59.9",
     "grade": "C"
   },
   {
@@ -1088,7 +1088,7 @@
     "before_trade": "49.3",
     "after_trade": "0.0",
     "draft_position": 91,
-    "value_diff": "-71.2",
+    "value_diff": "-80.5",
     "grade": "D"
   },
   {
@@ -1100,7 +1100,7 @@
     "before_trade": "20.7",
     "after_trade": "0.0",
     "draft_position": 92,
-    "value_diff": "-89.7",
+    "value_diff": "-98.2",
     "grade": "D"
   },
   {
@@ -1112,7 +1112,7 @@
     "before_trade": "70.4",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-61.7",
+    "value_diff": "-71.8",
     "grade": "D"
   },
   {
@@ -1124,7 +1124,7 @@
     "before_trade": "72.7",
     "after_trade": "0.0",
     "draft_position": 94,
-    "value_diff": "-34.7",
+    "value_diff": "-43.0",
     "grade": "C"
   },
   {
@@ -1136,7 +1136,7 @@
     "before_trade": "155.1",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "47.3",
+    "value_diff": "39.0",
     "grade": "A"
   },
   {
@@ -1148,7 +1148,7 @@
     "before_trade": "73.4",
     "after_trade": "36.1",
     "draft_position": 96,
-    "value_diff": "-13.4",
+    "value_diff": "-22.9",
     "grade": "B"
   },
   {
@@ -1160,7 +1160,7 @@
     "before_trade": "81.4",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-42.0",
+    "value_diff": "-51.5",
     "grade": "C"
   },
   {
@@ -1172,7 +1172,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-197.8",
+    "value_diff": "-213.0",
     "grade": "D"
   },
   {
@@ -1184,7 +1184,7 @@
     "before_trade": "100.6",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "-21.7",
+    "value_diff": "-31.1",
     "grade": "C"
   },
   {
@@ -1196,7 +1196,7 @@
     "before_trade": "128.5",
     "after_trade": "0.0",
     "draft_position": 100,
-    "value_diff": "5.1",
+    "value_diff": "-4.4",
     "grade": "B"
   },
   {
@@ -1208,7 +1208,7 @@
     "before_trade": "135.6",
     "after_trade": "0.0",
     "draft_position": 101,
-    "value_diff": "-48.3",
+    "value_diff": "-62.5",
     "grade": "C"
   },
   {
@@ -1220,7 +1220,7 @@
     "before_trade": "149.3",
     "after_trade": "0.0",
     "draft_position": 102,
-    "value_diff": "31.6",
+    "value_diff": "22.5",
     "grade": "B"
   },
   {
@@ -1232,7 +1232,7 @@
     "before_trade": "75.6",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "-39.6",
+    "value_diff": "-48.5",
     "grade": "C"
   },
   {
@@ -1244,7 +1244,7 @@
     "before_trade": "158.5",
     "after_trade": "0.0",
     "draft_position": 104,
-    "value_diff": "40.9",
+    "value_diff": "31.9",
     "grade": "A"
   },
   {
@@ -1256,7 +1256,7 @@
     "before_trade": "31.3",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-144.3",
+    "value_diff": "-157.8",
     "grade": "D"
   },
   {
@@ -1264,11 +1264,11 @@
     "round": 11,
     "pick": 6,
     "player_name": "Jake Ferguson",
-    "points": "56.4",
+    "points": "61.1",
     "before_trade": "54.8",
-    "after_trade": "1.6",
+    "after_trade": "6.3",
     "draft_position": 106,
-    "value_diff": "-45.3",
+    "value_diff": "-48.4",
     "grade": "C"
   },
   {
@@ -1280,7 +1280,7 @@
     "before_trade": "42.5",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-72.6",
+    "value_diff": "-81.4",
     "grade": "D"
   },
   {
@@ -1292,7 +1292,7 @@
     "before_trade": "100.5",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "-10.6",
+    "value_diff": "-19.2",
     "grade": "B"
   },
   {
@@ -1304,7 +1304,7 @@
     "before_trade": "151.9",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "40.3",
+    "value_diff": "31.7",
     "grade": "A"
   },
   {
@@ -1316,7 +1316,7 @@
     "before_trade": "67.6",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-47.5",
+    "value_diff": "-56.4",
     "grade": "C"
   },
   {
@@ -1328,7 +1328,7 @@
     "before_trade": "145.8",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "34.0",
+    "value_diff": "25.4",
     "grade": "A"
   },
   {
@@ -1340,7 +1340,7 @@
     "before_trade": "110.6",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "-3.2",
+    "value_diff": "-11.9",
     "grade": "B"
   },
   {
@@ -1348,11 +1348,11 @@
     "round": 12,
     "pick": 3,
     "player_name": "Chase Brown",
-    "points": "158.4",
-    "before_trade": "158.4",
+    "points": "179.7",
+    "before_trade": "179.7",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "46.5",
+    "value_diff": "59.2",
     "grade": "A"
   },
   {
@@ -1364,7 +1364,7 @@
     "before_trade": "70.4",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "-36.8",
+    "value_diff": "-45.0",
     "grade": "C"
   },
   {
@@ -1376,7 +1376,7 @@
     "before_trade": "6.3",
     "after_trade": "0.0",
     "draft_position": 115,
-    "value_diff": "-91.7",
+    "value_diff": "-99.3",
     "grade": "D"
   },
   {
@@ -1388,7 +1388,7 @@
     "before_trade": "134.5",
     "after_trade": "0.0",
     "draft_position": 116,
-    "value_diff": "22.8",
+    "value_diff": "14.2",
     "grade": "B"
   },
   {
@@ -1400,8 +1400,8 @@
     "before_trade": "40.7",
     "after_trade": "0.0",
     "draft_position": 117,
-    "value_diff": "-62.2",
-    "grade": "D"
+    "value_diff": "-70.1",
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
@@ -1412,7 +1412,7 @@
     "before_trade": "152.0",
     "after_trade": "0.0",
     "draft_position": 118,
-    "value_diff": "44.7",
+    "value_diff": "36.5",
     "grade": "A"
   },
   {
@@ -1424,7 +1424,7 @@
     "before_trade": "142.8",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "25.5",
+    "value_diff": "16.5",
     "grade": "B"
   },
   {
@@ -1436,7 +1436,7 @@
     "before_trade": "123.6",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "17.5",
+    "value_diff": "9.3",
     "grade": "B"
   },
   {
@@ -1448,7 +1448,7 @@
     "before_trade": "105.5",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-5.4",
+    "value_diff": "-13.9",
     "grade": "B"
   },
   {
@@ -1460,7 +1460,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-103.7",
+    "value_diff": "-111.7",
     "grade": "D"
   },
   {
@@ -1472,7 +1472,7 @@
     "before_trade": "86.7",
     "after_trade": "75.5",
     "draft_position": 123,
-    "value_diff": "73.7",
+    "value_diff": "66.9",
     "grade": "A"
   },
   {
@@ -1484,7 +1484,7 @@
     "before_trade": "58.7",
     "after_trade": "0.0",
     "draft_position": 124,
-    "value_diff": "-37.5",
+    "value_diff": "-44.9",
     "grade": "C"
   },
   {
@@ -1496,7 +1496,7 @@
     "before_trade": "120.1",
     "after_trade": "0.0",
     "draft_position": 125,
-    "value_diff": "17.0",
+    "value_diff": "9.1",
     "grade": "B"
   },
   {
@@ -1508,7 +1508,7 @@
     "before_trade": "49.7",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "-48.0",
+    "value_diff": "-55.5",
     "grade": "C"
   },
   {
@@ -1520,7 +1520,7 @@
     "before_trade": "9.1",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-88.2",
+    "value_diff": "-95.7",
     "grade": "D"
   },
   {
@@ -1532,7 +1532,7 @@
     "before_trade": "75.1",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-16.0",
+    "value_diff": "-23.0",
     "grade": "B"
   },
   {
@@ -1544,7 +1544,7 @@
     "before_trade": "6.2",
     "after_trade": "0.0",
     "draft_position": 129,
-    "value_diff": "-75.1",
+    "value_diff": "-81.4",
     "grade": "D"
   },
   {
@@ -1556,7 +1556,7 @@
     "before_trade": "43.9",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-66.6",
+    "value_diff": "-75.1",
     "grade": "D"
   },
   {
@@ -1568,7 +1568,7 @@
     "before_trade": "83.6",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-20.2",
+    "value_diff": "-28.2",
     "grade": "B"
   },
   {
@@ -1580,7 +1580,7 @@
     "before_trade": "20.9",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-81.9",
+    "value_diff": "-89.8",
     "grade": "D"
   },
   {
@@ -1592,7 +1592,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 133,
-    "value_diff": "-82.7",
+    "value_diff": "-89.1",
     "grade": "D"
   },
   {
@@ -1604,7 +1604,7 @@
     "before_trade": "2.2",
     "after_trade": "34.7",
     "draft_position": 134,
-    "value_diff": "-66.4",
+    "value_diff": "-74.3",
     "grade": "D"
   },
   {
@@ -1616,7 +1616,7 @@
     "before_trade": "124.4",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "30.0",
+    "value_diff": "22.7",
     "grade": "B"
   },
   {
@@ -1628,7 +1628,7 @@
     "before_trade": "2.6",
     "after_trade": "0.0",
     "draft_position": 136,
-    "value_diff": "-75.4",
+    "value_diff": "-81.4",
     "grade": "D"
   },
   {
@@ -1640,7 +1640,7 @@
     "before_trade": "38.9",
     "after_trade": "0.0",
     "draft_position": 137,
-    "value_diff": "-64.3",
+    "value_diff": "-72.2",
     "grade": "D"
   },
   {
@@ -1652,7 +1652,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-90.6",
+    "value_diff": "-97.5",
     "grade": "D"
   },
   {
@@ -1664,7 +1664,7 @@
     "before_trade": "182.7",
     "after_trade": "0.0",
     "draft_position": 139,
-    "value_diff": "90.0",
+    "value_diff": "82.8",
     "grade": "A"
   },
   {
@@ -1676,7 +1676,7 @@
     "before_trade": "43.4",
     "after_trade": "0.0",
     "draft_position": 140,
-    "value_diff": "-33.7",
+    "value_diff": "-39.6",
     "grade": "C"
   },
   {
@@ -1688,7 +1688,7 @@
     "before_trade": "17.9",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-69.8",
+    "value_diff": "-76.6",
     "grade": "D"
   },
   {
@@ -1700,7 +1700,7 @@
     "before_trade": "97.0",
     "after_trade": "0.0",
     "draft_position": 142,
-    "value_diff": "13.0",
+    "value_diff": "6.6",
     "grade": "B"
   },
   {
@@ -1712,7 +1712,7 @@
     "before_trade": "88.9",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "5.9",
+    "value_diff": "-0.5",
     "grade": "B"
   },
   {
@@ -1724,7 +1724,7 @@
     "before_trade": "38.0",
     "after_trade": "0.0",
     "draft_position": 144,
-    "value_diff": "-44.1",
+    "value_diff": "-50.4",
     "grade": "C"
   },
   {
@@ -1736,7 +1736,7 @@
     "before_trade": "33.9",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "-56.2",
+    "value_diff": "-63.1",
     "grade": "C"
   },
   {
@@ -1748,7 +1748,7 @@
     "before_trade": "5.4",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-99.0",
+    "value_diff": "-107.0",
     "grade": "D"
   },
   {
@@ -1756,11 +1756,11 @@
     "round": 15,
     "pick": 7,
     "player_name": "Rico Dowdle",
-    "points": "117.5",
-    "before_trade": "117.5",
+    "points": "132.1",
+    "before_trade": "132.1",
     "after_trade": "0.0",
     "draft_position": 147,
-    "value_diff": "14.6",
+    "value_diff": "21.2",
     "grade": "B"
   },
   {
@@ -1772,7 +1772,7 @@
     "before_trade": "21.9",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-74.4",
+    "value_diff": "-81.9",
     "grade": "D"
   },
   {
@@ -1784,7 +1784,7 @@
     "before_trade": "0.4",
     "after_trade": "0.0",
     "draft_position": 149,
-    "value_diff": "-32.0",
+    "value_diff": "-34.5",
     "grade": "C"
   },
   {
@@ -1796,7 +1796,7 @@
     "before_trade": "44.2",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "-42.8",
+    "value_diff": "-49.5",
     "grade": "C"
   },
   {
@@ -1808,7 +1808,7 @@
     "before_trade": "69.8",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "-30.8",
+    "value_diff": "-38.6",
     "grade": "C"
   },
   {
@@ -1820,7 +1820,7 @@
     "before_trade": "17.0",
     "after_trade": "13.9",
     "draft_position": 152,
-    "value_diff": "-53.8",
+    "value_diff": "-60.4",
     "grade": "C"
   },
   {
@@ -1832,7 +1832,7 @@
     "before_trade": "205.6",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "31.9",
+    "value_diff": "18.6",
     "grade": "B"
   },
   {
@@ -1844,7 +1844,7 @@
     "before_trade": "9.6",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "-161.4",
+    "value_diff": "-174.6",
     "grade": "D"
   },
   {
@@ -1856,7 +1856,7 @@
     "before_trade": "19.8",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "-77.2",
+    "value_diff": "-84.7",
     "grade": "D"
   },
   {
@@ -1868,7 +1868,7 @@
     "before_trade": "68.5",
     "after_trade": "0.0",
     "draft_position": 156,
-    "value_diff": "-25.0",
+    "value_diff": "-32.1",
     "grade": "C"
   },
   {
@@ -1880,7 +1880,7 @@
     "before_trade": "90.8",
     "after_trade": "0.0",
     "draft_position": 157,
-    "value_diff": "6.4",
+    "value_diff": "-0.1",
     "grade": "B"
   },
   {
@@ -1892,7 +1892,7 @@
     "before_trade": "41.8",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "-43.0",
+    "value_diff": "-49.5",
     "grade": "C"
   },
   {
@@ -1904,7 +1904,7 @@
     "before_trade": "99.3",
     "after_trade": "0.0",
     "draft_position": 159,
-    "value_diff": "4.5",
+    "value_diff": "-2.8",
     "grade": "B"
   },
   {
@@ -1916,7 +1916,7 @@
     "before_trade": "27.2",
     "after_trade": "0.0",
     "draft_position": 160,
-    "value_diff": "-66.2",
+    "value_diff": "-73.4",
     "grade": "D"
   },
   {
@@ -1928,7 +1928,7 @@
     "before_trade": "9.0",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "-64.9",
+    "value_diff": "-70.6",
     "grade": "D"
   },
   {
@@ -1940,7 +1940,7 @@
     "before_trade": "135.3",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "-37.1",
+    "value_diff": "-50.3",
     "grade": "C"
   },
   {
@@ -1952,7 +1952,7 @@
     "before_trade": "66.1",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "-12.2",
+    "value_diff": "-18.2",
     "grade": "B"
   },
   {
@@ -1964,7 +1964,7 @@
     "before_trade": "95.0",
     "after_trade": "0.0",
     "draft_position": 164,
-    "value_diff": "28.9",
+    "value_diff": "23.8",
     "grade": "B"
   },
   {
@@ -1976,7 +1976,7 @@
     "before_trade": "0.4",
     "after_trade": "0.0",
     "draft_position": 165,
-    "value_diff": "-37.5",
+    "value_diff": "-40.5",
     "grade": "C"
   },
   {
@@ -1988,7 +1988,7 @@
     "before_trade": "0.0",
     "after_trade": "63.0",
     "draft_position": 166,
-    "value_diff": "-72.0",
+    "value_diff": "-82.4",
     "grade": "D"
   },
   {
@@ -2000,7 +2000,7 @@
     "before_trade": "11.8",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-58.5",
+    "value_diff": "-63.9",
     "grade": "C"
   },
   {
@@ -2012,8 +2012,8 @@
     "before_trade": "2.8",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-65.0",
-    "grade": "D"
+    "value_diff": "-70.2",
+    "grade": "C"
   },
   {
     "team": "Tom and Jerry",
@@ -2036,7 +2036,7 @@
     "before_trade": "85.8",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "17.9",
+    "value_diff": "12.7",
     "grade": "B"
   },
   {
@@ -2048,7 +2048,7 @@
     "before_trade": "19.7",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-43.5",
+    "value_diff": "-48.4",
     "grade": "C"
   },
   {
@@ -2060,7 +2060,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 172,
-    "value_diff": "-48.5",
+    "value_diff": "-52.2",
     "grade": "C"
   },
   {
@@ -2072,8 +2072,8 @@
     "before_trade": "3.7",
     "after_trade": "0.0",
     "draft_position": 173,
-    "value_diff": "-63.7",
-    "grade": "D"
+    "value_diff": "-68.9",
+    "grade": "C"
   },
   {
     "team": "Who Killed Charbonnet Ramsey?",
@@ -2084,7 +2084,7 @@
     "before_trade": "17.6",
     "after_trade": "0.0",
     "draft_position": 174,
-    "value_diff": "-60.7",
+    "value_diff": "-66.8",
     "grade": "C"
   },
   {
@@ -2096,7 +2096,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-69.3",
+    "value_diff": "-74.6",
     "grade": "D"
   },
   {
@@ -2108,7 +2108,7 @@
     "before_trade": "5.5",
     "after_trade": "0.0",
     "draft_position": 176,
-    "value_diff": "-74.1",
+    "value_diff": "-80.2",
     "grade": "D"
   },
   {
@@ -2120,7 +2120,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 177,
-    "value_diff": "-45.5",
+    "value_diff": "-49.0",
     "grade": "C"
   },
   {
@@ -2132,8 +2132,8 @@
     "before_trade": "15.5",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-24.9",
-    "grade": "C"
+    "value_diff": "-28.0",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
@@ -2144,7 +2144,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 179,
-    "value_diff": "-47.3",
+    "value_diff": "-51.0",
     "grade": "C"
   },
   {
@@ -2156,7 +2156,7 @@
     "before_trade": "1.1",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "-58.2",
+    "value_diff": "-62.8",
     "grade": "C"
   }
 ]

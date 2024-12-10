@@ -8,8 +8,8 @@
     "before_trade": "217.1",
     "after_trade": "0.0",
     "draft_position": 9,
-    "value_diff": "-18.2",
-    "grade": "B"
+    "value_diff": "-36.3",
+    "grade": "C"
   },
   {
     "team": "Tom and Jerry",
@@ -20,7 +20,7 @@
     "before_trade": "131.6",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "-32.7",
+    "value_diff": "-45.4",
     "grade": "C"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "188.1",
     "after_trade": "0.0",
     "draft_position": 29,
-    "value_diff": "30.0",
+    "value_diff": "17.8",
     "grade": "B"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "60.7",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-94.2",
+    "value_diff": "-106.1",
     "grade": "D"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "216.3",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "65.5",
+    "value_diff": "53.9",
     "grade": "A"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "214.8",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "65.0",
+    "value_diff": "53.5",
     "grade": "A"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "47.8",
     "after_trade": "18.2",
     "draft_position": 69,
-    "value_diff": "-40.8",
+    "value_diff": "-49.1",
     "grade": "C"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "161.7",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "44.2",
+    "value_diff": "35.1",
     "grade": "A"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "259.3",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "71.6",
+    "value_diff": "57.2",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "20.7",
     "after_trade": "0.0",
     "draft_position": 92,
-    "value_diff": "-89.7",
+    "value_diff": "-98.2",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "151.9",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "40.3",
+    "value_diff": "31.7",
     "grade": "A"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "110.6",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "-3.2",
+    "value_diff": "-11.9",
     "grade": "B"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "6.2",
     "after_trade": "0.0",
     "draft_position": 129,
-    "value_diff": "-75.1",
+    "value_diff": "-81.4",
     "grade": "D"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "20.9",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-81.9",
+    "value_diff": "-89.8",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.4",
     "after_trade": "0.0",
     "draft_position": 149,
-    "value_diff": "-32.0",
+    "value_diff": "-34.5",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "17.0",
     "after_trade": "13.9",
     "draft_position": 152,
-    "value_diff": "-53.8",
+    "value_diff": "-60.4",
     "grade": "C"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 172,
-    "value_diff": "-48.5",
+    "value_diff": "-52.2",
     "grade": "C"
   }
 ]

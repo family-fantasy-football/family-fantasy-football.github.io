@@ -4,7 +4,7 @@
     "team": "Who Killed Charbonnet Ramsey?",
     "draft": "2.4",
     "overall_pick": 14,
-    "points": 232.8,
+    "points": 270.9,
     "projected": 195.19
   },
   {
@@ -22,6 +22,14 @@
     "overall_pick": 11,
     "points": 185.68,
     "projected": 188.75
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "team": "Michael's Managable Team",
+    "draft": "1.3",
+    "overall_pick": 3,
+    "points": 176.8,
+    "projected": 214.36
   },
   {
     "player_name": "Terry McLaurin",
@@ -54,14 +62,6 @@
     "overall_pick": 17,
     "points": 158.7,
     "projected": 174.04
-  },
-  {
-    "player_name": "CeeDee Lamb",
-    "team": "Michael's Managable Team",
-    "draft": "1.3",
-    "overall_pick": 3,
-    "points": 158.4,
-    "projected": 214.36
   },
   {
     "player_name": "Brian Thomas Jr.",

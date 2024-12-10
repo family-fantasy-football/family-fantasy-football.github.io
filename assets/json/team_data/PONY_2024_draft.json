@@ -8,8 +8,8 @@
     "before_trade": "282.5",
     "after_trade": "0.0",
     "draft_position": 6,
-    "value_diff": "42.1",
-    "grade": "A"
+    "value_diff": "23.6",
+    "grade": "B"
   },
   {
     "team": "Pink Pony Club",
@@ -20,7 +20,7 @@
     "before_trade": "219.8",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "56.7",
+    "value_diff": "44.2",
     "grade": "A"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "208.8",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "43.9",
+    "value_diff": "31.3",
     "grade": "A"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "94.5",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-50.9",
+    "value_diff": "-62.0",
     "grade": "C"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "261.8",
     "after_trade": "0.0",
     "draft_position": 46,
-    "value_diff": "66.1",
+    "value_diff": "51.0",
     "grade": "A"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "54.6",
     "after_trade": "53.2",
     "draft_position": 55,
-    "value_diff": "-32.3",
+    "value_diff": "-43.1",
     "grade": "C"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "71.3",
     "after_trade": "19.3",
     "draft_position": 66,
-    "value_diff": "-44.5",
+    "value_diff": "-54.9",
     "grade": "C"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "175.6",
     "after_trade": "0.0",
     "draft_position": 75,
-    "value_diff": "52.3",
+    "value_diff": "42.8",
     "grade": "A"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "172.3",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "52.9",
+    "value_diff": "43.7",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "155.1",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "47.3",
+    "value_diff": "39.0",
     "grade": "A"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 6,
     "player_name": "Jake Ferguson",
-    "points": "56.4",
+    "points": "61.1",
     "before_trade": "54.8",
-    "after_trade": "1.6",
+    "after_trade": "6.3",
     "draft_position": 106,
-    "value_diff": "-45.3",
+    "value_diff": "-48.4",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "6.3",
     "after_trade": "0.0",
     "draft_position": 115,
-    "value_diff": "-91.7",
+    "value_diff": "-99.3",
     "grade": "D"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "49.7",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "-48.0",
+    "value_diff": "-55.5",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "124.4",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "30.0",
+    "value_diff": "22.7",
     "grade": "B"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "5.4",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-99.0",
+    "value_diff": "-107.0",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "19.8",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "-77.2",
+    "value_diff": "-84.7",
     "grade": "D"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "0.0",
     "after_trade": "63.0",
     "draft_position": 166,
-    "value_diff": "-72.0",
+    "value_diff": "-82.4",
     "grade": "D"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-69.3",
+    "value_diff": "-74.6",
     "grade": "D"
   }
 ]

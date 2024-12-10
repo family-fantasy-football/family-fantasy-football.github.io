@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 34.58,
+    "projected": 17.82
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 28.7,
+    "projected": 14.9
+  },
+  {
+    "player_name": "Rome Odunze",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.2,
+    "projected": 9.67
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.7,
+    "projected": 13.36
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.3,
+    "projected": 17.26
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.9,
+    "projected": 17.57
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 10.5,
+    "projected": 11.01
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 16.4,
+    "projected": 9.19
+  },
+  {
+    "player_name": "Braelon Allen",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.1,
+    "projected": 11.05
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 22.02,
+    "projected": 15.84
+  }
+]

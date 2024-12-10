@@ -8,7 +8,7 @@
     "before_trade": "197.7",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "22.5",
+    "value_diff": "9.0",
     "grade": "B"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "166.3",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-29.1",
+    "value_diff": "-44.1",
     "grade": "C"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "198.9",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "55.3",
+    "value_diff": "44.2",
     "grade": "A"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "128.0",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-14.8",
+    "value_diff": "-25.8",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "113.6",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-23.1",
+    "value_diff": "-33.7",
     "grade": "C"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "134.2",
     "after_trade": "0.0",
     "draft_position": 53,
-    "value_diff": "-2.6",
+    "value_diff": "-13.1",
     "grade": "B"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "137.3",
     "after_trade": "0.0",
     "draft_position": 68,
-    "value_diff": "29.5",
+    "value_diff": "21.2",
     "grade": "B"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "88.0",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-95.9",
+    "value_diff": "-110.0",
     "grade": "D"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "222.5",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "42.9",
+    "value_diff": "29.1",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "70.4",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-61.7",
+    "value_diff": "-71.8",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "100.5",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "-10.6",
+    "value_diff": "-19.2",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 3,
     "player_name": "Chase Brown",
-    "points": "158.4",
-    "before_trade": "158.4",
+    "points": "179.7",
+    "before_trade": "179.7",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "46.5",
+    "value_diff": "59.2",
     "grade": "A"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "75.1",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-16.0",
+    "value_diff": "-23.0",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 133,
-    "value_diff": "-82.7",
+    "value_diff": "-89.1",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "21.9",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-74.4",
+    "value_diff": "-81.9",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "205.6",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "31.9",
+    "value_diff": "18.6",
     "grade": "B"
   },
   {
@@ -200,8 +200,8 @@
     "before_trade": "2.8",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-65.0",
-    "grade": "D"
+    "value_diff": "-70.2",
+    "grade": "C"
   },
   {
     "team": "Hit and Ruggs",
@@ -212,7 +212,7 @@
     "before_trade": "3.7",
     "after_trade": "0.0",
     "draft_position": 173,
-    "value_diff": "-63.7",
-    "grade": "D"
+    "value_diff": "-68.9",
+    "grade": "C"
   }
 ]

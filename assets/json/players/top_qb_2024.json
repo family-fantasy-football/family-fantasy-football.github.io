@@ -16,6 +16,14 @@
     "projected": 258.24
   },
   {
+    "player_name": "Joe Burrow",
+    "team": "Hamlin My Business ",
+    "draft": "2.6",
+    "overall_pick": 16,
+    "points": 284.04,
+    "projected": 229.53
+  },
+  {
     "player_name": "Jalen Hurts",
     "team": "Pink Pony Club",
     "draft": "1.6",
@@ -30,14 +38,6 @@
     "overall_pick": 46,
     "points": 261.76,
     "projected": 210.75
-  },
-  {
-    "player_name": "Joe Burrow",
-    "team": "Hamlin My Business ",
-    "draft": "2.6",
-    "overall_pick": 16,
-    "points": 259.48,
-    "projected": 229.53
   },
   {
     "player_name": "Baker Mayfield",

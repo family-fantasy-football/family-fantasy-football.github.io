@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 28.7,
+    "projected": 14.9
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.9,
+    "projected": 17.57
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.9,
+    "projected": 10.31
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.4,
+    "projected": 9.19
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.7,
+    "projected": 13.36
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 10.5,
+    "projected": 11.01
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 22.02,
+    "projected": 15.84
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 0.0,
+    "projected": 0.0
+  },
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 13.32,
+    "projected": 15.7
+  },
+  {
+    "player_name": "Antonio Gibson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 0,
+    "projected": 0.0
+  }
+]

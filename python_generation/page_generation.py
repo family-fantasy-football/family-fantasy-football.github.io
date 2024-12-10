@@ -467,6 +467,7 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
                     markdown_content.extend([
                         f"#### {rostered_players[player_name]['name']} ({rostered_players[player_name]['position']})",
                         f"**Injury Status:** {news.get('status', 'Unknown')} <br>",
+                        f"**Lineup Slot:** {rostered_players[player_name]['lineup_slot']} <br>",
                         f"**Details:** {news.get('longComment', '')}",
                     ])
     

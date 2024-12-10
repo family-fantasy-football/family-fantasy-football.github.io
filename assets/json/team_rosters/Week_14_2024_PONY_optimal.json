@@ -1,72 +1,72 @@
 [
   {
-    "player_name": "Jameis Winston",
+    "player_name": "Jalen Hurts",
     "pos": "QB",
     "slot": "QB",
-    "points": 32.98,
-    "projected": 13.16
+    "points": 24.22,
+    "projected": 22.49
   },
   {
-    "player_name": "Terry McLaurin",
+    "player_name": "Khalil Shakir",
     "pos": "WR",
     "slot": "WR",
-    "points": 23.3,
-    "projected": 10.4
+    "points": 19.1,
+    "projected": 11.55
   },
   {
     "player_name": "Adam Thielen",
     "pos": "WR",
     "slot": "WR",
-    "points": 19.9,
-    "projected": 7.4
+    "points": 14.7,
+    "projected": 8.06
   },
   {
     "player_name": "Brian Thomas Jr.",
     "pos": "WR",
     "slot": "WR",
-    "points": 16.7,
-    "projected": 10.06
+    "points": 12.6,
+    "projected": 11.57
+  },
+  {
+    "player_name": "Isaac Guerendo",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 25.8,
+    "projected": 11.77
   },
   {
     "player_name": "Kyren Williams",
     "pos": "RB",
     "slot": "RB",
-    "points": 17.8,
-    "projected": 17.16
+    "points": 22.7,
+    "projected": 14.36
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 8.5,
+    "projected": 7.82
+  },
+  {
+    "player_name": "James Conner",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 20.2,
+    "projected": 15.14
   },
   {
     "player_name": "Tyrone Tracy Jr.",
     "pos": "RB",
-    "slot": "RB",
-    "points": 13.5,
-    "projected": 14.39
-  },
-  {
-    "player_name": "Evan Engram",
-    "pos": "TE",
-    "slot": "TE",
-    "points": 7.6,
-    "projected": 8.55
-  },
-  {
-    "player_name": "Nico Collins",
-    "pos": "WR",
     "slot": "RB/WR/TE",
-    "points": 15.9,
-    "projected": 15.17
+    "points": 16.8,
+    "projected": 13.48
   },
   {
-    "player_name": "Elijah Moore",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "points": 15.2,
-    "projected": 7.96
-  },
-  {
-    "player_name": "Jayden Daniels",
-    "pos": "QB",
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
     "slot": "OP",
-    "points": 27.64,
-    "projected": 19.8
+    "points": 16.3,
+    "projected": 15.24
   }
 ]

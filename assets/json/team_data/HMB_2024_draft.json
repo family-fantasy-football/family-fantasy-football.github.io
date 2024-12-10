@@ -8,7 +8,7 @@
     "before_trade": "144.7",
     "after_trade": "0.0",
     "draft_position": 5,
-    "value_diff": "-43.4",
+    "value_diff": "-57.9",
     "grade": "C"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Joe Burrow",
-    "points": "259.5",
-    "before_trade": "259.5",
+    "points": "284.0",
+    "before_trade": "284.0",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "46.3",
+    "value_diff": "54.5",
     "grade": "A"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "211.5",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "13.2",
+    "value_diff": "-2.1",
     "grade": "B"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "198.6",
     "after_trade": "0.0",
     "draft_position": 36,
-    "value_diff": "47.7",
+    "value_diff": "36.1",
     "grade": "A"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "142.1",
     "after_trade": "0.0",
     "draft_position": 45,
-    "value_diff": "3.4",
+    "value_diff": "-7.3",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "154.7",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "29.8",
+    "value_diff": "20.2",
     "grade": "B"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "156.0",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "45.9",
+    "value_diff": "37.4",
     "grade": "A"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "112.8",
     "after_trade": "0.0",
     "draft_position": 76,
-    "value_diff": "-19.7",
+    "value_diff": "-29.9",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "157.1",
     "after_trade": "0.0",
     "draft_position": 85,
-    "value_diff": "34.0",
+    "value_diff": "24.5",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "73.4",
     "after_trade": "36.1",
     "draft_position": 96,
-    "value_diff": "-13.4",
+    "value_diff": "-22.9",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "31.3",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-144.3",
+    "value_diff": "-157.8",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "134.5",
     "after_trade": "0.0",
     "draft_position": 116,
-    "value_diff": "22.8",
+    "value_diff": "14.2",
     "grade": "B"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "120.1",
     "after_trade": "0.0",
     "draft_position": 125,
-    "value_diff": "17.0",
+    "value_diff": "9.1",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "2.6",
     "after_trade": "0.0",
     "draft_position": 136,
-    "value_diff": "-75.4",
+    "value_diff": "-81.4",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "33.9",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "-56.2",
+    "value_diff": "-63.1",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "68.5",
     "after_trade": "0.0",
     "draft_position": 156,
-    "value_diff": "-25.0",
+    "value_diff": "-32.1",
     "grade": "C"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "0.4",
     "after_trade": "0.0",
     "draft_position": 165,
-    "value_diff": "-37.5",
+    "value_diff": "-40.5",
     "grade": "C"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "5.5",
     "after_trade": "0.0",
     "draft_position": 176,
-    "value_diff": "-74.1",
+    "value_diff": "-80.2",
     "grade": "D"
   }
 ]

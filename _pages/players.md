@@ -18,7 +18,7 @@ Leading the way this season:
 
 * **RB:** Saquon Barkley (285.5 pts) owned by Michael's Managable Team
 
-* **WR:** Ja'Marr Chase (232.8 pts) owned by Who Killed Charbonnet Ramsey?
+* **WR:** Ja'Marr Chase (270.9 pts) owned by Who Killed Charbonnet Ramsey?
 
 * **TE:** Brock Bowers (162.2 pts) owned by Who Killed Charbonnet Ramsey?
 

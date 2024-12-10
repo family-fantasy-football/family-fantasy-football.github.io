@@ -8,7 +8,7 @@
     "before_trade": "220.3",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "21.0",
+    "value_diff": "5.6",
     "grade": "B"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "185.7",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "10.4",
+    "value_diff": "-3.1",
     "grade": "B"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "122.5",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "-28.0",
+    "value_diff": "-39.6",
     "grade": "C"
   },
   {
@@ -44,8 +44,8 @@
     "before_trade": "188.2",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "-14.6",
-    "grade": "B"
+    "value_diff": "-30.2",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -56,7 +56,7 @@
     "before_trade": "148.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-2.4",
+    "value_diff": "-14.0",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "90.0",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-48.6",
+    "value_diff": "-59.3",
     "grade": "C"
   },
   {
@@ -76,12 +76,12 @@
     "round": 7,
     "pick": 10,
     "player_name": "Tee Higgins",
-    "points": "107.3",
-    "before_trade": "107.3",
+    "points": "110.6",
+    "before_trade": "110.6",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-22.1",
-    "grade": "C"
+    "value_diff": "-28.8",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -92,7 +92,7 @@
     "before_trade": "64.6",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-38.3",
+    "value_diff": "-46.2",
     "grade": "C"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "145.2",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-45.3",
+    "value_diff": "-59.9",
     "grade": "C"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "49.3",
     "after_trade": "0.0",
     "draft_position": 91,
-    "value_diff": "-71.2",
+    "value_diff": "-80.5",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "67.6",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-47.5",
+    "value_diff": "-56.4",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "145.8",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "34.0",
+    "value_diff": "25.4",
     "grade": "A"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "43.9",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-66.6",
+    "value_diff": "-75.1",
     "grade": "D"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "83.6",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-20.2",
+    "value_diff": "-28.2",
     "grade": "B"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "44.2",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "-42.8",
+    "value_diff": "-49.5",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "69.8",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "-30.8",
+    "value_diff": "-38.6",
     "grade": "C"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "85.8",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "17.9",
+    "value_diff": "12.7",
     "grade": "B"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "19.7",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-43.5",
+    "value_diff": "-48.4",
     "grade": "C"
   }
 ]

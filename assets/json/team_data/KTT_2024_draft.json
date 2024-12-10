@@ -8,7 +8,7 @@
     "before_trade": "303.6",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "63.8",
+    "value_diff": "45.4",
     "grade": "A"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "135.2",
     "after_trade": "0.0",
     "draft_position": 20,
-    "value_diff": "-45.4",
+    "value_diff": "-59.3",
     "grade": "C"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "180.6",
     "after_trade": "0.0",
     "draft_position": 21,
-    "value_diff": "-30.9",
+    "value_diff": "-47.2",
     "grade": "C"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "119.2",
     "after_trade": "0.0",
     "draft_position": 40,
-    "value_diff": "-25.7",
+    "value_diff": "-36.8",
     "grade": "C"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "159.8",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "19.2",
+    "value_diff": "8.3",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "49.9",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-91.5",
+    "value_diff": "-102.3",
     "grade": "D"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "127.9",
     "after_trade": "0.0",
     "draft_position": 61,
-    "value_diff": "-5.0",
+    "value_diff": "-15.2",
     "grade": "B"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "26.3",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-99.8",
+    "value_diff": "-109.5",
     "grade": "D"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "86.8",
     "after_trade": "0.0",
     "draft_position": 81,
-    "value_diff": "-18.1",
+    "value_diff": "-26.2",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "128.5",
     "after_trade": "0.0",
     "draft_position": 100,
-    "value_diff": "5.1",
+    "value_diff": "-4.4",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "135.6",
     "after_trade": "0.0",
     "draft_position": 101,
-    "value_diff": "-48.3",
+    "value_diff": "-62.5",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "123.6",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "17.5",
+    "value_diff": "9.3",
     "grade": "B"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "105.5",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-5.4",
+    "value_diff": "-13.9",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "43.4",
     "after_trade": "0.0",
     "draft_position": 140,
-    "value_diff": "-33.7",
+    "value_diff": "-39.6",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "17.9",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-69.8",
+    "value_diff": "-76.6",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "27.2",
     "after_trade": "0.0",
     "draft_position": 160,
-    "value_diff": "-66.2",
+    "value_diff": "-73.4",
     "grade": "D"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "9.0",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "-64.9",
+    "value_diff": "-70.6",
     "grade": "D"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "1.1",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "-58.2",
+    "value_diff": "-62.8",
     "grade": "C"
   }
 ]

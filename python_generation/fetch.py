@@ -729,13 +729,15 @@ def create_records_json(league: League, box_scores):
             "category": "Most Points Scored",
             "value": round(top_points_team.points_for, 2),
             "team": clean_team_name(top_points_team.team_name),
-            "details": f"{top_points_team.wins}-{top_points_team.losses}"
+            "details": f"{top_points_team.wins}-{top_points_team.losses}",
+            "year": league.year
         },
         {
             "category": "Most Points Against",
             "value": round(most_points_against.points_against, 2),
             "team": clean_team_name(most_points_against.team_name),
-            "details": f"{most_points_against.wins}-{most_points_against.losses}"
+            "details": f"{most_points_against.wins}-{most_points_against.losses}",
+            "year": league.year
         }
     ]
     
@@ -771,7 +773,8 @@ def create_records_json(league: League, box_scores):
             "category": "Highest Game Score",
             "value": round(best_game_score, 2),
             "details": f"{clean_team_name(best_game_info[0].team_name)} vs {clean_team_name(best_game_info[2].team_name)}",
-            "week": best_game_info[1]
+            "week": best_game_info[1],
+            "year": league.year
         })
     
     if best_player_info:
@@ -779,7 +782,8 @@ def create_records_json(league: League, box_scores):
             "category": "Best Individual Performance",
             "value": round(best_individual, 2),
             "details": f"{best_player_info[0].name} ({clean_team_name(best_player_info[1].team_name)})",
-            "week": best_player_info[2]
+            "week": best_player_info[2],
+            "year": league.year
         })
 
     # Sort all records by value

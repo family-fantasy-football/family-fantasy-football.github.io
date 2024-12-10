@@ -34,21 +34,22 @@ def main():
     week = league.nfl_week
     teams = league.teams
     weekly_rankings = []
-    reg_season_length= league.settings.reg_season_count
+    week = 14
+    # reg_season_length= week
     box_scores_cache = {}  # Initialize cache
     teams = sorted(league.teams, key=lambda x: (x.wins, x.points_for), reverse=True)
     def get_box_scores(week, cache=box_scores_cache):
         if week not in cache:
             cache[week] = league.box_scores(week)
         return cache[week]
-    box_scores = {week: get_box_scores(week) for week in range(1, reg_season_length + 1)}
+    box_scores = {week: get_box_scores(week) for week in range(1, week + 1)}
     # activity_size = 350  # Increased size to minimize API calls
     # transactions = league.recent_activity(size=activity_size)
     # waiver_adds = []
     # fa_adds = []
     # trades = []
-    # response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
-    # news_data = response.json()
+    response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
+    news_data = response.json()
     # for activity in transactions:
     #     activity_str = str(activity)
     #     if "WAIVER" in activity_str:
@@ -57,20 +58,20 @@ def main():
     #         fa_adds.append(activity)
     #     elif "TRADED" in activity_str:
     #         trades.append(activity)
-    
-    # generate_team_json(league, teams, box_scores, reg_season_length, trades, transactions)
-    # generate_weekly_scores_json(teams, reg_season_length, league)
-    # # save_team_logos(league)
-    # generate_roster_table(league, week-1)
-    # generate_standings_table(league, week-1)
-    # week = 14
-    generate_about_md(league, reg_season_length, teams, box_scores)
+    # generate_team_json(league, teams, box_scores, week, trades, transactions)
+    # generate_weekly_scores_json(teams, week, league)
+    # # # save_team_logos(league)
+    # generate_roster_table(league, week)
+    # generate_standings_table(league, week)
+    # # 
+    # generate_about_md(league, week, teams, box_scores)
     # for team in teams:
-        # generate_indv_team_page_md(league, league.nfl_week, team, )
+        # generate_indv_team_page_md(league, week, team, )
         # generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
         
     # combine_draft_json()
-    # generate_league_weekly_recap_markdown(league, box_scores, week)
+    # # week = 14
+    generate_league_weekly_recap_markdown(league, box_scores, week)
     
     # generate_draft_page()
     # generate_players_page(league)

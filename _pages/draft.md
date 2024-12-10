@@ -4,7 +4,7 @@ permalink: /draft/
 title: draft
 nav: true
 nav_order: 4
-description: This page will do draft analysis, and be updated throughout the season
+description:
 chart:
 echarts: true
 pretty_table: True

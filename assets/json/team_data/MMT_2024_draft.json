@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 3,
     "player_name": "CeeDee Lamb",
-    "points": "158.4",
-    "before_trade": "158.4",
+    "points": "176.8",
+    "before_trade": "176.8",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-40.7",
+    "value_diff": "-37.6",
     "grade": "C"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "285.5",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "110.1",
+    "value_diff": "96.6",
     "grade": "A"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "116.5",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-95.1",
+    "value_diff": "-111.3",
     "grade": "D"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "92.5",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "-35.8",
+    "value_diff": "-45.6",
     "grade": "C"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "178.7",
     "after_trade": "0.0",
     "draft_position": 43,
-    "value_diff": "27.8",
+    "value_diff": "16.2",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "98.4",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-41.8",
+    "value_diff": "-52.6",
     "grade": "C"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "64.4",
     "after_trade": "21.7",
     "draft_position": 63,
-    "value_diff": "-46.1",
+    "value_diff": "-56.3",
     "grade": "C"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "121.1",
     "after_trade": "46.9",
     "draft_position": 78,
-    "value_diff": "39.3",
+    "value_diff": "29.4",
     "grade": "A"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "138.5",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "9.4",
+    "value_diff": "-0.6",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-197.8",
+    "value_diff": "-213.0",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "75.6",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "-39.6",
+    "value_diff": "-48.5",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "152.0",
     "after_trade": "0.0",
     "draft_position": 118,
-    "value_diff": "44.7",
+    "value_diff": "36.5",
     "grade": "A"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "86.7",
     "after_trade": "75.5",
     "draft_position": 123,
-    "value_diff": "73.7",
+    "value_diff": "66.9",
     "grade": "A"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-90.6",
+    "value_diff": "-97.5",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "88.9",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "5.9",
+    "value_diff": "-0.5",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "41.8",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "-43.0",
+    "value_diff": "-49.5",
     "grade": "C"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "66.1",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "-12.2",
+    "value_diff": "-18.2",
     "grade": "B"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "15.5",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-24.9",
-    "grade": "C"
+    "value_diff": "-28.0",
+    "grade": "B"
   }
 ]

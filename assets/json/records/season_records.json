@@ -3,12 +3,14 @@
     "category": "Most Points Scored",
     "value": 1762.02,
     "team": "Hamlin My Business ",
-    "details": "9-4"
+    "details": "9-4",
+    "year": 2024
   },
   {
     "category": "Most Points Against",
     "value": 1757.48,
     "team": "Hit and Ruggs",
-    "details": "5-8"
+    "details": "5-8",
+    "year": 2024
   }
 ]
