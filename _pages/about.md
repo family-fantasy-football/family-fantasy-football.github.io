@@ -18,7 +18,7 @@ chart:
   echarts: true
 ---
 
-## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season.
+## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season. This site is clearly still under development
 
 <div style="margin-bottom: 30px;">
 
@@ -484,16 +484,16 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": 1396.7399999999998,
-        "max": 2079.6600000000003
+        "min": 1397.0,
+        "max": 2080.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": 1396.7399999999998,
-        "max": 2079.6600000000003
+        "min": 1397.0,
+        "max": 2080.0
     },
     "series": [
         {
@@ -588,12 +588,12 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
             "showSymbol": false,
             "data": [
                 [
-                    1396.7399999999998,
-                    1396.7399999999998
+                    1397.0,
+                    1397.0
                 ],
                 [
-                    2079.6600000000003,
-                    2079.6600000000003
+                    2080.0,
+                    2080.0
                 ]
             ]
         },
@@ -1467,7 +1467,8 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "top": "10%",
         "bottom": "15%",
         "left": "5%",
-        "right": "0%"
+        "right": "0%",
+        "containLabel": true
     },
     "xAxis": {
         "type": "category",
@@ -1753,7 +1754,8 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "top": "10%",
         "bottom": "13%",
         "left": "5%",
-        "right": "0%"
+        "right": "0%",
+        "containLabel": true
     },
     "xAxis": {
         "type": "category",
@@ -2546,7 +2548,8 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "top": "10%",
         "bottom": "13%",
         "left": "5%",
-        "right": "0%"
+        "right": "0%",
+        "containLabel": true
     },
     "xAxis": {
         "type": "category",
@@ -3339,7 +3342,8 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "top": "10%",
         "bottom": "13%",
         "left": "5%",
-        "right": "0%"
+        "right": "0%",
+        "containLabel": true
     },
     "xAxis": {
         "type": "category",
@@ -4132,7 +4136,8 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "top": "10%",
         "bottom": "13%",
         "left": "5%",
-        "right": "0%"
+        "right": "0%",
+        "containLabel": true
     },
     "xAxis": {
         "type": "category",
