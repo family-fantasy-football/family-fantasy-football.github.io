@@ -672,14 +672,14 @@ def get_non_flex_positions(box_scores, week=1):
     
     return sorted(list(positions))
 
-def create_records_json(league: League, box_scores):
+def create_records_json(league: League, box_scores, week):
     records = {
         "all_time": [],
         "season": [],
         "game": []
     }
     all_time_records = []
-    highest_week = get_highest_scoring_week(league.current_week-1, box_scores)
+    highest_week = get_highest_scoring_week(week, box_scores)
     if highest_week:
         all_time_records.append({
             "category": "Highest Single Game Score",
@@ -689,7 +689,7 @@ def create_records_json(league: League, box_scores):
             "year": league.year
         })
         
-    lowest_week = get_lowest_scoring_week(league.current_week-1, box_scores)
+    lowest_week = get_lowest_scoring_week(week, box_scores)
     if lowest_week:
         all_time_records.append({
             "category": "Lowest Single Game Score",
@@ -702,7 +702,7 @@ def create_records_json(league: League, box_scores):
     
     # Get highest margin and lowest margin
     highest_margin, lowest_margin = get_margins_of_victory_records(
-        league.settings.reg_season_count, box_scores
+        week, box_scores
     )
     
     all_time_records.extend([
@@ -747,7 +747,7 @@ def create_records_json(league: League, box_scores):
     best_player_info = None
     best_game_info = None
     
-    for week in range(1, league.current_week):
+    for week in range(1, week+1):
         for box in box_scores[week]:
             if not box.away_team:  # Skip bye weeks
                 continue

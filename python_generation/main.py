@@ -71,12 +71,12 @@ def main():
         
     # combine_draft_json()
     # # week = 14
-    generate_league_weekly_recap_markdown(league, box_scores, week)
+    # generate_league_weekly_recap_markdown(league, box_scores, week)
     
     # generate_draft_page()
-    # generate_players_page(league)
-    # create_records_json(league, box_scores)
-    # create_team_history_json(league)
+    # generate_players_page(league, week)
+    create_records_json(league, box_scores, week)
+    create_team_history_json(league)
     # generate_history_page()
     # generate_records_page()
     

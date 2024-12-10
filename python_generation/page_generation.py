@@ -798,7 +798,7 @@ def generate_draft_page():
         f.write('\n'.join(content))
         
 
-def generate_players_page(league: League):
+def generate_players_page(league: League, week):
     positions = ['QB', 'RB', 'WR', 'TE']
     players_by_pos = {pos: [] for pos in positions}
     
@@ -820,7 +820,7 @@ def generate_players_page(league: League):
                 draft_info = draft_lookup.get(player.name, {'draft': 'FA', 'overall_pick': 999})
                 
                 # Scale projected points to current week
-                scaled_projection = player.projected_total_points / 17 * league.current_week
+                scaled_projection = player.projected_total_points / 17 * week
 
                 player_data = {
                     "player_name": player.name,
@@ -864,7 +864,7 @@ def generate_players_page(league: League):
         f"* **RB:** {top_scorers['RB']['player_name']} ({top_scorers['RB']['points']} pts) owned by {top_scorers['RB']['team']}\n",
         f"* **WR:** {top_scorers['WR']['player_name']} ({top_scorers['WR']['points']} pts) owned by {top_scorers['WR']['team']}\n",
         f"* **TE:** {top_scorers['TE']['player_name']} ({top_scorers['TE']['points']} pts) owned by {top_scorers['TE']['team']}\n\n",
-        "Below are the top 10 performers at each position through Week " + str(league.current_week) + ".\n\n"
+        "Below are the top 10 performers at each position through Week " + str(week) + ".\n\n"
     ])
     # Add a table for each position
     for pos in positions:
