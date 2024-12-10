@@ -3,7 +3,7 @@ layout: page
 permalink: /constitution/
 title: constitution
 description: leauge constitution (yet to be ratified)
-nav: true
+nav: false
 nav_order: 6
 ---
 

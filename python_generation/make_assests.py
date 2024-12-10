@@ -154,7 +154,8 @@ def create_weekly_position_rankings_json(teams, week, box_scores, position):
             "top": "10%",
             "bottom": "13%",
             "left": "5%",
-            "right": "0%"
+            "right": "0%",
+            "containLabel": True
         },
         "xAxis": {
             "type": "category",
@@ -250,7 +251,8 @@ def generate_echarts_heatmap_weekly_json(teams, box_score, week):
             "top": "10%",
             "bottom": "15%",
             "left": "5%",
-            "right": "0%"
+            "right": "0%",
+            "containLabel": True
         },
         "xAxis": {
             "type": "category",
@@ -337,7 +339,8 @@ def generate_echarts_heatmap_json(teams, box_scores, through_week):
             "top": "10%",
             "bottom": "15%",
             "left": "5%",
-            "right": "0%"
+            "right": "0%",
+            "containLabel": True
         },
         "xAxis": {
             "type": "category",
@@ -824,8 +827,8 @@ def create_team_scatter_json(league, through_week, output_dir: str = "../assets/
         points_against.append(pa)
 
     # Calculate ranges and averages
-    min_val = min(min(points_for), min(points_against)) - 150
-    max_val = max(max(points_for), max(points_against)) + 150
+    min_val = round(min(min(points_for), min(points_against)) - 150,0)
+    max_val = round(max(max(points_for), max(points_against)) + 150,0)
     avg_pf = np.mean(points_for)
     avg_pa = np.mean(points_against)
 
@@ -912,3 +915,193 @@ def create_team_scatter_json(league, through_week, output_dir: str = "../assets/
     os.makedirs(f"{output_dir}/plots", exist_ok=True)
     with open(f"{output_dir}/plots/scatter_data.json", 'w') as f:
         json.dump(scatter_data, f, indent=2)
+        
+def generate_best_pickups_json(league, waiver_adds, fa_adds, trades):
+   """Process best FA/waiver pickups and save as JSON"""
+   pickups = get_best_acquisitions(league, waiver_adds, fa_adds, trades)
+   pickups.sort(key=lambda x: x['new_avg'], reverse=True)
+   top_5 = pickups[:5]
+   
+   table_data = []
+   for p in top_5:
+       # Check if pickup came from waiver activities
+       acquisition_type = "WAIVER" if any(p['player_name'] in str(w) for w in waiver_adds) else "FA"
+       
+       entry = {
+           "team": p["team"],
+           "week": p["week"], 
+           "player_name": p["player_name"],
+           "position": p["position"],
+           "points_before": f"{p['prev_avg']:.1f}",
+           "points_after": f"{p['new_avg']:.1f}",
+           "points_diff": f"{p['improvement']:.1f}",
+           "num_weeks_before": p["num_weeks_before"],
+           "num_weeks_after": p["num_weeks_after"],
+           "type": acquisition_type
+       }
+       table_data.append(entry)
+       
+   with open(f"../assets/json/transactions/best_fa_{league.year}.json", 'w') as f:
+       json.dump(table_data, f, indent=1)
+       
+def generate_all_transactions_json(league, waiver_adds, fa_adds):
+   transactions = []
+   
+   # Process all waiver/FA transactions
+   for activity in (waiver_adds + fa_adds):
+       for team, action, player_, bid in activity.actions:
+           player = league.player_info(playerId=player_.playerId)
+           acquisition_type = "WAIVER" if "WAIVER" in action else "FA"
+           
+           trans = {
+               "team": clean_team_name(team.team_name),
+               "week": week_of_transaction(activity.date),
+               "player_name": player.name,
+               "position": player.position,
+               "type": acquisition_type,
+               "bid_amount": bid if bid else 0
+           }
+           transactions.append(trans)
+           
+   # Sort by week
+   transactions.sort(key=lambda x: x['week'])
+   
+   with open(f"../assets/json/transactions/all_fa_{league.year}.json", 'w') as f:
+       json.dump(transactions, f, indent=1)
+
+def generate_trades_json(league, trades):
+   all_trades = []
+   
+   for trade in trades:
+       trade_week = week_of_transaction(trade.date)
+       teams = list(set([t for t, action, p, _ in trade.actions if action == 'TRADED']))
+       
+       # Only track trades from perspective of first team
+       team_1, team_2 = teams[0], teams[1]
+       team_1_players = []
+       team_2_players = []
+       
+       for team, action, player_, _ in trade.actions:
+           if action == 'TRADED':
+               player = league.player_info(playerId=player_.playerId)
+               if team == team_1:
+                   team_1_players.append(player)
+               else:
+                   team_2_players.append(player)
+       
+       trade_entry = {
+           "team_1": clean_team_name(team_1.team_name),
+           "team_2": clean_team_name(team_2.team_name), 
+           "week": trade_week,
+           "team_1_sending": [f"{p.name} ({p.position})" for p in team_1_players],
+           "team_2_sending": [f"{p.name} ({p.position})" for p in team_2_players]
+       }
+       all_trades.append(trade_entry)
+   os.makedirs(f"../assets/json/transactions", exist_ok=True)
+   with open(f"../assets/json/transactions/trades_{league.year}.json", 'w') as f:
+       json.dump(all_trades, f, indent=1)
+       
+def generate_trade_network_json(league, trades):
+    teams = league.teams
+   # Calculate trade relationships
+    colors = [f'hsl({h}, 70%, 50%)' for h in np.linspace(0, 360, len(teams))]
+    nodes = [{"id": clean_team_name(team.team_name), "name": clean_team_name(team.team_name), "itemStyle": {"color": color}} 
+                for team, color in zip(teams, colors)]
+    
+    edge_dict = {}
+    for trade in trades:
+        team_list = list(set([t.team_name for t, action, p, _ in trade.actions if action == 'TRADED']))
+        if len(team_list) == 2:
+            trade_details = {team_list[0]: [], team_list[1]: []}
+            for team, action, player_, _ in trade.actions:
+                if action == 'TRADED':
+                    trade_details[team.team_name].append(player_.name)
+                    
+            key = tuple(sorted([team_list[0], team_list[1]]))
+            tooltip = f"{key[0]}: {', '.join(trade_details[key[0]])} ⟷ {key[1]}: {', '.join(trade_details[key[1]])}"
+            
+            if key in edge_dict:
+                edge_dict[key]["value"] += 1
+            else:
+                edge_dict[key] = {
+                    "source": key[0],
+                    "target": key[1],
+                    "value": 1,
+                    "tooltip": {"show": True},
+                    "name": tooltip
+                }
+
+    echarts_data = {
+        "title": {"text": "Trade Network", "left": "center", "top": "5%", "textStyle": {"fontSize": 20}, "show": False},
+        "series": [{
+            "type": "graph",
+            "layout": "circular", 
+            "symbolSize": 50,
+            "roam": True,
+            "label": {"show": True},
+            "edgeSymbol": ["circle", "arrow"],
+            "edgeSymbolSize": [4, 10],
+            "data": nodes,
+            "links": list(edge_dict.values()),
+            "lineStyle": {"opacity": 0.9, "width": 2, "curveness": 0}
+        }],
+        "grid": {"top": "15%"}
+    }
+
+    os.makedirs(f"../assets/json/transactions", exist_ok=True)
+    with open(f"../assets/json/transactions/network_trades_{league.year}.json", 'w') as f:
+       json.dump(echarts_data, f, indent=2)
+       
+def create_position_contribution_chart(team, week=None, through_week=None, box_scores=None):
+    """Creates single position contribution pie chart, either for one week or averaged through a week"""
+    pos_points = {'QB': 0, 'RB': 0, 'WR': 0, 'TE': 0, 'D/ST': 0, 'K': 0}
+   
+    def _get_week_points(w):
+        box = next((b for b in box_scores[w] if b.home_team == team or b.away_team == team), None)
+        if box:
+            lineup = box.home_lineup if box.home_team == team else box.away_lineup
+            week_points = {'QB': 0, 'RB': 0, 'WR': 0, 'TE': 0, 'D/ST': 0, 'K': 0}
+            starters = [p for p in lineup if p.slot_position != 'BE' and p.slot_position != 'IR']
+            for player in starters:
+                if player.position in week_points:
+                    week_points[player.position] += player.points
+            return week_points
+        return None
+
+    if week:
+        pos_points = _get_week_points(week)
+    elif through_week:
+        week_points = [_get_week_points(w) for w in range(1, through_week + 1)]
+        week_points = [w for w in week_points if w]  # Remove None values
+        for pos in pos_points:
+            pos_points[pos] = sum(w[pos] for w in week_points) / len(week_points)
+
+    chart = {
+        "tooltip": {
+            "trigger": "item",
+            "formatter": "{a} <br/>{b}: {d}%" 
+        },
+        "legend": {
+            "orient": "vertical",
+            "left": "left",
+            "data": list(pos_points.keys())
+        },
+        "series": [{
+            "name": "Position Points",
+            "type": "pie", 
+            "radius": ["50%", "70%"],
+            "avoidLabelOverlap": False,
+            "data": [
+                {"value": round(points,1), "name": pos}
+                for pos, points in pos_points.items() if points > 0
+            ]
+        }]
+    }
+    os.makedirs(f"../assets/json/team_data", exist_ok=True)
+    if week:
+        with open(f"../assets/json/team_data/{team.team_abbrev}_2024_Week_{week}_pie.json", 'w') as f:
+            json.dump(chart, f, indent=2)
+    else:
+        with open(f"../assets/json/team_data/{team.team_abbrev}_2024_pie.json", 'w') as f:
+            json.dump(chart, f, indent=2)
+           

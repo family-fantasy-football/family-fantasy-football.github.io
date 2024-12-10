@@ -234,13 +234,19 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 
 
 
-def generate_indv_team_page_md(league, week, team):
+def generate_indv_team_page_md(league, week, team, box_scores):
     weekly_scoring_chart = f"../assets/json/team_data/{team.team_abbrev}_{league.year}_weekly_scores.json"
     with open(weekly_scoring_chart, "r") as json_file:
         weekly_scores = json_file.read()
     # Ensure JSON is properly formatted
     parsed_weekly_scores = json.loads(weekly_scores)
     formatted_weekly_scores = json.dumps(parsed_weekly_scores, indent=4) 
+    create_position_contribution_chart(team, week=None, through_week=week, box_scores=box_scores)
+    pie_info = f"../assets/json/team_data/{team.team_abbrev}_2024_pie.json"
+    with open(pie_info, "r") as json_file:
+        pie_data = json_file.read()
+    parsed_pie_data = json.loads(pie_data)
+    formatted_pie_data = json.dumps(parsed_pie_data, indent=4) 
     content = f"""\
 ---
 layout: page
@@ -321,6 +327,10 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
 
 <br><br>
 
+```echarts
+{formatted_pie_data}
+```
+
 #### Lineup Efficiency
 <table
     data-click-to-select="true"
@@ -384,23 +394,32 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
 def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_data: Dict,  week):
     # First find the team
     team = next((t for t in league.teams if clean_team_name(t.team_name) == team_name), None)
+    create_position_contribution_chart(team, week=week, through_week=None, box_scores=box_scores)
+    pie_info = f"../assets/json/team_data/{team.team_abbrev}_2024_Week_{week}_pie.json"
+    with open(pie_info, "r") as json_file:
+        pie_data = json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_pie_data = json.loads(pie_data)
+    formatted_pie_data = json.dumps(parsed_pie_data, indent=4) 
+    
     if not team:
         raise ValueError(f"Team {team_name} not found")
     team_abbrev = team.team_abbrev    
     # Create markdown content
     current_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    markdown_content = [
-        "---",
-        "layout: post",
-        f"title: {team_name} Week {week} Report",
-        f"date: {current_date}",
-        "description: Weekly team status report",
-        f"tags: 2024-25, WeeklyRecap, Week{week}",
-        "categories: team-reports",
-        "tabs: true",
-        "pretty_table: = true",
-        "---",
-    ]
+    markdown_content = [f"""\
+---
+layout: post
+title: {team_name} Week {week} Report
+date: {current_date}
+description: Weekly team status report
+tags: 2024-25, WeeklyRecap, Week{week}
+categories: team-reports
+tabs: true
+chart:
+  echarts: true
+pretty_table: = true
+---"""]
     # After frontmatter but before injury report, add:
     box = next((b for b in box_scores[week] if b.home_team == team or b.away_team == team), None)
     standings = league.standings()
@@ -446,7 +465,10 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
             f"({worst_bench['benched_points']:.2f} pts) for {worst_bench['starter_player']} "
             f"({worst_bench['starter_points']:.2f} pts)<br>"
         ])
-
+    markdown_content.append(f"""\
+```echarts
+{formatted_pie_data}
+```""")        
     markdown_content.append("\n")
     # Filter news for this team
     team_news = []
@@ -612,7 +634,7 @@ chart:
     parsed_pos_json = json.loads(pos_data)
     formatted_pos_json = json.dumps(parsed_pos_json, indent=4)
     standings = league.standings()
-    
+    total_points_in_week = 0
     # Process each matchup
     for box in box_scores[week]:
         if not box.away_team:  # Skip bye weeks
@@ -621,6 +643,8 @@ chart:
         # Get matchup scores
         home_score = box.home_score
         away_score = box.away_score
+        total_points_in_week += home_score
+        total_points_in_week+= away_score
         
         # Get highest scoring player in matchup
         all_players = box.home_lineup + box.away_lineup
@@ -651,7 +675,11 @@ chart:
             ])
         
         markdown_content.append("\n")
-    
+    markdown_content.extend([
+        f"### League Stats \n",
+        f"**Total Points Scored:** {total_points_in_week:.2f} <br>",
+        f"**Avg. Points Scored:** {total_points_in_week/len(league.teams):.2f}",
+    ])
     # Create standings data for JSON
     standings_data = []
     for rank, team in enumerate(standings, 1):
@@ -663,7 +691,7 @@ chart:
             "points_for": f"{team.points_for:.2f}",
             "playoff_odds": f"{team.playoff_pct:.1f}%"
         })
-
+    markdown_content.append("\n")
     # Save standings JSON
     standings_filename = f"Week_{week}_{nfl_year}_standings.json"
     os.makedirs(f"../assets/json/standings", exist_ok=True)
@@ -698,6 +726,15 @@ chart:
 {formatted_pos_json}
 ```
     """)
+    markdown_content.append(f"## Week {week+1} Preview:")
+    for i in range(int(len(league.teams)/2)):
+        markdown_content.extend([
+                f"#### {clean_team_name(league.box_scores(week+1)[i].away_team.team_name)} @ {clean_team_name(league.box_scores(week+1)[i].home_team.team_name)}\n",
+                f"**Projected Score:** {clean_team_name(league.box_scores(week+1)[i].away_team.team_name)} {league.box_scores(week+1)[i].away_projected:.2f} - "
+            f"{league.box_scores(week+1)[i].home_projected:.2f} {clean_team_name(league.box_scores(week+1)[i].home_team.team_name)}<br>",
+            
+        ])
+        markdown_content.append("\n")
     # Save markdown file
     markdown_filename = f"{datetime.now().strftime('%Y-%m-%d')}-Week-{week}_Recap.md"
     os.makedirs(f"../_posts", exist_ok=True)
@@ -1012,3 +1049,110 @@ def generate_history_page():
     os.makedirs("../_pages", exist_ok=True)
     with open(f"../_pages/teamhistory.md", 'w') as f:
         f.write('\n'.join(content))
+        
+        
+def generate_free_agency_page(league, waiver_adds, fa_adds, trades):    
+    generate_best_pickups_json(league, waiver_adds, fa_adds, trades)
+    generate_all_transactions_json(league, waiver_adds, fa_adds)
+    content = f"""\
+---
+layout: page
+permalink: /freeagency/
+title: free agency
+nav: true
+nav_order: 4
+description:
+chart:
+    echarts: true
+pretty_table: True
+---
+
+### Best Pickups
+<table
+data-click-to-select="true"
+data-height="930"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/transactions/best_fa_{league.year}.json"}}}}">
+<thead>
+    <tr>
+     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+     <th data-field="team" data-halign="center" data-align="center" data-sortable="false">Acquiring Team</th>
+     <th data-field="position" data-halign="center" data-align="center" data-sortable="false">Position</th>
+     <th data-field="week" data-halign="center" data-align="center" data-sortable="false">Week</th>
+     <th data-field="points_after" data-halign="center" data-align="center" data-sortable="true">Points Since Acquiring</th>
+     <th data-field="type" data-halign="center" data-align="center" data-sortable="true">FA or Waiver</th>
+    </tr>
+</thead>
+</table>
+<br>
+### All Pickups
+<table
+data-click-to-select="true"
+data-height="930"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/transactions/all_fa_{league.year}.json"}}}}">
+<thead>
+    <tr>
+     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+     <th data-field="team" data-halign="center" data-align="center" data-sortable="true">Acquiring Team</th>
+     <th data-field="position" data-halign="center" data-align="center" data-sortable="true">Position</th>
+     <th data-field="week" data-halign="center" data-align="center" data-sortable="true">Week</th>
+     <th data-field="type" data-halign="center" data-align="center" data-sortable="true">FA or Waiver</th>
+    </tr>
+</thead>
+</table>
+"""
+    os.makedirs("../_pages", exist_ok=True)
+    with open(f"../_pages/free_agency.md", 'w') as f:
+        f.write(content)
+        
+def generate_trades_page(league, trades):    
+    generate_trades_json(league, trades)
+    generate_trade_network_json(league, trades)
+    trade_info = f"../assets/json/transactions/network_trades_{league.year}.json"
+    with open(trade_info, "r") as json_file:
+        trade_data = json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_trade_data = json.loads(trade_data)
+    formatted_trade_data = json.dumps(parsed_trade_data, indent=4) 
+    content = f"""\
+---
+layout: page
+permalink: /trades/
+title: trades
+nav: true
+nav_order: 5
+description:
+chart:
+    echarts: true
+pretty_table: True
+---
+
+### All Trades
+<table
+data-click-to-select="true"
+data-height="520"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/transactions/trades_{league.year}.json"}}}}">
+<thead>
+    <tr>
+     <th data-field="week" data-halign="left" data-align="left" data-sortable="true">Week</th>
+     <th data-field="team_1" data-halign="center" data-align="center" data-sortable="true">Team 1</th>
+     <th data-field="team_1_sending" data-halign="center" data-align="center" data-sortable="false">Sending</th>
+     <th data-field="team_2" data-halign="center" data-align="center" data-sortable="false">Team 2</th>
+     <th data-field="team_2_sending" data-halign="center" data-align="center" data-sortable="true">Sending</th>
+    </tr>
+</thead>
+</table>
+<br>
+```echarts
+{formatted_trade_data}
+```
+
+"""
+    os.makedirs("../_pages", exist_ok=True)
+    with open(f"../_pages/trades.md", 'w') as f:
+        f.write(content)

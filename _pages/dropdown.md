@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: records
     permalink: /records/
+  - title: divider
+  - title: constitution
+    permalink: /constitution/
 ---
