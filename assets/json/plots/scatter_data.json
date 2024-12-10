@@ -12,16 +12,16 @@
     "name": "Points For",
     "nameLocation": "middle",
     "nameGap": 30,
-    "min": 1288.7199999999998,
-    "max": 1912.0199999999998
+    "min": 1396.7399999999998,
+    "max": 2079.6600000000003
   },
   "yAxis": {
     "type": "value",
     "name": "Points Against",
     "nameLocation": "middle",
     "nameGap": 40,
-    "min": 1288.7199999999998,
-    "max": 1912.0199999999998
+    "min": 1396.7399999999998,
+    "max": 2079.6600000000003
   },
   "series": [
     {
@@ -32,71 +32,71 @@
         {
           "name": "Who Killed Charbonnet Ramsey?",
           "value": [
-            1753.74,
-            1646.92
+            1922.04,
+            1791.28
           ]
         },
         {
           "name": "Pink Pony Club",
           "value": [
-            1760.46,
-            1637.5
+            1929.66,
+            1791.9
           ]
         },
         {
           "name": "Tom and Jerry",
           "value": [
-            1607.66,
-            1523.58
+            1762.06,
+            1692.78
           ]
         },
         {
           "name": "Hit and Ruggs",
           "value": [
-            1670.68,
-            1757.48
+            1802.12,
+            1861.46
           ]
         },
         {
           "name": "Michael's Managable Team",
           "value": [
-            1595.3,
-            1742.92
+            1667.82,
+            1866.32
           ]
         },
         {
           "name": "To Infinity and Bijan!",
           "value": [
-            1514.08,
-            1549.4
+            1618.06,
+            1680.84
           ]
         },
         {
           "name": "Fantasy Guru Kayden",
           "value": [
-            1545.6,
-            1631.44
+            1669.0,
+            1703.96
           ]
         },
         {
           "name": "Mama Daughter Duo",
           "value": [
-            1543.0,
-            1613.9
+            1674.46,
+            1721.92
           ]
         },
         {
           "name": "Abbey Road to Victory",
           "value": [
-            1438.72,
-            1513.18
+            1546.74,
+            1644.64
           ]
         },
         {
           "name": "Hamlin My Business ",
           "value": [
-            1762.02,
-            1574.94
+            1906.38,
+            1743.24
           ]
         }
       ],
@@ -116,12 +116,12 @@
       "showSymbol": false,
       "data": [
         [
-          1288.7199999999998,
-          1288.7199999999998
+          1396.7399999999998,
+          1396.7399999999998
         ],
         [
-          1912.0199999999998,
-          1912.0199999999998
+          2079.6600000000003,
+          2079.6600000000003
         ]
       ]
     },
@@ -132,14 +132,14 @@
         "silent": true,
         "data": [
           {
-            "xAxis": 1619.13,
+            "xAxis": 1749.83,
             "lineStyle": {
               "color": "blue",
               "opacity": 0.5
             }
           },
           {
-            "yAxis": 1619.13,
+            "yAxis": 1749.83,
             "lineStyle": {
               "color": "red",
               "opacity": 0.5

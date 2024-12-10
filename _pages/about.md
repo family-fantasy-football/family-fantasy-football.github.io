@@ -33,7 +33,7 @@ Highest Scoring Week: Kyle Hamlin - 180.62 points (Week 6)
 
 Lowest Scoring Week: Michael Ratcliff - 72.52 points (Week 14)
 
-Luckiest Team: Tom Ratcliff (1.4) Wins Above Expected
+Luckiest Team: Nick Hill (1.3) Wins Above Expected
 
 Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
 
@@ -202,7 +202,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 1,
                 2,
                 2,
-                2
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -447,7 +447,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 3,
                 3,
                 3,
-                3
+                2
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -484,16 +484,16 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": 1288.7199999999998,
-        "max": 1912.0199999999998
+        "min": 1396.7399999999998,
+        "max": 2079.6600000000003
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": 1288.7199999999998,
-        "max": 1912.0199999999998
+        "min": 1396.7399999999998,
+        "max": 2079.6600000000003
     },
     "series": [
         {
@@ -504,71 +504,71 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 {
                     "name": "Who Killed Charbonnet Ramsey?",
                     "value": [
-                        1753.74,
-                        1646.92
+                        1922.04,
+                        1791.28
                     ]
                 },
                 {
                     "name": "Pink Pony Club",
                     "value": [
-                        1760.46,
-                        1637.5
+                        1929.66,
+                        1791.9
                     ]
                 },
                 {
                     "name": "Tom and Jerry",
                     "value": [
-                        1607.66,
-                        1523.58
+                        1762.06,
+                        1692.78
                     ]
                 },
                 {
                     "name": "Hit and Ruggs",
                     "value": [
-                        1670.68,
-                        1757.48
+                        1802.12,
+                        1861.46
                     ]
                 },
                 {
                     "name": "Michael's Managable Team",
                     "value": [
-                        1595.3,
-                        1742.92
+                        1667.82,
+                        1866.32
                     ]
                 },
                 {
                     "name": "To Infinity and Bijan!",
                     "value": [
-                        1514.08,
-                        1549.4
+                        1618.06,
+                        1680.84
                     ]
                 },
                 {
                     "name": "Fantasy Guru Kayden",
                     "value": [
-                        1545.6,
-                        1631.44
+                        1669.0,
+                        1703.96
                     ]
                 },
                 {
                     "name": "Mama Daughter Duo",
                     "value": [
-                        1543.0,
-                        1613.9
+                        1674.46,
+                        1721.92
                     ]
                 },
                 {
                     "name": "Abbey Road to Victory",
                     "value": [
-                        1438.72,
-                        1513.18
+                        1546.74,
+                        1644.64
                     ]
                 },
                 {
                     "name": "Hamlin My Business ",
                     "value": [
-                        1762.02,
-                        1574.94
+                        1906.38,
+                        1743.24
                     ]
                 }
             ],
@@ -588,12 +588,12 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
             "showSymbol": false,
             "data": [
                 [
-                    1288.7199999999998,
-                    1288.7199999999998
+                    1396.7399999999998,
+                    1396.7399999999998
                 ],
                 [
-                    1912.0199999999998,
-                    1912.0199999999998
+                    2079.6600000000003,
+                    2079.6600000000003
                 ]
             ]
         },
@@ -604,14 +604,14 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 1619.13,
+                        "xAxis": 1749.83,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 1619.13,
+                        "yAxis": 1749.83,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -668,74 +668,74 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
             "type": "boxplot",
             "data": [
                 [
-                    104.72,
-                    126.01,
-                    134.42,
-                    140.2,
-                    161.48
+                    99.98,
+                    129.36,
+                    137.13,
+                    151.67,
+                    169.2
                 ],
                 [
-                    90.58,
-                    118.78,
-                    133.73,
-                    137.59,
-                    165.8
+                    108.92,
+                    128.5,
+                    135.52,
+                    142.79,
+                    164.23
                 ],
                 [
-                    49.78,
-                    111.46,
-                    133.42,
-                    152.58,
+                    82.34,
+                    120.33,
+                    137.53,
+                    158.74,
                     178.88
                 ],
                 [
-                    55.5,
-                    105.84,
-                    116.09,
-                    139.4,
+                    89.6,
+                    110.28,
+                    126.12,
+                    141.24,
                     161.92
                 ],
                 [
-                    22.01,
-                    91.24,
+                    77.8,
+                    93.64,
                     120.05,
                     137.4,
                     143.7
                 ],
                 [
-                    68.08,
-                    112.51,
-                    126.39,
+                    80.02,
+                    115.6,
+                    129.14,
                     142.12,
                     171.72
                 ],
                 [
-                    67.61,
-                    106.18,
-                    114.81,
-                    131.9,
+                    90.74,
+                    107.84,
+                    119.58,
+                    132.22,
                     139.8
                 ],
                 [
-                    26.95,
-                    86.32,
-                    98.94,
+                    73.28,
+                    96.94,
+                    103.5,
                     125.9,
                     161.64
                 ],
                 [
-                    54.81,
+                    72.52,
                     106.56,
                     117.44,
                     141.07,
                     159.98
                 ],
                 [
-                    63.68,
-                    101.5,
-                    115.43,
+                    98.46,
+                    107.14,
+                    116.99,
                     126.72,
-                    162.8
+                    156.07
                 ]
             ],
             "itemStyle": {
@@ -813,7 +813,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     0,
-                    0.0,
+                    169.2,
                     "PONY"
                 ],
                 [
@@ -883,7 +883,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     1,
-                    0.0,
+                    144.36,
                     "HMB"
                 ],
                 [
@@ -953,7 +953,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     2,
-                    0.0,
+                    168.3,
                     "WKCR"
                 ],
                 [
@@ -1023,7 +1023,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     3,
-                    0.0,
+                    154.4,
                     "TOM"
                 ],
                 [
@@ -1093,7 +1093,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     4,
-                    0.0,
+                    103.98,
                     "TIB"
                 ],
                 [
@@ -1163,7 +1163,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     5,
-                    0.0,
+                    131.44,
                     "RRT"
                 ],
                 [
@@ -1233,7 +1233,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     6,
-                    0.0,
+                    131.46,
                     "JST"
                 ],
                 [
@@ -1303,7 +1303,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     7,
-                    0.0,
+                    108.02,
                     "ARV"
                 ],
                 [
@@ -1373,7 +1373,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     8,
-                    0.0,
+                    72.52,
                     "MMT"
                 ],
                 [
@@ -1443,7 +1443,7 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
                 ],
                 [
                     9,
-                    0.0,
+                    123.4,
                     "KTT"
                 ]
             ]
