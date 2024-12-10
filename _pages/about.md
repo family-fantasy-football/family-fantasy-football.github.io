@@ -18,7 +18,7 @@ chart:
   echarts: true
 ---
 
-## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season. This site is clearly still under development
+## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season.
 
 <div style="margin-bottom: 30px;">
 
