@@ -23,9 +23,10 @@ from fetch import *
 from make_assests import *
 
 def generate_about_md(league, week, teams, box_scores):
-    
-    generate_roster_table(league, week-1)
-    generate_standings_table(league, week-1)
+    # create_weekly_scores_boxplot(teams, week)
+    # create_team_scatter_plot(league, week)
+    generate_roster_table(league, week)
+    generate_standings_table(league, week)
     create_standings_bump_json(teams, week)
     for pos in get_non_flex_positions(box_scores, 1):
         create_weekly_position_rankings_json(teams,week, box_scores, pos)
@@ -110,7 +111,7 @@ permalink: /
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -173,7 +174,8 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 {formatted_bump_chart_json}
 ```
 <br><br>
-<br><br>
+
+
 
 ### Average Position Rankings
 ```echarts
@@ -357,7 +359,7 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
         file.write(content)
         
         
-def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_data: Dict, output_dir: str = "_posts"):
+def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_data: Dict,  week):
     # First find the team
     team = next((t for t in league.teams if clean_team_name(t.team_name) == team_name), None)
     if not team:
@@ -368,17 +370,17 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
     markdown_content = [
         "---",
         "layout: post",
-        f"title: {team_name} Week {league.current_week-1} Report",
+        f"title: {team_name} Week {week} Report",
         f"date: {current_date}",
         "description: Weekly team status report",
-        f"tags: 2024-25, WeeklyRecap, Week{league.current_week - 1}",
+        f"tags: 2024-25, WeeklyRecap, Week{week}",
         "categories: team-reports",
         "tabs: true",
         "pretty_table: = true",
         "---",
     ]
     # After frontmatter but before injury report, add:
-    box = next((b for b in box_scores[league.current_week - 1] if b.home_team == team or b.away_team == team), None)
+    box = next((b for b in box_scores[week] if b.home_team == team or b.away_team == team), None)
     standings = league.standings()
     current_rank = next((i for i, t in enumerate(standings, 1) if t.team_id == team.team_id), None)
     
@@ -391,7 +393,7 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
                          (box.away_team == team and team_score > opp_score) else "Lost"
         
       # After getting box score but before adding to markdown_content
-    weekly_effs, _, total_optimal_points, total_actual_points = get_efficiencies(league.current_week-1, box_scores, team)
+    weekly_effs, _, total_optimal_points, total_actual_points = get_efficiencies(week, box_scores, team)
     efficiency = (total_actual_points/total_optimal_points * 100) if total_optimal_points > 0 else 0
     
     # Get highest scoring player
@@ -400,9 +402,9 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
         best_player = max(lineup, key=lambda x: x.points if x.slot_position != 'BE' else 0)
         
     # Get worst benching for this week
-    worst_benchings = get_benchings(league.current_week-1, box_scores, [team])
+    worst_benchings = get_benchings(week, box_scores, [team])
     week_benchings = [b for b in worst_benchings.values() 
-                     if b['week'] == league.current_week and 
+                     if b['week'] == week and 
                      b['team_name'] == clean_team_name(team.team_name)]
     worst_bench = max(week_benchings, key=lambda x: x['points_lost']) if week_benchings else None
 
@@ -435,7 +437,6 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
     now = datetime.now(timezone.utc)
     last_update_time = datetime.strptime(news_data['timestamp'], '%Y-%m-%dT%H:%M:%SZ')
     last_update_time = last_update_time.replace(tzinfo=timezone.utc)
-    
     if now - last_update_time <= timedelta(days=4):
         for team_news in news_data.get('injuries', []):
             for news in team_news.get('injuries', []):
@@ -451,7 +452,7 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
     roster_data = []
     optimal_data = []
     
-    box = next((b for b in box_scores[league.current_week - 1] if b.home_team == team or b.away_team == team), None)
+    box = next((b for b in box_scores[week] if b.home_team == team or b.away_team == team), None)
     if box:
         lineup = box.home_lineup if box.home_team == team else box.away_lineup
         starters = [p for p in lineup if p.slot_position != 'BE' and p.slot_position != 'IR']
@@ -501,7 +502,7 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
                 used_players.add(player.name)
     
     # Save JSON data
-    nfl_week = league.current_week -1
+    nfl_week = week
     nfl_year = league.year
     json_filename = f"Week_{nfl_week}_{nfl_year}_{team.team_abbrev}_roster.json"
     optimal_filename = f"Week_{nfl_week}_{nfl_year}_{team.team_abbrev}_optimal.json"
@@ -559,31 +560,38 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
     with open(f"../_posts/{markdown_filename}", 'w') as f:
         f.write('\n'.join(markdown_content))
         
-def generate_league_weekly_recap_markdown(league: League, box_scores):
+def generate_league_weekly_recap_markdown(league: League, box_scores, week):
     current_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    nfl_week = league.nfl_week
+    nfl_week = week
     nfl_year = league.year
-    
+    generate_echarts_heatmap_weekly_json(league.teams, box_scores, week)
     markdown_content = [
         "---",
         "layout: post",
-        f"title: Week {nfl_week-1} League Recap",
+        f"title: Week {week} League Recap",
         f"date: {current_date}",
         "description: Weekly league recap and standings",
-        f"tags: 2024-25, WeeklyRecap, Week{league.current_week - 1}",
+        f"tags: 2024-25, WeeklyRecap, Week{week}",
         "categories: league-recaps",
         "tabs: true",
-        "pretty_table: true",
+        "pretty_table: true",f"""\
+chart:
+  echarts: true""",
         "---",
         "\n## Weekly Matchups\n"
     ]
     
     # Get box scores and standings
-    
+    pos_data_path = "../assets/json/weekly_heatmap_config.json"
+    with open(pos_data_path, "r") as json_file:
+        pos_data = json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_pos_json = json.loads(pos_data)
+    formatted_pos_json = json.dumps(parsed_pos_json, indent=4)
     standings = league.standings()
     
     # Process each matchup
-    for box in box_scores[nfl_week-1]:
+    for box in box_scores[week]:
         if not box.away_team:  # Skip bye weeks
             continue
             
@@ -597,9 +605,9 @@ def generate_league_weekly_recap_markdown(league: League, box_scores):
         best_player_team = box.home_team if best_player in box.home_lineup else box.away_team
         
         # Get worst benchings for both teams
-        worst_benchings = get_benchings(nfl_week, box_scores, [box.home_team, box.away_team])
+        worst_benchings = get_benchings(week, box_scores, [box.home_team, box.away_team])
         matchup_benchings = [b for b in worst_benchings.values() 
-                           if b['week'] == nfl_week and 
+                           if b['week'] == week and 
                            (b['team_name'] in [clean_team_name(box.home_team.team_name), 
                                              clean_team_name(box.away_team.team_name)])]
         worst_bench = max(matchup_benchings, key=lambda x: x['points_lost']) if matchup_benchings else None
@@ -634,7 +642,7 @@ def generate_league_weekly_recap_markdown(league: League, box_scores):
         })
 
     # Save standings JSON
-    standings_filename = f"Week_{nfl_week-1}_{nfl_year}_standings.json"
+    standings_filename = f"Week_{week}_{nfl_year}_standings.json"
     os.makedirs(f"../assets/json/standings", exist_ok=True)
     with open(f"../assets/json/standings/{standings_filename}", 'w') as f:
         json.dump(standings_data, f, indent=2)
@@ -660,9 +668,15 @@ def generate_league_weekly_recap_markdown(league: League, box_scores):
         "</thead>",
         "</table>\n"
     ])
-
+    markdown_content.append(f"""\
+<br>
+## Positional Scoring This Week
+```echarts
+{formatted_pos_json}
+```
+    """)
     # Save markdown file
-    markdown_filename = f"{datetime.now().strftime('%Y-%m-%d')}-Week-{nfl_week-1}_Recap.md"
+    markdown_filename = f"{datetime.now().strftime('%Y-%m-%d')}-Week-{week}_Recap.md"
     os.makedirs(f"../_posts", exist_ok=True)
     with open(f"../_posts/{markdown_filename}", 'w') as f:
         f.write('\n'.join(markdown_content))

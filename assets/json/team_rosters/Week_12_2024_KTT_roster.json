@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 3.5,
+    "projected": 13.96
+  },
+  {
+    "player_name": "C.J. Stroud",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 15.68,
+    "projected": 13.96
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.8,
+    "projected": 12.43
+  },
+  {
+    "player_name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 2.9,
+    "projected": 15.41
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.1,
+    "projected": 9.0
+  },
+  {
+    "player_name": "DeAndre Hopkins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.0,
+    "projected": 8.62
+  },
+  {
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.9,
+    "projected": 9.03
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 24.2,
+    "projected": 12.69
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.2,
+    "projected": 16.69
+  },
+  {
+    "player_name": "Tommy DeVito",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 10.76,
+    "projected": 15.24
+  }
+]

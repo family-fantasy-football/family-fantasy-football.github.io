@@ -18,6 +18,8 @@ import json
 import requests
 from datetime import datetime, timedelta
 
+
+
 from utils import *
 from fetch import *
 from make_assests import *
@@ -57,18 +59,18 @@ def main():
     #         trades.append(activity)
     
     # generate_team_json(league, teams, box_scores, reg_season_length, trades, transactions)
-    generate_weekly_scores_json(teams, reg_season_length, league)
+    # generate_weekly_scores_json(teams, reg_season_length, league)
     # # save_team_logos(league)
     # generate_roster_table(league, week-1)
     # generate_standings_table(league, week-1)
-    
+    # week = 14
     generate_about_md(league, reg_season_length, teams, box_scores)
-    for team in teams:
-        generate_indv_team_page_md(league, league.nfl_week, team, )
-        # generate_team_weekly_recap(league, team.team_name,box_scores, news_data)
+    # for team in teams:
+        # generate_indv_team_page_md(league, league.nfl_week, team, )
+        # generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
         
     # combine_draft_json()
-    # generate_league_weekly_recap_markdown(league, box_scores)
+    # generate_league_weekly_recap_markdown(league, box_scores, week)
     
     # generate_draft_page()
     # generate_players_page(league)

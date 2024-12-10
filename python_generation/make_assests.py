@@ -15,6 +15,10 @@ from PIL import Image
 import os
 import json
 import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+from scipy.spatial import distance
+import matplotlib.pyplot as plt  # For generating colors
+import plotly.express as px
 
 from utils import *
 from fetch import *
@@ -207,6 +211,103 @@ def create_weekly_position_rankings_json(teams, reg_season_length, box_scores, p
         json.dump(echarts_config, json_file, indent=4)
     
     # return f"weekly_{position.lower()}_rankings.json"
+
+
+def generate_echarts_heatmap_weekly_json(teams, box_score, week):
+    positions = {'QB': [], 'RB': [], 'WR': [], 'TE': [], 'D/ST': [], 'K': []}
+    position_data = []
+    for team in teams:
+        box_scores = box_score[week]
+        box = next((b for b in box_scores if b.home_team == team or b.away_team == team), None)
+        if box:
+            lineup = box.home_lineup if box.home_team == team else box.away_lineup
+            starters = [p for p in lineup if p.slot_position != 'BE' and p.slot_position != 'IR']
+            for player in starters:
+                if player.position in positions:
+                    positions[player.position].append(player.points)
+        positions =  {pos: scores for pos, scores in positions.items() if scores}          
+        points = {pos: sum(pts) / len(pts) if pts else 0 for pos, pts in positions.items()}
+        points['Team'] = team.team_abbrev
+        position_data.append(points)
+    
+    df = pd.DataFrame(position_data)
+    positions = get_non_flex_positions(box_score,1)
+    
+    # Calculate ranks for all positions
+    for position in positions:
+        df[f"{position}_Rank"] = df[position].rank(ascending=False)
+    
+    # Prepare data for ECharts heatmap (x, y, value)
+    echarts_data = []
+    for y_index, team in enumerate(df['Team']):
+        for x_index, position in enumerate(positions):
+            rank = int(df[f"{position}_Rank"].iloc[y_index])
+            echarts_data.append([x_index, y_index, rank])  # [x, y, rank]
+    
+    # Replace the lambda function with preprocessed data
+    y_axis_labels = [team[:20] for team in df['Team']]  # Truncate long team names
+    
+    # Create ECharts JSON configuration
+    echarts_config = {
+        "grid": {
+            "top": "10%",
+            "bottom": "15%",
+            "left": "5%",
+            "right": "0%"
+        },
+        "xAxis": {
+            "type": "category",
+            "data": positions,
+            "name": "Position",
+            "nameLocation": "center",
+            "nameTextStyle": {
+                "fontSize": 16
+            },
+            "axisLabel": {
+                "fontSize": 14
+            }
+        },
+        "yAxis": {
+            "type": "category",
+            "data": y_axis_labels,  # Use preprocessed team names
+            "name": "",
+            "nameLocation": "end",
+            "nameTextStyle": {
+                "fontSize": 16
+            },
+            "axisLabel": {
+                "fontSize": 14
+            }
+        },
+        "visualMap": {
+            "min": 1,
+            "max": len(teams),
+            "calculable": True,
+            "orient": "vertical",
+            "show": False,
+            "right": "right",
+            "bottom": "30%",
+            "text": [],
+            "inRange": {
+                "color": ["#4575b4", "#91bfdb", "#fee090", "#fc8d59", "#d73027"]  # Reverse the scale
+            }
+        },
+        "series": [
+            {
+                "type": "heatmap",
+                "data": echarts_data,
+                "label": {
+                    "show": True,
+                    "fontSize": 12
+                }
+            }
+        ]
+    }
+    
+    # Save the JSON to a file
+    with open("../assets/json/weekly_heatmap_config.json", "w") as json_file:
+        json.dump(echarts_config, json_file, indent=4)
+
 
 def generate_echarts_heatmap_json(teams, box_scores, through_week):
     position_data = []
@@ -636,3 +737,158 @@ def combine_draft_json():
     # Save the sorted data to a new JSON file
     with open(output_file, 'w') as out_file:
         json.dump(sorted_data, out_file, indent=2)
+
+
+def create_team_scatter_plot(league, through_week):
+    # Get team data
+    team_data = []
+    for team in league.teams:
+        points_for = sum(team.scores[:through_week])
+        points_against = sum(opponent.scores[i] for i, opponent in enumerate(team.schedule[:through_week]))
+        team_data.append({
+            'team': clean_team_name(team.team_name),
+            'points_for': points_for,
+            'points_against': points_against,
+        })
+    
+    # Generate unique colors for each team
+    num_teams = len(league.teams)
+    cmap = plt.get_cmap("tab20")
+    colors = [cmap(i / num_teams) for i in range(num_teams)]
+    color_hex = [f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}" for r, g, b, _ in colors]
+    team_colors = {clean_team_name(team.team_name): color for team, color in zip(league.teams, color_hex)}
+
+    avg_points_for = np.mean([t['points_for'] for t in team_data])
+    avg_points_against = np.mean([t['points_against'] for t in team_data])
+
+    # Create points array for distance calculation
+    points = np.array([[t['points_for'], t['points_against']] for t in team_data])
+    
+    # Calculate distances between all points
+    dist_matrix = distance.cdist(points, points)
+    
+    # Set threshold for "close" points
+    threshold = 50  # Adjust this value based on your data scale
+    
+    # Determine text positions with slight adjustments to move them closer
+    text_offsets = []  # Store the offset for each label
+    for i, point in enumerate(points):
+        close_points = np.where(dist_matrix[i] < threshold)[0]
+        close_points = close_points[close_points != i]  # Remove self
+        
+        if len(close_points) > 0:
+            if i % 2 == 0:
+                text_offsets.append((0, 30/2))  # Slight offset to bring text closer
+            else:
+                text_offsets.append((-0, -30/2))  # Slight offset to bring text closer
+        else:
+            if point[0] > avg_points_for and point[1] > avg_points_against:
+                text_offsets.append((0, 30/2))
+            elif point[0] > avg_points_for:
+                text_offsets.append((0, -30/2))
+            elif point[1] > avg_points_against:
+                text_offsets.append((-0, 30/2))
+            else:
+                text_offsets.append((-0, -30/2))
+
+    # Add scatter plot
+    fig = go.Figure()
+
+    fig.add_trace(go.Scatter(
+        x=[t['points_for'] for t in team_data],
+        y=[t['points_against'] for t in team_data],
+        mode='markers',
+        hovertemplate="<b>%{text}</b><br>" +
+                      "Points For: %{x:.1f}<br>" +
+                      "Points Against: %{y:.1f}<extra></extra>",
+        marker=dict(
+            size=15,
+            color=[team_colors[t['team']] for t in team_data]  # Assign unique colors
+        ),
+        text=[t['team'] for t in team_data],
+    ))
+
+    # Apply text annotations with the calculated offsets
+    for i, (x_pos, y_pos) in enumerate(zip([t['points_for'] for t in team_data], [t['points_against'] for t in team_data])):
+        offset_x, offset_y = text_offsets[i]
+        fig.add_annotation(
+            x=x_pos + offset_x,
+            y=y_pos + offset_y,
+            text=team_data[i]['team'],
+            showarrow=False,
+            font=dict(size=12,color="black"),
+            textangle=0,
+            # bgcolor='rgba(255,255,255,0.7)',  # Optional: Background color for the text
+            # borderpad=2,
+            # bordercolor='rgba(0,0,0,0.2)',  # Optional: Border color for the text
+            # opacity=0.8
+        )
+
+    min_val = min(min(t['points_for'] for t in team_data), min(t['points_against'] for t in team_data)) - 150
+    max_val = max(max(t['points_for'] for t in team_data), max(t['points_against'] for t in team_data)) + 150
+    
+    # Add diagonal line
+    fig.add_trace(go.Scatter(
+        x=[min_val, max_val],
+        y=[min_val, max_val],
+        mode='lines',
+        line=dict(dash='dash', color='gray'),
+        showlegend=False,
+        hoverinfo='skip'
+    ))
+
+    # Add horizontal and vertical averages
+    fig.add_hline(y=avg_points_against, line_color="red", opacity=0.5,
+                  annotation_text=f"",
+                  annotation_position="right")
+    fig.add_vline(x=avg_points_for, line_color="blue", opacity=0.5,
+                  annotation_text=f"",
+                  annotation_position="top")
+
+    # Update layout
+    fig.update_layout(
+        xaxis_title="Points For",
+        yaxis_title="Points Against",
+        xaxis=dict(range=[min_val, max_val]),
+        yaxis=dict(range=[min_val, max_val], side='right'),
+        width=1050,
+        height=600,
+        showlegend=False,
+        margin=dict(l=30, r=100, t=10, b=0)
+    )
+
+    fig.write_html('../assets/plotly/scatter_plot.html')
+
+
+def create_weekly_scores_boxplot(teams, through_week):
+    # Generate unique colors for each team
+    num_teams = len(teams)
+    cmap = plt.get_cmap("tab20")  # Choose the color map
+    colors = [cmap(i / num_teams) for i in range(num_teams)]
+    color_hex = [f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}" for r, g, b, _ in colors]
+    team_colors = {clean_team_name(team.team_name): color for team, color in zip(teams, color_hex)}
+
+    fig = go.Figure()
+    
+    for team in teams:
+        fig.add_trace(go.Box(
+            y=team.scores[:through_week],
+            name=team.team_abbrev,
+            boxpoints='all',
+            jitter=0.3,
+            pointpos=-1.8,
+            marker_color=team_colors[clean_team_name(team.team_name)]  # Add this line to set the color
+        ))
+    
+    fig.update_layout(
+        # title='Weekly Score Distribution by Team',
+        yaxis_title='Points Scored',
+        xaxis_title='Teams',
+        showlegend=False,
+        height=600,
+        width=900
+        
+        # margin=dict(l=40, r=10, t=20, b=50)
+    )
+    
+    fig.write_html('../assets/plotly/boxes_plot.html')

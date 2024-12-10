@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 21.1,
+    "projected": 17.0
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 24.4,
+    "projected": 8.6
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.0,
+    "projected": 11.97
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.2,
+    "projected": 7.79
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.1,
+    "projected": 17.14
+  },
+  {
+    "player_name": "Antonio Gibson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.0,
+    "projected": 3.15
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 19.3,
+    "projected": 10.09
+  },
+  {
+    "player_name": "Rome Odunze",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.4,
+    "projected": 8.56
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.2,
+    "projected": 10.09
+  },
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 12.36,
+    "projected": 16.23
+  }
+]

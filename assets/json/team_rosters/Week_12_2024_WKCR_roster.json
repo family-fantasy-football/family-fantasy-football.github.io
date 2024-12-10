@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 22.58,
+    "projected": 23.06
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.2,
+    "projected": 12.51
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.0,
+    "projected": 17.66
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 23.4,
+    "projected": 8.97
+  },
+  {
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 26.9,
+    "projected": 12.69
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 13.1,
+    "projected": 6.5
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.3,
+    "projected": 10.92
+  },
+  {
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.2,
+    "projected": 8.39
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 1.4,
+    "projected": 9.41
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.8,
+    "projected": 10.35
+  }
+]
