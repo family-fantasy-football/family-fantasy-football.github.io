@@ -64,7 +64,7 @@ def main():
     # generate_roster_table(league, week)
     # generate_standings_table(league, week)
     # news_data = []
-    generate_about_md(league, week, teams, box_scores)
+    # generate_about_md(league, week, teams, box_scores)
     # for team in teams:
         # generate_indv_team_page_md(league, week, team, box_scores)
         # generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
@@ -80,8 +80,8 @@ def main():
     # generate_history_page()
     # generate_records_page()
     # generate_trades_page(league, trades)
-    # generate_free_agency_page(league, waiver_adds, fa_adds, trades)
-    
+    # generate_waivers_page(league, waiver_adds, fa_adds, trades)
+    generate_playoff_page(league, week)
     
     
 if __name__ == "__main__":

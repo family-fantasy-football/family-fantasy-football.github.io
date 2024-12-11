@@ -16,4 +16,7 @@ children:
   - title: divider
   - title: constitution
     permalink: /constitution/
+  - title: divider
+  - title: playoffs
+    permalink: /playoffs/
 ---

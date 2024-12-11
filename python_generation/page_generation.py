@@ -412,7 +412,7 @@ def generate_team_weekly_recap(league: League, team_name: str,box_scores, news_d
 layout: post
 title: {team_name} Week {week} Report
 date: {current_date}
-description: Weekly team status report
+description: weekly team status recap
 tags: 2024-25, WeeklyRecap, Week{week}
 categories: team-reports
 tabs: true
@@ -1090,14 +1090,14 @@ def generate_history_page():
         f.write('\n'.join(content))
         
         
-def generate_free_agency_page(league, waiver_adds, fa_adds, trades):    
+def generate_waivers_page(league, waiver_adds, fa_adds, trades):    
     generate_best_pickups_json(league, waiver_adds, fa_adds, trades)
     generate_all_transactions_json(league, waiver_adds, fa_adds)
     content = f"""\
 ---
 layout: page
-permalink: /freeagency/
-title: free agency
+permalink: /waivers/
+title: waivers
 nav: true
 nav_order: 4
 description:
@@ -1194,4 +1194,138 @@ data-url="{{{{ "/assets/json/transactions/trades_{league.year}.json"}}}}">
 """
     os.makedirs("../_pages", exist_ok=True)
     with open(f"../_pages/trades.md", 'w') as f:
+        f.write(content)
+        
+        
+def generate_playoff_page(league, week):
+    num_playoff_teams = league.settings.playoff_team_count
+    playoff_teams = sorted(league.teams, 
+                         key=lambda x: x.final_standing if x.final_standing != 0 else x.standing,
+                         reverse=False)[:num_playoff_teams]
+    teams = playoff_teams
+    
+    # Clean team names and get their scores for the given week
+    team_0_name = clean_team_name(teams[0].team_name)
+    team_0_score = teams[0].scores[week-1]
+
+    team_3_name = clean_team_name(teams[3].team_name)
+    team_3_score = teams[3].scores[week-1]
+
+    team_1_name = clean_team_name(teams[1].team_name)
+    team_1_score = teams[1].scores[week-1]
+
+    team_2_name = clean_team_name(teams[2].team_name)
+    team_2_score = teams[2].scores[week-1]
+    
+    # Create the content using an f-string
+    content = f"""\
+---
+layout: page
+permalink: /playoffs/
+title: playoffs
+description: 
+nav: true
+nav_order: 7
+chart:
+  echarts: true
+---
+
+
+```echarts
+{{
+  "series": [
+    {{
+      "type": "tree",
+      "data": [
+        {{
+          "name": "Finals",
+          "symbol": "rect",
+          "symbolSize": [250, 50],
+          "children": [
+            {{
+              "name": "Winner of Semifinal 1",
+              "symbol": "rect",
+              "symbolSize": [250, 50],
+              "children": [
+                {{
+                  "name": "{team_0_name}",
+                  "value": "{team_0_score}",
+                  "itemStyle": {{
+                    "color": "#7EC8B6"
+                  }},
+                  "symbol": "rect",
+                  "symbolSize": [250, 50],
+                  "label": {{
+                    "formatter": "{{b}}\\n{{c}}"
+                  }}
+                }},
+                {{
+                  "name": "{team_3_name}",
+                  "value": "{team_3_score}",
+                  "itemStyle": {{
+                    "color": "#FF6347"
+                  }},
+                  "symbol": "rect",
+                  "symbolSize": [250, 50],
+                  "label": {{
+                    "formatter": "{{b}}\\n{{c}}"
+                  }}
+                }}
+              ]
+            }},
+            {{
+              "name": "Winner of Semifinal 2",
+              "symbol": "rect",
+              "symbolSize": [250, 50],
+              "children": [
+                {{
+                  "name": "{team_1_name}",
+                  "value": "{team_1_score}",
+                  "itemStyle": {{
+                    "color": "#FFD700"
+                  }},
+                  "symbol": "rect",
+                  "symbolSize": [250, 50],
+                  "label": {{
+                    "formatter": "{{b}}\\n{{c}}"
+                  }}
+                }},
+                {{
+                  "name": "{team_2_name}",
+                  "value": "{team_2_score}",
+                  "itemStyle": {{
+                    "color": "#1E90FF"
+                  }},
+                  "symbol": "rect",
+                  "symbolSize": [250, 50],
+                  "label": {{
+                    "formatter": "{{b}}\\n{{c}}"
+                  }}
+                }}
+              ]
+            }}
+          ]
+        }}
+      ],
+      "orient": "RL",
+      "top": "5%",
+      "left": "15%",
+      "bottom": "5%",
+      "right": "15%",
+      "label": {{
+        "position": "inside",
+        "verticalAlign": "middle",
+        "align": "center",
+        "fontSize": 16
+      }},
+      "lineStyle": {{
+        "color": "#555",
+        "width": 2
+      }}
+    }}
+  ]
+}}
+```"""
+    os.makedirs("../_pages", exist_ok=True)
+    with open(f"../_pages/playoffs.md", 'w') as f:
         f.write(content)

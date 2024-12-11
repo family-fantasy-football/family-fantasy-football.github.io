@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /freeagency/
-title: free agency
+permalink: /waivers/
+title: waivers
 nav: true
 nav_order: 4
 description:

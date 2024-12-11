@@ -1,26 +1,43 @@
 ---
-layout: profiles
+layout: page
 permalink: /owners/
 title: owners
-description: owners of the teams
+description: 
 nav: false
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: WKCR_2024.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>I am the Commissoner</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+mermaid:
+  enabled: true
+  zoomable: false
 ---
+
+```mermaid
+%%{init: {"flowchart": { "wrap": true }}}%%
+flowchart LR
+    subgraph Weeks 14-15
+        T1["1. **Pink Pony Club** \n 148.93"]
+        T2["2. Hamlin My Business \n 123.9"]
+        T3["3. Who Killed Charbonnet Ramsey?"]
+        T4["4. Tom and Jerry"]
+        M1(("vs"))
+        M2(("vs"))
+        T1 --> M1
+        T2 --> M1
+        T3 --> M2
+        T4 --> M2
+    end
+    subgraph Weeks 16-17
+        W1[/"Winner of #1 v #4"/]
+        W2[/"Winner of #2 v #3"/]
+        M1 --> W1
+        M2 --> W2
+        CHAMP(("vs"))
+        W1 --> CHAMP
+        W2 --> CHAMP
+        WINNER[/"Champion"/]
+        CHAMP --> WINNER
+    end
+    click T1 "/projects/PONY"
+    click T2 "/projects/HMB"
+    click T3 "/projects/WKCR"
+    click T4 "/projects/TOM"
+```

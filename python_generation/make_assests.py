@@ -1105,3 +1105,60 @@ def create_position_contribution_chart(team, week=None, through_week=None, box_s
         with open(f"../assets/json/team_data/{team.team_abbrev}_2024_pie.json", 'w') as f:
             json.dump(chart, f, indent=2)
            
+def create_playoff_bracket_mermaid(league: League) -> str:
+    """Creates a Mermaid diagram showing playoff bracket.
+    Automatically determines playoff teams and seeding from league data.
+    """
+    # Get playoff settings
+    num_playoff_teams = league.settings.playoff_team_count
+    
+    # Get teams and sort by playoff seeding
+    teams = league.teams
+    playoff_teams = sorted(teams, 
+                         key=lambda x: x.final_standing if x.final_standing != 0 else x.standing,
+                         reverse=False)[:num_playoff_teams]
+    
+    # Start mermaid graph
+    mermaid = ["graph LR"]
+    
+    # Create nodes for playoff teams
+    for i, team in enumerate(playoff_teams):
+        seed = i + 1
+        node_id = f"T{seed}"
+        mermaid.append(f'    {node_id}["{seed}. {clean_team_name(team.team_name)}"]')
+        
+    # Create bracket structure
+    first_round = num_playoff_teams // 2
+    for i in range(first_round):
+        top_seed = i * 2 + 1
+        bottom_seed = i * 2 + 2
+        match_id = f"M{i+1}"
+        winner_to = f"W{i+1}"
+        
+        # Add matchup node
+        mermaid.append(f'    {match_id}(("vs"))')
+        
+        # Connect teams to matchup
+        mermaid.append(f'    T{top_seed} --> {match_id}')
+        mermaid.append(f'    T{bottom_seed} --> {match_id}')
+        
+        # Add winner node and connection for first round
+        if i < first_round // 2:
+            mermaid.append(f'    {winner_to}[/"Winner"/]') 
+            mermaid.append(f'    {match_id} --> {winner_to}')
+            
+            # Connect winners to championship if applicable
+            if first_round == 2:
+                champ_id = "CHAMP"  
+                mermaid.append(f'    {champ_id}(("vs"))')
+                mermaid.append(f'    W1 --> {champ_id}')
+                mermaid.append(f'    W2 --> {champ_id}')
+                mermaid.append(f'    WINNER[/"Champion"/]')
+                mermaid.append(f'    {champ_id} --> WINNER')
+
+    # Add style
+    mermaid.append("    classDef default fill:#fff,stroke:#333,stroke-width:2px;")
+    mermaid.append("    classDef matchup fill:#f9f9f9,stroke:#666;")
+    
+    return "\n".join(mermaid)
+
