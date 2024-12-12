@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <tbody>
               ${team1Summary.map((item, index) => {
                 const team1Value = item.value;
-                const team2Value = team2Summary[index]?.value || "N/A";
+                const team2Value = team2Summary[index].value || "N/A";
                 return `
                   <tr>
                     <td>${item.category}</td>
