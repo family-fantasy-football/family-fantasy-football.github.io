@@ -1169,6 +1169,14 @@ chart:
 pretty_table: True
 ---
 
+<div class="row mb-3">
+    <div class="col-12">
+        <a href="trade_analyzer" class="btn btn-primary">Trade Analyzer</a>
+    </div>
+</div>
+
+
+
 ### All Trades
 <table
 data-click-to-select="true"
@@ -1334,7 +1342,7 @@ def generate_trade_analyzer_page():
     content = f"""\
 ---
 layout: page
-permalink: /trades/analyzer/
+permalink: /trades/trade_analyzer/
 title: trade analyzer
 nav: false
 nav_order: 6

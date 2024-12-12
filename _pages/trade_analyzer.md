@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /trades/analyzer/
+permalink: /trades/trade_analyzer/
 title: trade analyzer
 nav: false
 nav_order: 6

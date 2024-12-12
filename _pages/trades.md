@@ -13,7 +13,7 @@ pretty_table: True
 <center>
 <div class="row mb-3">
     <div class="col-12">
-        <a href="analyzer" class="btn btn-primary">Trade Analyzer</a>
+        <a href="trade_analyzer" class="btn btn-primary">Trade Analyzer</a>
     </div>
 </div>
 </center>
