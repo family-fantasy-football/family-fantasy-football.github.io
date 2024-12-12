@@ -1329,3 +1329,198 @@ chart:
     os.makedirs("../_pages", exist_ok=True)
     with open(f"../_pages/playoffs.md", 'w') as f:
         f.write(content)
+        
+def generate_trade_analyzer_page():
+    content = f"""\
+---
+layout: page
+permalink: /trades/analyzer/
+title: trade analyzer
+nav: false
+nav_order: 6
+custom_js:
+    - trade-analyzer
+description: Analyze potential trades using projections and historical data
+chart:
+    echarts: true
+pretty_table: True
+---
+
+<script src="../../assets/js/trade-analyzer.js"></script>
+
+<div class="container mt-4">
+...
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Team 1</h5>
+                </div>
+                <div class="card-body">
+                    <select id="team1-select" class="form-control mb-3">
+                        <option value="">Select Team</option>
+                    </select>
+                    <select id="team1-players" class="form-control" multiple size="8">
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Team 2</h5>
+                </div>
+                <div class="card-body">
+                    <select id="team2-select" class="form-control mb-3">
+                        <option value="">Select Team</option>
+                    </select>
+                    <select id="team2-players" class="form-control" multiple size="8">
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-3">
+        <div class="col-12 text-center">
+            <button id="analyze-btn" class="btn btn-primary">Analyze Trade</button>
+        </div>
+    </div>
+
+    <div id="analysis-results" class="mt-4" style="display:none;">
+        <div class="row">
+            <div class="col-md-6">
+                <div id="team1-analysis" class="card">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div id="team2-analysis" class="card">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-12">
+                <div id="trade-chart"></div>
+            </div>
+        </div>
+    </div>
+</div>
+"""
+    
+    os.makedirs("../_pages", exist_ok=True)
+    with open("../_pages/trade_analyzer.md", "w") as f:
+        f.write(content)
+        
+def generate_matchups_preview(league, week, box_scores, news_data):
+    current_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    markdown_content = [
+        "---",
+        "layout: post",
+        f"title: Week {week+1} Matchups Preview",
+        f"date: {current_date}",
+        "description: preview of next weeks matchups",
+        f"tags: 2024-25, WeeklyPreview, Week{week+1}",
+        "categories: league-previews",
+        "tabs: true",
+        "pretty_table: true",f"""\
+chart:
+  echarts: true""",
+        "---",
+        "\n## Matchups\n"
+    ]
+
+    matchups = league.box_scores(week+1)
+    
+    for matchup in matchups:
+        if not matchup.away_team:  # Skip bye weeks
+            continue
+            
+        home_team = matchup.home_team
+        away_team = matchup.away_team
+        
+        # Get historical h2h records and stats
+        h2h_wins = 0
+        total_games = 0
+        avg_home_score = 0
+        avg_away_score = 0
+        
+        for h_week, (opponent, score) in enumerate(zip(home_team.schedule[:week], home_team.scores[:week])):
+            if opponent.team_id == away_team.team_id:
+                total_games += 1
+                if score > opponent.scores[h_week]:
+                    h2h_wins += 1
+                avg_home_score += score
+                avg_away_score += opponent.scores[h_week]
+                
+        avg_home_score = avg_home_score/total_games if total_games > 0 else 0
+        avg_away_score = avg_away_score/total_games if total_games > 0 else 0
+        
+        # Get position comparisons
+        home_pos_stats = get_positional_scoring_amounts(box_scores, week, home_team)
+        away_pos_stats = get_positional_scoring_amounts(box_scores, week, away_team)
+        if avg_home_score > avg_away_score:
+            historical_winner = clean_team_name(home_team.team_name)
+        elif avg_home_score < avg_away_score:
+            historical_winner = clean_team_name(away_team.team_name)
+        else:
+            historical_winner = "How did y'all even manage this"
+        markdown_content.extend([
+            f"### {clean_team_name(away_team.team_name)} @ {clean_team_name(home_team.team_name)}\n",
+            f"**Projected Score:** {clean_team_name(away_team.team_name)} {matchup.away_projected:.2f} - "
+            f"{matchup.home_projected:.2f} {clean_team_name(home_team.team_name)}\n",
+            f"**Historical Matchup:** {h2h_wins}-{total_games-h2h_wins} "
+            f"(Avg Score: {historical_winner} wins by {avg_home_score:.1f}-{avg_away_score:.1f}) \n",
+            
+            "\n#### Position Breakdown\n \n"
+        ])
+        
+        # Create position comparison table
+        markdown_content.extend([
+            "<table>",
+            "<tr><th>Position</th><th>Away</th><th>Advantage</th><th>Home</th></tr>"
+        ])
+        
+        for pos in get_non_flex_positions(box_scores, 1):
+            away_avg = sum(away_pos_stats.get(pos, [0]))/len(away_pos_stats.get(pos, [1]))
+            home_avg = sum(home_pos_stats.get(pos, [0]))/len(home_pos_stats.get(pos, [1]))
+            advantage = "➡️" if abs(away_avg - home_avg) < 3 else "⬅️" if away_avg > home_avg else "➡️"
+            
+            markdown_content.append(
+                f"<tr><td>{pos}</td><td>{away_avg:.1f}</td><td>{advantage}</td><td>{home_avg:.1f}</td></tr>"
+            )
+        
+        markdown_content.append("</table>\n <br>")
+        
+        markdown_content.append("\n\n#### Injury Report\n\n")
+        # Add injury report if available
+        markdown_content.extend([f"**{home_team.team_name}:** "])
+        if news_data:
+            for team_news in news_data.get('injuries', []):
+                for news in team_news.get('injuries', []):
+                    player_name = news.get('athlete', {}).get('displayName', '').lower()
+                    if any(player_name == p.name.lower() for p in home_team.roster):
+                        if news.get('status', '') != 'Active':
+                            markdown_content.extend([
+                                f"{news.get('athlete', {}).get('displayName', '')} "
+                                f"({news.get('status', '')}), "
+                            ])
+        markdown_content.extend([f" \n**{away_team.team_name}:** "])
+        if news_data:
+            for team_news in news_data.get('injuries', []):
+                for news in team_news.get('injuries', []):
+                    player_name = news.get('athlete', {}).get('displayName', '').lower()
+                    if any(player_name == p.name.lower() for p in away_team.roster):
+                        if news.get('status', '') != 'Active':
+                            markdown_content.extend([
+                                f"{news.get('athlete', {}).get('displayName', '')} "
+                                f"({news.get('status', '')}), "
+                            ])
+        markdown_content.append("\n---\n")  # Add separator between matchups
+
+    markdown_filename = f"{datetime.now().strftime('%Y-%m-%d')}-Week-{week+1}_preview.md"
+    os.makedirs(f"../_posts", exist_ok=True)
+    with open(f"../_posts/{markdown_filename}", 'w') as f:
+        f.write('\n'.join(markdown_content))
+        

@@ -3,7 +3,7 @@ layout: page
 permalink: /playoffs/
 title: playoffs
 description: 
-nav: true
+nav: false
 nav_order: 7
 chart:
   echarts: true

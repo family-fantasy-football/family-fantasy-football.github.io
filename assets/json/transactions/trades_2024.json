@@ -1,15 +1,15 @@
 [
  {
-  "team_1": "Pink Pony Club",
-  "team_2": "To Infinity and Bijan!",
+  "team_1": "To Infinity and Bijan!",
+  "team_2": "Pink Pony Club",
   "week": 11,
   "team_1_sending": [
-   "Mike Gesicki (TE)",
-   "Russell Wilson (QB)"
-  ],
-  "team_2_sending": [
    "Cade Otton (TE)",
    "Jameis Winston (QB)"
+  ],
+  "team_2_sending": [
+   "Mike Gesicki (TE)",
+   "Russell Wilson (QB)"
   ]
  },
  {
@@ -62,14 +62,14 @@
   ]
  },
  {
-  "team_1": "Pink Pony Club",
-  "team_2": "Abbey Road to Victory",
+  "team_1": "Abbey Road to Victory",
+  "team_2": "Pink Pony Club",
   "week": 8,
   "team_1_sending": [
-   "DeVonta Smith (WR)"
+   "Nico Collins (WR)"
   ],
   "team_2_sending": [
-   "Nico Collins (WR)"
+   "DeVonta Smith (WR)"
   ]
  }
 ]

@@ -1162,3 +1162,107 @@ def create_playoff_bracket_mermaid(league: League) -> str:
     
     return "\n".join(mermaid)
 
+def generate_trade_analyzer_data(league, week):
+    """Generate player data for trade analyzer"""
+    os.makedirs("../assets/json/trade_analyzer", exist_ok=True)
+    
+    player_data = []
+    for team in league.teams:
+        for player in team.roster:
+            if player.injuryStatus != 'INJURY_RESERVE':
+                # Calculate remaining weeks
+                remaining_weeks = 17 - week
+                ros_projection = (player.projected_total_points / 17) * remaining_weeks
+                
+                # Get average points from actual games played
+                scores = [player.stats.get(w, {}).get('points', 0) 
+                        for w in range(1, week + 1)]
+                avg_points = player.avg_points
+                
+                player_data.append({
+                    "id": player.playerId,
+                    "name": player.name,
+                    "position": player.position,
+                    "team": clean_team_name(team.team_name),
+                    "total_points": round(player.total_points, 2),
+                    "avg_points": round(avg_points, 2),
+                    "ros_projection": round(ros_projection, 2)
+                })
+
+    with open(f"../assets/json/trade_analyzer/players_{league.year}.json", "w") as f:
+        json.dump(player_data, f, indent=2)
+        
+def generate_matchup_data_json(league, week, box_scores, news_data):
+    """Generate JSON data for next week's matchups"""
+    matchups = league.box_scores(week+1)  # Get next week's matchups
+    matchup_data = []
+    
+    for matchup in matchups:
+        if not matchup.away_team:  # Skip bye weeks
+            continue
+            
+        home_team = matchup.home_team
+        away_team = matchup.away_team
+        
+        # Get historical h2h records
+        h2h_wins = 0
+        total_games = 0
+        avg_home_score = 0
+        avg_away_score = 0
+        
+        for h_week, (opponent, score) in enumerate(zip(home_team.schedule[:week], home_team.scores[:week])):
+            if opponent.team_id == away_team.team_id:
+                total_games += 1
+                if score > opponent.scores[h_week]:
+                    h2h_wins += 1
+                avg_home_score += score
+                avg_away_score += opponent.scores[h_week]
+                
+        avg_home_score = avg_home_score/total_games if total_games > 0 else 0
+        avg_away_score = avg_away_score/total_games if total_games > 0 else 0
+        
+        # Get position strength rankings
+        home_pos_stats = get_positional_scoring_amounts(box_scores, week, home_team)
+        away_pos_stats = get_positional_scoring_amounts(box_scores, week, away_team)
+        
+        # Get injuries
+        home_injuries = []
+        away_injuries = []
+        if news_data:
+            for team_news in news_data.get('injuries', []):
+                for news in team_news.get('injuries', []):
+                    player_name = news.get('athlete', {}).get('displayName', '').lower()
+                    if any(player_name == p.name.lower() for p in home_team.roster):
+                        home_injuries.append({
+                            'player': news.get('athlete', {}).get('displayName', ''),
+                            'status': news.get('status', ''),
+                            'description': news.get('longComment', '')
+                        })
+                    elif any(player_name == p.name.lower() for p in away_team.roster):
+                        away_injuries.append({
+                            'player': news.get('athlete', {}).get('displayName', ''),
+                            'status': news.get('status', ''),
+                            'description': news.get('longComment', '')
+                        })
+        
+        matchup_data.append({
+            'home_team': clean_team_name(home_team.team_name),
+            'away_team': clean_team_name(away_team.team_name),
+            'home_projection': matchup.home_projected,
+            'away_projection': matchup.away_projected,
+            'h2h_record': f"{h2h_wins}-{total_games-h2h_wins}",
+            'avg_score': f"{avg_home_score:.1f}-{avg_away_score:.1f}",
+            'home_injuries': home_injuries,
+            'away_injuries': away_injuries,
+            'position_comparison': {
+                pos: {
+                    'home': round(sum(home_pos_stats.get(pos, [0]))/len(home_pos_stats.get(pos, [1])), 1),
+                    'away': round(sum(away_pos_stats.get(pos, [0]))/len(away_pos_stats.get(pos, [1])), 1)
+                }
+                for pos in get_non_flex_positions(box_scores, 1)
+            }
+        })
+    
+    os.makedirs("../assets/json/matchups", exist_ok=True)
+    with open(f"../assets/json/matchups/week_{week+1}.json", 'w') as f:
+        json.dump(matchup_data, f, indent=2)

@@ -48,8 +48,8 @@ def main():
     # waiver_adds = []
     # fa_adds = []
     # trades = []
-    # response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
-    # news_data = response.json()
+    response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
+    news_data = response.json()
     # for activity in transactions:
     #     activity_str = str(activity)
         # if "WAIVER" in activity_str:
@@ -81,7 +81,12 @@ def main():
     # generate_records_page()
     # generate_trades_page(league, trades)
     # generate_waivers_page(league, waiver_adds, fa_adds, trades)
-    generate_playoff_page(league, week)
+    # generate_playoff_page(league, week)
+    
+    # generate_trade_analyzer_data(league, week)
+    # generate_trade_analyzer_page()
+    
+    generate_matchups_preview(league, week, box_scores, news_data)
     
     
 if __name__ == "__main__":
