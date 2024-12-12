@@ -31,6 +31,20 @@ def generate_about_md(league, week, teams, box_scores):
     for pos in get_non_flex_positions(box_scores, 1):
         create_weekly_position_rankings_json(teams,week, box_scores, pos)
     generate_echarts_heatmap_json(teams, box_scores, week)
+    generate_analytics_json(league, teams, week, box_scores)
+    opt_chart_data = f"../assets/json/analytics/optimization_chart.json"
+    with open(opt_chart_data, "r") as json_file:
+        opt_chart= json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_opt_chart = json.loads(opt_chart)
+    formatted_opt_chart = json.dumps(parsed_opt_chart, indent=4) 
+    
+    
+    pos_chart_data = f"../assets/json/analytics/position_chart.json"
+    with open(pos_chart_data, "r") as json_file:
+        pos_chart= json_file.read()
+    parsed_pos_chart = json.loads(pos_chart)
+    formatted_pos_chart = json.dumps(parsed_pos_chart, indent=4) 
     bump_chart_data_path = '../assets/json/bump_chart_data.json'
     qb_data_path = "../assets/json/weekly_qb_rankings.json"
     rb_data_path = "../assets/json/weekly_rb_rankings.json"
@@ -227,7 +241,21 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 ```echarts
 {formatted_te_json}
 ```
+
+\n## Advanced Analytics\n
+<br>
+\n### Lineup Efficiency Over Time\n
+```echarts
+{formatted_opt_chart}
+```\n
+<br>
+\n### Positional Advantages\n
+```echarts
+{formatted_pos_chart}
+```\n
 """
+
+    
     # Write the content to 'about.md'
     with open("../_pages/about.md", "w") as file:
         file.write(content)
@@ -921,7 +949,7 @@ def generate_players_page(league: League, week):
         "layout: page",
         "permalink: /players/",
         "title: players",
-        "nav: true",
+        "nav: false",
         "nav_order: 3",
         "description: Top performers at each position",
         "chart:",
@@ -1098,7 +1126,7 @@ def generate_waivers_page(league, waiver_adds, fa_adds, trades):
 layout: page
 permalink: /waivers/
 title: waivers
-nav: true
+nav: false
 nav_order: 4
 description:
 chart:
@@ -1161,7 +1189,7 @@ def generate_trades_page(league, trades):
 layout: page
 permalink: /trades/
 title: trades
-nav: true
+nav: false
 nav_order: 5
 description:
 chart:
@@ -1532,3 +1560,57 @@ chart:
     with open(f"../_posts/{markdown_filename}", 'w') as f:
         f.write('\n'.join(markdown_content))
         
+        
+def generate_advanced_analytics_page(league, teams, box_scores, week):
+    # First generate all the JSON files we'll need
+    generate_analytics_json(league, teams, week, box_scores)
+    opt_chart_data = f"../assets/json/analytics/optimization_chart.json"
+    with open(opt_chart_data, "r") as json_file:
+        opt_chart= json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_opt_chart = json.loads(opt_chart)
+    formatted_opt_chart = json.dumps(parsed_opt_chart, indent=4) 
+    
+    sch_chart_data = f"../assets/json/analytics/schedule_chart.json"
+    with open(sch_chart_data, "r") as json_file:
+        sch_chart= json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_sch_chart = json.loads(sch_chart)
+    formatted_sch_chart = json.dumps(parsed_sch_chart, indent=4) 
+    
+    
+    pos_chart_data = f"../assets/json/analytics/position_chart.json"
+    with open(pos_chart_data, "r") as json_file:
+        pos_chart= json_file.read()
+    # Ensure JSON is properly formatted
+    parsed_pos_chart = json.loads(pos_chart)
+    formatted_pos_chart = json.dumps(parsed_pos_chart, indent=4) 
+    content = [
+        "---",
+        "layout: page",
+        "permalink: /analytics/",
+        "title: advanced analytics",
+        "nav: true",
+        "nav_order: 6",
+        "description: Advanced team and league analytics",
+        "chart:",
+        "  echarts: true",
+        "pretty_table: True",
+        "---",
+        "\n## Advanced Analytics\n",
+        "<br>",
+        "\n### Lineup Efficiency Over Time\n",
+        '```echarts',
+        formatted_opt_chart,
+        '```\n',
+        
+        "<br>",
+        "\n### Positional Advantages\n",
+        '```echarts',
+        formatted_pos_chart,
+        '```\n',
+    ]
+    
+    os.makedirs("../_pages", exist_ok=True)
+    with open(f"../_pages/analytics.md", 'w') as f:
+        f.write('\n'.join(content))

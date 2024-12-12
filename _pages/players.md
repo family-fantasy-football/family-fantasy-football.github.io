@@ -2,7 +2,7 @@
 layout: page
 permalink: /players/
 title: players
-nav: true
+nav: false
 nav_order: 3
 description: Top performers at each position
 chart:

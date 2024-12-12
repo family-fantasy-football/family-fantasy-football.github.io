@@ -4922,3 +4922,463 @@ Unluckiest Team: Ryan Ratcliff (-2.9) Wins Below Expected
     ]
 }
 ```
+
+
+## Advanced Analytics
+
+<br>
+
+### Lineup Efficiency Over Time
+
+```echarts
+{
+    "title": {
+        "text": "Lineup Efficiency Trends",
+        "left": "center",
+        "show": false
+    },
+    "tooltip": {
+        "trigger": "axis"
+    },
+    "legend": {
+        "data": [
+            "PONY",
+            "HMB",
+            "WKCR",
+            "TOM",
+            "TIB",
+            "RRT",
+            "JST",
+            "ARV",
+            "MMT",
+            "KTT"
+        ],
+        "orient": "vertical",
+        "right": 0,
+        "top": "middle"
+    },
+    "xAxis": {
+        "type": "category",
+        "data": [
+            "Week 1",
+            "Week 2",
+            "Week 3",
+            "Week 4",
+            "Week 5",
+            "Week 6",
+            "Week 7",
+            "Week 8",
+            "Week 9",
+            "Week 10",
+            "Week 11",
+            "Week 12",
+            "Week 13",
+            "Week 14"
+        ]
+    },
+    "yAxis": {
+        "type": "value",
+        "name": "Efficiency %"
+    },
+    "series": [
+        {
+            "name": "PONY",
+            "type": "line",
+            "data": [
+                87.3,
+                92.7,
+                68.3,
+                88.1,
+                89.6,
+                89.9,
+                69.3,
+                91.6,
+                96.7,
+                87.1,
+                86.5,
+                93.9,
+                81.6,
+                93.5
+            ]
+        },
+        {
+            "name": "HMB",
+            "type": "line",
+            "data": [
+                79.7,
+                90.9,
+                90.1,
+                93.8,
+                95.9,
+                88.7,
+                78.5,
+                73.0,
+                95.6,
+                93.9,
+                90.1,
+                87.2,
+                84.9,
+                96.8
+            ]
+        },
+        {
+            "name": "WKCR",
+            "type": "line",
+            "data": [
+                92.0,
+                71.7,
+                90.0,
+                80.3,
+                89.5,
+                78.3,
+                85.6,
+                81.2,
+                86.1,
+                93.3,
+                90.3,
+                99.9,
+                97.2,
+                90.8
+            ]
+        },
+        {
+            "name": "TOM",
+            "type": "line",
+            "data": [
+                80.1,
+                96.2,
+                88.5,
+                71.8,
+                77.9,
+                85.1,
+                89.5,
+                89.5,
+                87.1,
+                85.6,
+                77.0,
+                92.6,
+                88.6,
+                99.7
+            ]
+        },
+        {
+            "name": "TIB",
+            "type": "line",
+            "data": [
+                77.4,
+                72.3,
+                73.0,
+                93.2,
+                87.1,
+                83.6,
+                95.9,
+                79.2,
+                88.8,
+                95.9,
+                89.1,
+                95.0,
+                93.3,
+                96.4
+            ]
+        },
+        {
+            "name": "RRT",
+            "type": "line",
+            "data": [
+                90.4,
+                88.3,
+                83.5,
+                73.7,
+                75.8,
+                96.3,
+                95.2,
+                98.2,
+                88.8,
+                95.7,
+                95.1,
+                88.1,
+                84.1,
+                67.3
+            ]
+        },
+        {
+            "name": "JST",
+            "type": "line",
+            "data": [
+                95.7,
+                91.3,
+                85.5,
+                84.0,
+                94.8,
+                80.8,
+                79.0,
+                75.1,
+                83.5,
+                100.0,
+                88.7,
+                74.6,
+                67.2,
+                75.5
+            ]
+        },
+        {
+            "name": "ARV",
+            "type": "line",
+            "data": [
+                87.0,
+                88.4,
+                90.8,
+                76.3,
+                97.6,
+                86.4,
+                84.2,
+                99.0,
+                88.3,
+                87.9,
+                55.3,
+                100.0,
+                86.0,
+                88.8
+            ]
+        },
+        {
+            "name": "MMT",
+            "type": "line",
+            "data": [
+                90.0,
+                79.4,
+                90.8,
+                74.7,
+                100.0,
+                82.4,
+                88.1,
+                90.4,
+                89.9,
+                96.9,
+                100.0,
+                90.8,
+                94.4,
+                72.5
+            ]
+        },
+        {
+            "name": "KTT",
+            "type": "line",
+            "data": [
+                91.8,
+                84.1,
+                80.4,
+                89.4,
+                100.0,
+                100.0,
+                75.9,
+                83.7,
+                78.6,
+                98.9,
+                83.6,
+                91.8,
+                96.0,
+                93.7
+            ]
+        }
+    ],
+    "grid": {
+        "right": "10%",
+        "left": "5%"
+    }
+}
+```
+
+<br>
+
+### Positional Advantages
+
+```echarts
+{
+    "tooltip": {
+        "trigger": "item"
+    },
+    "legend": {
+        "orient": "vertical",
+        "right": 0,
+        "top": "middle"
+    },
+    "radar": {
+        "indicator": [
+            {
+                "name": "QB",
+                "max": 20,
+                "min": -20
+            },
+            {
+                "name": "RB",
+                "max": 20,
+                "min": -20
+            },
+            {
+                "name": "WR",
+                "max": 20,
+                "min": -20
+            },
+            {
+                "name": "TE",
+                "max": 20,
+                "min": -20
+            }
+        ]
+    },
+    "series": [
+        {
+            "name": "Pink Pony Club",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        3.4,
+                        1.6,
+                        0.2,
+                        -2.5
+                    ],
+                    "name": "Pink Pony Club"
+                }
+            ]
+        },
+        {
+            "name": "Hamlin My Business ",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        2.1,
+                        -0.7,
+                        1.4,
+                        3.3
+                    ],
+                    "name": "Hamlin My Business "
+                }
+            ]
+        },
+        {
+            "name": "Who Killed Charbonnet Ramsey?",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        2.3,
+                        0.4,
+                        0.3,
+                        -0.3
+                    ],
+                    "name": "Who Killed Charbonnet Ramsey?"
+                }
+            ]
+        },
+        {
+            "name": "Tom and Jerry",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        0.8,
+                        0.6,
+                        -1.2,
+                        -2.0
+                    ],
+                    "name": "Tom and Jerry"
+                }
+            ]
+        },
+        {
+            "name": "To Infinity and Bijan!",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -2.3,
+                        -0.1,
+                        -0.6,
+                        0.7
+                    ],
+                    "name": "To Infinity and Bijan!"
+                }
+            ]
+        },
+        {
+            "name": "Hit and Ruggs",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -1.2,
+                        -0.3,
+                        1.1,
+                        2.6
+                    ],
+                    "name": "Hit and Ruggs"
+                }
+            ]
+        },
+        {
+            "name": "Mama Daughter Duo",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -1.4,
+                        -1.0,
+                        0.0,
+                        0.4
+                    ],
+                    "name": "Mama Daughter Duo"
+                }
+            ]
+        },
+        {
+            "name": "Abbey Road to Victory",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -1.2,
+                        -1.7,
+                        -0.1,
+                        -1.2
+                    ],
+                    "name": "Abbey Road to Victory"
+                }
+            ]
+        },
+        {
+            "name": "Michael's Managable Team",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -3.5,
+                        1.7,
+                        -0.2,
+                        -0.8
+                    ],
+                    "name": "Michael's Managable Team"
+                }
+            ]
+        },
+        {
+            "name": "Fantasy Guru Kayden",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        0.2,
+                        -1.4,
+                        -1.0,
+                        -0.5
+                    ],
+                    "name": "Fantasy Guru Kayden"
+                }
+            ]
+        }
+    ]
+}
+```
+

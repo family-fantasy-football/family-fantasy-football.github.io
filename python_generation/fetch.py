@@ -845,3 +845,67 @@ def create_team_history_json(league: League):
 #                 highest_week = (score.away_team, week, score.away_score)
     
 #     return highest_week
+
+def calculate_strength_of_schedule(team, through_week, teams):
+    """Calculate strength of schedule based on opponents' win % and scoring"""
+    opponents = team.schedule[:through_week]
+    opp_win_pct = []
+    opp_points = []
+    
+    for opp in opponents:
+        games_played = opp.wins + opp.losses
+        win_pct = opp.wins / games_played if games_played > 0 else 0
+        avg_points = opp.points_for / through_week
+        opp_win_pct.append(win_pct)
+        opp_points.append(avg_points)
+    
+    return {
+        'avg_opp_win_pct': sum(opp_win_pct) / len(opp_win_pct),
+        'avg_opp_points': sum(opp_points) / len(opp_points)
+    }
+
+def calculate_what_if_record(team, through_week, teams):
+    """Calculate record if team played every other team each week"""
+    weekly_records = []
+    for week in range(through_week):
+        team_score = team.scores[week]
+        week_record = {'wins': 0, 'losses': 0}
+        
+        for opp in teams:
+            if opp != team:
+                opp_score = opp.scores[week]
+                if team_score > opp_score:
+                    week_record['wins'] += 1
+                elif team_score < opp_score:
+                    week_record['losses'] += 1
+                    
+        weekly_records.append(week_record)
+        
+    total_wins = sum(record['wins'] for record in weekly_records)
+    total_losses = sum(record['losses'] for record in weekly_records)
+    return total_wins, total_losses, weekly_records
+
+def calculate_positional_advantage(team, through_week, teams, box_scores):
+    """Calculate how much better/worse a team's positional scoring is vs league average"""
+    positions = ['QB', 'RB', 'WR', 'TE']
+    league_averages = {pos: [] for pos in positions}
+    team_averages = {pos: [] for pos in positions}
+    
+    # Get league-wide positional averages
+    for week in range(1, through_week + 1):
+        for curr_team in teams:
+            pos_scores = get_positional_scoring_amounts(box_scores, week, curr_team)
+            for pos in positions:
+                if pos in pos_scores and pos_scores[pos]:
+                    if curr_team == team:
+                        team_averages[pos].extend(pos_scores[pos])
+                    league_averages[pos].extend(pos_scores[pos])
+    
+    advantages = {}
+    for pos in positions:
+        if league_averages[pos]:
+            league_avg = sum(league_averages[pos]) / len(league_averages[pos])
+            team_avg = sum(team_averages[pos]) / len(team_averages[pos]) if team_averages[pos] else 0
+            advantages[pos] = team_avg - league_avg
+            
+    return advantages

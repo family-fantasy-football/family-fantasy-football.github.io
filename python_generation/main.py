@@ -48,8 +48,8 @@ def main():
     # waiver_adds = []
     # fa_adds = []
     # trades = []
-    response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
-    news_data = response.json()
+    # response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
+    # news_data = response.json()
     # for activity in transactions:
     #     activity_str = str(activity)
         # if "WAIVER" in activity_str:
@@ -64,7 +64,7 @@ def main():
     # generate_roster_table(league, week)
     # generate_standings_table(league, week)
     # news_data = []
-    # generate_about_md(league, week, teams, box_scores)
+    generate_about_md(league, week, teams, box_scores)
     # for team in teams:
         # generate_indv_team_page_md(league, week, team, box_scores)
         # generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
@@ -86,7 +86,10 @@ def main():
     # generate_trade_analyzer_data(league, week)
     # generate_trade_analyzer_page()
     
-    generate_matchups_preview(league, week, box_scores, news_data)
+    # generate_matchups_preview(league, week, box_scores, news_data)
+    # generate_advanced_analytics_page(league, teams, box_scores, week)
+
+
     
     
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 15 Matchups Preview
-date: 2024-12-12 01:11:23
+date: 2024-12-12 03:52:32
 description: preview of next weeks matchups
 tags: 2024-25, WeeklyPreview, Week15
 categories: league-previews
@@ -84,7 +84,7 @@ Josh Downs (Questionable),
 
 ### Hit and Ruggs @ To Infinity and Bijan!
 
-**Projected Score:** Hit and Ruggs 246.02 - 219.23 To Infinity and Bijan!
+**Projected Score:** Hit and Ruggs 246.02 - 225.30 To Infinity and Bijan!
 
 **Historical Matchup:** 0-3 (Avg Score: Hit and Ruggs wins by 105.2-147.5) 
 

@@ -629,7 +629,7 @@ def generate_weekly_scores_json(teams, week, league):
     # First calculate league average scores for each week
     league_avg_for = []
     
-    for week in range(week):
+    for week in range(week+1):
         week_scores = []
         for team in teams:
             if week < len(team.scores):
@@ -1266,3 +1266,143 @@ def generate_matchup_data_json(league, week, box_scores, news_data):
     os.makedirs("../assets/json/matchups", exist_ok=True)
     with open(f"../assets/json/matchups/week_{week+1}.json", 'w') as f:
         json.dump(matchup_data, f, indent=2)
+        
+def generate_analytics_json(league, teams, through_week, box_scores):
+    os.makedirs("../assets/json/analytics", exist_ok=True)
+    
+    # Generate optimization chart data
+    create_optimization_chart_json(teams, through_week, box_scores)
+    create_schedule_chart_json(teams, through_week)
+    create_position_chart_json(teams, through_week, box_scores)
+    create_whatif_analysis_json(teams, through_week)
+
+def create_optimization_chart_json(teams, through_week, box_scores):
+    """Creates line chart showing team efficiency over time"""
+    series_data = []
+    
+    for team in teams:
+        weekly_effs, _, _, _ = get_efficiencies(through_week, box_scores, team)
+        series_data.append({
+            "name": clean_team_name(team.team_abbrev),
+            "type": "line",
+            "data": [round(eff, 1) for eff in weekly_effs]
+        })
+    
+    chart_config = {
+        "title": {"text": "Lineup Efficiency Trends", "left": "center", "show": False},
+        "tooltip": {"trigger": "axis"},
+        "legend": {
+            "data": [clean_team_name(team.team_abbrev) for team in teams],
+            "orient": "vertical",
+            "right": 0,
+            "top": "middle"
+        },
+        "xAxis": {
+            "type": "category",
+            "data": [f"Week {w}" for w in range(1, through_week + 1)]
+        },
+        "yAxis": {"type": "value", "name": "Efficiency %"},
+        "series": series_data,
+        "grid": {"right": "10%", "left": "5%"}
+    }
+    
+    with open("../assets/json/analytics/optimization_chart.json", "w") as f:
+        json.dump(chart_config, f, indent=2)
+
+def create_schedule_chart_json(teams, through_week):
+    """Creates bar chart comparing strength of schedule"""
+    sos_data = []
+    
+    for team in teams:
+        sos = calculate_strength_of_schedule(team, through_week, teams)
+        sos_data.append({
+            "name": clean_team_name(team.team_name),
+            "win_pct": round(sos['avg_opp_win_pct'] * 100, 1),
+            "points": round(sos['avg_opp_points'], 1)
+        })
+    
+    # Sort by opponent win percentage
+    sos_data.sort(key=lambda x: x['win_pct'], reverse=True)
+    
+    chart_config = {
+        "tooltip": {"trigger": "axis"},
+        "legend": {"data": ["Opponent Win %", "Opponent Avg Points"]},
+        "xAxis": {
+            "type": "category",
+            "data": [team["name"] for team in sos_data],
+            "axisLabel": {"rotate": 45}
+        },
+        "yAxis": [
+            {"type": "value", "name": "Win %"},
+            {"type": "value", "name": "Points"}
+        ],
+        "series": [
+            {
+                "name": "Opponent Win %",
+                "type": "bar",
+                "data": [team["win_pct"] for team in sos_data]
+            },
+            {
+                "name": "Opponent Avg Points",
+                "type": "line",
+                "yAxisIndex": 1,
+                "data": [team["points"] for team in sos_data]
+            }
+        ],
+        "grid": {
+            "bottom": "15%"
+        }
+    }
+    
+    with open("../assets/json/analytics/schedule_chart.json", "w") as f:
+        json.dump(chart_config, f, indent=2)
+
+def create_position_chart_json(teams, through_week, box_scores):
+    """Creates radar chart showing positional advantages"""
+    series_data = []
+    positions = ['QB', 'RB', 'WR', 'TE']
+    
+    for team in teams:
+        advantages = calculate_positional_advantage(team, through_week, teams, box_scores)
+        series_data.append({
+            "name": clean_team_name(team.team_name),
+            "type": "radar",
+            "data": [{
+                "value": [round(advantages.get(pos, 0), 1) for pos in positions],
+                "name": clean_team_name(team.team_name)
+            }]
+        })
+    
+    chart_config = {
+        "tooltip": {"trigger": "item"},
+        "legend": {
+            "orient": "vertical",
+            "right": 0,
+            "top": "middle"
+        },
+        "radar": {
+            "indicator": [{"name": pos, "max": 20, "min": -20} for pos in positions]
+        },
+        "series": series_data
+    }
+    
+    with open("../assets/json/analytics/position_chart.json", "w") as f:
+        json.dump(chart_config, f, indent=2)
+
+def create_whatif_analysis_json(teams, through_week):
+    """Creates what-if analysis data"""
+    whatif_data = []
+    
+    for team in teams:
+        total_wins, total_losses, weekly_records = calculate_what_if_record(team, through_week, teams)
+        luck_factor = (total_wins - team.wins)/13  # Positive means lucky, negative means unlucky
+        
+        whatif_data.append({
+            "team": clean_team_name(team.team_name),
+            "actual_record": f"{team.wins}-{team.losses}",
+            "potential_record": f"{total_wins}-{total_losses}",
+            "luck_factor": f"{luck_factor:+.1f}"  # + sign for positive numbers
+        })
+    
+    with open("../assets/json/analytics/whatif.json", "w") as f:
+        json.dump(whatif_data, f, indent=2)

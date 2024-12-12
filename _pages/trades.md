@@ -2,7 +2,7 @@
 layout: page
 permalink: /trades/
 title: trades
-nav: true
+nav: false
 nav_order: 5
 description:
 chart:
