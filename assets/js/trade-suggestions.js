@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     
         if (suggestions.length === 0) {
-            resultsDiv.innerHTML = '<div class="alert alert-info">No valid trade suggestions found.</div>';
+            resultsDiv.innerHTML = '<div class="alert alert-info">No valid trade suggestions were found.</div>';
             return;
         }
     

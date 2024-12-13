@@ -60,7 +60,7 @@ This only displays trades that have a net benefit to both trade partners. I thin
     <select id="max-players" class="form-control">
         <option value="1">1</option>
         <option value="2">2</option>
-        <option value="3">3 (this takes a few seconds to calculate)</option>
+        <option value="3">3 (this takes a few seconds to calculate) </option>
     </select>
 </div>
                 </div>
