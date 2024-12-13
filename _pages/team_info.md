@@ -5,7 +5,7 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: comparison
+  - title: team comparison
     permalink: /comparison/
   - title: divider
   - title: waivers
@@ -19,4 +19,8 @@ children:
   - title: divider
   - title: players
     permalink: /players/
+  - title: divider
+  - title: player comparison
+    permalink: /players/compare/
+
 ---

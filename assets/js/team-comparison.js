@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const team2StatsDiv = document.getElementById("team2-stats");
   const comparisonTableDiv = document.getElementById("comparison-table-div");
   const chartDiv = document.getElementById("chart-container");
+  const darkMode = document.body.classList.contains('dark');
 
   // Load available teams for 2024
   fetch(`/assets/json/team_data/team_abbrev_list_2024.json`)
@@ -75,10 +76,10 @@ document.addEventListener("DOMContentLoaded", function () {
     comparisonTableDiv.innerHTML = `
       <div class="card">
         <div class="card-header">
-          <h5>${team1Name} vs ${team2Name}</h5>
+          <center><h5>${team1Name} vs ${team2Name}</h5></center>
         </div>
         <div class="card-body">
-          <table class="table table-bordered">
+          <table class="card-body">
             <thead>
               <tr>
                 <th>Category</th>

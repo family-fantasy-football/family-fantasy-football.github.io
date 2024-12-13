@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /comparison/
-title: comparison
+title: team comparison
 nav: false
 nav_order: 3
 description: 
@@ -54,7 +54,7 @@ pretty_table: True
   <!-- Comparison Results -->
   <div id="comparison-results" class="mt-4" style="display:none;">
     <div class="row justify-content-center">
-      <div class="col-md-8">
+      <div class="card">
         <div id="comparison-table-div">
           <!-- Comparison table will be inserted here -->
         </div>

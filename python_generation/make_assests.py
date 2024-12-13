@@ -40,7 +40,8 @@ def generate_standings_table(league, through_week):
                 'team': clean_team_name(team.team_name),
                 'record': f"{team.wins}-{team.losses}",
                 'record_sort': win_pct,  # Add sorting value
-                'last3': ''.join(recent_results)
+                'last3': ''.join(recent_results),
+                'abbrev': f"{team.team_abbrev}"
             })
         return standings_data
 
@@ -74,23 +75,25 @@ def generate_roster_table(league, through_week):
             all_players=[]
             for player in team.roster:
                 if player.projected_total_points > 0.:
-                    pct = player.total_points/(player.projected_total_points/17*through_week)*100
+                    pct = player.total_points/(player.projected_avg_points*through_week)*100
                     all_players.append({
                         "player_name": player.name,
                         "pos": player.position,
                         "total_points": f"{player.total_points:.2f}", 
-                        "proj_points": f"{player.projected_total_points/17*through_week:.2f}",
-                        "avg_points": f"{player.total_points/through_week:.2f}",
-                        "pct_perform": f"{pct:.2f}" 
+                        "proj_points": f"{player.projected_avg_points*through_week:.2f}",
+                        "avg_points": f"{player.avg_points:.2f}",
+                        "pct_perform": f"{pct:.2f}",
+                        "injury_stat": f"{player.injuryStatus}" 
                     })
                 else:
                     all_players.append({
                         "player_name": player.name,
                         "pos": player.position,
                         "total_points": f"{player.total_points:.2f}", 
-                        "proj_points": f"{player.projected_total_points/17*through_week:.2f}",
-                        "avg_points": f"{player.total_points/through_week:.2f}",
-                        "pct_perform": "N/A" 
+                        "proj_points": f"{player.projected_avg_points*through_week:.2f}",
+                        "avg_points": f"{player.avg_points:.2f}",
+                        "pct_perform": "N/A",
+                        "injury_stat": f"{player.injuryStatus}"  
                     })
             master_roster.append(all_players)
         return master_roster
@@ -1406,3 +1409,200 @@ def create_whatif_analysis_json(teams, through_week):
     
     with open("../assets/json/analytics/whatif.json", "w") as f:
         json.dump(whatif_data, f, indent=2)
+        
+def generate_player_comparison_data(league, week):
+    """Generate detailed player stats for comparison tool"""
+    os.makedirs("../assets/json/player_comparison", exist_ok=True)
+    # Dictionary to store positional data
+    positions = ['QB', 'RB', 'WR', 'TE']
+    players_by_pos = {pos: [] for pos in positions}
+    position_stats = {}
+    top_players={}
+    for team in league.teams:
+        for player in team.roster:
+            if player.position in positions:
+
+
+                player_data = {
+                    "player_name": player.name,
+                    "points": player.total_points
+                }
+                players_by_pos[player.position].append(player_data)
+
+    # Sort each position by points and save top 10
+    for pos in positions:
+        if pos == 'QB':
+            top_players[pos] = sorted(players_by_pos[pos], key=lambda x: x['points'], reverse=True)[:16]
+        if pos == 'RB':
+            top_players[pos] = sorted(players_by_pos[pos], key=lambda x: x['points'], reverse=True)[:32]
+        if pos == 'WR':
+            top_players[pos] = sorted(players_by_pos[pos], key=lambda x: x['points'], reverse=True)[:32]
+        if pos == 'TE':
+            top_players[pos] = sorted(players_by_pos[pos], key=lambda x: x['points'], reverse=True)[:16]
+    # Iterate over all teams and their rosters
+    for team in league.teams:
+        for player in team.roster:
+            if player.name in [p['player_name'] for p in top_players[player.position]]:
+                player = league.player_info(playerId=player.playerId)
+                position = player.position
+                total_points = 0
+                starts = 0
+
+                # Get weekly stats for the player
+                for w in range(1, week + 1):
+                    try:
+                        weekly_stats = player.stats[w]  # Access weekly stats
+                        points = weekly_stats.get('points', 0)
+                        if points >0:
+                            total_points += points
+
+                    except KeyError:
+                        # Skip weeks where stats are unavailable (e.g., bye weeks)
+                        continue
+
+                # Include only players with at least 8 starts
+
+                if position not in position_stats:
+                    position_stats[position] = {'total_points': 0, 'count': 0}
+                
+                position_stats[position]['total_points'] += total_points
+                position_stats[position]['count'] += 1
+
+    # Calculate averages
+    position_averages = {pos: data['total_points'] / data['count'] 
+                        for pos, data in position_stats.items()}
+    player_data = []
+    for team in league.teams:
+        team_total_points = sum(team.scores[:week])
+        
+        for player in team.roster:
+            player = league.player_info(playerId=player.playerId)
+            # Get all active weeks where the player scored points
+            active_weeks = [
+                w for w in range(1, week + 1)
+                if w in player.stats and 
+                isinstance(player.stats[w], dict) and
+                player.stats[w].get('points', 0) > 0  # Changed from ['points'] to get('points', 0)
+            ]
+            
+            weekly_points = []
+            weekly_projected = []
+            for w in range(1, week + 1):
+                week_stats = player.stats.get(w, {})
+                if isinstance(week_stats, dict):
+                    weekly_points.append(round(week_stats.get('points', 0), 1))
+                    weekly_projected.append(round(week_stats.get('projected_points', 0), 1))
+                else:
+                    weekly_points.append(0)
+                    weekly_projected.append(0)
+            
+            # Calculate advanced stats using only active weeks
+            points_in_active_weeks = [player.stats[w].get('points', 0) for w in active_weeks]
+            avg_points = np.mean(points_in_active_weeks) if points_in_active_weeks else 0
+            std_dev = np.std(points_in_active_weeks) if len(points_in_active_weeks) > 1 else 0
+            floor = min(points_in_active_weeks) if points_in_active_weeks else 0
+            ceiling = max(points_in_active_weeks) if points_in_active_weeks else 0
+            consistency = (sum(1 for p in points_in_active_weeks if p > avg_points) / 
+                         len(points_in_active_weeks) if points_in_active_weeks else 0)
+            
+            # Position context using actual averages
+            
+            pos_avg = position_averages[player.position]
+            
+            
+            player_data.append({
+                "id": player.playerId,
+                "name": player.name,
+                "position": player.position,
+                "team": clean_team_name(team.team_name),
+                "total_points": round(player.total_points, 2),
+                "avg_points": round(player.avg_points, 2),
+                "projected_points": round(player.projected_total_points, 2),
+                "weekly_points": weekly_points,
+                "weekly_projected": weekly_projected,
+                "percent_owned": player.percent_owned,
+                "percent_started": player.percent_started,
+                
+                # Variability metrics using active weeks only
+                "std_dev": round(std_dev, 2),
+                "floor": round(floor, 2),
+                "ceiling": round(ceiling, 2),
+                "consistency": round(consistency * 100, 1),
+                "games_played": len(active_weeks),
+                
+                # Team context
+                "team_share": round((player.total_points / team_total_points) * 100, 1),
+                "pos_avg_diff": f"+ {round((player.total_points - pos_avg)/week, 2)}" if round((player.total_points - pos_avg)/week, 2) > 0 else f"{round((player.total_points - pos_avg)/week, 2)}",
+                "points_per_game": round(player.total_points / len(active_weeks), 2) if active_weeks else 0
+            })
+
+    with open(f"../assets/json/player_comparison/players_{league.year}.json", "w") as f:
+        json.dump(player_data, f, indent=2)
+        
+def create_matchup_charts(home_team, away_team, week, box_scores):
+    """Creates visualization charts for matchup preview"""
+    
+    # Last 5 weeks scoring trends
+    scoring_trend = {
+        "title": {"text": "Scoring Trends", "left": "center", "show": False},
+        "tooltip": {"trigger": "axis"},
+        "legend": {"data": [clean_team_name(home_team.team_name), 
+                           clean_team_name(away_team.team_name)]},
+        "xAxis": {
+            "type": "category",
+            "data": [f"Week {w}" for w in range(max(1, week-4), week+1)]
+        },
+        "yAxis": {"type": "value"},
+        "series": [
+            {
+                "name": clean_team_name(home_team.team_name),
+                "type": "line",
+                "data": home_team.scores[max(0, week-5):week],
+                "smooth": True
+            },
+            {
+                "name": clean_team_name(away_team.team_name),
+                "type": "line",
+                "data": away_team.scores[max(0, week-5):week],
+                "smooth": True
+            }
+        ]
+    }
+    
+    # Position comparison radar chart
+    home_pos_stats = get_positional_scoring_amounts(box_scores, week, home_team)
+    away_pos_stats = get_positional_scoring_amounts(box_scores, week, away_team)
+    
+    positions = get_non_flex_positions(box_scores, 1)
+    radar_data = {
+        "title": {"text": "Position Comparison", "left": "center", "show": False},
+        "legend": {"data": [clean_team_name(home_team.team_name), 
+                           clean_team_name(away_team.team_name)]},
+        "radar": {
+            "indicator": [
+                {"name": pos, 
+                 "max": max([
+                     max(home_pos_stats.get(pos, [0])), 
+                     max(away_pos_stats.get(pos, [0]))
+                 ]) * 1.2} 
+                for pos in positions
+            ]
+        },
+        "series": [{
+            "type": "radar",
+            "data": [
+                {
+                    "value": [sum(home_pos_stats.get(pos, [0]))/len(home_pos_stats.get(pos, [1])) 
+                             for pos in positions],
+                    "name": clean_team_name(home_team.team_name)
+                },
+                {
+                    "value": [sum(away_pos_stats.get(pos, [0]))/len(away_pos_stats.get(pos, [1])) 
+                             for pos in positions],
+                    "name": clean_team_name(away_team.team_name)
+                }
+            ]
+        }]
+    }
+    
+    return scoring_trend, radar_data

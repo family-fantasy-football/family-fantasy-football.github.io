@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /records/
 title: records
 nav: false
@@ -10,25 +10,22 @@ echarts: true
 pretty_table: True
 ---
 
-# League Records
 
 
-## All-Time Records
-
-Updated through 2024
+## Single Game Records
 
 <table
 data-click-to-select="true"
-data-height="285"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/records/all_time_records.json" }}">
+data-url="{{ "/assets/json/records/game_records.json" }}"
+data-show-footer="false">
 <thead>
 <tr>
-<th data-field="category" data-halign="left" data-align="left" data-sortable="false">Record</th>
-<th data-field="value" data-halign="center" data-align="center" data-sortable="true">Value</th>
-<th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th>
-<th data-field="year" data-halign="center" data-align="center" data-sortable="true">Year</th>
+<th data-field="category" data-halign="left" data-align="left" data-sortable="false" data-width="200">Record</th>
+<th data-field="value" data-halign="center" data-align="center" data-sortable="true" data-width="100">Value</th>
+<th data-field="details" data-halign="left" data-align="left" data-sortable="false" data-width="300">Details</th>
+<th data-field="year" data-halign="center" data-align="center" data-sortable="true" data-width="100">Year</th>
 </tr>
 </thead>
 </table><br>
@@ -36,41 +33,38 @@ data-url="{{ "/assets/json/records/all_time_records.json" }}">
 
 ## Season Records
 
-Records from individual seasons
-
 <table
 data-click-to-select="true"
-data-height="165"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/records/season_records.json" }}">
+data-url="{{ "/assets/json/records/season_records.json" }}"
+data-show-footer="false">
 <thead>
 <tr>
-<th data-field="category" data-halign="left" data-align="left" data-sortable="false">Record</th>
-<th data-field="value" data-halign="center" data-align="center" data-sortable="true">Value</th>
-<th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th>
-<th data-field="year" data-halign="center" data-align="center" data-sortable="true">Year</th>
+<th data-field="category" data-halign="left" data-align="left" data-sortable="false" data-width="200">Record</th>
+<th data-field="value" data-halign="center" data-align="center" data-sortable="true" data-width="100">Value</th>
+<th data-field="team" data-halign="left" data-align="left" data-sortable="true" data-width="200">Team</th>
+<th data-field="year" data-halign="center" data-align="center" data-sortable="true" data-width="100">Year</th>
 </tr>
 </thead>
 </table><br>
 
 
-## Game Records
-
-Single game achievements
+## Positional Records
 
 <table
 data-click-to-select="true"
-data-height="165"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/records/game_records.json" }}">
+data-url="{{ "/assets/json/records/position_records.json" }}"
+data-show-footer="false">
 <thead>
 <tr>
-<th data-field="category" data-halign="left" data-align="left" data-sortable="false">Record</th>
-<th data-field="value" data-halign="center" data-align="center" data-sortable="true">Value</th>
-<th data-field="details" data-halign="left" data-align="left" data-sortable="false">Details</th>
-<th data-field="year" data-halign="center" data-align="center" data-sortable="true">Year</th>
+<th data-field="category" data-halign="left" data-align="left" data-sortable="false" data-width="200">Record</th>
+<th data-field="value" data-halign="center" data-align="center" data-sortable="true" data-width="100">Value</th>
+<th data-field="player" data-halign="left" data-align="left" data-sortable="true" data-width="200">Player</th>
+<th data-field="team" data-halign="left" data-align="left" data-sortable="true" data-width="200">Team</th>
+<th data-field="year" data-halign="center" data-align="center" data-sortable="true" data-width="100">Year</th>
 </tr>
 </thead>
 </table>

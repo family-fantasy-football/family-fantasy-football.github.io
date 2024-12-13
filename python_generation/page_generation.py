@@ -151,7 +151,7 @@ chart:
   echarts: true
 ---
 
-## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season. This site is clearly still under development
+## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2024-25 season.
 
 <div style="margin-bottom: 30px;">
 
@@ -290,6 +290,13 @@ pretty_table: True
 ---
 
 ### <center> Through Week {week} </center>
+<center>
+<div class="row mb-3">
+    <div class="col-12">
+        <a href="/blog/{league.year}/Week-{week}-{team.team_abbrev}" class="btn btn-primary">Week {week} Recap</a>
+    </div>
+</div>
+</center>
 
 #### Summary
 <table
@@ -447,6 +454,8 @@ tabs: true
 chart:
   echarts: true
 pretty_table: = true
+toc:
+  sidebar: left
 ---"""]
     # After frontmatter but before injury report, add:
     box = next((b for b in box_scores[week] if b.home_team == team or b.away_team == team), None)
@@ -649,9 +658,11 @@ def generate_league_weekly_recap_markdown(league: League, box_scores, week):
         "tabs: true",
         "pretty_table: true",f"""\
 chart:
-  echarts: true""",
+  echarts: true
+toc:
+  sidebar: left""",
         "---",
-        "\n## Weekly Matchups\n"
+        "\n### Weekly Matchups\n"
     ]
     
     # Get box scores and standings
@@ -740,7 +751,7 @@ chart:
     # Find the biggest overachiever and underachiever
     overachiever = biggest_overachiever(box_scores[week])
     underachiever = biggest_underachiever(box_scores[week])
-    markdown_content.extend([
+    markdown_content.extend(["<br>",
         f"### League Info \n",
         f"**Total Points Scored:** {total_points_in_week:.2f} <br>",
         f"**Avg. Points Scored:** {total_points_in_week/len(league.teams):.2f}<br>",
@@ -1001,7 +1012,7 @@ def generate_players_page(league: League, week):
 def generate_records_page():
     content = [
         "---",
-        "layout: page",
+        "layout: default",
         "permalink: /records/",
         "title: records",
         "nav: false",
@@ -1011,58 +1022,56 @@ def generate_records_page():
         "echarts: true",
         "pretty_table: True",
         "---",
-        "\n# League Records\n",
+
         
-        "\n## All-Time Records\n",
-        f"Updated through {datetime.now().strftime('%Y')}\n",
+        "\n## Single Game Records\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"285\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
-        "data-url=\"{{ \"/assets/json/records/all_time_records.json\" }}\">",
+        "data-url=\"{{ \"/assets/json/records/game_records.json\" }}\"",
+        "data-show-footer=\"false\">",  # Added to remove bottom line
         "<thead>",
         "<tr>",
-        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\">Record</th>",
-        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Value</th>",
-        "<th data-field=\"team\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\">Team</th>",
-        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Year</th>",
+        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\" data-width=\"200\">Record</th>",
+        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Value</th>",
+        "<th data-field=\"details\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\" data-width=\"300\">Details</th>",
+        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Year</th>",
         "</tr>",
         "</thead>",
         "</table><br>\n",
         
         "\n## Season Records\n",
-        f"Records from individual seasons\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"165\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
-        "data-url=\"{{ \"/assets/json/records/season_records.json\" }}\">",
+        "data-url=\"{{ \"/assets/json/records/season_records.json\" }}\"",
+        "data-show-footer=\"false\">",  # Added to remove bottom line
         "<thead>",
         "<tr>",
-        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\">Record</th>",
-        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Value</th>",
-        "<th data-field=\"team\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\">Team</th>",
-        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Year</th>",
+        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\" data-width=\"200\">Record</th>",
+        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Value</th>",
+        "<th data-field=\"team\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\" data-width=\"200\">Team</th>",
+        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Year</th>",
         "</tr>",
         "</thead>",
         "</table><br>\n",
         
-        "\n## Game Records\n",
-        f"Single game achievements\n",
+        "\n## Positional Records\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"165\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
-        "data-url=\"{{ \"/assets/json/records/game_records.json\" }}\">",
+        "data-url=\"{{ \"/assets/json/records/position_records.json\" }}\"",
+        "data-show-footer=\"false\">",  # Added to remove bottom line
         "<thead>",
         "<tr>",
-        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\">Record</th>",
-        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Value</th>",
-        "<th data-field=\"details\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\">Details</th>",
-        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Year</th>",
+        "<th data-field=\"category\" data-halign=\"left\" data-align=\"left\" data-sortable=\"false\" data-width=\"200\">Record</th>",
+        "<th data-field=\"value\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Value</th>",
+        "<th data-field=\"player\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\" data-width=\"200\">Player</th>",
+        "<th data-field=\"team\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\" data-width=\"200\">Team</th>",
+        "<th data-field=\"year\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\" data-width=\"100\">Year</th>",
         "</tr>",
         "</thead>",
         "</table>\n"
@@ -1197,11 +1206,14 @@ chart:
 pretty_table: True
 ---
 
+<center>
 <div class="row mb-3">
     <div class="col-12">
-        <a href="trade_analyzer" class="btn btn-primary">Trade Analyzer</a>
+        <a href="trade_analyzer" class="btn btn-primary ">Trade Analyzer</a>
+        <a href="trade_suggestions" class="btn btn-primary">Trade Suggestions</a>
     </div>
 </div>
+</center>
 
 
 
@@ -1462,9 +1474,11 @@ def generate_matchups_preview(league, week, box_scores, news_data):
         "tabs: true",
         "pretty_table: true",f"""\
 chart:
-  echarts: true""",
-        "---",
-        "\n## Matchups\n"
+  echarts: true
+toc:
+  sidebar: left
+  max_level: 2""",
+        "---"
     ]
 
     matchups = league.box_scores(week+1)
@@ -1475,6 +1489,30 @@ chart:
             
         home_team = matchup.home_team
         away_team = matchup.away_team
+        
+        # Inside the main matchup loop, after getting home_team and away_team:
+
+        # Add recent performance trends
+        home_recent = home_team.scores[max(0, week-3):week]
+        away_recent = away_team.scores[max(0, week-3):week]
+        home_trend = sum(home_recent)/len(home_recent) if home_recent else 0
+        away_trend = sum(away_recent)/len(away_recent) if away_recent else 0
+
+        # Get streaks
+        _, _, home_streak_len, home_streak_type = get_streaks(home_team.outcomes[:week])
+        _, _, away_streak_len, away_streak_type = get_streaks(away_team.outcomes[:week])
+
+        # Get previous matchup results this season
+        previous_matchups = []
+        for w, (opp, score) in enumerate(zip(home_team.schedule[:week], home_team.scores[:week])):
+            if opp.team_id == away_team.team_id:
+                previous_matchups.append((w+1, score, opp.scores[w]))
+
+        # Get playoff implications
+        home_playoff_odds = home_team.playoff_pct
+        away_playoff_odds = away_team.playoff_pct
+
+        
         
         # Get historical h2h records and stats
         h2h_wins = 0
@@ -1507,27 +1545,60 @@ chart:
             f"**Projected Score:** {clean_team_name(away_team.team_name)} {matchup.away_projected:.2f} - "
             f"{matchup.home_projected:.2f} {clean_team_name(home_team.team_name)}\n",
             f"**Historical Matchup:** {h2h_wins}-{total_games-h2h_wins} "
-            f"(Avg Score: {historical_winner} wins by {avg_home_score:.1f}-{avg_away_score:.1f}) \n",
-            
-            "\n#### Position Breakdown\n \n"
+            f"(Avg Score: {historical_winner} wins by {avg_home_score:.1f}-{avg_away_score:.1f}) \n"
         ])
         
-        # Create position comparison table
+        # Replace the existing position breakdown table with:
         markdown_content.extend([
-            "<table>",
-            "<tr><th>Position</th><th>Away</th><th>Advantage</th><th>Home</th></tr>"
+            "\n#### Position Breakdown\n",
+            "<table class='table table-bordered'>",
+            "<thead>",
+            "<tr>",
+            "<th style='width: 20%'>Position</th>",
+            f"<th style='width: 35%'>{clean_team_name(away_team.team_name)}</th>",
+            "<th style='width: 10%'></th>",  # For the arrow
+            f"<th style='width: 35%'>{clean_team_name(home_team.team_name)}</th>",
+            "</tr>",
+            "</thead>",
+            "<tbody>"
         ])
-        
+
         for pos in get_non_flex_positions(box_scores, 1):
             away_avg = sum(away_pos_stats.get(pos, [0]))/len(away_pos_stats.get(pos, [1]))
             home_avg = sum(home_pos_stats.get(pos, [0]))/len(home_pos_stats.get(pos, [1]))
-            advantage = "➡️" if abs(away_avg - home_avg) < 3 else "⬅️" if away_avg > home_avg else "➡️"
-            
+
+            # Determine advantage
+            diff = away_avg - home_avg
+            # if abs(diff) < 0.5:
+            #     arrow = "↔️"  # Even matchup
+            if diff < 0:
+                arrow = "➡️"  # Advantage to away team
+            else:
+                arrow = "⬅️"  # Advantage to home team
+                
             markdown_content.append(
-                f"<tr><td>{pos}</td><td>{away_avg:.1f}</td><td>{advantage}</td><td>{home_avg:.1f}</td></tr>"
+                f"<tr><td><strong>{pos}</strong></td>"
+                f"<td>{away_avg:.1f}</td>"
+                f"<td>{arrow}</td>"
+                f"<td>{home_avg:.1f}</td></tr>"
             )
-        
-        markdown_content.append("</table>\n <br>")
+
+        markdown_content.append("</tbody></table>\n <br>")
+
+        # After the position breakdown table but before injuries:
+
+        scoring_chart, radar_chart = create_matchup_charts(home_team, away_team, week, box_scores)
+
+        markdown_content.extend([
+            "\n#### Recent Performance\n",
+            "```echarts",
+            json.dumps(scoring_chart, indent=2),
+            "```\n",
+            "\n#### Position Comparison\n",
+            "```echarts",
+            json.dumps(radar_chart, indent=2),
+            "```\n"
+        ])
         
         markdown_content.append("\n\n#### Injury Report\n\n")
         # Add injury report if available
@@ -1553,6 +1624,22 @@ chart:
                                 f"{news.get('athlete', {}).get('displayName', '')} "
                                 f"({news.get('status', '')}), "
                             ])
+        
+        # Add to markdown content:
+        markdown_content.extend([
+            f"\n#### Recent Form",
+            f"**{clean_team_name(home_team.team_name)}:** {home_trend:.1f} ppg last 3 weeks ({home_streak_len} game {home_streak_type} streak) \n",
+            f"**{clean_team_name(away_team.team_name)}:** {away_trend:.1f} ppg last 3 weeks ({away_streak_len} game {away_streak_type} streak)\n",
+            
+            "\n#### Previous Matchups This Season",
+            *[f"Week {week}: {clean_team_name(home_team.team_name)} {home_score:.1f} - {away_score:.1f} {clean_team_name(away_team.team_name)} \n" 
+            for week, home_score, away_score in previous_matchups],
+            
+            f"\n#### Playoff Picture",
+            f"**{clean_team_name(home_team.team_name)}:** {home_playoff_odds:.1f}% chance \n",
+            f"**{clean_team_name(away_team.team_name)}:**{away_playoff_odds:.1f}% chance\n"
+        ])
+        
         markdown_content.append("\n---\n")  # Add separator between matchups
 
     markdown_filename = f"{datetime.now().strftime('%Y-%m-%d')}-Week-{week+1}_preview.md"

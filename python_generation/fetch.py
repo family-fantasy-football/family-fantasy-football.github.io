@@ -674,128 +674,157 @@ def get_non_flex_positions(box_scores, week=1):
 
 def create_records_json(league: League, box_scores, week):
     records = {
-        "all_time": [],
-        "season": [],
-        "game": []
+        "game_records": [],
+        "season_records": [],
+        "position_records": []
     }
-    all_time_records = []
+    
+    # Process single game records
     highest_week = get_highest_scoring_week(week, box_scores)
-    if highest_week:
-        all_time_records.append({
+    lowest_week = get_lowest_scoring_week(week, box_scores)
+    highest_margin, lowest_margin = get_margins_of_victory_records(week, box_scores)
+    
+    # Get best individual performances by position
+    best_performances = {'QB': None, 'RB': None, 'WR': None, 'TE': None}
+    for w in range(1, week+1):
+        for box in box_scores[w]:
+            if not box.away_team:
+                continue
+            all_players = box.home_lineup + box.away_lineup
+            for player in all_players:
+                if player.slot_position != 'BE' and player.position in best_performances:
+                    curr_best = best_performances[player.position]
+                    if not curr_best or player.points > curr_best[0].points:
+                        best_performances[player.position] = (player, 
+                                                           box.home_team if player in box.home_lineup else box.away_team,
+                                                           w)
+
+    # Add game records
+    game_records = [
+        {
             "category": "Highest Single Game Score",
             "value": round(highest_week[2], 2),
-            "team": clean_team_name(highest_week[0].team_name),
-            "details": f"Week {highest_week[1]}",
-            "year": league.year
-        })
-        
-    lowest_week = get_lowest_scoring_week(week, box_scores)
-    if lowest_week:
-        all_time_records.append({
-            "category": "Lowest Single Game Score",
-            "value": round(lowest_week[2], 2),
-            "team": clean_team_name(lowest_week[0].team_name),
-            "details": f"Week {lowest_week[1]}",
-            "year": league.year
-        })
-    
-    
-    # Get highest margin and lowest margin
-    highest_margin, lowest_margin = get_margins_of_victory_records(
-        week, box_scores
-    )
-    
-    all_time_records.extend([
-        {
-            "category": "Highest Margin of Victory",
-            "value": f"{highest_margin[0]:.2f}",
-            "team": f"{clean_team_name(highest_margin[2].team_name)} vs {clean_team_name(highest_margin[3].team_name)}",
+            "details": f"Week {highest_week[1]}: {clean_team_name(highest_week[0].team_name)} vs {clean_team_name(highest_week[0].schedule[highest_week[1]-1].team_name)}",
             "year": league.year
         },
         {
-            "category": "Lowest Margin of Victory",
-            "value": f"{lowest_margin[0]:.2f}",
-            "team": f"{clean_team_name(lowest_margin[2].team_name)} vs {clean_team_name(lowest_margin[3].team_name)}",
+            "category": "Lowest Single Game Score",
+            "value": round(lowest_week[2], 2),
+            "details": f"Week {lowest_week[1]}: {clean_team_name(lowest_week[0].team_name)} vs {clean_team_name(lowest_week[0].schedule[lowest_week[1]-1].team_name)}",
+            "year": league.year
+        },
+        {
+            "category": "Largest Margin of Victory",
+            "value": round(highest_margin[0], 2),
+            "details": f"Week {highest_margin[1]}: {clean_team_name(highest_margin[2].team_name)} over {clean_team_name(highest_margin[3].team_name)}",
+            "year": league.year
+        },
+        {
+            "category": "Smallest Margin of Victory",
+            "value": round(lowest_margin[0], 2),
+            "details": f"Week {lowest_margin[1]}: {clean_team_name(lowest_margin[2].team_name)} over {clean_team_name(lowest_margin[3].team_name)}",
             "year": league.year
         }
-    ])
+    ]
 
-    # Process season records - find highest values
-    top_points_team = max(league.teams, key=lambda x: x.points_for)
-    most_points_against = max(league.teams, key=lambda x: x.points_against)
+    # Process season records
+    most_points = max(league.teams, key=lambda x: x.points_for)
+    least_points = min(league.teams, key=lambda x: x.points_for)
+    most_pa = max(league.teams, key=lambda x: x.points_against)
+    best_win_pct = max(league.teams, key=lambda x: x.wins/(x.wins + x.losses) if (x.wins + x.losses) > 0 else 0)
     
     season_records = [
         {
-            "category": "Most Points Scored",
-            "value": round(top_points_team.points_for, 2),
-            "team": clean_team_name(top_points_team.team_name),
-            "details": f"{top_points_team.wins}-{top_points_team.losses}",
+            "category": "Most Points For",
+            "value": round(most_points.points_for, 2),
+            "team": clean_team_name(most_points.team_name),
+            "year": league.year
+        },
+        {
+            "category": "Least Points For",
+            "value": round(least_points.points_for, 2),
+            "team": clean_team_name(least_points.team_name),
             "year": league.year
         },
         {
             "category": "Most Points Against",
-            "value": round(most_points_against.points_against, 2),
-            "team": clean_team_name(most_points_against.team_name),
-            "details": f"{most_points_against.wins}-{most_points_against.losses}",
+            "value": round(most_pa.points_against, 2),
+            "team": clean_team_name(most_pa.team_name),
+            "year": league.year
+        },
+        {
+            "category": "Best Win Percentage",
+            "value": f"{best_win_pct.wins}-{best_win_pct.losses}",
+            "team": clean_team_name(best_win_pct.team_name),
             "year": league.year
         }
     ]
-    
-    # Process game records - find top performances
-    best_game_score = 0
-    best_individual = 0
-    best_player_info = None
-    best_game_info = None
-    
-    for week in range(1, week+1):
-        for box in box_scores[week]:
-            if not box.away_team:  # Skip bye weeks
-                continue
-            
-            # Check for highest game score
-            if box.home_score > best_game_score:
-                best_game_score = box.home_score
-                best_game_info = (box.home_team, week, box.away_team)
-            if box.away_score > best_game_score:
-                best_game_score = box.away_score
-                best_game_info = (box.away_team, week, box.home_team)
-                
-            # Check for best individual performance
-            all_players = box.home_lineup + box.away_lineup
-            for player in all_players:
-                if player.slot_position != 'BE' and player.points > best_individual:
-                    best_individual = player.points
-                    best_player_info = (player, box.home_team if player in box.home_lineup else box.away_team, week)
-    
-    game_records = []
-    if best_game_info:
-        game_records.append({
-            "category": "Highest Game Score",
-            "value": round(best_game_score, 2),
-            "details": f"{clean_team_name(best_game_info[0].team_name)} vs {clean_team_name(best_game_info[2].team_name)}",
-            "week": best_game_info[1],
-            "year": league.year
-        })
-    
-    if best_player_info:
-        game_records.append({
-            "category": "Best Individual Performance",
-            "value": round(best_individual, 2),
-            "details": f"{best_player_info[0].name} ({clean_team_name(best_player_info[1].team_name)})",
-            "week": best_player_info[2],
-            "year": league.year
-        })
 
-    # Sort all records by value
-    records["all_time"] = sorted(all_time_records, key=lambda x: float(str(x["value"]).split("-")[0]), reverse=True)
-    records["season"] = sorted(season_records, key=lambda x: float(str(x["value"]).split("-")[0]) 
-                             if isinstance(x["value"], str) else float(x["value"]), reverse=True)
-    records["game"] = sorted(game_records, key=lambda x: float(x["value"]), reverse=True)
+    # Process position records
+    position_records = []
+    for pos, perf in best_performances.items():
+        if perf:
+            position_records.append({
+                "category": f"Best {pos} Game",
+                "value": round(perf[0].points, 2),
+                "player": f"Week {perf[2]}: {perf[0].name}",  # Added week number
+                "team": clean_team_name(perf[1].team_name),
+                "year": league.year
+            })
+    # Inside create_records_json, after getting other records:
+    highest_combined, lowest_combined = get_combined_scores_records(week, box_scores)
+    
+    # Add to game_records list:
+    game_records.extend([
+        {
+            "category": "Highest Combined Score",
+            "value": round(highest_combined[0], 2),
+            "details": f"Week {highest_combined[1]}: {clean_team_name(highest_combined[2].team_name)} vs {clean_team_name(highest_combined[3].team_name)} ({highest_combined[4]})",
+            "year": league.year
+        },
+        {
+            "category": "Lowest Combined Score",
+            "value": round(lowest_combined[0], 2),
+            "details": f"Week {lowest_combined[1]}: {clean_team_name(lowest_combined[2].team_name)} vs {clean_team_name(lowest_combined[3].team_name)} ({lowest_combined[4]})",
+            "year": league.year
+        }
+    ])
+    
+    # Get streaks for all teams
+    longest_win_streak = (0, None)
+    longest_lose_streak = (0, None)
+    for team in league.teams:
+        win_streak, lose_streak, _, _ = get_streaks(team.outcomes[:week])
+        if win_streak > longest_win_streak[0]:
+            longest_win_streak = (win_streak, team)
+        if lose_streak > longest_lose_streak[0]:
+            longest_lose_streak = (lose_streak, team)
+    
+    # Add to season_records list:
+    season_records.extend([
+        {
+            "category": "Longest Win Streak",
+            "value": longest_win_streak[0],
+            "team": clean_team_name(longest_win_streak[1].team_name),
+            "year": league.year
+        },
+        {
+            "category": "Longest Losing Streak",
+            "value": longest_lose_streak[0],
+            "team": clean_team_name(longest_lose_streak[1].team_name),
+            "year": league.year
+        }
+    ])
+    # Save all record types
+    records["game_records"] = sorted(game_records, key=lambda x: float(str(x["value"]).split("-")[0]), reverse=True)
+    records["season_records"] = sorted(season_records, key=lambda x: float(str(x["value"]).split("-")[0]) 
+                                     if isinstance(x["value"], str) else float(x["value"]), reverse=True)
+    records["position_records"] = sorted(position_records, key=lambda x: float(x["value"]), reverse=True)
 
     # Save JSON files
     os.makedirs(f"../assets/json/records", exist_ok=True)
     for record_type, data in records.items():
-        with open(f"../assets/json/records/{record_type}_records.json", 'w') as f:
+        with open(f"../assets/json/records/{record_type}.json", 'w') as f:
             json.dump(data, f, indent=2)
     
     return records
@@ -909,3 +938,108 @@ def calculate_positional_advantage(team, through_week, teams, box_scores):
             advantages[pos] = team_avg - league_avg
             
     return advantages
+
+def get_combined_scores_records(through_week, box_scores):
+    highest_combined = (0, None, None, None, None)  # score, week, team1, team2
+    lowest_combined = (float('inf'), None, None, None, None)
+    
+    for week in range(1, through_week + 1):
+        scores = box_scores[week]
+        for score in scores:
+            if not score.away_team:  # Skip bye weeks
+                continue
+            combined_score = score.home_score + score.away_score
+            if combined_score > highest_combined[0]:
+                highest_combined = (combined_score, week, score.home_team, score.away_team,
+                                 f"{score.home_score:.2f}-{score.away_score:.2f}")
+            if combined_score < lowest_combined[0]:
+                lowest_combined = (combined_score, week, score.home_team, score.away_team,
+                                f"{score.home_score:.2f}-{score.away_score:.2f}")
+                
+    return highest_combined, lowest_combined
+
+def analyze_trade_suggestions(league, team, week, position_focus=None, locked_players=None):
+    """Generate trade suggestions based on team needs and other teams' assets"""
+    if locked_players is None:
+        locked_players = set()
+    
+    # Get team's positional strengths/weaknesses
+    team_pos_stats = get_positional_scoring_amounts(league.box_scores(), week, team)
+    team_averages = {pos: sum(scores)/len(scores) if scores else 0 
+                    for pos, scores in team_pos_stats.items()}
+    
+    # Calculate league averages
+    league_pos_stats = {}
+    for other_team in league.teams:
+        other_stats = get_positional_scoring_amounts(league.box_scores(), week, other_team)
+        for pos, scores in other_stats.items():
+            if pos not in league_pos_stats:
+                league_pos_stats[pos] = []
+            league_pos_stats[pos].extend(scores)
+    
+    league_averages = {pos: sum(scores)/len(scores) if scores else 0 
+                      for pos, scores in league_pos_stats.items()}
+    
+    # Identify needs (positions where team is below league average)
+    needs = {pos: league_averages[pos] - team_averages[pos] 
+            for pos in team_averages 
+            if team_averages[pos] < league_averages[pos]}
+    
+    if position_focus and position_focus in needs:
+        needs = {position_focus: needs[position_focus]}
+    
+    suggestions = []
+    
+    for other_team in league.teams:
+        if other_team == team:
+            continue
+            
+        # Find tradeable players on other team
+        other_pos_stats = get_positional_scoring_amounts(league.box_scores(), week, other_team)
+        other_averages = {pos: sum(scores)/len(scores) if scores else 0 
+                         for pos, scores in other_pos_stats.items()}
+        
+        # Look for players that could help with needs
+        for pos, need_value in needs.items():
+            tradeable_players = []
+            for player in other_team.roster:
+                if (player.position == pos and 
+                    player.name not in locked_players and
+                    player.total_points/week > team_averages[pos]):
+                    tradeable_players.append(player)
+            
+            if tradeable_players:
+                # Find potential trade returns
+                trade_returns = []
+                for my_player in team.roster:
+                    if (my_player.name not in locked_players and 
+                        my_player.position in other_pos_stats and
+                        my_player.total_points/week > other_averages[my_player.position]):
+                        trade_returns.append(my_player)
+                
+                # Generate fair trade proposals
+                for target in tradeable_players:
+                    for return_player in trade_returns:
+                        # Check if trade is relatively fair (within 20% value)
+                        target_value = target.total_points/week
+                        return_value = return_player.total_points/week
+                        
+                        if 0.8 <= target_value/return_value <= 1.2:
+                            suggestions.append({
+                                'target_team': clean_team_name(other_team.team_name),
+                                'receive': [{
+                                    'name': target.name,
+                                    'position': target.position,
+                                    'points_per_game': target_value
+                                }],
+                                'give': [{
+                                    'name': return_player.name,
+                                    'position': return_player.position,
+                                    'points_per_game': return_value
+                                }],
+                                'improves_need': need_value
+                            })
+    
+    # Sort suggestions by improvement to needs
+    suggestions.sort(key=lambda x: x['improves_need'], reverse=True)
+    return suggestions[:5]  # Return top 5 suggestions

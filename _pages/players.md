@@ -10,6 +10,14 @@ echarts: true
 pretty_table: True
 ---
 
+<center>
+<div class="row mb-3">
+    <div class="col-12">
+        <a href="compare" class="btn btn-primary">Compare Players</a>
+    </div>
+</div>
+</center>
+
 ### Season Overview
 
 Leading the way this season:

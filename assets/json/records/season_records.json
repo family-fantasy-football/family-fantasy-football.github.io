@@ -1,16 +1,38 @@
 [
   {
-    "category": "Most Points Scored",
+    "category": "Most Points For",
     "value": 1762.02,
     "team": "Hamlin My Business ",
-    "details": "9-4",
     "year": 2024
   },
   {
     "category": "Most Points Against",
     "value": 1757.48,
     "team": "Hit and Ruggs",
-    "details": "5-8",
+    "year": 2024
+  },
+  {
+    "category": "Least Points For",
+    "value": 1438.72,
+    "team": "Abbey Road to Victory",
+    "year": 2024
+  },
+  {
+    "category": "Best Win Percentage",
+    "value": "10-3",
+    "team": "Pink Pony Club",
+    "year": 2024
+  },
+  {
+    "category": "Longest Win Streak",
+    "value": 7,
+    "team": "To Infinity and Bijan!",
+    "year": 2024
+  },
+  {
+    "category": "Longest Losing Streak",
+    "value": 7,
+    "team": "Fantasy Guru Kayden",
     "year": 2024
   }
 ]
