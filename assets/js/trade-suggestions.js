@@ -383,11 +383,6 @@ document.addEventListener('DOMContentLoaded', function() {
                             <p><strong>Total Impact: ${suggestion.theirImpact.totalImprovement.toFixed(2)} PPG</strong></p>
                         </div>
                     </div>
-                    <div class="text-center mt-2">
-                        <p class="mb-0">
-                            <strong>Net Value: ${suggestion.netValue > 0 ? '+' : ''}${suggestion.netValue.toFixed(2)} PPG</strong>
-                        </p>
-                    </div>
                 </div>
             `;
             resultsDiv.appendChild(card);
