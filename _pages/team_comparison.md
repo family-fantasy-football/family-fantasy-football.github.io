@@ -4,6 +4,8 @@ permalink: /comparison/
 title: team comparison
 nav: false
 nav_order: 3
+custom_js:
+    - team-comparison
 description: 
 chart:
     echarts: true
