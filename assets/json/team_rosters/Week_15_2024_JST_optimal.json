@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Anthony Richardson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 13.88,
+    "projected": 15.6
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.2,
+    "projected": 9.73
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.7,
+    "projected": 11.98
+  },
+  {
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.8,
+    "projected": 13.14
+  },
+  {
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.1,
+    "projected": 11.45
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.1,
+    "projected": 15.03
+  },
+  {
+    "player_name": "Pat Freiermuth",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.7,
+    "projected": 5.91
+  },
+  {
+    "player_name": "Jayden Reed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.6,
+    "projected": 9.37
+  },
+  {
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.5,
+    "projected": 11.45
+  },
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 13.5,
+    "projected": 17.58
+  }
+]

@@ -10,28 +10,20 @@ echarts: true
 pretty_table: True
 ---
 
-<center>
-<div class="row mb-3">
-    <div class="col-12">
-        <a href="compare" class="btn btn-primary">Compare Players</a>
-    </div>
-</div>
-</center>
-
 ### Season Overview
 
 Leading the way this season:
 
-* **QB:** Lamar Jackson (321.4 pts) owned by Who Killed Charbonnet Ramsey?
+* **QB:** Lamar Jackson (357.5 pts) owned by Who Killed Charbonnet Ramsey?
 
-* **RB:** Saquon Barkley (285.5 pts) owned by Michael's Managable Team
+* **RB:** Saquon Barkley (293.9 pts) owned by Michael's Managable Team
 
-* **WR:** Ja'Marr Chase (270.9 pts) owned by Who Killed Charbonnet Ramsey?
+* **WR:** Ja'Marr Chase (284.8 pts) owned by Who Killed Charbonnet Ramsey?
 
-* **TE:** Brock Bowers (162.2 pts) owned by Who Killed Charbonnet Ramsey?
+* **TE:** Brock Bowers (167.2 pts) owned by Who Killed Charbonnet Ramsey?
 
 
-Below are the top 10 performers at each position through Week 14.
+Below are the top 10 performers at each position through Week 15.
 
 
 

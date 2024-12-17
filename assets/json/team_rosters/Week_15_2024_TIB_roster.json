@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.0,
+    "projected": 19.19
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 30.3,
+    "projected": 13.68
+  },
+  {
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 32.4,
+    "projected": 12.21
+  },
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 30.06,
+    "projected": 16.82
+  },
+  {
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.3,
+    "projected": 13.05
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 0.0,
+    "projected": 9.33
+  },
+  {
+    "player_name": "Cole Kmet",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 1.9,
+    "projected": 4.79
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 13.0,
+    "projected": 9.24
+  },
+  {
+    "player_name": "Russell Wilson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 8.42,
+    "projected": 12.55
+  },
+  {
+    "player_name": "Tank Bigsby",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 4.2,
+    "projected": 10.76
+  }
+]

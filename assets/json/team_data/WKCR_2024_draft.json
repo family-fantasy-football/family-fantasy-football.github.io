@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 7,
     "player_name": "Lamar Jackson",
-    "points": "321.4",
-    "before_trade": "321.4",
+    "points": "357.5",
+    "before_trade": "357.5",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "71.2",
+    "value_diff": "89.4",
     "grade": "A"
   },
   {
@@ -16,8 +16,8 @@
     "round": 2,
     "pick": 4,
     "player_name": "Ja'Marr Chase",
-    "points": "270.9",
-    "before_trade": "270.9",
+    "points": "284.8",
+    "before_trade": "284.8",
     "after_trade": "0.0",
     "draft_position": 14,
     "value_diff": "75.7",
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 7,
     "player_name": "Puka Nacua",
-    "points": "125.3",
-    "before_trade": "125.3",
+    "points": "139.6",
+    "before_trade": "139.6",
     "after_trade": "0.0",
     "draft_position": 27,
-    "value_diff": "-50.7",
+    "value_diff": "-49.0",
     "grade": "C"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 4,
     "player_name": "Derrick Henry",
-    "points": "247.7",
-    "before_trade": "247.7",
+    "points": "254.4",
+    "before_trade": "254.4",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "72.1",
+    "value_diff": "66.2",
     "grade": "A"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 7,
     "player_name": "DJ Moore",
-    "points": "140.8",
-    "before_trade": "140.8",
+    "points": "151.8",
+    "before_trade": "151.8",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "-11.5",
+    "value_diff": "-11.4",
     "grade": "B"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 4,
     "player_name": "Caleb Williams",
-    "points": "204.3",
-    "before_trade": "204.3",
+    "points": "214.3",
+    "before_trade": "214.3",
     "after_trade": "0.0",
     "draft_position": 54,
-    "value_diff": "-3.3",
+    "value_diff": "-8.2",
     "grade": "B"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 7,
     "player_name": "Mark Andrews",
-    "points": "112.9",
-    "before_trade": "112.9",
+    "points": "122.3",
+    "before_trade": "122.3",
     "after_trade": "0.0",
     "draft_position": 67,
-    "value_diff": "-13.2",
+    "value_diff": "-12.8",
     "grade": "B"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "52.9",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "-88.5",
+    "value_diff": "-98.6",
     "grade": "D"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "57.4",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "-77.4",
+    "value_diff": "-87.0",
     "grade": "D"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 4,
     "player_name": "Keon Coleman",
-    "points": "72.7",
-    "before_trade": "72.7",
+    "points": "79.6",
+    "before_trade": "79.6",
     "after_trade": "0.0",
     "draft_position": 94,
-    "value_diff": "-43.0",
+    "value_diff": "-44.4",
     "grade": "C"
   },
   {
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 7,
     "player_name": "Tyjae Spears",
-    "points": "42.5",
-    "before_trade": "42.5",
+    "points": "66.7",
+    "before_trade": "66.7",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-81.4",
-    "grade": "D"
+    "value_diff": "-66.1",
+    "grade": "C"
   },
   {
     "team": "Who Killed Charbonnet Ramsey?",
@@ -140,7 +140,7 @@
     "before_trade": "70.4",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "-45.0",
+    "value_diff": "-53.3",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "9.1",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-95.7",
+    "value_diff": "-103.2",
     "grade": "D"
   },
   {
@@ -160,24 +160,24 @@
     "round": 14,
     "pick": 4,
     "player_name": "DeMario Douglas",
-    "points": "36.9",
+    "points": "45.5",
     "before_trade": "2.2",
-    "after_trade": "34.7",
+    "after_trade": "43.3",
     "draft_position": 134,
-    "value_diff": "-74.3",
-    "grade": "D"
+    "value_diff": "-73.6",
+    "grade": "C"
   },
   {
     "team": "Who Killed Charbonnet Ramsey?",
     "round": 15,
     "pick": 7,
     "player_name": "Rico Dowdle",
-    "points": "132.1",
-    "before_trade": "132.1",
+    "points": "147.0",
+    "before_trade": "147.0",
     "after_trade": "0.0",
     "draft_position": 147,
-    "value_diff": "21.2",
-    "grade": "B"
+    "value_diff": "28.2",
+    "grade": "A"
   },
   {
     "team": "Who Killed Charbonnet Ramsey?",
@@ -188,7 +188,7 @@
     "before_trade": "9.6",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "-174.6",
+    "value_diff": "-187.7",
     "grade": "D"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "11.8",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-63.9",
+    "value_diff": "-69.3",
     "grade": "C"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "17.6",
     "after_trade": "0.0",
     "draft_position": 174,
-    "value_diff": "-66.8",
+    "value_diff": "-72.8",
     "grade": "C"
   }
 ]

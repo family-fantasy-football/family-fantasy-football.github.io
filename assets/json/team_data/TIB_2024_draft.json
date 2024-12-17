@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 10,
     "player_name": "Bijan Robinson",
-    "points": "220.3",
-    "before_trade": "220.3",
+    "points": "234.3",
+    "before_trade": "234.3",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "5.6",
+    "value_diff": "4.3",
     "grade": "B"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 1,
     "player_name": "Amon-Ra St. Brown",
-    "points": "185.7",
-    "before_trade": "185.7",
+    "points": "216.0",
+    "before_trade": "216.0",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-3.1",
+    "value_diff": "13.7",
     "grade": "B"
   },
   {
@@ -28,24 +28,24 @@
     "round": 3,
     "pick": 10,
     "player_name": "Mike Evans",
-    "points": "122.5",
-    "before_trade": "122.5",
+    "points": "154.9",
+    "before_trade": "154.9",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "-39.6",
-    "grade": "C"
+    "value_diff": "-18.7",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 4,
     "pick": 1,
     "player_name": "Aaron Rodgers",
-    "points": "188.2",
-    "before_trade": "188.2",
+    "points": "218.3",
+    "before_trade": "218.3",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "-30.2",
-    "grade": "C"
+    "value_diff": "-15.7",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -56,7 +56,7 @@
     "before_trade": "148.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-14.0",
+    "value_diff": "-25.6",
     "grade": "B"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 1,
     "player_name": "Michael Pittman Jr.",
-    "points": "90.0",
-    "before_trade": "90.0",
+    "points": "96.8",
+    "before_trade": "96.8",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-59.3",
+    "value_diff": "-63.1",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 10,
     "player_name": "Tee Higgins",
-    "points": "110.6",
-    "before_trade": "110.6",
+    "points": "127.9",
+    "before_trade": "127.9",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-28.8",
+    "value_diff": "-21.4",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 1,
     "player_name": "Dalton Kincaid",
-    "points": "64.6",
-    "before_trade": "64.6",
+    "points": "71.9",
+    "before_trade": "71.9",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-46.2",
+    "value_diff": "-46.8",
     "grade": "C"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "145.2",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-59.9",
+    "value_diff": "-74.6",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 1,
     "player_name": "Raheem Mostert",
-    "points": "49.3",
-    "before_trade": "49.3",
+    "points": "52.9",
+    "before_trade": "52.9",
     "after_trade": "0.0",
     "draft_position": 91,
-    "value_diff": "-80.5",
+    "value_diff": "-86.1",
     "grade": "D"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 10,
     "player_name": "Devin Singletary",
-    "points": "67.6",
-    "before_trade": "67.6",
+    "points": "79.2",
+    "before_trade": "79.2",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-56.4",
+    "value_diff": "-53.7",
     "grade": "C"
   },
   {
@@ -140,8 +140,8 @@
     "before_trade": "145.8",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "25.4",
-    "grade": "A"
+    "value_diff": "16.8",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -152,7 +152,7 @@
     "before_trade": "43.9",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-75.1",
+    "value_diff": "-83.6",
     "grade": "D"
   },
   {
@@ -160,12 +160,12 @@
     "round": 14,
     "pick": 1,
     "player_name": "Tyler Lockett",
-    "points": "83.6",
-    "before_trade": "83.6",
+    "points": "86.3",
+    "before_trade": "86.3",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-28.2",
-    "grade": "B"
+    "value_diff": "-33.5",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -176,7 +176,7 @@
     "before_trade": "44.2",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "-49.5",
+    "value_diff": "-56.2",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "69.8",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "-38.6",
+    "value_diff": "-46.3",
     "grade": "C"
   },
   {
@@ -196,11 +196,11 @@
     "round": 17,
     "pick": 10,
     "player_name": "Cole Kmet",
-    "points": "85.8",
-    "before_trade": "85.8",
+    "points": "87.7",
+    "before_trade": "87.7",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "12.7",
+    "value_diff": "9.3",
     "grade": "B"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "19.7",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-48.4",
+    "value_diff": "-53.2",
     "grade": "C"
   }
 ]

@@ -28,7 +28,7 @@ chart:
               "children": [
                 {
                   "name": "Pink Pony Club",
-                  "value": "169.2",
+                  "value": "0.0",
                   "itemStyle": {
                     "color": "#7EC8B6"
                   },
@@ -40,7 +40,7 @@ chart:
                 },
                 {
                   "name": "Tom and Jerry",
-                  "value": "154.4",
+                  "value": "0.0",
                   "itemStyle": {
                     "color": "#FF6347"
                   },
@@ -59,7 +59,7 @@ chart:
               "children": [
                 {
                   "name": "Hamlin My Business ",
-                  "value": "144.36",
+                  "value": "0.0",
                   "itemStyle": {
                     "color": "#FFD700"
                   },
@@ -71,7 +71,7 @@ chart:
                 },
                 {
                   "name": "Who Killed Charbonnet Ramsey?",
-                  "value": "168.3",
+                  "value": "0.0",
                   "itemStyle": {
                     "color": "#1E90FF"
                   },

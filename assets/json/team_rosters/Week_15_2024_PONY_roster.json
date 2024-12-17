@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jalen Hurts",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 28.1,
+    "projected": 20.01
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 25.9,
+    "projected": 15.64
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 12.2,
+    "projected": 14.76
+  },
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 23.64,
+    "projected": 21.87
+  },
+  {
+    "player_name": "James Conner",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 28.3,
+    "projected": 16.19
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.8,
+    "projected": 12.13
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 27.5,
+    "projected": 12.2
+  },
+  {
+    "player_name": "Nico Collins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.7,
+    "projected": 14.95
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.4,
+    "projected": 7.49
+  },
+  {
+    "player_name": "Isaac Guerendo",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.5,
+    "projected": 14.05
+  }
+]

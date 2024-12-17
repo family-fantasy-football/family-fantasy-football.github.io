@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 8,
     "player_name": "Justin Jefferson",
-    "points": "197.7",
-    "before_trade": "197.7",
+    "points": "214.5",
+    "before_trade": "214.5",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "9.0",
+    "value_diff": "12.3",
     "grade": "B"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 3,
     "player_name": "Breece Hall",
-    "points": "166.3",
-    "before_trade": "166.3",
+    "points": "178.4",
+    "before_trade": "178.4",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-44.1",
+    "value_diff": "-47.1",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 8,
     "player_name": "De'Von Achane",
-    "points": "198.9",
-    "before_trade": "198.9",
+    "points": "210.0",
+    "before_trade": "210.0",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "44.2",
+    "value_diff": "44.3",
     "grade": "A"
   },
   {
@@ -40,12 +40,12 @@
     "round": 4,
     "pick": 3,
     "player_name": "Marvin Harrison Jr.",
-    "points": "128.0",
-    "before_trade": "128.0",
+    "points": "132.2",
+    "before_trade": "132.2",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-25.8",
-    "grade": "B"
+    "value_diff": "-32.6",
+    "grade": "C"
   },
   {
     "team": "Hit and Ruggs",
@@ -56,7 +56,7 @@
     "before_trade": "113.6",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-33.7",
+    "value_diff": "-44.2",
     "grade": "C"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "134.2",
     "after_trade": "0.0",
     "draft_position": 53,
-    "value_diff": "-13.1",
+    "value_diff": "-23.7",
     "grade": "B"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 8,
     "player_name": "Trey McBride",
-    "points": "137.3",
-    "before_trade": "137.3",
+    "points": "150.5",
+    "before_trade": "150.5",
     "after_trade": "0.0",
     "draft_position": 68,
-    "value_diff": "21.2",
+    "value_diff": "26.1",
     "grade": "B"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "88.0",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-110.0",
+    "value_diff": "-124.2",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 8,
     "player_name": "Jared Goff",
-    "points": "222.5",
-    "before_trade": "222.5",
+    "points": "263.6",
+    "before_trade": "263.6",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "29.1",
+    "value_diff": "56.3",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "70.4",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-71.8",
+    "value_diff": "-82.0",
     "grade": "D"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 8,
     "player_name": "Rome Odunze",
-    "points": "100.5",
-    "before_trade": "100.5",
+    "points": "105.4",
+    "before_trade": "105.4",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "-19.2",
+    "value_diff": "-22.8",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 3,
     "player_name": "Chase Brown",
-    "points": "179.7",
-    "before_trade": "179.7",
+    "points": "204.5",
+    "before_trade": "204.5",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "59.2",
+    "value_diff": "75.4",
     "grade": "A"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "75.1",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-23.0",
+    "value_diff": "-30.0",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 133,
-    "value_diff": "-89.1",
+    "value_diff": "-95.5",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "21.9",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-81.9",
+    "value_diff": "-89.3",
     "grade": "D"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 3,
     "player_name": "Geno Smith",
-    "points": "205.6",
-    "before_trade": "205.6",
+    "points": "210.0",
+    "before_trade": "210.0",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "18.6",
+    "value_diff": "9.7",
     "grade": "B"
   },
   {
@@ -200,7 +200,7 @@
     "before_trade": "2.8",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-70.2",
+    "value_diff": "-75.4",
     "grade": "C"
   },
   {
@@ -212,7 +212,7 @@
     "before_trade": "3.7",
     "after_trade": "0.0",
     "draft_position": 173,
-    "value_diff": "-68.9",
+    "value_diff": "-74.1",
     "grade": "C"
   }
 ]

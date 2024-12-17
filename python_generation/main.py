@@ -34,7 +34,7 @@ def main():
     week = league.nfl_week
     teams = league.teams
     weekly_rankings = []
-    week = 14
+    week = 15
     # reg_season_length= week
     box_scores_cache = {}  # Initialize cache
     teams = sorted(league.teams, key=lambda x: (x.wins, x.points_for), reverse=True)
@@ -43,51 +43,51 @@ def main():
             cache[week] = league.box_scores(week)
         return cache[week]
     box_scores = {week: get_box_scores(week) for week in range(1, week + 1)}
-    # activity_size = 350  # Increased size to minimize API calls
-    # transactions = league.recent_activity(size=activity_size)
-    # waiver_adds = []
-    # fa_adds = []
-    # trades = []
+    activity_size = 350  # Increased size to minimize API calls
+    transactions = league.recent_activity(size=activity_size)
+    waiver_adds = []
+    fa_adds = []
+    trades = []
     response = requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/injuries')
     news_data = response.json()
-    # for activity in transactions:
-    #     activity_str = str(activity)
-        # if "WAIVER" in activity_str:
-        #     waiver_adds.append(activity)
-        # elif "FA ADDED" in activity_str:
-        #     fa_adds.append(activity)
-        # if "TRADED" in activity_str:
-        #     trades.append(activity)
-    # generate_team_json(league, teams, box_scores, week, trades, transactions)
-    # generate_weekly_scores_json(teams, week, league)
+    for activity in transactions:
+        activity_str = str(activity)
+        if "WAIVER" in activity_str:
+            waiver_adds.append(activity)
+        elif "FA ADDED" in activity_str:
+            fa_adds.append(activity)
+        if "TRADED" in activity_str:
+            trades.append(activity)
+    generate_team_json(league, teams, box_scores, week, trades, transactions)
+    generate_weekly_scores_json(teams, week, league)
     # # save_team_logos(league)
     generate_roster_table(league, week)
-    # generate_standings_table(league, week)
+    generate_standings_table(league, week)
     # news_data = []
-    # generate_about_md(league, week, teams, box_scores)
-    # for team in teams:
-    #     generate_indv_team_page_md(league, week, team, box_scores)
-        # generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
+    generate_about_md(league, week, teams, box_scores)
+    for team in teams:
+        generate_indv_team_page_md(league, week, team, box_scores)
+        generate_team_weekly_recap(league, team.team_name,box_scores, news_data, week)
         
-    # combine_draft_json()
+    combine_draft_json()
     # # week = 14
-    # generate_league_weekly_recap_markdown(league, box_scores, week)
+    generate_league_weekly_recap_markdown(league, box_scores, week)
     
-    # generate_draft_page()
-    # generate_players_page(league, week)
-    # create_records_json(league, box_scores, week)
-    # create_team_history_json(league)
-    # generate_history_page()
-    # generate_records_page()
-    # generate_trades_page(league, trades)
-    # generate_waivers_page(league, waiver_adds, fa_adds, trades)
-    # generate_playoff_page(league, week)
+    generate_draft_page()
+    generate_players_page(league, week)
+    create_records_json(league, box_scores, week)
+    create_team_history_json(league)
+    generate_history_page()
+    generate_records_page()
+    generate_trades_page(league, trades)
+    generate_waivers_page(league, waiver_adds, fa_adds, trades)
+    generate_playoff_page(league, week)
     
-    # generate_trade_analyzer_data(league, week)
-    # generate_trade_analyzer_page()
+    generate_trade_analyzer_data(league, week)
+    generate_trade_analyzer_page()
     
-    # generate_matchups_preview(league, week, box_scores, news_data)
-    # generate_player_comparison_data(league, week)
+    generate_matchups_preview(league, week, box_scores, news_data)
+    generate_player_comparison_data(league, week)
 
     
     

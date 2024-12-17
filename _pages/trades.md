@@ -20,6 +20,7 @@ pretty_table: True
 </center>
 
 
+
 ### All Trades
 <table
 data-click-to-select="true"

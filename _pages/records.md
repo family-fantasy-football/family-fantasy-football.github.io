@@ -10,8 +10,6 @@ echarts: true
 pretty_table: True
 ---
 
-
-
 ## Single Game Records
 
 <table

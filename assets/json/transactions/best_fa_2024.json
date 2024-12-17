@@ -1,17 +1,5 @@
 [
  {
-  "team": "Mama Daughter Duo",
-  "week": 5,
-  "player_name": "Bo Nix",
-  "position": "QB",
-  "points_before": "12.9",
-  "points_after": "19.8",
-  "points_diff": "6.9",
-  "num_weeks_before": 3,
-  "num_weeks_after": 8,
-  "type": "FA"
- },
- {
   "team": "To Infinity and Bijan!",
   "week": 8,
   "player_name": "Jameis Winston",
@@ -24,16 +12,40 @@
   "type": "WAIVER"
  },
  {
+  "team": "Mama Daughter Duo",
+  "week": 5,
+  "player_name": "Bo Nix",
+  "position": "QB",
+  "points_before": "12.9",
+  "points_after": "19.1",
+  "points_diff": "6.2",
+  "num_weeks_before": 3,
+  "num_weeks_after": 9,
+  "type": "FA"
+ },
+ {
   "team": "Hamlin My Business ",
   "week": 6,
   "player_name": "Justin Herbert",
   "position": "QB",
   "points_before": "10.4",
-  "points_after": "17.7",
-  "points_diff": "7.3",
+  "points_after": "17.3",
+  "points_diff": "6.9",
   "num_weeks_before": 3,
-  "num_weeks_after": 8,
+  "num_weeks_after": 9,
   "type": "FA"
+ },
+ {
+  "team": "Mama Daughter Duo",
+  "week": 11,
+  "player_name": "Anthony Richardson",
+  "position": "QB",
+  "points_before": "8.5",
+  "points_after": "16.0",
+  "points_diff": "7.5",
+  "num_weeks_before": 3,
+  "num_weeks_after": 3,
+  "type": "WAIVER"
  },
  {
   "team": "Tom and Jerry",
@@ -41,22 +53,10 @@
   "player_name": "Jonnu Smith",
   "position": "TE",
   "points_before": "10.1",
-  "points_after": "15.8",
-  "points_diff": "5.7",
+  "points_after": "15.7",
+  "points_diff": "5.6",
   "num_weeks_before": 3,
-  "num_weeks_after": 3,
-  "type": "WAIVER"
- },
- {
-  "team": "Tom and Jerry",
-  "week": 8,
-  "player_name": "Jauan Jennings",
-  "position": "WR",
-  "points_before": "5.4",
-  "points_after": "14.2",
-  "points_diff": "8.8",
-  "num_weeks_before": 3,
-  "num_weeks_after": 5,
+  "num_weeks_after": 4,
   "type": "WAIVER"
  }
 ]

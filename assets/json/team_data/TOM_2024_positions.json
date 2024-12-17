@@ -1,25 +1,25 @@
 [
   {
     "position": "QB",
-    "average": 17.7,
+    "average": 18.0,
     "highest": 28.9,
     "lowest": 5.7
   },
   {
     "position": "RB",
-    "average": 14.0,
+    "average": 14.2,
     "highest": 43.0,
     "lowest": 0.8
   },
   {
     "position": "TE",
-    "average": 8.1,
+    "average": 8.3,
     "highest": 22.8,
     "lowest": 0.0
   },
   {
     "position": "WR",
-    "average": 10.5,
+    "average": 10.7,
     "highest": 36.0,
     "lowest": -1.0
   }

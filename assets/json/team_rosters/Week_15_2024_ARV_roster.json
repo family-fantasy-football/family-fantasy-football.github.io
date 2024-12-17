@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 4.7,
+    "projected": 11.14
+  },
+  {
+    "player_name": "Garrett Wilson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.1,
+    "projected": 13.07
+  },
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 10.06,
+    "projected": 18.76
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.3,
+    "projected": 12.73
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.5,
+    "projected": 14.54
+  },
+  {
+    "player_name": "Kirk Cousins",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 6.48,
+    "projected": 13.24
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 16.6,
+    "projected": 9.66
+  },
+  {
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.1,
+    "projected": 9.13
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.5,
+    "projected": 14.69
+  },
+  {
+    "player_name": "Gus Edwards",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 2.3,
+    "projected": 9.58
+  }
+]
