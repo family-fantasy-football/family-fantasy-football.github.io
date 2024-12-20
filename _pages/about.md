@@ -42,7 +42,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
 
 <table
     data-click-to-select="true"
-    data-height="635"
     data-pagination="false"
     data-search="false"
     data-toggle="table"

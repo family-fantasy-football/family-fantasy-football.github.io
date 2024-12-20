@@ -27,7 +27,7 @@ def generate_standings_table(league, through_week):
         
         for team in teams:
             # Get last 3 results, pad with '' if less than 3 weeks
-            recent_results = team.outcomes[:through_week][-3:]
+            recent_results = team.outcomes[:through_week-1][-3:]
             while len(recent_results) < 3:
                 recent_results.insert(0, '')
                 
@@ -506,16 +506,16 @@ def generate_team_json(league, teams, box_scores_dict, week, trades, transaction
     
     for team in teams:
         # Get team stats
-        outcomes = team.outcomes[:week]
-        scores = team.scores[:week]
-        schedule = team.schedule[:week]
-        mov = team.mov[:week]
+        outcomes = team.outcomes[:week-1]
+        scores = team.scores[:week-1]
+        schedule = team.schedule[:week-1]
+        mov = team.mov[:week-1]
         
         weekly_effs, total_bench_points, total_optimal_points, total_actual_points = get_efficiencies(
             week, box_scores_dict, team)
         
         expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(
-            team, outcomes, mov, teams, week)
+            team, outcomes, mov, teams, league.settings.reg_season_count)
         
         longest_win_streak, longest_lose_streak, current_streak, streak_type = get_streaks(outcomes)
         
@@ -599,9 +599,9 @@ def generate_team_json(league, teams, box_scores_dict, week, trades, transaction
             json.dump(team_draft, f, indent=2)
             
         # In generate_team_data_json, add:
-        scores = team.scores[:week]
-        outcomes = team.outcomes[:week]
-        schedule = team.schedule[:week]
+        scores = team.scores[:week-1]
+        outcomes = team.outcomes[:week-1]
+        schedule = team.schedule[:week-1]
         opponent_stats = get_records_against(schedule, scores, outcomes)
 
         h2h_data = []
@@ -625,6 +625,7 @@ def generate_team_json(league, teams, box_scores_dict, week, trades, transaction
         
 
 def generate_weekly_scores_json(teams, week, league):
+    week = league.settings.reg_season_count
     """Generate JSON for weekly scores line graph including league averages"""
     output_folder="../assets/json/team_data"
     os.makedirs(output_folder, exist_ok=True)

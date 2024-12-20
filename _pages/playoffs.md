@@ -17,18 +17,25 @@ chart:
       "type": "tree",
       "data": [
         {
-          "name": "Finals",
+          "name": "Champion",
           "symbol": "rect",
           "symbolSize": [250, 50],
           "children": [
             {
-              "name": "Winner of Semifinal 1",
+              "name": "Pink Pony Club",
+              "value": "0.0",
+              "itemStyle": {
+                "color": "#7EC8B6"
+              },
               "symbol": "rect",
               "symbolSize": [250, 50],
+              "label": {
+                "formatter": "{b}\n{c}"
+              },
               "children": [
                 {
                   "name": "Pink Pony Club",
-                  "value": "0.0",
+                  "value": "366.24",
                   "itemStyle": {
                     "color": "#7EC8B6"
                   },
@@ -40,7 +47,7 @@ chart:
                 },
                 {
                   "name": "Tom and Jerry",
-                  "value": "0.0",
+                  "value": "307.18",
                   "itemStyle": {
                     "color": "#FF6347"
                   },
@@ -53,13 +60,19 @@ chart:
               ]
             },
             {
-              "name": "Winner of Semifinal 2",
+              "name": "Who Killed Charbonnet Ramsey?",
+              "value": "0.0",
+              "itemStyle": {
+                "color": "#1E90FF"
+              },
               "symbol": "rect",
               "symbolSize": [250, 50],
+              "label": {
+                "formatter": "{b}\n{c}" },
               "children": [
                 {
                   "name": "Hamlin My Business ",
-                  "value": "0.0",
+                  "value": "244.28",
                   "itemStyle": {
                     "color": "#FFD700"
                   },
@@ -71,7 +84,7 @@ chart:
                 },
                 {
                   "name": "Who Killed Charbonnet Ramsey?",
-                  "value": "0.0",
+                  "value": "273.34",
                   "itemStyle": {
                     "color": "#1E90FF"
                   },

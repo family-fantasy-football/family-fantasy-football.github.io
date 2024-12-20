@@ -23,7 +23,7 @@ from fetch import *
 from make_assests import *
 
 def generate_about_md(league, week, teams, box_scores):
-    create_weekly_scores_boxplot_json(teams, week)
+    create_weekly_scores_boxplot_json(teams, league.settings.reg_season_count)
     create_team_scatter_json(league, week)
     generate_roster_table(league, week)
     generate_standings_table(league, week)
@@ -108,19 +108,19 @@ def generate_about_md(league, week, teams, box_scores):
     top_scorer_name = get_manager_names(top_scorer.owners)
     least_scorer_name = get_manager_names(least_scorer.owners)
     
-    highest_week = get_highest_scoring_week(week, box_scores)
-    lowest_week = get_lowest_scoring_week(week, box_scores)
+    highest_week = get_highest_scoring_week(league.settings.reg_season_count, box_scores)
+    lowest_week = get_lowest_scoring_week(league.settings.reg_season_count, box_scores)
 
     luckiest_team = 0
     unluckiest_team = 0
     luckiest_factor = 0
     unluckiest_factor = 0
     for team in teams:
-        outcomes = team.outcomes[:week]
-        scores = team.scores[:week]
-        schedule = team.schedule[:week]
-        mov = team.mov[:week]
-        expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(team, outcomes, mov, teams, week)
+        outcomes = team.outcomes[:league.settings.reg_season_count]
+        scores = team.scores[:league.settings.reg_season_count]
+        schedule = team.schedule[:league.settings.reg_season_count]
+        mov = team.mov[:league.settings.reg_season_count]
+        expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(team, outcomes, mov, teams, )
         if luck_factor > luckiest_factor:
             luckiest_team = team
             luckiest_factor = luck_factor
@@ -160,7 +160,7 @@ chart:
 
 The current top scorer is: {top_scorer_name} ({top_scorer.points_for:.2f})
 
-The current top scorer is: {least_scorer_name} ({least_scorer.points_for:.2f})
+The current bottom scorer is: {least_scorer_name} ({least_scorer.points_for:.2f})
 
 Highest Scoring Week: {get_manager_names(highest_week[0].owners)} - {highest_week[2]:.2f} points (Week {highest_week[1]})
 
@@ -175,7 +175,6 @@ Unluckiest Team: {get_manager_names(unluckiest_team.owners)} ({unluckiest_factor
 
 <table
     data-click-to-select="true"
-    data-height="635"
     data-pagination="false"
     data-search="false"
     data-toggle="table"
@@ -301,7 +300,6 @@ pretty_table: True
 #### Summary
 <table
 data-click-to-select="true"
-data-height="930"
 data-search="false"
 data-toggle="table"
 data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_summary.json" }}}}">
@@ -325,7 +323,6 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_summary.
 #### Roster
 <table
  data-click-to-select="true"
- data-height="1100"
  data-search="false"
  data-toggle="table"
  data-url="{{{{ "/assets/json/team_rosters/{team.team_abbrev}_{league.year}.json"}}}}">
@@ -346,7 +343,6 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_summary.
 #### Positional Scoring
 <table
 data-click-to-select="true"
-data-height="282"
 data-search="false"
 data-toggle="table"
 data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_positions.json" }}}}">
@@ -369,7 +365,6 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
 #### Lineup Efficiency
 <table
     data-click-to-select="true"
-    data-height="810"
     data-search="false"
     data-toggle="table"
     data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_weekly.json" }}}}">
@@ -386,7 +381,6 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
 #### Draft Recap
 <table
     data-click-to-select="true"
-    data-height="1100"
     data-search="false"
     data-toggle="table"
     data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_draft.json" }}}}">
@@ -407,7 +401,6 @@ data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_position
 #### Head-to-Head Record
 <table
     data-click-to-select="true"
-    data-height="575"
     data-search="false"
     data-toggle="table"
     data-url="{{{{ "/assets/json/team_data/{team.team_abbrev}_{league.year}_h2h.json" }}}}">
@@ -604,7 +597,6 @@ toc:
         "\n## Current Lineup\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"630\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         f"data-url=\"{{{{ \"/assets/json/team_rosters/{json_filename}\"}}}}\">",
@@ -622,7 +614,6 @@ toc:
         "\n## Optimal Lineup\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"630\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         f"data-url=\"{{{{ \"/assets/json/team_rosters/{optimal_filename}\"}}}}\">",
@@ -781,7 +772,6 @@ toc:
         "## Current Standings\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"635\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         f"data-url=\"{{{{ \"/assets/json/standings/{standings_filename}\"}}}}\">",
@@ -854,7 +844,6 @@ def generate_draft_page():
         "\n## Best Draft Picks\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"340\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         "data-url=\"{{ \"/assets/json/team_data/draft_best_2024.json\" }}\">",
@@ -872,7 +861,6 @@ def generate_draft_page():
         "\n## Worst Draft Picks\n",
         "<table",
         "data-click-to-select=\"true\"",
-        "data-height=\"340\"",
         "data-search=\"false\"",
         "data-toggle=\"table\"",
         "data-url=\"{{ \"/assets/json/team_data/draft_worst_2024.json\" }}\">",
@@ -987,7 +975,6 @@ def generate_players_page(league: League, week):
             f"\n## Top {pos}s\n",
             "<table",
             "data-click-to-select=\"true\"",
-            "data-height=\"635\"",
             "data-search=\"false\"",
             "data-toggle=\"table\"",
             f"data-url=\"{{{{ \"/assets/json/players/top_{pos.lower()}_2024.json\" }}}}\">",
@@ -1106,7 +1093,6 @@ def generate_history_page():
             f"\n## {year} Season\n",
             "<table",
             "data-click-to-select=\"true\"",
-            "data-height=\"400\"",
             "data-search=\"false\"",
             "data-toggle=\"table\"",
             f"data-url=\"{{{{ \"/assets/json/history/{year}_teams.json\" }}}}\">",
@@ -1146,7 +1132,6 @@ pretty_table: True
 ### Best Pickups
 <table
 data-click-to-select="true"
-data-height="930"
 data-search="false"
 data-toggle="table"
 data-url="{{{{ "/assets/json/transactions/best_fa_{league.year}.json"}}}}">
@@ -1220,7 +1205,6 @@ pretty_table: True
 ### All Trades
 <table
 data-click-to-select="true"
-data-height="520"
 data-search="false"
 data-toggle="table"
 data-url="{{{{ "/assets/json/transactions/trades_{league.year}.json"}}}}">
@@ -1493,18 +1477,18 @@ toc:
         # Inside the main matchup loop, after getting home_team and away_team:
 
         # Add recent performance trends
-        home_recent = home_team.scores[max(0, week-3):week]
-        away_recent = away_team.scores[max(0, week-3):week]
+        home_recent = home_team.scores[max(0, week-3):week-1]
+        away_recent = away_team.scores[max(0, week-3):week-1]
         home_trend = sum(home_recent)/len(home_recent) if home_recent else 0
         away_trend = sum(away_recent)/len(away_recent) if away_recent else 0
 
         # Get streaks
-        _, _, home_streak_len, home_streak_type = get_streaks(home_team.outcomes[:week])
-        _, _, away_streak_len, away_streak_type = get_streaks(away_team.outcomes[:week])
+        _, _, home_streak_len, home_streak_type = get_streaks(home_team.outcomes[:week-1])
+        _, _, away_streak_len, away_streak_type = get_streaks(away_team.outcomes[:week-1])
 
         # Get previous matchup results this season
         previous_matchups = []
-        for w, (opp, score) in enumerate(zip(home_team.schedule[:week], home_team.scores[:week])):
+        for w, (opp, score) in enumerate(zip(home_team.schedule[:week-1], home_team.scores[:week-1])):
             if opp.team_id == away_team.team_id:
                 previous_matchups.append((w+1, score, opp.scores[w]))
 
@@ -1532,8 +1516,8 @@ toc:
         avg_away_score = avg_away_score/total_games if total_games > 0 else 0
         
         # Get position comparisons
-        home_pos_stats = get_positional_scoring_amounts(box_scores, week, home_team)
-        away_pos_stats = get_positional_scoring_amounts(box_scores, week, away_team)
+        home_pos_stats = get_positional_scoring_amounts(box_scores, week-1, home_team)
+        away_pos_stats = get_positional_scoring_amounts(box_scores, week-1, away_team)
         if avg_home_score > avg_away_score:
             historical_winner = clean_team_name(home_team.team_name)
         elif avg_home_score < avg_away_score:
@@ -1587,7 +1571,7 @@ toc:
 
         # After the position breakdown table but before injuries:
 
-        scoring_chart, radar_chart = create_matchup_charts(home_team, away_team, week, box_scores)
+        scoring_chart, radar_chart = create_matchup_charts(home_team, away_team, week-1, box_scores)
 
         markdown_content.extend([
             "\n#### Recent Performance\n",
@@ -1637,7 +1621,7 @@ toc:
             
             f"\n#### Playoff Picture",
             f"**{clean_team_name(home_team.team_name)}:** {home_playoff_odds:.1f}% chance \n",
-            f"**{clean_team_name(away_team.team_name)}:**{away_playoff_odds:.1f}% chance\n"
+            f"**{clean_team_name(away_team.team_name)}:** {away_playoff_odds:.1f}% chance\n"
         ])
         
         markdown_content.append("\n---\n")  # Add separator between matchups
