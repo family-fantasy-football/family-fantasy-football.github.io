@@ -12,12 +12,20 @@ pretty_table: True
 
 # League History
  <br>
+ <center>
+<div class="row mb-3">
+    <div class="col-12">
+        <a href="/archive/" class="btn btn-primary">View League Archives</a>
+    </div>
+</div>
+</center>
+
+
 
 ## 2024 Season
 
 <table
 data-click-to-select="true"
-data-height="400"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/history/2024_teams.json" }}">

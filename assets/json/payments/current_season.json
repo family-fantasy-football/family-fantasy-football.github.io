@@ -1,0 +1,92 @@
+[
+  {
+    "team": "Pink Pony Club",
+    "manager": "Connor Dickson and Monika Monko",
+    "paid": "Yes",
+    "high_scoring_weeks": 3,
+    "winnings": "$15",
+    "penalties": "$0",
+    "net": "$15"
+  },
+  {
+    "team": "Hamlin My Business ",
+    "manager": "Kyle Hamlin",
+    "paid": "Yes",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
+    "penalties": "$0",
+    "net": "$5"
+  },
+  {
+    "team": "Who Killed Charbonnet Ramsey?",
+    "manager": "Christian Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 4,
+    "winnings": "$20",
+    "penalties": "$0",
+    "net": "$20"
+  },
+  {
+    "team": "Tom and Jerry",
+    "manager": "Tom Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
+    "penalties": "$0",
+    "net": "$10"
+  },
+  {
+    "team": "To Infinity and Bijan!",
+    "manager": "Nick Hill",
+    "paid": "Yes",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
+    "penalties": "$0",
+    "net": "$5"
+  },
+  {
+    "team": "Hit and Ruggs",
+    "manager": "Ryan Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
+    "penalties": "$0",
+    "net": "$10"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "manager": "Cathy Dickson and Jordan Dickson",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Abbey Road to Victory",
+    "manager": "Abbey Hamlin and Christine Hamlin",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Michael's Managable Team",
+    "manager": "Michael Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
+    "penalties": "$0",
+    "net": "$5"
+  },
+  {
+    "team": "Fantasy Guru Kayden",
+    "manager": "Kayden Mullins",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  }
+]

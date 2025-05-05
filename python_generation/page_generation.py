@@ -17,6 +17,8 @@ import matplotlib.pyplot as plt
 import json
 from datetime import datetime, timedelta
 import glob
+import re
+from shutil import copyfile
 
 from utils import *
 from fetch import *
@@ -120,7 +122,7 @@ def generate_about_md(league, week, teams, box_scores):
         scores = team.scores[:league.settings.reg_season_count]
         schedule = team.schedule[:league.settings.reg_season_count]
         mov = team.mov[:league.settings.reg_season_count]
-        expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(team, outcomes, mov, teams, )
+        expected_wins, actual_wins, luck_factor, close_wins, close_losses = get_luck_values(team, outcomes, mov, teams, week )
         if luck_factor > luckiest_factor:
             luckiest_team = team
             luckiest_factor = luck_factor
@@ -1081,7 +1083,16 @@ def generate_history_page():
         "echarts: true",
         "pretty_table: True",
         "---",
-        "\n# League History\n <br>"
+        "\n# League History\n <br>\n"
+        
+        "<center>",
+        '<div class="row mb-3">',
+        '    <div class="col-12">',
+        '        <a href="/archive/" class="btn btn-primary">View League Archives</a>',
+        '    </div>',
+        '</div>',
+        "</center>",
+        "\n"
     ]
 
     # Get list of years from the files in the history directory
@@ -1685,3 +1696,391 @@ def generate_advanced_analytics_page(league, teams, box_scores, week):
     os.makedirs("../_pages", exist_ok=True)
     with open(f"../_pages/analytics.md", 'w') as f:
         f.write('\n'.join(content))
+        
+def create_archive_directories(year):
+    """Create directory structure for archived team pages"""
+    os.makedirs(f"../_archive/{year}", exist_ok=True)
+    os.makedirs(f"../assets/json/archive/{year}", exist_ok=True)
+
+
+
+def create_archive_directories(year):
+    """Create directory structure for archived team pages"""
+    os.makedirs(f"../_archive/{year}", exist_ok=True)
+    os.makedirs(f"../assets/json/archive/{year}", exist_ok=True)
+
+def archive_team_pages(league, week, teams, box_scores):
+    """Archive team pages from the current season"""
+    # Create archive directories
+    year = league.year
+    create_archive_directories(year)
+    
+    # Loop through all teams in the league
+    for team in teams:
+        try:
+            # First get all the data needed for the page
+            weekly_scoring_chart = f"../assets/json/team_data/{team.team_abbrev}_{year}_weekly_scores.json"
+            with open(weekly_scoring_chart, "r") as json_file:
+                weekly_scores = json_file.read()
+            
+            # Parse JSON for the archive
+            parsed_weekly_scores = json.loads(weekly_scores)
+            formatted_weekly_scores = json.dumps(parsed_weekly_scores, indent=4)
+            
+            # Copy position contribution chart data
+            pie_info = f"../assets/json/team_data/{team.team_abbrev}_{year}_pie.json"
+            with open(pie_info, "r") as json_file:
+                pie_data = json_file.read()
+            parsed_pie_data = json.loads(pie_data)
+            formatted_pie_data = json.dumps(parsed_pie_data, indent=4)
+            
+            # Save archived JSON files
+            with open(f"../assets/json/archive/{year}/{team.team_abbrev}_weekly_scores.json", 'w') as f:
+                f.write(weekly_scores)
+            with open(f"../assets/json/archive/{year}/{team.team_abbrev}_pie.json", 'w') as f:
+                f.write(pie_data)
+            
+            # Copy other necessary JSON files for this team
+            json_files = [
+                f"{team.team_abbrev}_{year}_summary.json",
+                f"{team.team_abbrev}_{year}_positions.json",
+                f"{team.team_abbrev}_{year}_weekly_eff.json",
+                f"{team.team_abbrev}_{year}_draft.json",
+                f"{team.team_abbrev}_{year}_h2h.json"
+            ]
+            
+            for json_file in json_files:
+                src_path = f"../assets/json/team_data/{json_file}"
+                dst_path = f"../assets/json/archive/{year}/{json_file}"
+                if os.path.exists(src_path):
+                    with open(src_path, "r") as src:
+                        content = src.read()
+                    with open(dst_path, "w") as dst:
+                        dst.write(content)
+            
+            # Create archived team page markdown
+            content = f"""---
+layout: page
+title: {clean_team_name(team.team_name).lower()} ({year})
+description: manager(s) - {get_manager_names(team.owners).lower()}
+img: assets/img/{team.team_abbrev}_{year}.jpg
+importance: {team.team_id+1}
+category: archive-{year}
+related_publications: false
+chart:
+  echarts: true
+pretty_table: True
+---
+
+### <center> {year} Season Final Stats </center>
+
+#### Summary
+<table
+data-click-to-select="true"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/archive/{year}/{team.team_abbrev}_{year}_summary.json" }}}}">
+<thead>
+    <tr>
+        <th data-field="category" data-halign="left" data-align="left" data-sortable="false">Category</th>
+        <th data-field="value" data-halign="center" data-align="center" data-sortable="false">Value</th>
+    </tr>
+</thead>
+</table>
+
+<br><br>
+
+```echarts
+{formatted_weekly_scores}
+```
+<br><br>
+
+#### Final Roster
+<table
+ data-click-to-select="true"
+ data-search="false"
+ data-toggle="table"
+ data-url="{{{{ "/assets/json/team_rosters/{team.team_abbrev}_{year}.json"}}}}">
+ <thead>
+   <tr>
+     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+     <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th>
+     <th data-field="total_points" data-halign="center" data-align="center" data-sortable="true">Total Points</th>
+     <th data-field="proj_points" data-halign="center" data-align="center" data-sortable="true">Projected Points</th>
+     <th data-field="avg_points" data-halign="center" data-align="center" data-sortable="true">Avg. Points</th>
+     <th data-field="pct_perform" data-halign="center" data-align="center" data-sortable="true">Performance</th>
+   </tr>
+ </thead>
+</table>
+
+<br><br>
+
+#### Positional Scoring
+<table
+data-click-to-select="true"
+data-search="false"
+data-toggle="table"
+data-url="{{{{ "/assets/json/archive/{year}/{team.team_abbrev}_{year}_positions.json" }}}}">
+<thead>
+    <tr>
+        <th data-field="position" data-halign="left" data-align="left" data-sortable="false">Position</th>
+        <th data-field="average" data-halign="center" data-align="center" data-sortable="true">Average</th>
+        <th data-field="highest" data-halign="center" data-align="center" data-sortable="true">Highest</th>
+        <th data-field="lowest" data-halign="center" data-align="center" data-sortable="true">Lowest</th>
+    </tr>
+</thead>
+</table>
+
+<br><br>
+
+```echarts
+{formatted_pie_data}
+```
+
+#### Lineup Efficiency
+<table
+    data-click-to-select="true"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/archive/{year}/{team.team_abbrev}_{year}_weekly_eff.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="week" data-halign="left" data-align="left" data-sortable="true">Week</th>
+            <th data-field="efficiency" data-halign="center" data-align="center" data-sortable="true">Efficiency</th>
+        </tr>
+    </thead>
+</table>
+
+<br><br>
+
+#### Draft Recap
+<table
+    data-click-to-select="true"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/archive/{year}/{team.team_abbrev}_{year}_draft.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="round" data-halign="center" data-align="center" data-sortable="true">Round</th>
+            <th data-field="pick" data-halign="center" data-align="center" data-sortable="false">Pick</th>
+            <th data-field="draft_position" data-halign="center" data-align="center" data-sortable="true">Overall</th>
+            <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+            <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Total Points</th>
+            <th data-field="grade" data-halign="center" data-align="center" data-sortable="true">Grade</th>
+        </tr>
+    </thead>
+</table>
+
+<br><br>
+    
+#### Head-to-Head Record
+<table
+    data-click-to-select="true"
+    data-search="false"
+    data-toggle="table"
+    data-url="{{{{ "/assets/json/archive/{year}/{team.team_abbrev}_{year}_h2h.json" }}}}">
+    <thead>
+        <tr>
+            <th data-field="opponent" data-halign="left" data-align="left" data-sortable="false">Opponent</th>
+            <th data-field="record" data-halign="center" data-align="center" data-sortable="true">Record</th>
+            <th data-field="points" data-halign="center" data-align="center" data-sortable="false">Avg Score</th>
+        </tr>
+    </thead>
+</table>
+"""
+
+            # Write archived team page
+            with open(f"../_archive/{year}/{team.team_abbrev}.md", 'w') as f:
+                f.write(content)
+                
+            print(f"Archived team page for {team.team_name}")
+        except Exception as e:
+            print(f"Error archiving team {team.team_name}: {str(e)}")
+
+def generate_archive_index():
+    """Generate an index page for all archived seasons"""
+    # Find all archive years
+    archive_years = []
+    if os.path.exists("../_archive"):
+        archive_years = [d for d in os.listdir("../_archive") if os.path.isdir(f"../_archive/{d}")]
+    
+    # Sort years in descending order
+    archive_years.sort(reverse=True)
+    
+    content = """---
+layout: page
+permalink: /archive/
+title: archive
+nav: false
+nav_order: 8
+description: Archives of past fantasy football seasons
+---
+
+## Fantasy Football League Archives
+
+Browse previous seasons of our fantasy football league:
+
+"""
+    # Add section for each year
+    for year in archive_years:
+        content += f"\n### {year} Season\n\n"
+        
+        # Get all team files for this year
+        team_files = [f for f in os.listdir(f"../_archive/{year}") if f.endswith('.md')]
+        
+        # Add link for each team file directly
+        for file in team_files:
+            file_base = file.replace('.md', '')
+            
+            # Read team name and manager info from file
+            with open(f"../_archive/{year}/{file}", 'r') as f:
+                file_content = f.read()
+                
+            # Extract team name (simpler approach)
+            name_match = re.search(r'title:\s*(.*?)\s*\(', file_content)
+            team_name = name_match.group(1).strip() if name_match else file_base
+            
+            # Extract manager names (simpler approach)
+            manager_match = re.search(r'description:\s*manager\(s\)\s*-\s*(.*?)\s*\n', file_content)
+            managers = manager_match.group(1).strip() if manager_match else "Unknown"
+            
+            # Add to index
+            content += f"- [{team_name}](/archive/{year}/{file_base}) - {managers}\n"
+        
+        content += "\n"
+    
+    # Write the archive index page
+    os.makedirs("../_pages", exist_ok=True)
+    with open("../_pages/archive.md", 'w') as f:
+        f.write(content)
+
+def generate_payment_page(league, teams):
+    """
+    Generate a page that tracks payment information for the league
+    Includes:
+    - Payment status (needs to be manually updated)
+    - High scoring weeks per team
+    - Winnings ($5 per high scoring week)
+    - Penalties (needs to be manually updated)
+    - Total pot calculation
+    """
+    # Calculate high scoring weeks for each team
+    high_scoring_weeks = {team.team_id: 0 for team in teams}
+    
+    for week in range(1, league.current_week + 1):
+        # Find highest scoring team for the week
+        highest_score = 0
+        highest_team_id = None
+        
+        for team in teams:
+            if week < len(team.scores) and team.scores[week-1] > highest_score:
+                highest_score = team.scores[week-1]
+                highest_team_id = team.team_id
+        
+        # Increment count for highest scoring team
+        if highest_team_id is not None:
+            high_scoring_weeks[highest_team_id] += 1
+    
+    # Create the payment data for the table
+    payment_data = []
+    fee_per_team = 15  # Entry fee per team
+    high_score_payout = 5  # Payout per high scoring week
+    
+    # Calculate total entry fees
+    total_entry_fees = len(teams) * fee_per_team
+    
+    # Initialize penalties sum
+    total_penalties = 0
+    
+    for team in teams:
+        # Calculate winnings based on high scoring weeks
+        weeks_as_high_scorer = high_scoring_weeks[team.team_id]
+        winnings = weeks_as_high_scorer * high_score_payout
+        
+        # Placeholder for penalty amount (to be manually updated)
+        penalties = 0  # Default to 0, will need manual updating
+        
+        payment_data.append({
+            "team": clean_team_name(team.team_name),
+            "manager": get_manager_names(team.owners),
+            "paid": "Yes",  # Default to No, needs manual updating
+            "high_scoring_weeks": weeks_as_high_scorer,
+            "winnings": f"${winnings}",
+            "penalties": f"${penalties}",
+            "net": f"${winnings - penalties}"
+        })
+        
+        # Add penalties to total
+        total_penalties += penalties
+    
+    # Calculate pot total
+    pot_total = total_entry_fees + total_penalties
+    
+    # Calculate payout structure
+    # Total regular season + playoff weeks (assuming 4 playoff weeks for 2 rounds)
+    total_weeks = league.settings.reg_season_count + 4
+    
+    # Calculate weekly payouts total
+    weekly_payouts = total_weeks * high_score_payout
+    
+    # Second place gets buy-in back
+    runner_up = fee_per_team
+    
+    # First place gets the rest after weekly payouts and runner-up
+    champion_payout = pot_total - weekly_payouts - runner_up + total_penalties
+    
+    # Create the markdown content
+    content = [
+        "---",
+        "layout: page",
+        "permalink: /payments/",
+        "title: league payments",
+        "nav: true",
+        "nav_order: 7",
+        "description: League payment tracking and prize distribution",
+        "pretty_table: True",
+        "---",
+        "\n## League Payment Tracker\n",
+        "\n### Current Season Payment Status\n",
+        "<table",
+        "data-click-to-select=\"true\"",
+        "data-search=\"false\"",
+        "data-toggle=\"table\"",
+        "data-url=\"{{ \"/assets/json/payments/current_season.json\" }}\">",
+        "<thead>",
+        "<tr>",
+        "<th data-field=\"team\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\">Team</th>",
+        "<th data-field=\"manager\" data-halign=\"left\" data-align=\"left\" data-sortable=\"true\">Manager</th>",
+        "<th data-field=\"paid\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Paid Entry</th>",
+        "<th data-field=\"high_scoring_weeks\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">High Score Weeks</th>",
+        "<th data-field=\"winnings\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Winnings</th>",
+        "<th data-field=\"penalties\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Penalties</th>",
+        "<th data-field=\"net\" data-halign=\"center\" data-align=\"center\" data-sortable=\"true\">Net</th>",
+        "</tr>",
+        "</thead>",
+        "</table>\n",
+        "\n### League Pot\n",
+        f"- **Entry Fees**: ${total_entry_fees} (${fee_per_team} per team)",
+        f"- **Penalty Fees**: ${total_penalties}",
+        f"- **Total Pot**: ${pot_total}\n",
+        "\n### Payout Structure\n",
+        "- **Weekly High Score**: $5 per week (all weeks, including playoffs)",
+        f"- **Weekly High Score Total**: ${weekly_payouts}",
+        f"- **2nd Place**: ${runner_up} (buy-in back)",
+        f"- **1st Place**: ${champion_payout} (remainder + penalties)\n",
+        "\n*Last updated: " + datetime.now().strftime('%Y-%m-%d') + "*"
+    ]
+    
+    # Save payment data as JSON
+    os.makedirs("../assets/json/payments", exist_ok=True)
+    with open("../assets/json/payments/current_season.json", "w") as f:
+        json.dump(payment_data, f, indent=2)
+    
+    # Create the markdown page
+    os.makedirs("../_pages", exist_ok=True)
+    with open("../_pages/payments.md", "w") as f:
+        f.write("\n".join(content))
+    
+    print("Payment page generated successfully!")
+    print("IMPORTANT: You'll need to manually update the payment status and penalties in the JSON file at:")
+    print("../assets/json/payments/current_season.json")

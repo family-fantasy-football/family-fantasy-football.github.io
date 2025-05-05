@@ -20,6 +20,7 @@ import matplotlib.pyplot as plt
 from utils import *
 from fetch import *
 
+
 def generate_standings_table(league, through_week):
     def standings_table(league, through_week):
         standings_data = []
@@ -492,7 +493,8 @@ def create_standings_bump_json(teams, through_week):
         json.dump(echarts_option, f, indent=2)
     
     # return 'bump_chart_data.json'
-    
+ 
+   
     
 def generate_team_json(league, teams, box_scores_dict, week, trades, transactions):
     """Generate JSON files for each team's data"""
@@ -1396,7 +1398,8 @@ def create_position_chart_json(teams, through_week, box_scores):
 def create_whatif_analysis_json(teams, through_week):
     """Creates what-if analysis data"""
     whatif_data = []
-    
+    if through_week > 13:
+        through_week = 13
     for team in teams:
         total_wins, total_losses, weekly_records = calculate_what_if_record(team, through_week, teams)
         luck_factor = (total_wins - team.wins)/13  # Positive means lucky, negative means unlucky

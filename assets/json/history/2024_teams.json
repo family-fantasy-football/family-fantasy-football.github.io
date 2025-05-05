@@ -10,21 +10,21 @@
     "division_result": "TBD"
   },
   {
-    "team_name": "Hamlin My Business ",
-    "managers": "Kyle Hamlin",
+    "team_name": "Who Killed Charbonnet Ramsey?",
+    "managers": "Christian Ratcliff",
     "final_rank": 2,
     "record": "9-4",
-    "points": 1762.02,
+    "points": 1753.74,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
   },
   {
-    "team_name": "Who Killed Charbonnet Ramsey?",
-    "managers": "Christian Ratcliff",
+    "team_name": "Hamlin My Business ",
+    "managers": "Kyle Hamlin",
     "final_rank": 3,
     "record": "9-4",
-    "points": 1753.74,
+    "points": 1762.02,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -50,19 +50,9 @@
     "division_result": "TBD"
   },
   {
-    "team_name": "Hit and Ruggs",
-    "managers": "Ryan Ratcliff",
-    "final_rank": 6,
-    "record": "5-8",
-    "points": 1670.68,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
     "team_name": "Mama Daughter Duo",
     "managers": "Cathy Dickson and Jordan Dickson",
-    "final_rank": 7,
+    "final_rank": 6,
     "record": "5-8",
     "points": 1543.0,
     "playoff_result": "TBD",
@@ -70,11 +60,21 @@
     "division_result": "TBD"
   },
   {
-    "team_name": "Abbey Road to Victory",
-    "managers": "Abbey Hamlin and Christine Hamlin",
-    "final_rank": 8,
+    "team_name": "Hit and Ruggs",
+    "managers": "Ryan Ratcliff",
+    "final_rank": 7,
     "record": "5-8",
-    "points": 1438.72,
+    "points": 1670.68,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "Fantasy Guru Kayden",
+    "managers": "Kayden Mullins",
+    "final_rank": 8,
+    "record": "3-10",
+    "points": 1545.6,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -90,11 +90,11 @@
     "division_result": "TBD"
   },
   {
-    "team_name": "Fantasy Guru Kayden",
-    "managers": "Kayden Mullins",
+    "team_name": "Abbey Road to Victory",
+    "managers": "Abbey Hamlin and Christine Hamlin",
     "final_rank": 10,
-    "record": "3-10",
-    "points": 1545.6,
+    "record": "5-8",
+    "points": 1438.72,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"

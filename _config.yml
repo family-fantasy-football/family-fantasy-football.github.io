@@ -195,6 +195,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  archive:
+    output: true
+    permalink: /archive/:path/
 
 announcements:
   enabled: true

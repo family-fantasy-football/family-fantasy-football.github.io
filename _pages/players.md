@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Lamar Jackson (357.5 pts) owned by Who Killed Charbonnet Ramsey?
+* **QB:** Lamar Jackson (430.38 pts) owned by Who Killed Charbonnet Ramsey?
 
-* **RB:** Saquon Barkley (293.9 pts) owned by Michael's Managable Team
+* **RB:** Saquon Barkley (338.8 pts) owned by Michael's Managable Team
 
-* **WR:** Ja'Marr Chase (284.8 pts) owned by Who Killed Charbonnet Ramsey?
+* **WR:** Ja'Marr Chase (339.5 pts) owned by Who Killed Charbonnet Ramsey?
 
-* **TE:** Brock Bowers (167.2 pts) owned by Who Killed Charbonnet Ramsey?
+* **TE:** Brock Bowers (206.7 pts) owned by Who Killed Charbonnet Ramsey?
 
 
-Below are the top 10 performers at each position through Week 15.
+Below are the top 10 performers at each position through Week 17.
 
 
 
@@ -31,7 +31,6 @@ Below are the top 10 performers at each position through Week 15.
 
 <table
 data-click-to-select="true"
-data-height="635"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/players/top_qb_2024.json" }}">
@@ -52,7 +51,6 @@ data-url="{{ "/assets/json/players/top_qb_2024.json" }}">
 
 <table
 data-click-to-select="true"
-data-height="635"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/players/top_rb_2024.json" }}">
@@ -73,7 +71,6 @@ data-url="{{ "/assets/json/players/top_rb_2024.json" }}">
 
 <table
 data-click-to-select="true"
-data-height="635"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/players/top_wr_2024.json" }}">
@@ -94,7 +91,6 @@ data-url="{{ "/assets/json/players/top_wr_2024.json" }}">
 
 <table
 data-click-to-select="true"
-data-height="635"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/players/top_te_2024.json" }}">

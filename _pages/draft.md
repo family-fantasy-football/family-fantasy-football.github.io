@@ -14,7 +14,6 @@ pretty_table: True
 
 <table
 data-click-to-select="true"
-data-height="340"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/team_data/draft_best_2024.json" }}">
@@ -35,7 +34,6 @@ data-url="{{ "/assets/json/team_data/draft_best_2024.json" }}">
 
 <table
 data-click-to-select="true"
-data-height="340"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/team_data/draft_worst_2024.json" }}">

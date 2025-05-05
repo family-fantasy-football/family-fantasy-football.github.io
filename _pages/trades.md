@@ -24,7 +24,6 @@ pretty_table: True
 ### All Trades
 <table
 data-click-to-select="true"
-data-height="520"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/transactions/trades_2024.json"}}">

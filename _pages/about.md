@@ -27,15 +27,15 @@ chart:
 
 The current top scorer is: Kyle Hamlin (1762.02)
 
-The current top scorer is: Abbey Hamlin and Christine Hamlin (1438.72)
+The current bottom scorer is: Abbey Hamlin and Christine Hamlin (1438.72)
 
-Highest Scoring Week: Connor Dickson and Monika Monko - 366.24 points (Week 14)
+Highest Scoring Week: Kyle Hamlin - 180.62 points (Week 6)
 
 Lowest Scoring Week: Abbey Hamlin and Christine Hamlin - 73.28 points (Week 7)
 
-Luckiest Team: Cathy Dickson and Jordan Dickson (1.2) Wins Above Expected
+Luckiest Team: Abbey Hamlin and Christine Hamlin (0.9) Wins Above Expected
 
-Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
+Unluckiest Team: Ryan Ratcliff (-3.1) Wins Below Expected
 
 
 ### Current Standings:
@@ -94,7 +94,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17
         ]
     },
     "yAxis": {
@@ -133,7 +135,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 8,
                 8,
                 8,
-                8
+                9,
+                9,
+                9
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -169,7 +173,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 10,
                 10,
                 9,
-                9
+                10,
+                10,
+                10
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -205,7 +211,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 2,
                 2,
                 3,
-                3
+                2,
+                2,
+                2
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -241,7 +249,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 6,
                 6,
                 7,
-                7
+                6,
+                6,
+                6
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -277,7 +287,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 7,
                 7,
                 6,
-                6
+                7,
+                7,
+                7
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -313,7 +325,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 9,
                 9,
                 10,
-                10
+                8,
+                8,
+                8
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -346,6 +360,8 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 1,
                 1,
                 2,
+                1,
+                1,
                 1,
                 1,
                 1,
@@ -385,7 +401,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 5,
                 5,
                 5,
-                5
+                4,
+                4,
+                4
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -421,7 +439,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 4,
                 4,
                 4,
-                4
+                5,
+                5,
+                5
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -457,7 +477,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 3,
                 3,
                 2,
-                2
+                3,
+                3,
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -494,16 +516,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": 1479.0,
-        "max": 2277.0
+        "min": 1686.0,
+        "max": 2580.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": 1479.0,
-        "max": 2277.0
+        "min": 1686.0,
+        "max": 2580.0
     },
     "series": [
         {
@@ -514,71 +536,71 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 {
                     "name": "Who Killed Charbonnet Ramsey?",
                     "value": [
-                        2031.08,
-                        1891.3
+                        2329.02,
+                        2194.86
                     ]
                 },
                 {
                     "name": "Pink Pony Club",
                     "value": [
-                        2126.7,
-                        1944.68
+                        2430.26,
+                        2242.62
                     ]
                 },
                 {
                     "name": "Tom and Jerry",
                     "value": [
-                        1914.84,
-                        1889.82
+                        2210.42,
+                        2227.18
                     ]
                 },
                 {
                     "name": "Hit and Ruggs",
                     "value": [
-                        1900.34,
-                        2013.04
+                        2123.06,
+                        2226.98
                     ]
                 },
                 {
                     "name": "Michael's Managable Team",
                     "value": [
-                        1785.5,
-                        1994.16
+                        2025.72,
+                        2201.18
                     ]
                 },
                 {
                     "name": "To Infinity and Bijan!",
                     "value": [
-                        1769.64,
-                        1779.06
+                        2026.94,
+                        1994.68
                     ]
                 },
                 {
                     "name": "Fantasy Guru Kayden",
                     "value": [
-                        1796.84,
-                        1821.64
+                        2010.78,
+                        2044.36
                     ]
                 },
                 {
                     "name": "Mama Daughter Duo",
                     "value": [
-                        1759.34,
-                        1804.56
+                        1974.96,
+                        2061.86
                     ]
                 },
                 {
                     "name": "Abbey Road to Victory",
                     "value": [
-                        1629.38,
-                        1729.52
+                        1836.4,
+                        1969.74
                     ]
                 },
                 {
                     "name": "Hamlin My Business ",
                     "value": [
-                        2006.4,
-                        1852.28
+                        2343.76,
+                        2147.86
                     ]
                 }
             ],
@@ -598,12 +620,12 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "showSymbol": false,
             "data": [
                 [
-                    1479.0,
-                    1479.0
+                    1686.0,
+                    1686.0
                 ],
                 [
-                    2277.0,
-                    2277.0
+                    2580.0,
+                    2580.0
                 ]
             ]
         },
@@ -614,14 +636,14 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 1872.01,
+                        "xAxis": 2131.13,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 1872.01,
+                        "yAxis": 2131.13,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -678,74 +700,74 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "type": "boxplot",
             "data": [
                 [
-                    95.5,
-                    127.06,
+                    111.46,
+                    129.16,
                     136.96,
-                    148.1,
-                    179.66
+                    140.96,
+                    158.66
                 ],
                 [
-                    88.18,
-                    121.77,
+                    112.23,
+                    127.74,
                     135.4,
-                    144.16,
-                    177.75
+                    138.08,
+                    153.59
                 ],
                 [
-                    47.96,
-                    113.64,
+                    82.34,
+                    118.0,
                     136.88,
-                    157.43,
-                    223.12
+                    154.8,
+                    178.88
                 ],
                 [
-                    57.0,
-                    107.31,
+                    89.6,
+                    110.24,
                     116.56,
-                    140.85,
-                    191.16
+                    140.06,
+                    161.92
                 ],
                 [
-                    19.06,
-                    91.35,
+                    77.8,
+                    91.56,
                     120.46,
-                    139.54,
-                    211.83
+                    137.62,
+                    143.7
                 ],
                 [
-                    62.82,
-                    112.97,
+                    80.02,
+                    113.9,
                     127.2,
-                    146.4,
-                    196.54
+                    143.0,
+                    171.72
                 ],
                 [
-                    66.64,
-                    106.35,
+                    90.74,
+                    106.68,
                     117.3,
-                    132.82,
-                    172.52
+                    132.48,
+                    139.8
                 ],
                 [
-                    24.16,
-                    89.74,
+                    73.28,
+                    96.58,
                     98.98,
-                    133.46,
-                    190.66
+                    128.98,
+                    161.64
                 ],
                 [
-                    52.74,
-                    107.31,
+                    85.74,
+                    108.8,
                     119.4,
-                    143.69,
-                    190.2
+                    143.22,
+                    159.98
                 ],
                 [
-                    65.75,
-                    103.1,
+                    98.46,
+                    106.3,
                     115.94,
-                    128.0,
-                    165.35
+                    127.48,
+                    159.25
                 ]
             ],
             "itemStyle": {
@@ -822,16 +844,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "PONY"
                 ],
                 [
-                    0,
-                    366.24,
-                    "PONY"
-                ],
-                [
-                    0,
-                    0.0,
-                    "PONY"
-                ],
-                [
                     1,
                     115.8,
                     "HMB"
@@ -894,16 +906,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     1,
                     138.08,
-                    "HMB"
-                ],
-                [
-                    1,
-                    244.38,
-                    "HMB"
-                ],
-                [
-                    1,
-                    0.0,
                     "HMB"
                 ],
                 [
@@ -972,16 +974,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "WKCR"
                 ],
                 [
-                    2,
-                    277.34,
-                    "WKCR"
-                ],
-                [
-                    2,
-                    0.0,
-                    "WKCR"
-                ],
-                [
                     3,
                     110.24,
                     "TOM"
@@ -1044,16 +1036,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     3,
                     141.64,
-                    "TOM"
-                ],
-                [
-                    3,
-                    307.18,
-                    "TOM"
-                ],
-                [
-                    3,
-                    0.0,
                     "TOM"
                 ],
                 [
@@ -1122,16 +1104,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "TIB"
                 ],
                 [
-                    4,
-                    255.56,
-                    "TIB"
-                ],
-                [
-                    4,
-                    0.0,
-                    "TIB"
-                ],
-                [
                     5,
                     127.2,
                     "RRT"
@@ -1194,16 +1166,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     5,
                     125.58,
-                    "RRT"
-                ],
-                [
-                    5,
-                    229.66,
-                    "RRT"
-                ],
-                [
-                    5,
-                    0.0,
                     "RRT"
                 ],
                 [
@@ -1272,16 +1234,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "JST"
                 ],
                 [
-                    6,
-                    216.34,
-                    "JST"
-                ],
-                [
-                    6,
-                    0.0,
-                    "JST"
-                ],
-                [
                     7,
                     112.38,
                     "ARV"
@@ -1344,16 +1296,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     7,
                     82.9,
-                    "ARV"
-                ],
-                [
-                    7,
-                    190.66,
-                    "ARV"
-                ],
-                [
-                    7,
-                    0.0,
                     "ARV"
                 ],
                 [
@@ -1422,16 +1364,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "MMT"
                 ],
                 [
-                    8,
-                    190.2,
-                    "MMT"
-                ],
-                [
-                    8,
-                    0.0,
-                    "MMT"
-                ],
-                [
                     9,
                     115.94,
                     "KTT"
@@ -1494,16 +1426,6 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     9,
                     162.8,
-                    "KTT"
-                ],
-                [
-                    9,
-                    251.24,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
                     "KTT"
                 ]
             ]
@@ -1611,17 +1533,17 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     3,
                     0,
-                    2
+                    3
                 ],
                 [
                     0,
                     1,
-                    3
+                    2
                 ],
                 [
                     1,
                     1,
-                    4
+                    7
                 ],
                 [
                     2,
@@ -1631,17 +1553,17 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     3,
                     1,
-                    4
+                    2
                 ],
                 [
                     0,
                     2,
-                    2
+                    3
                 ],
                 [
                     1,
                     2,
-                    7
+                    5
                 ],
                 [
                     2,
@@ -1666,7 +1588,7 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     2,
                     3,
-                    6
+                    7
                 ],
                 [
                     3,
@@ -1681,17 +1603,17 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     1,
                     4,
-                    6
+                    4
                 ],
                 [
                     2,
                     4,
-                    8
+                    9
                 ],
                 [
                     3,
                     4,
-                    5
+                    4
                 ],
                 [
                     0,
@@ -1701,7 +1623,7 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     1,
                     5,
-                    5
+                    6
                 ],
                 [
                     2,
@@ -1711,7 +1633,7 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     3,
                     5,
-                    3
+                    5
                 ],
                 [
                     0,
@@ -1721,7 +1643,7 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     1,
                     6,
-                    8
+                    9
                 ],
                 [
                     2,
@@ -1731,7 +1653,7 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     3,
                     6,
-                    8
+                    7
                 ],
                 [
                     0,
@@ -1746,12 +1668,12 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     2,
                     7,
-                    9
+                    6
                 ],
                 [
                     3,
                     7,
-                    9
+                    8
                 ],
                 [
                     0,
@@ -1781,17 +1703,17 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     1,
                     9,
-                    9
+                    8
                 ],
                 [
                     2,
                     9,
-                    7
+                    8
                 ],
                 [
                     3,
                     9,
-                    7
+                    9
                 ]
             ],
             "label": {
@@ -1834,7 +1756,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -1853,12 +1777,12 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "ARV",
             "RRT",
             "WKCR",
-            "MMT",
             "TIB",
+            "MMT",
             "JST",
             "HMB",
-            "TOM",
-            "PONY"
+            "PONY",
+            "TOM"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1968,6 +1892,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     10
                 ],
                 [
+                    15,
+                    0,
+                    9
+                ],
+                [
+                    16,
+                    0,
+                    4
+                ],
+                [
                     0,
                     1,
                     10
@@ -2043,6 +1977,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     6
                 ],
                 [
+                    15,
+                    1,
+                    9
+                ],
+                [
+                    16,
+                    1,
+                    7
+                ],
+                [
                     0,
                     2,
                     4
@@ -2118,6 +2062,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     7
                 ],
                 [
+                    15,
+                    2,
+                    5
+                ],
+                [
+                    16,
+                    2,
+                    8
+                ],
+                [
                     0,
                     3,
                     9
@@ -2193,154 +2147,184 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     9
                 ],
                 [
-                    0,
-                    4,
-                    6
-                ],
-                [
-                    1,
-                    4,
-                    3
-                ],
-                [
-                    2,
-                    4,
-                    1
-                ],
-                [
+                    15,
                     3,
+                    2
+                ],
+                [
+                    16,
+                    3,
+                    9
+                ],
+                [
+                    0,
                     4,
                     5
                 ],
                 [
+                    1,
+                    4,
+                    6
+                ],
+                [
+                    2,
+                    4,
+                    8
+                ],
+                [
+                    3,
+                    4,
+                    6
+                ],
+                [
                     4,
                     4,
-                    9
+                    5
                 ],
                 [
                     5,
+                    4,
+                    7
+                ],
+                [
+                    6,
+                    4,
+                    5
+                ],
+                [
+                    7,
+                    4,
+                    4
+                ],
+                [
+                    8,
+                    4,
+                    2
+                ],
+                [
+                    9,
                     4,
                     10
                 ],
                 [
-                    6,
-                    4,
-                    10
-                ],
-                [
-                    7,
-                    4,
-                    8
-                ],
-                [
-                    8,
-                    4,
-                    8
-                ],
-                [
-                    9,
-                    4,
-                    3
-                ],
-                [
                     10,
-                    4,
-                    2
-                ],
-                [
-                    11,
-                    4,
-                    5
-                ],
-                [
-                    12,
                     4,
                     9
                 ],
                 [
-                    13,
+                    11,
                     4,
                     6
+                ],
+                [
+                    12,
+                    4,
+                    2
+                ],
+                [
+                    13,
+                    4,
+                    4
                 ],
                 [
                     14,
                     4,
-                    4
+                    5
+                ],
+                [
+                    15,
+                    4,
+                    8
+                ],
+                [
+                    16,
+                    4,
+                    5
                 ],
                 [
                     0,
                     5,
-                    5
+                    6
                 ],
                 [
                     1,
                     5,
-                    6
+                    3
                 ],
                 [
                     2,
                     5,
-                    8
+                    1
                 ],
                 [
                     3,
                     5,
-                    6
+                    5
                 ],
                 [
                     4,
                     5,
-                    5
+                    9
                 ],
                 [
                     5,
-                    5,
-                    7
-                ],
-                [
-                    6,
-                    5,
-                    5
-                ],
-                [
-                    7,
-                    5,
-                    4
-                ],
-                [
-                    8,
-                    5,
-                    2
-                ],
-                [
-                    9,
                     5,
                     10
                 ],
                 [
+                    6,
+                    5,
+                    10
+                ],
+                [
+                    7,
+                    5,
+                    8
+                ],
+                [
+                    8,
+                    5,
+                    8
+                ],
+                [
+                    9,
+                    5,
+                    3
+                ],
+                [
                     10,
-                    5,
-                    9
-                ],
-                [
-                    11,
-                    5,
-                    6
-                ],
-                [
-                    12,
                     5,
                     2
                 ],
                 [
+                    11,
+                    5,
+                    5
+                ],
+                [
+                    12,
+                    5,
+                    9
+                ],
+                [
                     13,
                     5,
-                    4
+                    6
                 ],
                 [
                     14,
                     5,
-                    5
+                    4
+                ],
+                [
+                    15,
+                    5,
+                    4
+                ],
+                [
+                    16,
+                    5,
+                    3
                 ],
                 [
                     0,
@@ -2418,6 +2402,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     3
                 ],
                 [
+                    15,
+                    6,
+                    7
+                ],
+                [
+                    16,
+                    6,
+                    10
+                ],
+                [
                     0,
                     7,
                     8
@@ -2493,154 +2487,184 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     8
                 ],
                 [
+                    15,
+                    7,
+                    6
+                ],
+                [
+                    16,
+                    7,
+                    2
+                ],
+                [
                     0,
                     8,
-                    3
+                    1
                 ],
                 [
                     1,
                     8,
-                    1
+                    5
                 ],
                 [
                     2,
                     8,
-                    9
+                    2
                 ],
                 [
                     3,
                     8,
-                    1
+                    2
                 ],
                 [
                     4,
                     8,
-                    3
+                    6
                 ],
                 [
                     5,
                     8,
-                    2
+                    4
                 ],
                 [
                     6,
                     8,
-                    1
+                    9
                 ],
                 [
                     7,
                     8,
-                    5
+                    6
                 ],
                 [
                     8,
                     8,
-                    9
+                    1
                 ],
                 [
                     9,
                     8,
-                    6
+                    7
                 ],
                 [
                     10,
                     8,
-                    4
+                    7
                 ],
                 [
                     11,
                     8,
-                    4
+                    1
                 ],
                 [
                     12,
                     8,
+                    1
+                ],
+                [
+                    13,
+                    8,
+                    5
+                ],
+                [
+                    14,
+                    8,
+                    2
+                ],
+                [
+                    15,
+                    8,
+                    1
+                ],
+                [
+                    16,
+                    8,
+                    6
+                ],
+                [
+                    0,
+                    9,
+                    3
+                ],
+                [
+                    1,
+                    9,
+                    1
+                ],
+                [
+                    2,
+                    9,
+                    9
+                ],
+                [
+                    3,
+                    9,
+                    1
+                ],
+                [
+                    4,
+                    9,
+                    3
+                ],
+                [
+                    5,
+                    9,
+                    2
+                ],
+                [
+                    6,
+                    9,
+                    1
+                ],
+                [
+                    7,
+                    9,
+                    5
+                ],
+                [
+                    8,
+                    9,
+                    9
+                ],
+                [
+                    9,
+                    9,
+                    6
+                ],
+                [
+                    10,
+                    9,
+                    4
+                ],
+                [
+                    11,
+                    9,
+                    4
+                ],
+                [
+                    12,
+                    9,
                     8
                 ],
                 [
                     13,
-                    8,
+                    9,
                     3
                 ],
                 [
                     14,
-                    8,
-                    1
-                ],
-                [
-                    0,
                     9,
                     1
                 ],
                 [
-                    1,
+                    15,
                     9,
-                    5
+                    3
                 ],
                 [
-                    2,
-                    9,
-                    2
-                ],
-                [
-                    3,
-                    9,
-                    2
-                ],
-                [
-                    4,
-                    9,
-                    6
-                ],
-                [
-                    5,
-                    9,
-                    4
-                ],
-                [
-                    6,
-                    9,
-                    9
-                ],
-                [
-                    7,
-                    9,
-                    6
-                ],
-                [
-                    8,
+                    16,
                     9,
                     1
-                ],
-                [
-                    9,
-                    9,
-                    7
-                ],
-                [
-                    10,
-                    9,
-                    7
-                ],
-                [
-                    11,
-                    9,
-                    1
-                ],
-                [
-                    12,
-                    9,
-                    1
-                ],
-                [
-                    13,
-                    9,
-                    5
-                ],
-                [
-                    14,
-                    9,
-                    2
                 ]
             ],
             "label": {
@@ -2679,7 +2703,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2696,9 +2722,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
         "data": [
             "WKCR",
             "TIB",
-            "TOM",
-            "RRT",
             "MMT",
+            "RRT",
+            "TOM",
             "ARV",
             "HMB",
             "JST",
@@ -2813,6 +2839,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     8
                 ],
                 [
+                    15,
+                    0,
+                    8
+                ],
+                [
+                    16,
+                    0,
+                    3
+                ],
+                [
                     0,
                     1,
                     9
@@ -2888,79 +2924,99 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     7
                 ],
                 [
+                    15,
+                    1,
+                    7
+                ],
+                [
+                    16,
+                    1,
+                    7
+                ],
+                [
                     0,
                     2,
-                    8
+                    2
                 ],
                 [
                     1,
                     2,
-                    10
+                    3
                 ],
                 [
                     2,
                     2,
-                    4
+                    9
                 ],
                 [
                     3,
                     2,
-                    6
+                    8
                 ],
                 [
                     4,
                     2,
-                    10
+                    2
                 ],
                 [
                     5,
                     2,
-                    5
+                    7
                 ],
                 [
                     6,
                     2,
-                    10
+                    5
                 ],
                 [
                     7,
                     2,
-                    6
+                    2
                 ],
                 [
                     8,
                     2,
-                    4
+                    2
                 ],
                 [
                     9,
                     2,
-                    10
+                    8
                 ],
                 [
                     10,
                     2,
-                    2
+                    1
                 ],
                 [
                     11,
                     2,
-                    8
+                    9
                 ],
                 [
                     12,
                     2,
-                    3
+                    10
                 ],
                 [
                     13,
                     2,
-                    2
+                    8
                 ],
                 [
                     14,
                     2,
-                    1
+                    10
+                ],
+                [
+                    15,
+                    2,
+                    10
+                ],
+                [
+                    16,
+                    2,
+                    8
                 ],
                 [
                     0,
@@ -3038,307 +3094,357 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     4
                 ],
                 [
-                    0,
-                    4,
-                    2
-                ],
-                [
-                    1,
-                    4,
-                    3
-                ],
-                [
-                    2,
-                    4,
-                    9
-                ],
-                [
+                    15,
                     3,
-                    4,
-                    8
-                ],
-                [
-                    4,
-                    4,
-                    2
-                ],
-                [
-                    5,
-                    4,
-                    7
-                ],
-                [
-                    6,
-                    4,
-                    5
-                ],
-                [
-                    7,
-                    4,
-                    2
-                ],
-                [
-                    8,
-                    4,
-                    2
-                ],
-                [
-                    9,
-                    4,
-                    8
-                ],
-                [
-                    10,
-                    4,
-                    1
-                ],
-                [
-                    11,
-                    4,
                     9
                 ],
                 [
-                    12,
-                    4,
-                    10
-                ],
-                [
-                    13,
-                    4,
-                    8
-                ],
-                [
-                    14,
-                    4,
-                    10
-                ],
-                [
-                    0,
-                    5,
-                    6
-                ],
-                [
-                    1,
-                    5,
-                    4
-                ],
-                [
-                    2,
-                    5,
-                    2
-                ],
-                [
+                    16,
                     3,
-                    5,
-                    4
-                ],
-                [
-                    4,
-                    5,
-                    5
-                ],
-                [
-                    5,
-                    5,
-                    4
-                ],
-                [
-                    6,
-                    5,
-                    4
-                ],
-                [
-                    7,
-                    5,
-                    9
-                ],
-                [
-                    8,
-                    5,
-                    9
-                ],
-                [
-                    9,
-                    5,
-                    6
-                ],
-                [
-                    10,
-                    5,
-                    7
-                ],
-                [
-                    11,
-                    5,
-                    1
-                ],
-                [
-                    12,
-                    5,
-                    8
-                ],
-                [
-                    13,
-                    5,
-                    6
-                ],
-                [
-                    14,
-                    5,
-                    9
-                ],
-                [
-                    0,
-                    6,
-                    10
-                ],
-                [
-                    1,
-                    6,
-                    7
-                ],
-                [
-                    2,
-                    6,
-                    1
-                ],
-                [
-                    3,
-                    6,
-                    7
-                ],
-                [
-                    4,
-                    6,
-                    8
-                ],
-                [
-                    5,
-                    6,
-                    2
-                ],
-                [
-                    6,
-                    6,
-                    9
-                ],
-                [
-                    7,
-                    6,
-                    1
-                ],
-                [
-                    8,
-                    6,
-                    5
-                ],
-                [
-                    9,
-                    6,
-                    5
-                ],
-                [
-                    10,
-                    6,
-                    8
-                ],
-                [
-                    11,
-                    6,
-                    2
-                ],
-                [
-                    12,
-                    6,
-                    6
-                ],
-                [
-                    13,
-                    6,
-                    4
-                ],
-                [
-                    14,
-                    6,
-                    2
-                ],
-                [
-                    0,
-                    7,
-                    1
-                ],
-                [
-                    1,
-                    7,
-                    2
-                ],
-                [
-                    2,
-                    7,
-                    6
-                ],
-                [
-                    3,
-                    7,
-                    1
-                ],
-                [
-                    4,
-                    7,
-                    6
-                ],
-                [
-                    5,
-                    7,
-                    9
-                ],
-                [
-                    6,
-                    7,
-                    1
-                ],
-                [
-                    7,
-                    7,
-                    10
-                ],
-                [
-                    8,
-                    7,
-                    10
-                ],
-                [
-                    9,
-                    7,
-                    1
-                ],
-                [
-                    10,
-                    7,
-                    4
-                ],
-                [
-                    11,
-                    7,
-                    3
-                ],
-                [
-                    12,
-                    7,
-                    9
-                ],
-                [
-                    13,
-                    7,
-                    3
-                ],
-                [
-                    14,
-                    7,
                     5
                 ],
                 [
                     0,
+                    4,
+                    8
+                ],
+                [
+                    1,
+                    4,
+                    10
+                ],
+                [
+                    2,
+                    4,
+                    4
+                ],
+                [
+                    3,
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    4,
+                    10
+                ],
+                [
+                    5,
+                    4,
+                    5
+                ],
+                [
+                    6,
+                    4,
+                    10
+                ],
+                [
+                    7,
+                    4,
+                    6
+                ],
+                [
+                    8,
+                    4,
+                    4
+                ],
+                [
+                    9,
+                    4,
+                    10
+                ],
+                [
+                    10,
+                    4,
+                    2
+                ],
+                [
+                    11,
+                    4,
+                    8
+                ],
+                [
+                    12,
+                    4,
+                    3
+                ],
+                [
+                    13,
+                    4,
+                    2
+                ],
+                [
+                    14,
+                    4,
+                    1
+                ],
+                [
+                    15,
+                    4,
+                    3
+                ],
+                [
+                    16,
+                    4,
+                    9
+                ],
+                [
+                    0,
+                    5,
+                    6
+                ],
+                [
+                    1,
+                    5,
+                    4
+                ],
+                [
+                    2,
+                    5,
+                    2
+                ],
+                [
+                    3,
+                    5,
+                    4
+                ],
+                [
+                    4,
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    5,
+                    4
+                ],
+                [
+                    6,
+                    5,
+                    4
+                ],
+                [
+                    7,
+                    5,
+                    9
+                ],
+                [
+                    8,
+                    5,
+                    9
+                ],
+                [
+                    9,
+                    5,
+                    6
+                ],
+                [
+                    10,
+                    5,
+                    7
+                ],
+                [
+                    11,
+                    5,
+                    1
+                ],
+                [
+                    12,
+                    5,
+                    8
+                ],
+                [
+                    13,
+                    5,
+                    6
+                ],
+                [
+                    14,
+                    5,
+                    9
+                ],
+                [
+                    15,
+                    5,
+                    4
+                ],
+                [
+                    16,
+                    5,
+                    6
+                ],
+                [
+                    0,
+                    6,
+                    10
+                ],
+                [
+                    1,
+                    6,
+                    7
+                ],
+                [
+                    2,
+                    6,
+                    1
+                ],
+                [
+                    3,
+                    6,
+                    7
+                ],
+                [
+                    4,
+                    6,
+                    8
+                ],
+                [
+                    5,
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    6,
+                    9
+                ],
+                [
+                    7,
+                    6,
+                    1
+                ],
+                [
+                    8,
+                    6,
+                    5
+                ],
+                [
+                    9,
+                    6,
+                    5
+                ],
+                [
+                    10,
+                    6,
+                    8
+                ],
+                [
+                    11,
+                    6,
+                    2
+                ],
+                [
+                    12,
+                    6,
+                    6
+                ],
+                [
+                    13,
+                    6,
+                    4
+                ],
+                [
+                    14,
+                    6,
+                    2
+                ],
+                [
+                    15,
+                    6,
+                    6
+                ],
+                [
+                    16,
+                    6,
+                    2
+                ],
+                [
+                    0,
+                    7,
+                    1
+                ],
+                [
+                    1,
+                    7,
+                    2
+                ],
+                [
+                    2,
+                    7,
+                    6
+                ],
+                [
+                    3,
+                    7,
+                    1
+                ],
+                [
+                    4,
+                    7,
+                    6
+                ],
+                [
+                    5,
+                    7,
+                    9
+                ],
+                [
+                    6,
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    7,
+                    10
+                ],
+                [
+                    8,
+                    7,
+                    10
+                ],
+                [
+                    9,
+                    7,
+                    1
+                ],
+                [
+                    10,
+                    7,
+                    4
+                ],
+                [
+                    11,
+                    7,
+                    3
+                ],
+                [
+                    12,
+                    7,
+                    9
+                ],
+                [
+                    13,
+                    7,
+                    3
+                ],
+                [
+                    14,
+                    7,
+                    5
+                ],
+                [
+                    15,
+                    7,
+                    1
+                ],
+                [
+                    16,
+                    7,
+                    10
+                ],
+                [
+                    0,
                     8,
                     5
                 ],
@@ -3411,6 +3517,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     14,
                     8,
                     6
+                ],
+                [
+                    15,
+                    8,
+                    5
+                ],
+                [
+                    16,
+                    8,
+                    4
                 ],
                 [
                     0,
@@ -3486,6 +3602,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     14,
                     9,
                     3
+                ],
+                [
+                    15,
+                    9,
+                    2
+                ],
+                [
+                    16,
+                    9,
+                    1
                 ]
             ],
             "label": {
@@ -3524,7 +3650,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -3540,12 +3668,12 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
         "type": "category",
         "data": [
             "MMT",
-            "TOM",
-            "WKCR",
             "ARV",
-            "HMB",
+            "WKCR",
+            "TOM",
             "TIB",
             "KTT",
+            "HMB",
             "RRT",
             "PONY",
             "JST"
@@ -3658,607 +3786,697 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     8
                 ],
                 [
+                    15,
                     0,
-                    1,
-                    4
-                ],
-                [
-                    1,
-                    1,
-                    1
-                ],
-                [
-                    2,
-                    1,
-                    7
-                ],
-                [
-                    3,
-                    1,
-                    8
-                ],
-                [
-                    4,
-                    1,
-                    10
-                ],
-                [
-                    5,
-                    1,
-                    10
-                ],
-                [
-                    6,
-                    1,
-                    5
-                ],
-                [
-                    7,
-                    1,
-                    4
-                ],
-                [
-                    8,
-                    1,
-                    10
-                ],
-                [
-                    9,
-                    1,
-                    7
-                ],
-                [
-                    10,
-                    1,
                     6
                 ],
                 [
-                    11,
-                    1,
-                    7
-                ],
-                [
-                    12,
-                    1,
-                    8
-                ],
-                [
-                    13,
-                    1,
-                    2
-                ],
-                [
-                    14,
-                    1,
-                    7
-                ],
-                [
+                    16,
                     0,
-                    2,
-                    7
-                ],
-                [
-                    1,
-                    2,
-                    9
-                ],
-                [
-                    2,
-                    2,
-                    3
-                ],
-                [
-                    3,
-                    2,
-                    7
-                ],
-                [
-                    4,
-                    2,
-                    5
-                ],
-                [
-                    5,
-                    2,
-                    1
-                ],
-                [
-                    6,
-                    2,
-                    6
-                ],
-                [
-                    7,
-                    2,
-                    6
-                ],
-                [
-                    8,
-                    2,
-                    7
-                ],
-                [
-                    9,
-                    2,
-                    10
-                ],
-                [
-                    10,
-                    2,
-                    2
-                ],
-                [
-                    11,
-                    2,
-                    8
-                ],
-                [
-                    12,
-                    2,
-                    9
-                ],
-                [
-                    13,
-                    2,
-                    6
-                ],
-                [
-                    14,
-                    2,
-                    9
-                ],
-                [
-                    0,
-                    3,
-                    5
-                ],
-                [
-                    1,
-                    3,
-                    9
-                ],
-                [
-                    2,
-                    3,
-                    5
-                ],
-                [
-                    3,
-                    3,
-                    10
-                ],
-                [
-                    4,
-                    3,
-                    8
-                ],
-                [
-                    5,
-                    3,
-                    9
-                ],
-                [
-                    6,
-                    3,
-                    4
-                ],
-                [
-                    7,
-                    3,
-                    1
-                ],
-                [
-                    8,
-                    3,
-                    1
-                ],
-                [
-                    9,
-                    3,
-                    9
-                ],
-                [
-                    10,
-                    3,
-                    9
-                ],
-                [
-                    11,
-                    3,
-                    9
-                ],
-                [
-                    12,
-                    3,
-                    4
-                ],
-                [
-                    13,
-                    3,
-                    7
-                ],
-                [
-                    14,
-                    3,
-                    5
-                ],
-                [
-                    0,
-                    4,
-                    2
-                ],
-                [
-                    1,
-                    4,
-                    2
-                ],
-                [
-                    2,
-                    4,
-                    10
-                ],
-                [
-                    3,
-                    4,
-                    1
-                ],
-                [
-                    4,
-                    4,
-                    1
-                ],
-                [
-                    5,
-                    4,
-                    3
-                ],
-                [
-                    6,
-                    4,
-                    9
-                ],
-                [
-                    7,
-                    4,
-                    10
-                ],
-                [
-                    8,
-                    4,
-                    9
-                ],
-                [
-                    9,
-                    4,
-                    6
-                ],
-                [
-                    10,
-                    4,
-                    8
-                ],
-                [
-                    11,
-                    4,
-                    5
-                ],
-                [
-                    12,
-                    4,
-                    5
-                ],
-                [
-                    13,
-                    4,
-                    10
-                ],
-                [
-                    14,
-                    4,
                     4
                 ],
                 [
                     0,
-                    5,
-                    6
-                ],
-                [
                     1,
-                    5,
-                    6
-                ],
-                [
-                    2,
-                    5,
-                    9
-                ],
-                [
-                    3,
-                    5,
-                    3
-                ],
-                [
-                    4,
-                    5,
-                    3
-                ],
-                [
-                    5,
-                    5,
-                    4
-                ],
-                [
-                    6,
-                    5,
-                    8
-                ],
-                [
-                    7,
-                    5,
-                    8
-                ],
-                [
-                    8,
-                    5,
-                    4
-                ],
-                [
-                    9,
-                    5,
-                    3
-                ],
-                [
-                    10,
-                    5,
-                    3
-                ],
-                [
-                    11,
-                    5,
-                    10
-                ],
-                [
-                    12,
-                    5,
-                    10
-                ],
-                [
-                    13,
-                    5,
                     5
                 ],
                 [
-                    14,
-                    5,
-                    2
-                ],
-                [
-                    0,
-                    6,
-                    3
-                ],
-                [
                     1,
-                    6,
-                    4
+                    1,
+                    9
                 ],
                 [
                     2,
-                    6,
-                    4
-                ],
-                [
-                    3,
-                    6,
+                    1,
                     5
                 ],
                 [
-                    4,
-                    6,
-                    6
-                ],
-                [
-                    5,
-                    6,
-                    7
-                ],
-                [
-                    6,
-                    6,
+                    3,
+                    1,
                     10
                 ],
                 [
-                    7,
-                    6,
-                    5
+                    4,
+                    1,
+                    8
                 ],
                 [
-                    8,
-                    6,
-                    3
+                    5,
+                    1,
+                    9
                 ],
                 [
-                    9,
                     6,
+                    1,
                     4
                 ],
                 [
+                    7,
+                    1,
+                    1
+                ],
+                [
+                    8,
+                    1,
+                    1
+                ],
+                [
+                    9,
+                    1,
+                    9
+                ],
+                [
                     10,
-                    6,
+                    1,
+                    9
+                ],
+                [
+                    11,
+                    1,
+                    9
+                ],
+                [
+                    12,
+                    1,
+                    4
+                ],
+                [
+                    13,
+                    1,
+                    7
+                ],
+                [
+                    14,
+                    1,
+                    5
+                ],
+                [
+                    15,
+                    1,
                     10
                 ],
                 [
-                    11,
-                    6,
-                    4
-                ],
-                [
-                    12,
-                    6,
-                    3
-                ],
-                [
-                    13,
-                    6,
-                    8
-                ],
-                [
-                    14,
-                    6,
-                    6
-                ],
-                [
-                    0,
-                    7,
-                    8
-                ],
-                [
+                    16,
                     1,
-                    7,
-                    7
-                ],
-                [
-                    2,
-                    7,
-                    2
-                ],
-                [
-                    3,
-                    7,
-                    9
-                ],
-                [
-                    4,
-                    7,
-                    4
-                ],
-                [
-                    5,
-                    7,
-                    5
-                ],
-                [
-                    6,
-                    7,
-                    3
-                ],
-                [
-                    7,
-                    7,
-                    2
-                ],
-                [
-                    8,
-                    7,
-                    2
-                ],
-                [
-                    9,
-                    7,
-                    2
-                ],
-                [
-                    10,
-                    7,
-                    1
-                ],
-                [
-                    11,
-                    7,
-                    3
-                ],
-                [
-                    12,
-                    7,
-                    7
-                ],
-                [
-                    13,
-                    7,
-                    4
-                ],
-                [
-                    14,
-                    7,
-                    9
-                ],
-                [
-                    0,
-                    8,
-                    9
-                ],
-                [
-                    1,
-                    8,
-                    8
-                ],
-                [
-                    2,
-                    8,
-                    6
-                ],
-                [
-                    3,
-                    8,
-                    4
-                ],
-                [
-                    4,
-                    8,
-                    2
-                ],
-                [
-                    5,
-                    8,
-                    8
-                ],
-                [
-                    6,
-                    8,
-                    1
-                ],
-                [
-                    7,
-                    8,
-                    3
-                ],
-                [
-                    8,
-                    8,
-                    8
-                ],
-                [
-                    9,
-                    8,
-                    1
-                ],
-                [
-                    10,
-                    8,
-                    7
-                ],
-                [
-                    11,
-                    8,
-                    2
-                ],
-                [
-                    12,
-                    8,
-                    1
-                ],
-                [
-                    13,
-                    8,
-                    3
-                ],
-                [
-                    14,
-                    8,
                     1
                 ],
                 [
                     0,
+                    2,
+                    7
+                ],
+                [
+                    1,
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    2,
+                    3
+                ],
+                [
+                    3,
+                    2,
+                    7
+                ],
+                [
+                    4,
+                    2,
+                    5
+                ],
+                [
+                    5,
+                    2,
+                    1
+                ],
+                [
+                    6,
+                    2,
+                    6
+                ],
+                [
+                    7,
+                    2,
+                    6
+                ],
+                [
+                    8,
+                    2,
+                    7
+                ],
+                [
+                    9,
+                    2,
+                    10
+                ],
+                [
+                    10,
+                    2,
+                    2
+                ],
+                [
+                    11,
+                    2,
+                    8
+                ],
+                [
+                    12,
+                    2,
+                    9
+                ],
+                [
+                    13,
+                    2,
+                    6
+                ],
+                [
+                    14,
+                    2,
+                    9
+                ],
+                [
+                    15,
+                    2,
+                    3
+                ],
+                [
+                    16,
+                    2,
+                    6
+                ],
+                [
+                    0,
+                    3,
+                    4
+                ],
+                [
+                    1,
+                    3,
+                    1
+                ],
+                [
+                    2,
+                    3,
+                    7
+                ],
+                [
+                    3,
+                    3,
+                    8
+                ],
+                [
+                    4,
+                    3,
+                    10
+                ],
+                [
+                    5,
+                    3,
+                    10
+                ],
+                [
+                    6,
+                    3,
+                    5
+                ],
+                [
+                    7,
+                    3,
+                    4
+                ],
+                [
+                    8,
+                    3,
+                    10
+                ],
+                [
+                    9,
+                    3,
+                    7
+                ],
+                [
+                    10,
+                    3,
+                    6
+                ],
+                [
+                    11,
+                    3,
+                    7
+                ],
+                [
+                    12,
+                    3,
+                    8
+                ],
+                [
+                    13,
+                    3,
+                    2
+                ],
+                [
+                    14,
+                    3,
+                    7
+                ],
+                [
+                    15,
+                    3,
+                    2
+                ],
+                [
+                    16,
+                    3,
+                    5
+                ],
+                [
+                    0,
+                    4,
+                    6
+                ],
+                [
+                    1,
+                    4,
+                    6
+                ],
+                [
+                    2,
+                    4,
+                    9
+                ],
+                [
+                    3,
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4,
+                    3
+                ],
+                [
+                    5,
+                    4,
+                    4
+                ],
+                [
+                    6,
+                    4,
+                    8
+                ],
+                [
+                    7,
+                    4,
+                    8
+                ],
+                [
+                    8,
+                    4,
+                    4
+                ],
+                [
+                    9,
+                    4,
+                    3
+                ],
+                [
+                    10,
+                    4,
+                    3
+                ],
+                [
+                    11,
+                    4,
+                    10
+                ],
+                [
+                    12,
+                    4,
+                    10
+                ],
+                [
+                    13,
+                    4,
+                    5
+                ],
+                [
+                    14,
+                    4,
+                    2
+                ],
+                [
+                    15,
+                    4,
+                    9
+                ],
+                [
+                    16,
+                    4,
+                    8
+                ],
+                [
+                    0,
+                    5,
+                    3
+                ],
+                [
+                    1,
+                    5,
+                    4
+                ],
+                [
+                    2,
+                    5,
+                    4
+                ],
+                [
+                    3,
+                    5,
+                    5
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    5,
+                    7
+                ],
+                [
+                    6,
+                    5,
+                    10
+                ],
+                [
+                    7,
+                    5,
+                    5
+                ],
+                [
+                    8,
+                    5,
+                    3
+                ],
+                [
+                    9,
+                    5,
+                    4
+                ],
+                [
+                    10,
+                    5,
+                    10
+                ],
+                [
+                    11,
+                    5,
+                    4
+                ],
+                [
+                    12,
+                    5,
+                    3
+                ],
+                [
+                    13,
+                    5,
+                    8
+                ],
+                [
+                    14,
+                    5,
+                    6
+                ],
+                [
+                    15,
+                    5,
+                    7
+                ],
+                [
+                    16,
+                    5,
+                    10
+                ],
+                [
+                    0,
+                    6,
+                    2
+                ],
+                [
+                    1,
+                    6,
+                    2
+                ],
+                [
+                    2,
+                    6,
+                    10
+                ],
+                [
+                    3,
+                    6,
+                    1
+                ],
+                [
+                    4,
+                    6,
+                    1
+                ],
+                [
+                    5,
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    6,
+                    9
+                ],
+                [
+                    7,
+                    6,
+                    10
+                ],
+                [
+                    8,
+                    6,
+                    9
+                ],
+                [
+                    9,
+                    6,
+                    6
+                ],
+                [
+                    10,
+                    6,
+                    8
+                ],
+                [
+                    11,
+                    6,
+                    5
+                ],
+                [
+                    12,
+                    6,
+                    5
+                ],
+                [
+                    13,
+                    6,
+                    10
+                ],
+                [
+                    14,
+                    6,
+                    4
+                ],
+                [
+                    15,
+                    6,
+                    1
+                ],
+                [
+                    16,
+                    6,
+                    2
+                ],
+                [
+                    0,
+                    7,
+                    8
+                ],
+                [
+                    1,
+                    7,
+                    7
+                ],
+                [
+                    2,
+                    7,
+                    2
+                ],
+                [
+                    3,
+                    7,
+                    9
+                ],
+                [
+                    4,
+                    7,
+                    4
+                ],
+                [
+                    5,
+                    7,
+                    5
+                ],
+                [
+                    6,
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    7,
+                    2
+                ],
+                [
+                    8,
+                    7,
+                    2
+                ],
+                [
+                    9,
+                    7,
+                    2
+                ],
+                [
+                    10,
+                    7,
+                    1
+                ],
+                [
+                    11,
+                    7,
+                    3
+                ],
+                [
+                    12,
+                    7,
+                    7
+                ],
+                [
+                    13,
+                    7,
+                    4
+                ],
+                [
+                    14,
+                    7,
+                    9
+                ],
+                [
+                    15,
+                    7,
+                    8
+                ],
+                [
+                    16,
+                    7,
+                    9
+                ],
+                [
+                    0,
+                    8,
+                    9
+                ],
+                [
+                    1,
+                    8,
+                    8
+                ],
+                [
+                    2,
+                    8,
+                    6
+                ],
+                [
+                    3,
+                    8,
+                    4
+                ],
+                [
+                    4,
+                    8,
+                    2
+                ],
+                [
+                    5,
+                    8,
+                    8
+                ],
+                [
+                    6,
+                    8,
+                    1
+                ],
+                [
+                    7,
+                    8,
+                    3
+                ],
+                [
+                    8,
+                    8,
+                    8
+                ],
+                [
+                    9,
+                    8,
+                    1
+                ],
+                [
+                    10,
+                    8,
+                    7
+                ],
+                [
+                    11,
+                    8,
+                    2
+                ],
+                [
+                    12,
+                    8,
+                    1
+                ],
+                [
+                    13,
+                    8,
+                    3
+                ],
+                [
+                    14,
+                    8,
+                    1
+                ],
+                [
+                    15,
+                    8,
+                    5
+                ],
+                [
+                    16,
+                    8,
+                    7
+                ],
+                [
+                    0,
                     9,
                     1
                 ],
@@ -4329,6 +4547,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 ],
                 [
                     14,
+                    9,
+                    3
+                ],
+                [
+                    15,
+                    9,
+                    4
+                ],
+                [
+                    16,
                     9,
                     3
                 ]
@@ -4369,7 +4597,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             12,
             13,
             14,
-            15
+            15,
+            16,
+            17
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -4385,14 +4615,14 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
         "type": "category",
         "data": [
             "PONY",
+            "TIB",
+            "RRT",
             "TOM",
             "ARV",
-            "TIB",
-            "MMT",
             "KTT",
-            "RRT",
-            "WKCR",
             "JST",
+            "MMT",
+            "WKCR",
             "HMB"
         ],
         "name": "",
@@ -4503,54 +4733,64 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     7
                 ],
                 [
+                    15,
+                    0,
+                    3
+                ],
+                [
+                    16,
+                    0,
+                    7
+                ],
+                [
                     0,
                     1,
-                    10
-                ],
-                [
-                    1,
-                    1,
-                    6
-                ],
-                [
-                    2,
-                    1,
                     9
                 ],
                 [
-                    3,
                     1,
-                    8
-                ],
-                [
-                    4,
-                    1,
-                    1
-                ],
-                [
-                    5,
-                    1,
-                    9
-                ],
-                [
-                    6,
-                    1,
-                    6
-                ],
-                [
-                    7,
                     1,
                     5
                 ],
                 [
+                    2,
+                    1,
+                    3
+                ],
+                [
+                    3,
+                    1,
+                    6
+                ],
+                [
+                    4,
+                    1,
+                    9
+                ],
+                [
+                    5,
+                    1,
+                    1
+                ],
+                [
+                    6,
+                    1,
+                    4
+                ],
+                [
+                    7,
+                    1,
+                    1
+                ],
+                [
                     8,
                     1,
-                    7
+                    1
                 ],
                 [
                     9,
                     1,
-                    10
+                    7
                 ],
                 [
                     10,
@@ -4560,147 +4800,167 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     11,
                     1,
-                    1
+                    3
                 ],
                 [
                     12,
                     1,
-                    3
+                    8
                 ],
                 [
                     13,
                     1,
-                    3
+                    9
                 ],
                 [
                     14,
                     1,
-                    1
+                    8
+                ],
+                [
+                    15,
+                    1,
+                    7
+                ],
+                [
+                    16,
+                    1,
+                    9
                 ],
                 [
                     0,
                     2,
-                    6
+                    5
                 ],
                 [
                     1,
                     2,
-                    10
-                ],
-                [
-                    2,
-                    2,
-                    8
-                ],
-                [
-                    3,
-                    2,
-                    3
-                ],
-                [
-                    4,
-                    2,
-                    5
-                ],
-                [
-                    5,
-                    2,
-                    10
-                ],
-                [
-                    6,
-                    2,
-                    10
-                ],
-                [
-                    7,
-                    2,
-                    3
-                ],
-                [
-                    8,
-                    2,
                     2
                 ],
                 [
-                    9,
+                    2,
                     2,
                     1
                 ],
                 [
-                    10,
-                    2,
-                    7
-                ],
-                [
-                    11,
+                    3,
                     2,
                     4
                 ],
                 [
-                    12,
+                    4,
+                    2,
+                    7
+                ],
+                [
+                    5,
+                    2,
+                    4
+                ],
+                [
+                    6,
+                    2,
+                    8
+                ],
+                [
+                    7,
+                    2,
+                    4
+                ],
+                [
+                    8,
+                    2,
+                    4
+                ],
+                [
+                    9,
                     2,
                     6
+                ],
+                [
+                    10,
+                    2,
+                    4
+                ],
+                [
+                    11,
+                    2,
+                    7
+                ],
+                [
+                    12,
+                    2,
+                    5
                 ],
                 [
                     13,
                     2,
-                    6
+                    9
                 ],
                 [
                     14,
                     2,
-                    6
+                    9
+                ],
+                [
+                    15,
+                    2,
+                    10
+                ],
+                [
+                    16,
+                    2,
+                    9
                 ],
                 [
                     0,
                     3,
-                    9
+                    10
                 ],
                 [
                     1,
                     3,
-                    5
+                    6
                 ],
                 [
                     2,
                     3,
-                    3
+                    9
                 ],
                 [
                     3,
                     3,
-                    6
+                    8
                 ],
                 [
                     4,
                     3,
-                    9
+                    1
                 ],
                 [
                     5,
                     3,
-                    1
+                    9
                 ],
                 [
                     6,
                     3,
-                    4
+                    6
                 ],
                 [
                     7,
                     3,
-                    1
+                    5
                 ],
                 [
                     8,
                     3,
-                    1
+                    7
                 ],
                 [
                     9,
                     3,
-                    7
+                    10
                 ],
                 [
                     10,
@@ -4710,97 +4970,117 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 [
                     11,
                     3,
-                    3
+                    1
                 ],
                 [
                     12,
                     3,
-                    8
+                    3
                 ],
                 [
                     13,
                     3,
-                    9
+                    3
                 ],
                 [
                     14,
                     3,
-                    8
+                    1
+                ],
+                [
+                    15,
+                    3,
+                    6
+                ],
+                [
+                    16,
+                    3,
+                    5
                 ],
                 [
                     0,
                     4,
-                    2
+                    6
                 ],
                 [
                     1,
                     4,
-                    8
+                    10
                 ],
                 [
                     2,
                     4,
-                    6
+                    8
                 ],
                 [
                     3,
                     4,
-                    7
+                    3
                 ],
                 [
                     4,
                     4,
-                    2
+                    5
                 ],
                 [
                     5,
                     4,
-                    5
+                    10
                 ],
                 [
                     6,
                     4,
-                    3
+                    10
                 ],
                 [
                     7,
                     4,
-                    8
+                    3
                 ],
                 [
                     8,
                     4,
-                    9
+                    2
                 ],
                 [
                     9,
                     4,
-                    3
+                    1
                 ],
                 [
                     10,
                     4,
-                    9
+                    7
                 ],
                 [
                     11,
                     4,
-                    9
+                    4
                 ],
                 [
                     12,
                     4,
-                    4
+                    6
                 ],
                 [
                     13,
                     4,
-                    5
+                    6
                 ],
                 [
                     14,
                     4,
-                    2
+                    6
+                ],
+                [
+                    15,
+                    4,
+                    8
+                ],
+                [
+                    16,
+                    4,
+                    1
                 ],
                 [
                     0,
@@ -4878,74 +5158,84 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     4
                 ],
                 [
+                    15,
+                    5,
+                    9
+                ],
+                [
+                    16,
+                    5,
+                    6
+                ],
+                [
                     0,
                     6,
-                    5
+                    3
                 ],
                 [
                     1,
                     6,
-                    2
+                    4
                 ],
                 [
                     2,
                     6,
-                    1
+                    7
                 ],
                 [
                     3,
                     6,
-                    4
+                    1
                 ],
                 [
                     4,
                     6,
-                    7
+                    8
                 ],
                 [
                     5,
                     6,
-                    4
+                    7
                 ],
                 [
                     6,
                     6,
-                    8
+                    1
                 ],
                 [
                     7,
                     6,
-                    4
+                    6
                 ],
                 [
                     8,
                     6,
-                    4
+                    8
                 ],
                 [
                     9,
                     6,
-                    6
+                    5
                 ],
                 [
                     10,
                     6,
-                    4
+                    2
                 ],
                 [
                     11,
                     6,
-                    7
+                    9
                 ],
                 [
                     12,
                     6,
-                    5
+                    2
                 ],
                 [
                     13,
                     6,
-                    9
+                    2
                 ],
                 [
                     14,
@@ -4953,156 +5243,186 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     9
                 ],
                 [
+                    15,
+                    6,
+                    5
+                ],
+                [
+                    16,
+                    6,
+                    9
+                ],
+                [
                     0,
+                    7,
+                    2
+                ],
+                [
+                    1,
                     7,
                     8
                 ],
                 [
-                    1,
-                    7,
-                    3
-                ],
-                [
                     2,
-                    7,
-                    10
-                ],
-                [
-                    3,
-                    7,
-                    10
-                ],
-                [
-                    4,
-                    7,
-                    10
-                ],
-                [
-                    5,
-                    7,
-                    3
-                ],
-                [
-                    6,
-                    7,
-                    2
-                ],
-                [
-                    7,
-                    7,
-                    7
-                ],
-                [
-                    8,
-                    7,
-                    3
-                ],
-                [
-                    9,
-                    7,
-                    2
-                ],
-                [
-                    10,
-                    7,
-                    1
-                ],
-                [
-                    11,
                     7,
                     6
                 ],
                 [
-                    12,
-                    7,
-                    1
-                ],
-                [
-                    13,
+                    3,
                     7,
                     7
                 ],
                 [
-                    14,
+                    4,
+                    7,
+                    2
+                ],
+                [
+                    5,
                     7,
                     5
                 ],
                 [
+                    6,
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    7,
+                    8
+                ],
+                [
+                    8,
+                    7,
+                    9
+                ],
+                [
+                    9,
+                    7,
+                    3
+                ],
+                [
+                    10,
+                    7,
+                    9
+                ],
+                [
+                    11,
+                    7,
+                    9
+                ],
+                [
+                    12,
+                    7,
+                    4
+                ],
+                [
+                    13,
+                    7,
+                    5
+                ],
+                [
+                    14,
+                    7,
+                    2
+                ],
+                [
+                    15,
+                    7,
+                    4
+                ],
+                [
+                    16,
+                    7,
+                    2
+                ],
+                [
                     0,
+                    8,
+                    8
+                ],
+                [
+                    1,
                     8,
                     3
                 ],
                 [
-                    1,
+                    2,
+                    8,
+                    10
+                ],
+                [
+                    3,
+                    8,
+                    10
+                ],
+                [
+                    4,
+                    8,
+                    10
+                ],
+                [
+                    5,
+                    8,
+                    3
+                ],
+                [
+                    6,
+                    8,
+                    2
+                ],
+                [
+                    7,
+                    8,
+                    7
+                ],
+                [
+                    8,
+                    8,
+                    3
+                ],
+                [
+                    9,
+                    8,
+                    2
+                ],
+                [
+                    10,
+                    8,
+                    1
+                ],
+                [
+                    11,
+                    8,
+                    6
+                ],
+                [
+                    12,
+                    8,
+                    1
+                ],
+                [
+                    13,
+                    8,
+                    7
+                ],
+                [
+                    14,
+                    8,
+                    5
+                ],
+                [
+                    15,
+                    8,
+                    1
+                ],
+                [
+                    16,
                     8,
                     4
                 ],
                 [
-                    2,
-                    8,
-                    7
-                ],
-                [
-                    3,
-                    8,
-                    1
-                ],
-                [
-                    4,
-                    8,
-                    8
-                ],
-                [
-                    5,
-                    8,
-                    7
-                ],
-                [
-                    6,
-                    8,
-                    1
-                ],
-                [
-                    7,
-                    8,
-                    6
-                ],
-                [
-                    8,
-                    8,
-                    8
-                ],
-                [
-                    9,
-                    8,
-                    5
-                ],
-                [
-                    10,
-                    8,
-                    2
-                ],
-                [
-                    11,
-                    8,
-                    9
-                ],
-                [
-                    12,
-                    8,
-                    2
-                ],
-                [
-                    13,
-                    8,
-                    2
-                ],
-                [
-                    14,
-                    8,
-                    9
-                ],
-                [
                     0,
                     9,
                     4
@@ -5174,6 +5494,16 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 ],
                 [
                     14,
+                    9,
+                    3
+                ],
+                [
+                    15,
+                    9,
+                    2
+                ],
+                [
+                    16,
                     9,
                     3
                 ]
@@ -5238,7 +5568,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "Week 12",
             "Week 13",
             "Week 14",
-            "Week 15"
+            "Week 15",
+            "Week 16",
+            "Week 17"
         ]
     },
     "yAxis": {
@@ -5264,7 +5596,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 93.9,
                 81.6,
                 93.5,
-                93.9
+                93.9,
+                83.1,
+                77.7
             ]
         },
         {
@@ -5285,7 +5619,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 87.2,
                 84.9,
                 96.8,
-                77.5
+                77.5,
+                88.8,
+                94.2
             ]
         },
         {
@@ -5306,7 +5642,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 99.9,
                 97.2,
                 90.8,
-                69.6
+                69.6,
+                89.6,
+                88.7
             ]
         },
         {
@@ -5327,7 +5665,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 92.6,
                 88.6,
                 99.7,
-                85.5
+                85.5,
+                97.0,
+                88.8
             ]
         },
         {
@@ -5348,7 +5688,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 95.0,
                 93.3,
                 96.4,
-                88.6
+                88.6,
+                95.0,
+                79.3
             ]
         },
         {
@@ -5369,7 +5711,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 88.1,
                 84.1,
                 67.3,
-                65.1
+                65.1,
+                78.3,
+                68.4
             ]
         },
         {
@@ -5390,7 +5734,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 74.6,
                 67.2,
                 75.5,
-                72.5
+                72.5,
+                85.6,
+                70.1
             ]
         },
         {
@@ -5411,7 +5757,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 100.0,
                 86.0,
                 88.8,
-                76.6
+                76.6,
+                79.4,
+                100.0
             ]
         },
         {
@@ -5432,7 +5780,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 90.8,
                 94.4,
                 72.5,
-                85.9
+                85.9,
+                88.2,
+                75.7
             ]
         },
         {
@@ -5453,7 +5803,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 91.8,
                 96.0,
                 93.7,
-                80.7
+                80.7,
+                59.5,
+                83.3
             ]
         }
     ],
@@ -5510,8 +5862,8 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 {
                     "value": [
                         3.4,
-                        1.7,
-                        0.3,
+                        1.9,
+                        0.4,
                         -2.6
                     ],
                     "name": "Pink Pony Club"
@@ -5524,10 +5876,10 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        2.1,
+                        2.2,
                         -0.6,
-                        1.3,
-                        3.2
+                        1.2,
+                        3.1
                     ],
                     "name": "Hamlin My Business "
                 }
@@ -5540,9 +5892,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 {
                     "value": [
                         2.3,
-                        0.3,
-                        0.4,
-                        -0.1
+                        0.2,
+                        0.6,
+                        0.4
                     ],
                     "name": "Who Killed Charbonnet Ramsey?"
                 }
@@ -5554,10 +5906,10 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        0.7,
-                        0.7,
-                        -1.0,
-                        -1.8
+                        0.8,
+                        0.8,
+                        -0.8,
+                        -1.5
                     ],
                     "name": "Tom and Jerry"
                 }
@@ -5571,8 +5923,8 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                     "value": [
                         -2.3,
                         -0.1,
-                        -0.5,
-                        0.5
+                        -0.4,
+                        0.2
                     ],
                     "name": "To Infinity and Bijan!"
                 }
@@ -5584,10 +5936,10 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -1.1,
+                        -1.0,
                         -0.2,
-                        1.0,
-                        2.4
+                        0.9,
+                        2.0
                     ],
                     "name": "Hit and Ruggs"
                 }
@@ -5600,9 +5952,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 {
                     "value": [
                         -1.4,
-                        -1.1,
-                        -0.0,
-                        0.5
+                        -1.2,
+                        -0.2,
+                        0.4
                     ],
                     "name": "Mama Daughter Duo"
                 }
@@ -5614,10 +5966,10 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -1.4,
-                        -1.8,
-                        -0.2,
-                        -1.2
+                        -1.7,
+                        -1.9,
+                        -0.3,
+                        -1.1
                     ],
                     "name": "Abbey Road to Victory"
                 }
@@ -5630,9 +5982,9 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
                 {
                     "value": [
                         -3.5,
-                        1.6,
-                        -0.3,
-                        -0.8
+                        1.5,
+                        -0.6,
+                        -0.7
                     ],
                     "name": "Michael's Managable Team"
                 }
@@ -5644,10 +5996,10 @@ Unluckiest Team: Ryan Ratcliff (-3.2) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        0.2,
-                        -1.4,
+                        0.1,
+                        -1.3,
                         -0.9,
-                        -0.5
+                        -0.6
                     ],
                     "name": "Fantasy Guru Kayden"
                 }

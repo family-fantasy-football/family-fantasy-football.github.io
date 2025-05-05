@@ -13,7 +13,6 @@ pretty_table: True
 ### Best Pickups
 <table
 data-click-to-select="true"
-data-height="930"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/transactions/best_fa_2024.json"}}">

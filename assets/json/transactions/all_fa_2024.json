@@ -1926,5 +1926,141 @@
   "position": "RB",
   "type": "FA",
   "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Cooper Rush",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Jameis Winston",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Who Killed Charbonnet Ramsey?",
+  "week": 16,
+  "player_name": "Brenton Strange",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Who Killed Charbonnet Ramsey?",
+  "week": 16,
+  "player_name": "Tyler Allgeier",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Juwan Johnson",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Dalton Schultz",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Patrick Taylor Jr.",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Craig Reynolds",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Craig Reynolds",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 16,
+  "player_name": "Sincere McCormick",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Chig Okonkwo",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Bryce Young",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Mason Rudolph",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Patrick Taylor Jr.",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Michael Carter",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Mason Rudolph",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Pink Pony Club",
+  "week": 17,
+  "player_name": "Cooper Rush",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
  }
 ]
