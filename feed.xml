@@ -1,4 +1,838 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://family-fantasy-football.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://family-fantasy-football.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-12-20T02:24:36+00:00</updated><id>https://family-fantasy-football.github.io/feed.xml</id><title type="html">Family Fantasy Football League</title><entry><title type="html">Week 16 Matchups Preview</title><link href="https://family-fantasy-football.github.io/blog/2024/Week-16_preview/" rel="alternate" type="text/html" title="Week 16 Matchups Preview"/><published>2024-12-17T14:22:54+00:00</published><updated>2024-12-17T14:22:54+00:00</updated><id>https://family-fantasy-football.github.io/blog/2024/Week-16_preview</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2024/Week-16_preview/"><![CDATA[<h3 id="who-killed-charbonnet-ramsey--pink-pony-club">Who Killed Charbonnet Ramsey? @ Pink Pony Club</h3> <p><strong>Projected Score:</strong> Who Killed Charbonnet Ramsey? 147.32 - 159.02 Pink Pony Club</p> <p><strong>Historical Matchup:</strong> 1-2 (Avg Score: Pink Pony Club wins by 87.0-84.5)</p> <h4 id="position-breakdown">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Who Killed Charbonnet Ramsey?</th> <th style="width: 10%"></th> <th style="width: 35%">Pink Pony Club</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>20.0</td><td>➡️</td><td>20.9</td></tr> <tr><td><strong>RB</strong></td><td>12.3</td><td>➡️</td><td>15.2</td></tr> <tr><td><strong>TE</strong></td><td>10.3</td><td>⬅️</td><td>5.9</td></tr> <tr><td><strong>WR</strong></td><td>12.1</td><td>⬅️</td><td>11.7</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance">Recent Performance</h4> <pre><code class="language-echarts">{
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://family-fantasy-football.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://family-fantasy-football.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-05-05T20:34:35+00:00</updated><id>https://family-fantasy-football.github.io/feed.xml</id><title type="html">Family Fantasy Football League</title><entry><title type="html">Week 18 Matchups Preview</title><link href="https://family-fantasy-football.github.io/blog/2025/Week-18_preview/" rel="alternate" type="text/html" title="Week 18 Matchups Preview"/><published>2025-05-05T18:36:11+00:00</published><updated>2025-05-05T18:36:11+00:00</updated><id>https://family-fantasy-football.github.io/blog/2025/Week-18_preview</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2025/Week-18_preview/"><![CDATA[<h3 id="who-killed-charbonnet-ramsey--pink-pony-club">Who Killed Charbonnet Ramsey? @ Pink Pony Club</h3> <p><strong>Projected Score:</strong> Who Killed Charbonnet Ramsey? 297.94 - 303.56 Pink Pony Club</p> <p><strong>Historical Matchup:</strong> 2-1 (Avg Score: Pink Pony Club wins by 188.2-183.8)</p> <h4 id="position-breakdown">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Who Killed Charbonnet Ramsey?</th> <th style="width: 10%"></th> <th style="width: 35%">Pink Pony Club</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>20.1</td><td>➡️</td><td>20.8</td></tr> <tr><td><strong>RB</strong></td><td>12.4</td><td>➡️</td><td>15.6</td></tr> <tr><td><strong>TE</strong></td><td>10.7</td><td>⬅️</td><td>6.3</td></tr> <tr><td><strong>WR</strong></td><td>12.2</td><td>⬅️</td><td>11.8</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance">Recent Performance</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Scoring Trends",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "legend": {
+    "data": [
+      "Pink Pony Club",
+      "Who Killed Charbonnet Ramsey?"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 12",
+      "Week 13",
+      "Week 14",
+      "Week 15",
+      "Week 16"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "name": "Pink Pony Club",
+      "type": "line",
+      "data": [
+        136.96,
+        155.46,
+        366.24,
+        303.56
+      ],
+      "smooth": true
+    },
+    {
+      "name": "Who Killed Charbonnet Ramsey?",
+      "type": "line",
+      "data": [
+        136.88,
+        178.88,
+        277.34,
+        297.94
+      ],
+      "smooth": true
+    }
+  ]
+}
+</code></pre> <h4 id="position-comparison">Position Comparison</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Position Comparison",
+    "left": "center",
+    "show": false
+  },
+  "legend": {
+    "data": [
+      "Pink Pony Club",
+      "Who Killed Charbonnet Ramsey?"
+    ]
+  },
+  "radar": {
+    "indicator": [
+      {
+        "name": "QB",
+        "max": 43.32
+      },
+      {
+        "name": "RB",
+        "max": 41.279999999999994
+      },
+      {
+        "name": "TE",
+        "max": 30.24
+      },
+      {
+        "name": "WR",
+        "max": 59.879999999999995
+      }
+    ]
+  },
+  "series": [
+    {
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            20.8175,
+            15.576363636363638,
+            6.3187500000000005,
+            11.807017543859653
+          ],
+          "name": "Pink Pony Club"
+        },
+        {
+          "value": [
+            20.094375,
+            12.37948717948718,
+            10.66,
+            12.213043478260868
+          ],
+          "name": "Who Killed Charbonnet Ramsey?"
+        }
+      ]
+    }
+  ]
+}
+</code></pre> <h4 id="injury-report">Injury Report</h4> <p><strong>Pink Pony Club:</strong></p> <p><strong>Who Killed Charbonnet Ramsey?:</strong></p> <h4 id="recent-form">Recent Form</h4> <p><strong>Pink Pony Club:</strong> 303.6 ppg last 3 weeks (5 game W streak)</p> <p><strong>Who Killed Charbonnet Ramsey?:</strong> 297.9 ppg last 3 weeks (1 game L streak)</p> <h4 id="previous-matchups-this-season">Previous Matchups This Season</h4> <p>Week 1: Pink Pony Club 131.9 - 98.6 Who Killed Charbonnet Ramsey?</p> <p>Week 10: Pink Pony Club 129.2 - 154.8 Who Killed Charbonnet Ramsey?</p> <p>Week 15: Pink Pony Club 303.6 - 297.9 Who Killed Charbonnet Ramsey?</p> <h4 id="playoff-picture">Playoff Picture</h4> <p><strong>Pink Pony Club:</strong> 100.0% chance</p> <p><strong>Who Killed Charbonnet Ramsey?:</strong> 100.0% chance</p> <hr/> <h3 id="tom-and-jerry--hamlin-my-business">Tom and Jerry @ Hamlin My Business</h3> <p><strong>Projected Score:</strong> Tom and Jerry 295.58 - 337.36 Hamlin My Business</p> <p><strong>Historical Matchup:</strong> 2-0 (Avg Score: Hamlin My Business wins by 243.8-206.1)</p> <h4 id="position-breakdown-1">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Tom and Jerry</th> <th style="width: 10%"></th> <th style="width: 35%">Hamlin My Business </th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>18.3</td><td>➡️</td><td>19.7</td></tr> <tr><td><strong>RB</strong></td><td>14.4</td><td>⬅️</td><td>12.4</td></tr> <tr><td><strong>TE</strong></td><td>8.3</td><td>➡️</td><td>11.5</td></tr> <tr><td><strong>WR</strong></td><td>11.0</td><td>➡️</td><td>11.5</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance-1">Recent Performance</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Scoring Trends",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "legend": {
+    "data": [
+      "Hamlin My Business ",
+      "Tom and Jerry"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 12",
+      "Week 13",
+      "Week 14",
+      "Week 15",
+      "Week 16"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "name": "Hamlin My Business ",
+      "type": "line",
+      "data": [
+        111.02,
+        138.08,
+        244.38,
+        337.36
+      ],
+      "smooth": true
+    },
+    {
+      "name": "Tom and Jerry",
+      "type": "line",
+      "data": [
+        161.92,
+        141.64,
+        307.18,
+        295.58
+      ],
+      "smooth": true
+    }
+  ]
+}
+</code></pre> <h4 id="position-comparison-1">Position Comparison</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Position Comparison",
+    "left": "center",
+    "show": false
+  },
+  "legend": {
+    "data": [
+      "Hamlin My Business ",
+      "Tom and Jerry"
+    ]
+  },
+  "radar": {
+    "indicator": [
+      {
+        "name": "QB",
+        "max": 40.536
+      },
+      {
+        "name": "RB",
+        "max": 51.6
+      },
+      {
+        "name": "TE",
+        "max": 27.36
+      },
+      {
+        "name": "WR",
+        "max": 43.199999999999996
+      }
+    ]
+  },
+  "series": [
+    {
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            19.72903225806452,
+            12.421568627450979,
+            11.536842105263156,
+            11.496610169491529
+          ],
+          "name": "Hamlin My Business "
+        },
+        {
+          "value": [
+            18.326875000000005,
+            14.44047619047619,
+            8.336363636363636,
+            10.978124999999999
+          ],
+          "name": "Tom and Jerry"
+        }
+      ]
+    }
+  ]
+}
+</code></pre> <h4 id="injury-report-1">Injury Report</h4> <p><strong>Hamlin My Business :</strong> Tyreek Hill (Questionable), Chris Godwin (Questionable),</p> <p><strong>Tom and Jerry:</strong> Jerome Ford (Questionable), Tank Dell (Questionable), Chris Olave (Questionable),</p> <h4 id="recent-form-1">Recent Form</h4> <p><strong>Hamlin My Business :</strong> 337.4 ppg last 3 weeks (1 game W streak)</p> <p><strong>Tom and Jerry:</strong> 295.6 ppg last 3 weeks (2 game L streak)</p> <h4 id="previous-matchups-this-season-1">Previous Matchups This Season</h4> <p>Week 5: Hamlin My Business 150.2 - 116.6 Tom and Jerry</p> <p>Week 15: Hamlin My Business 337.4 - 295.6 Tom and Jerry</p> <h4 id="playoff-picture-1">Playoff Picture</h4> <p><strong>Hamlin My Business :</strong> 100.0% chance</p> <p><strong>Tom and Jerry:</strong> 100.0% chance</p> <hr/> <h3 id="mama-daughter-duo--to-infinity-and-bijan">Mama Daughter Duo @ To Infinity and Bijan!</h3> <p><strong>Projected Score:</strong> Mama Daughter Duo 215.62 - 257.30 To Infinity and Bijan!</p> <p><strong>Historical Matchup:</strong> 2-0 (Avg Score: To Infinity and Bijan! wins by 188.5-161.2)</p> <h4 id="position-breakdown-2">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Mama Daughter Duo</th> <th style="width: 10%"></th> <th style="width: 35%">To Infinity and Bijan!</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>16.5</td><td>⬅️</td><td>15.4</td></tr> <tr><td><strong>RB</strong></td><td>11.6</td><td>➡️</td><td>12.8</td></tr> <tr><td><strong>TE</strong></td><td>9.6</td><td>⬅️</td><td>8.1</td></tr> <tr><td><strong>WR</strong></td><td>10.4</td><td>➡️</td><td>10.8</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance-2">Recent Performance</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Scoring Trends",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "legend": {
+    "data": [
+      "To Infinity and Bijan!",
+      "Mama Daughter Duo"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 12",
+      "Week 13",
+      "Week 14",
+      "Week 15",
+      "Week 16"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "name": "To Infinity and Bijan!",
+      "type": "line",
+      "data": [
+        77.8,
+        125.76,
+        255.56,
+        257.3
+      ],
+      "smooth": true
+    },
+    {
+      "name": "Mama Daughter Duo",
+      "type": "line",
+      "data": [
+        117.3,
+        106.02,
+        216.34,
+        215.62
+      ],
+      "smooth": true
+    }
+  ]
+}
+</code></pre> <h4 id="position-comparison-2">Position Comparison</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Position Comparison",
+    "left": "center",
+    "show": false
+  },
+  "legend": {
+    "data": [
+      "To Infinity and Bijan!",
+      "Mama Daughter Duo"
+    ]
+  },
+  "radar": {
+    "indicator": [
+      {
+        "name": "QB",
+        "max": 36.071999999999996
+      },
+      {
+        "name": "RB",
+        "max": 37.92
+      },
+      {
+        "name": "TE",
+        "max": 29.52
+      },
+      {
+        "name": "WR",
+        "max": 42.35999999999999
+      }
+    ]
+  },
+  "series": [
+    {
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            15.429333333333334,
+            12.80526315789474,
+            8.122222222222224,
+            10.78621621621621
+          ],
+          "name": "To Infinity and Bijan!"
+        },
+        {
+          "value": [
+            16.500000000000004,
+            11.6,
+            9.618749999999999,
+            10.374193548387096
+          ],
+          "name": "Mama Daughter Duo"
+        }
+      ]
+    }
+  ]
+}
+</code></pre> <h4 id="injury-report-2">Injury Report</h4> <p><strong>To Infinity and Bijan!:</strong> Trevor Lawrence (Questionable),</p> <p><strong>Mama Daughter Duo:</strong> David Njoku (Questionable), Anthony Richardson (Questionable), Jordan Mason (Questionable), Derek Carr (Questionable),</p> <h4 id="recent-form-2">Recent Form</h4> <p><strong>To Infinity and Bijan!:</strong> 257.3 ppg last 3 weeks (2 game W streak)</p> <p><strong>Mama Daughter Duo:</strong> 215.6 ppg last 3 weeks (1 game L streak)</p> <h4 id="previous-matchups-this-season-2">Previous Matchups This Season</h4> <p>Week 8: To Infinity and Bijan! 119.6 - 106.7 Mama Daughter Duo</p> <p>Week 15: To Infinity and Bijan! 257.3 - 215.6 Mama Daughter Duo</p> <h4 id="playoff-picture-2">Playoff Picture</h4> <p><strong>To Infinity and Bijan!:</strong> 0.0% chance</p> <p><strong>Mama Daughter Duo:</strong> 0.0% chance</p> <hr/> <h3 id="fantasy-guru-kayden--hit-and-ruggs">Fantasy Guru Kayden @ Hit and Ruggs</h3> <p><strong>Projected Score:</strong> Fantasy Guru Kayden 213.94 - 222.72 Hit and Ruggs</p> <p><strong>Historical Matchup:</strong> 2-0 (Avg Score: Hit and Ruggs wins by 186.3-171.2)</p> <h4 id="position-breakdown-3">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Fantasy Guru Kayden</th> <th style="width: 10%"></th> <th style="width: 35%">Hit and Ruggs</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>17.1</td><td>⬅️</td><td>17.1</td></tr> <tr><td><strong>RB</strong></td><td>11.6</td><td>➡️</td><td>12.9</td></tr> <tr><td><strong>TE</strong></td><td>7.9</td><td>➡️</td><td>9.5</td></tr> <tr><td><strong>WR</strong></td><td>10.1</td><td>➡️</td><td>11.4</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance-3">Recent Performance</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Scoring Trends",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "legend": {
+    "data": [
+      "Hit and Ruggs",
+      "Fantasy Guru Kayden"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 12",
+      "Week 13",
+      "Week 14",
+      "Week 15",
+      "Week 16"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "name": "Hit and Ruggs",
+      "type": "line",
+      "data": [
+        120.72,
+        125.58,
+        229.66,
+        222.72
+      ],
+      "smooth": true
+    },
+    {
+      "name": "Fantasy Guru Kayden",
+      "type": "line",
+      "data": [
+        118.04,
+        162.8,
+        251.24,
+        213.94
+      ],
+      "smooth": true
+    }
+  ]
+}
+</code></pre> <h4 id="position-comparison-3">Position Comparison</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Position Comparison",
+    "left": "center",
+    "show": false
+  },
+  "legend": {
+    "data": [
+      "Hit and Ruggs",
+      "Fantasy Guru Kayden"
+    ]
+  },
+  "radar": {
+    "indicator": [
+      {
+        "name": "QB",
+        "max": 62.256
+      },
+      {
+        "name": "RB",
+        "max": 33.72
+      },
+      {
+        "name": "TE",
+        "max": 27.720000000000002
+      },
+      {
+        "name": "WR",
+        "max": 45.959999999999994
+      }
+    ]
+  },
+  "series": [
+    {
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            17.086249999999996,
+            12.87560975609756,
+            9.509090909090908,
+            11.392
+          ],
+          "name": "Hit and Ruggs"
+        },
+        {
+          "value": [
+            17.146874999999998,
+            11.612765957446808,
+            7.9125000000000005,
+            10.118461538461538
+          ],
+          "name": "Fantasy Guru Kayden"
+        }
+      ]
+    }
+  ]
+}
+</code></pre> <h4 id="injury-report-3">Injury Report</h4> <p><strong>Hit and Ruggs:</strong></p> <p><strong>Fantasy Guru Kayden:</strong></p> <h4 id="recent-form-3">Recent Form</h4> <p><strong>Hit and Ruggs:</strong> 222.7 ppg last 3 weeks (1 game W streak)</p> <p><strong>Fantasy Guru Kayden:</strong> 213.9 ppg last 3 weeks (1 game L streak)</p> <h4 id="previous-matchups-this-season-3">Previous Matchups This Season</h4> <p>Week 8: Hit and Ruggs 149.8 - 128.5 Fantasy Guru Kayden</p> <p>Week 15: Hit and Ruggs 222.7 - 213.9 Fantasy Guru Kayden</p> <h4 id="playoff-picture-3">Playoff Picture</h4> <p><strong>Hit and Ruggs:</strong> 0.0% chance</p> <p><strong>Fantasy Guru Kayden:</strong> 0.0% chance</p> <hr/> <h3 id="michaels-managable-team--abbey-road-to-victory">Michael’s Managable Team @ Abbey Road to Victory</h3> <p><strong>Projected Score:</strong> Michael’s Managable Team 240.22 - 207.02 Abbey Road to Victory</p> <p><strong>Historical Matchup:</strong> 1-2 (Avg Score: Michael’s Managable Team wins by 138.7-158.9)</p> <h4 id="position-breakdown-4">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Michael's Managable Team</th> <th style="width: 10%"></th> <th style="width: 35%">Abbey Road to Victory</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>13.9</td><td>➡️</td><td>14.3</td></tr> <tr><td><strong>RB</strong></td><td>14.0</td><td>⬅️</td><td>10.6</td></tr> <tr><td><strong>TE</strong></td><td>8.6</td><td>⬅️</td><td>7.8</td></tr> <tr><td><strong>WR</strong></td><td>9.5</td><td>➡️</td><td>10.0</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance-4">Recent Performance</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Scoring Trends",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "legend": {
+    "data": [
+      "Abbey Road to Victory",
+      "Michael's Managable Team"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 12",
+      "Week 13",
+      "Week 14",
+      "Week 15",
+      "Week 16"
+    ]
+  },
+  "yAxis": {
+    "type": "value"
+  },
+  "series": [
+    {
+      "name": "Abbey Road to Victory",
+      "type": "line",
+      "data": [
+        98.0,
+        82.9,
+        190.66,
+        207.02
+      ],
+      "smooth": true
+    },
+    {
+      "name": "Michael's Managable Team",
+      "type": "line",
+      "data": [
+        119.4,
+        108.8,
+        190.2,
+        240.22
+      ],
+      "smooth": true
+    }
+  ]
+}
+</code></pre> <h4 id="position-comparison-4">Position Comparison</h4> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Position Comparison",
+    "left": "center",
+    "show": false
+  },
+  "legend": {
+    "data": [
+      "Abbey Road to Victory",
+      "Michael's Managable Team"
+    ]
+  },
+  "radar": {
+    "indicator": [
+      {
+        "name": "QB",
+        "max": 41.232
+      },
+      {
+        "name": "RB",
+        "max": 53.04
+      },
+      {
+        "name": "TE",
+        "max": 24.0
+      },
+      {
+        "name": "WR",
+        "max": 39.72
+      }
+    ]
+  },
+  "series": [
+    {
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            14.321333333333335,
+            10.608936170212766,
+            7.800000000000001,
+            9.989552238805969
+          ],
+          "name": "Abbey Road to Victory"
+        },
+        {
+          "value": [
+            13.914615384615388,
+            13.988235294117644,
+            8.564705882352943,
+            9.520816326530609
+          ],
+          "name": "Michael's Managable Team"
+        }
+      ]
+    }
+  ]
+}
+</code></pre> <h4 id="injury-report-4">Injury Report</h4> <p><strong>Abbey Road to Victory:</strong> Zay Flowers (Questionable), Christian Watson (Questionable),</p> <p><strong>Michael’s Managable Team:</strong> Dak Prescott (Questionable),</p> <h4 id="recent-form-4">Recent Form</h4> <p><strong>Abbey Road to Victory:</strong> 207.0 ppg last 3 weeks (3 game L streak)</p> <p><strong>Michael’s Managable Team:</strong> 240.2 ppg last 3 weeks (1 game W streak)</p> <h4 id="previous-matchups-this-season-4">Previous Matchups This Season</h4> <p>Week 1: Abbey Road to Victory 112.4 - 143.2 Michael’s Managable Team</p> <p>Week 10: Abbey Road to Victory 96.6 - 93.4 Michael’s Managable Team</p> <p>Week 15: Abbey Road to Victory 207.0 - 240.2 Michael’s Managable Team</p> <h4 id="playoff-picture-4">Playoff Picture</h4> <p><strong>Abbey Road to Victory:</strong> 0.0% chance</p> <p><strong>Michael’s Managable Team:</strong> 0.0% chance</p> <hr/>]]></content><author><name></name></author><category term="league-previews"/><category term="2024-25,"/><category term="WeeklyPreview,"/><category term="Week18"/><summary type="html"><![CDATA[preview of next weeks matchups]]></summary></entry><entry><title type="html">Week 17 League Recap</title><link href="https://family-fantasy-football.github.io/blog/2025/Week-17_Recap/" rel="alternate" type="text/html" title="Week 17 League Recap"/><published>2025-05-05T18:34:56+00:00</published><updated>2025-05-05T18:34:56+00:00</updated><id>https://family-fantasy-football.github.io/blog/2025/Week-17_Recap</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2025/Week-17_Recap/"><![CDATA[<h3 id="weekly-matchups">Weekly Matchups</h3> <h4 id="who-killed-charbonnet-ramsey--pink-pony-club">Who Killed Charbonnet Ramsey? @ Pink Pony Club</h4> <p><strong>Final Score:</strong> Who Killed Charbonnet Ramsey? 297.94 - 303.56 Pink Pony Club<br/> <strong>Best Performance:</strong> Jayden Daniels (Pink Pony Club) - 31.78 pts<br/></p> <h4 id="tom-and-jerry--hamlin-my-business">Tom and Jerry @ Hamlin My Business</h4> <p><strong>Final Score:</strong> Tom and Jerry 295.58 - 337.36 Hamlin My Business <br/> <strong>Best Performance:</strong> Joe Burrow (Hamlin My Business ) - 36.98 pts<br/></p> <h4 id="mama-daughter-duo--to-infinity-and-bijan">Mama Daughter Duo @ To Infinity and Bijan!</h4> <p><strong>Final Score:</strong> Mama Daughter Duo 215.62 - 257.30 To Infinity and Bijan!<br/> <strong>Best Performance:</strong> Tee Higgins (To Infinity and Bijan!) - 34.60 pts<br/></p> <h4 id="fantasy-guru-kayden--hit-and-ruggs">Fantasy Guru Kayden @ Hit and Ruggs</h4> <p><strong>Final Score:</strong> Fantasy Guru Kayden 213.94 - 222.72 Hit and Ruggs<br/> <strong>Best Performance:</strong> Jonathan Taylor (Fantasy Guru Kayden) - 26.60 pts<br/></p> <h4 id="michaels-managable-team--abbey-road-to-victory">Michael’s Managable Team @ Abbey Road to Victory</h4> <p><strong>Final Score:</strong> Michael’s Managable Team 240.22 - 207.02 Abbey Road to Victory<br/> <strong>Best Performance:</strong> DeVonta Smith (Abbey Road to Victory) - 27.00 pts<br/></p> <p><br/></p> <h3 id="league-info">League Info</h3> <p><strong>Total Points Scored:</strong> 2591.26 <br/> <strong>Avg. Points Scored:</strong> 259.13<br/> <strong>Biggest Overachiever:</strong> Pink Pony Club exceeded projections by 0.00 points (THIS IS JUST BC OF 2 WEEK PLAYOFFS)<br/> <strong>Biggest Underachiever:</strong> Pink Pony Club fell short of projections by 0.00 points (THIS IS JUST BC OF 2 WEEK PLAYOFFS)</p> <h2 id="current-standings">Current Standings</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/standings/Week_17_2024_standings.json"> <thead> <tr> <th data-field="rank" data-halign="center" data-align="center" data-sortable="true">Rank</th> <th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th> <th data-field="record" data-halign="center" data-align="center" data-sortable="true" data-sort-name="record_sort">Record</th> <th data-field="record_sort" data-sortable="true" data-visible="false">Record Sort</th> <th data-field="points_for" data-halign="center" data-align="center" data-sortable="true">Points For</th> <th data-field="playoff_odds" data-halign="center" data-align="center" data-sortable="true">Playoff Odds</th> </tr> </thead> </table> <p><br/></p> <h2 id="positional-scoring-this-week">Positional Scoring This Week</h2> <pre><code class="language-echarts">{
+    "grid": {
+        "top": "10%",
+        "bottom": "15%",
+        "left": "5%",
+        "right": "0%",
+        "containLabel": true
+    },
+    "xAxis": {
+        "type": "category",
+        "data": [
+            "QB",
+            "RB",
+            "TE",
+            "WR"
+        ],
+        "name": "Position",
+        "nameLocation": "center",
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "yAxis": {
+        "type": "category",
+        "data": [
+            "WKCR",
+            "PONY",
+            "TOM",
+            "RRT",
+            "MMT",
+            "TIB",
+            "KTT",
+            "JST",
+            "ARV",
+            "HMB"
+        ],
+        "name": "",
+        "nameLocation": "end",
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "visualMap": {
+        "min": 1,
+        "max": 10,
+        "calculable": true,
+        "orient": "vertical",
+        "show": false,
+        "right": "right",
+        "bottom": "30%",
+        "text": [],
+        "inRange": {
+            "color": [
+                "#4575b4",
+                "#91bfdb",
+                "#fee090",
+                "#fc8d59",
+                "#d73027"
+            ]
+        }
+    },
+    "series": [
+        {
+            "type": "heatmap",
+            "data": [
+                [
+                    0,
+                    0,
+                    10
+                ],
+                [
+                    1,
+                    0,
+                    1
+                ],
+                [
+                    2,
+                    0,
+                    1
+                ],
+                [
+                    3,
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    1,
+                    2
+                ],
+                [
+                    2,
+                    1,
+                    7
+                ],
+                [
+                    3,
+                    1,
+                    3
+                ],
+                [
+                    0,
+                    2,
+                    1
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    2,
+                    9
+                ],
+                [
+                    3,
+                    2,
+                    6
+                ],
+                [
+                    0,
+                    3,
+                    2
+                ],
+                [
+                    1,
+                    3,
+                    5
+                ],
+                [
+                    2,
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    3,
+                    9
+                ],
+                [
+                    0,
+                    4,
+                    3
+                ],
+                [
+                    1,
+                    4,
+                    8
+                ],
+                [
+                    2,
+                    4,
+                    2
+                ],
+                [
+                    3,
+                    4,
+                    10
+                ],
+                [
+                    0,
+                    5,
+                    7
+                ],
+                [
+                    1,
+                    5,
+                    6
+                ],
+                [
+                    2,
+                    5,
+                    5
+                ],
+                [
+                    3,
+                    5,
+                    5
+                ],
+                [
+                    0,
+                    6,
+                    6
+                ],
+                [
+                    1,
+                    6,
+                    4
+                ],
+                [
+                    2,
+                    6,
+                    6
+                ],
+                [
+                    3,
+                    6,
+                    8
+                ],
+                [
+                    0,
+                    7,
+                    8
+                ],
+                [
+                    1,
+                    7,
+                    7
+                ],
+                [
+                    2,
+                    7,
+                    10
+                ],
+                [
+                    3,
+                    7,
+                    7
+                ],
+                [
+                    0,
+                    8,
+                    9
+                ],
+                [
+                    1,
+                    8,
+                    9
+                ],
+                [
+                    2,
+                    8,
+                    8
+                ],
+                [
+                    3,
+                    8,
+                    4
+                ],
+                [
+                    0,
+                    9,
+                    5
+                ],
+                [
+                    1,
+                    9,
+                    10
+                ],
+                [
+                    2,
+                    9,
+                    4
+                ],
+                [
+                    3,
+                    9,
+                    2
+                ]
+            ],
+            "label": {
+                "show": true,
+                "fontSize": 12
+            }
+        }
+    ]
+}
+</code></pre> <h2 id="week-18-preview">Week 18 Preview:</h2> <h4 id="who-killed-charbonnet-ramsey--pink-pony-club-1">Who Killed Charbonnet Ramsey? @ Pink Pony Club</h4> <p><strong>Projected Score:</strong> Who Killed Charbonnet Ramsey? 297.94 - 303.56 Pink Pony Club<br/></p> <h4 id="tom-and-jerry--hamlin-my-business-1">Tom and Jerry @ Hamlin My Business</h4> <p><strong>Projected Score:</strong> Tom and Jerry 295.58 - 337.36 Hamlin My Business <br/></p> <h4 id="mama-daughter-duo--to-infinity-and-bijan-1">Mama Daughter Duo @ To Infinity and Bijan!</h4> <p><strong>Projected Score:</strong> Mama Daughter Duo 215.62 - 257.30 To Infinity and Bijan!<br/></p> <h4 id="fantasy-guru-kayden--hit-and-ruggs-1">Fantasy Guru Kayden @ Hit and Ruggs</h4> <p><strong>Projected Score:</strong> Fantasy Guru Kayden 213.94 - 222.72 Hit and Ruggs<br/></p> <h4 id="michaels-managable-team--abbey-road-to-victory-1">Michael’s Managable Team @ Abbey Road to Victory</h4> <p><strong>Projected Score:</strong> Michael’s Managable Team 240.22 - 207.02 Abbey Road to Victory<br/></p>]]></content><author><name></name></author><category term="league-recaps"/><category term="2024-25,"/><category term="WeeklyRecap,"/><category term="Week17"/><summary type="html"><![CDATA[Weekly league recap and standings]]></summary></entry><entry><title type="html">Week 16 Matchups Preview</title><link href="https://family-fantasy-football.github.io/blog/2024/Week-16_preview/" rel="alternate" type="text/html" title="Week 16 Matchups Preview"/><published>2024-12-17T14:22:54+00:00</published><updated>2024-12-17T14:22:54+00:00</updated><id>https://family-fantasy-football.github.io/blog/2024/Week-16_preview</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2024/Week-16_preview/"><![CDATA[<h3 id="who-killed-charbonnet-ramsey--pink-pony-club">Who Killed Charbonnet Ramsey? @ Pink Pony Club</h3> <p><strong>Projected Score:</strong> Who Killed Charbonnet Ramsey? 147.32 - 159.02 Pink Pony Club</p> <p><strong>Historical Matchup:</strong> 1-2 (Avg Score: Pink Pony Club wins by 87.0-84.5)</p> <h4 id="position-breakdown">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Who Killed Charbonnet Ramsey?</th> <th style="width: 10%"></th> <th style="width: 35%">Pink Pony Club</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>20.0</td><td>➡️</td><td>20.9</td></tr> <tr><td><strong>RB</strong></td><td>12.3</td><td>➡️</td><td>15.2</td></tr> <tr><td><strong>TE</strong></td><td>10.3</td><td>⬅️</td><td>5.9</td></tr> <tr><td><strong>WR</strong></td><td>12.1</td><td>⬅️</td><td>11.7</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance">Recent Performance</h4> <pre><code class="language-echarts">{
   "title": {
     "text": "Scoring Trends",
     "left": "center",
@@ -888,98 +1722,4 @@
         }
     ]
 }
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="marvin-harrison-jr-wr">Marvin Harrison Jr. (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> It was an inefficient day at the office for Harrison, who recorded just 32 receiving yards on a 33 percent catch rate. A one-sided game script in favor of Arizona also hurt the wideout’s fantasy potential Sunday, as this contest was never close despite the 13-point difference once the game clock hit zero. Harrison owns a 47-687-7 receiving line through 14 starts as a rookie, with his next chance to play coming in a road tilt against Carolina next Sunday.</p> <h4 id="trey-mcbride-te">Trey McBride (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> McBride continued his dominance in between the 20s with another big PPR effort that resulted in no touchdowns. The 24-year-old has shockingly recorded 89 receptions for 938 yards with zero trips to the end zone in 13 starts this season. It will be curious to see if the budding tight end will reach the 1,000-yard receiving mark or score his first touchdown of 2024 first. We could find out the answer when McBride and the Cardinals face the Panthers next Sunday.</p> <h4 id="diontae-johnson-wr">Diontae Johnson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Johnson was suspended by Baltimore for Week 15 due to conduct detrimental to the team, but even after his suspension is officially lifted, the veteran wideout won’t be back in the building to prepare for Saturday’s divisional matchup against the Steelers. Since joining the Ravens in a trade with the Panthers back in October, Johnson has failed to solidify his standing in Baltimore’s wide receiver corps. At this point, it remains to be seen whether the veteran wideout will return to team activities Week 17.</p> <h4 id="rome-odunze-wr">Rome Odunze (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Odunze was unable to replicate his two-score game from a week prior, instead providing fantasy managers with just two receptions in Monday’s lopsided loss. The Bears’ first-round rookies struggled to get on the same page after Caleb Williams connected with Odunze on just 29 percent of his throws against Minnesota. Odunze has potential to go off on a given week, but his floor is too low to rely on against the Lions on Sunday for managers making critical lineup decisions in the fantasy playoffs.</p> <h4 id="chase-brown-rb">Chase Brown (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Brown scored his fourth receiving touchdown of the season on a six-yard catch in the first quarter and added his seventh rushing touchdown on a five-yard run with 1:09 remaining in the fourth quarter. The 2023 third-round pick also came just three yards shy of his second career 100-yard rushing performance. Brown has excelled in the lead role with seven total touchdowns in his last seven games, and he’ll look to keep rolling in Week 16 against the Browns.</p> <h4 id="jared-goff-qb">Jared Goff (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> The Lions went down 14-0 in the first quarter and played from behind the entire contest, which led to a season-high 59 pass attempts for Goff. He converted that into an excellent stat line, including his second-most yards in any game of his career while matching a career-high with five touchdowns. He also completed five passes of at least 20 yards, highlighted by a 66-yard touchdown connection with Amon-Ra St. Brown late in the third quarter. While this was an outlier performance, Goff has at least three passing scores in half of Detroit’s 10 games since their Week 5 bye and should remain an excellent starting option heading into a Week 16 matchup against the Bears.</p> <h4 id="cooper-kupp-wr">Cooper Kupp (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The wet conditions certainly played a role, but seeing Kupp finish without a catch for the first time since Week 10 of the 2019 season and second time in his career still was shocking, not to mention especially ill-timed from a fantasy perspective. Kupp had entered Thursday with at least 60 receiving yards in five of the previous six games, and he’ll naturally have nowhere to go but up in a Week 16 road matchup against the Jets on Sunday, Dec. 22.</p> <h4 id="jaylen-waddle-wr">Jaylen Waddle (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Waddle’s status appears murky for Miami’s upcoming matchup against the 49ers on Sunday, but it at least appears he’s avoided a more severe outcome. Tyreek Hill remains available for the Dolphins, and if Waddle can’t go Week 16, rookie sixth-round pick Malik Washington would be in a solid position to build upon the career-best 5-52-0 receiving line that he logged versus Houston. Further clarity on Waddle’s status could arrive with Wednesday’s first official injury report of Week 16.</p> <h4 id="devon-achane-rb">De’Von Achane (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Achane doubled up Raheem Mostert in carries and finished with his highest rushing yardage total since Week 11. While Achane failed to average even 4.0 yards per carry for the fourth straight contest, he was once again heavily involved as a receiver. He’s recorded at least six catches in three straight games, but he’ll aim to get back on track on the ground in a Week 16 home matchup against a 49ers defense that’s had trouble against the run on occasion.</p> <h4 id="justin-jefferson-wr">Justin Jefferson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Jefferson brought in Sam Darnold’s only touchdown pass of the night on a seven-yard catch with just over five minutes remaining in the first quarter. Jefferson tied Jordan Addison for the team lead in receptions and set the pace in both receiving yards and targets, a familiar position for the star wideout. Jefferson has eclipsed 70 receiving yards in four of the last five games and also has three total scores in the last pair of contests heading into a Week 16 road battle against the Seahawks.</p> <h4 id="sam-darnold-qb">Sam Darnold (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> The Vikings had the luxury of running a balanced attack against the hapless Bears, so Darnold didn’t have to do anywhere near as much as he had against the Falcons in Week 14. However, the veteran quarterback still put together a solid effort that saw him connect with seven different targets overall, including starting wideouts Justin Jefferson and Jordan Addison seven times apiece. Darnold’s one scoring toss went to Jefferson as well from seven yards out with just over five minutes remaining in the first quarter, extending his streak with at least one touchdown pass to five games. Darnold now will turn his sights to what could be a tough Week 16 road date with the Seahawks on a short week.</p> <h4 id="antonio-gibson-rb">Antonio Gibson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Gibson followed up his first touchdown of the season with a well-rounded effort behind starter Rhamondre Stevenson (13-69-0). The 26-year-old Gibson is averaging 4.7 yards with the Patriots this season, a mark he hadn’t sniffed since his impressive rookie campaign with Washington in 2020. Gibson can provide niche value for those in deep PPR formats for Week 16 against Buffalo.</p> <h4 id="wandale-robinson-wr">Wan’Dale Robinson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Robinson finished a distant runner-up across the board in all three receiving categories to Malik Nabers. The reliable third-year pro eclipsed the 70-catch mark on the season (71) with Sunday’s production, and he heads into a favorable Week 16 road matchup against the Falcons with at least four receptions in four of the last five contests.</p> <h4 id="allen-lazard-wr">Allen Lazard (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> Lazard has displayed butter fingers throughout his tenure with the Jets, and he had an especially costly drop Sunday on a dime from Aaron Rodgers that should have been a 30-yard touchdown. Anders Carlson missed a field-goal attempt on the very next play, though Lazard’s struggles ultimately didn’t prevent the Jets from notching their fourth win of the season. For the second consecutive game since Lazard returned from IR, Davante Adams and Garrett Wilson combined for double-digit catches and well over 200 yards, leaving limited opportunities for the team’s No. 3 wideout.</p> <h4 id="breece-hall-rb">Breece Hall (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Hall wasn’t efficient in his return after a one-game absence due to a knee injury, and he ceded a combined seven carries to Isaiah Davis and Braelon Allen, the latter of whom exited due to a back injury. The lead back salvaged his fantasy stat line with a one-yard rushing touchdown, which broke a 25-25 tie with 1:05 left in the fourth quarter. If Hall avoids any setbacks in practice, he’ll likely get a larger workload in Week 16 against the Rams.</p> <h4 id="braelon-allen-rb">Braelon Allen (RB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Before his departure, Allen carried twice for five yards. While he is sidelined, Breece Hall and Isaiah Davis are available to handle the Jets’ backfield duties versus Jacksonville.</p> <h4 id="dallas-goedert-te">Dallas Goedert (TE)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> This was reported earlier by various sources, but it was officially confirmed by the team later in the day. Grant Calcaterra and C.J. Uzomah will be tasked with taking on the work vacated by Goedert, who will be eligible to return during the team’s final week of the regular season.</p> <h4 id="geno-smith-qb">Geno Smith (QB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Smith took a low hit from a Packers defender in the middle of the third quarter of Sunday’s loss and limped to the sideline and eventually the locker room. He returned to the bench not long after, but he didn’t retake the field, yielding QB duties to Sam Howell for the remainder of the contest. It seems that Smith has dodged a bullet, but it remains to be seen if he’ll be able to do enough to gain clearance for this coming Sunday’s game against the Vikings.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_RRT_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_RRT_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table>]]></content><author><name></name></author><category term="team-reports"/><category term="2024-25,"/><category term="WeeklyRecap,"/><category term="Week15"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">To Infinity and Bijan! Week 15 Report</title><link href="https://family-fantasy-football.github.io/blog/2024/Week-15-TIB/" rel="alternate" type="text/html" title="To Infinity and Bijan! Week 15 Report"/><published>2024-12-17T14:21:22+00:00</published><updated>2024-12-17T14:21:22+00:00</updated><id>https://family-fantasy-football.github.io/blog/2024/Week-15-TIB</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2024/Week-15-TIB/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>To Infinity and Bijan! Won against Hit and Ruggs 255.56-229.66<br/> Current Standing: #5<br/> Playoff Chances: 0.0%<br/> Lineup Efficiency: 86.9%<br/> Best Performer: Mike Evans (32.40 pts)<br/></p> <pre><code class="language-echarts">{
-    "tooltip": {
-        "trigger": "item",
-        "formatter": "{a} &lt;br/&gt;{b}: {d}%"
-    },
-    "legend": {
-        "orient": "vertical",
-        "left": "left",
-        "data": [
-            "QB",
-            "RB",
-            "WR",
-            "TE",
-            "D/ST",
-            "K"
-        ]
-    },
-    "series": [
-        {
-            "name": "Position Points",
-            "type": "pie",
-            "radius": [
-                "50%",
-                "70%"
-            ],
-            "avoidLabelOverlap": false,
-            "data": [
-                {
-                    "value": 38.5,
-                    "name": "QB"
-                },
-                {
-                    "value": 18.2,
-                    "name": "RB"
-                },
-                {
-                    "value": 93.0,
-                    "name": "WR"
-                },
-                {
-                    "value": 1.9,
-                    "name": "TE"
-                }
-            ]
-        }
-    ]
-}
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="bijan-robinson-rb">Bijan Robinson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Robinson had clear control of the Falcons’ ground game once again, although backfield mate Tyler Allgeier logged 12 carries of his own as part of a run-centric game plan. Robinson eclipsed the 100-yard mark for the fourth time this season in the process, doing so with a figure that qualified as a new season high. The second-year back has now encouragingly logged at least 22 carries in three straight contests, and he could potentially put together an even better performance against the Giants’ suspect run defense in a Week 16 home matchup.</p> <h4 id="darnell-mooney-wr">Darnell Mooney (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> The quick upgrade from limited participation to full confirms Mooney will be ready for Monday’s game at Las Vegas. He was one of the few Falcons to thrive Week 14, catching six of seven targets for 142 yards in a 42-21 loss at Minnesota.</p> <h4 id="dalton-kincaid-te">Dalton Kincaid (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Making his return from a three-game absence due to a knee injury, Kincaid finished third in receptions and receiving yards while sharing the team lead in targets. Kincaid’s yardage tally was actually a new season high, and he’s posted a trio of four-reception efforts in his last four games dating back to Week 8.</p> <h4 id="cole-kmet-te">Cole Kmet (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Despite the Bears playing from behind all afternoon, Caleb Williams attempted just 23 passes. Chicago simply couldn’t move the football versus San Francisco and ran just 52 offensive plays. Kmet was on the field for 92 percent of the offensive downs, and he’s played at least 92 percent of the snaps in five consecutive games. That playing time alone keeps him on the fantasy radar ahead of a Week 15 date with the Vikings.</p> <h4 id="mike-gesicki-te">Mike Gesicki (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Gesicki finished a distant third on the team in receiving yards behind Ja’Marr Chase (94) and Tee Higgins (88). The veteran tight end has accounted for only two of Joe Burrow’s league-leading 36 touchdown passes heading into a Week 16 home game against the Browns, but Gesicki has carved out a passable floor with at least three catches in each of his last three games.</p> <h4 id="tee-higgins-wr">Tee Higgins (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Higgins caught a 38-yard touchdown pass in the second quarter to break a 14-14 tie, and the Bengals led the rest of the way. He trailed only Ja’Marr Chase in targets, catches and receiving yards, finishing six yards shy of Chase’s team-leading total. Higgins has at least 77 receiving yards in five of his last seven appearances and six touchdowns over that span, so he’s been excellent when available. That production included 82 yards and a touchdown in Week 7 against the Browns, whom Higgins will face again Week 16.</p> <h4 id="amon-ra-st-brown-wr">Amon-Ra St. Brown (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The Lions were forced into a pass-heavy offense as they chased the Bills all game, and the result was a career-best performance for St. Brown. The highlight came on a 66-yard touchdown catch and run, during which St. Brown split the Buffalo defense down the middle and out-raced several defenders to the end zone. He also chipped in long gains of 24, 31 and 16 yards to top 100 yards for the fourth time this season and for the first time since Week 11.</p> <h4 id="michael-pittman-jr-wr">Michael Pittman Jr. (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Pittman fumbled at the end of a six-yard catch in the third quarter, but he led the Colts in targets, catches and receiving yards. Josh Downs had only 32 yards on eight targets after missing one game due to a shoulder injury, and Alec Pierce exited due to a concussion just before halftime. Pittman has at least seven targets in each of the past four games and should maintain a prominent role in the Colts’ lackluster passing attack in Week 16 against the Titans.</p> <h4 id="tank-bigsby-rb">Tank Bigsby (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> After out-touching Travis Etienne, 19-8, in Week 14 against the Titans, Bigsby returned to a complementary role against the Jets, finishing with 11 touches to Etienne’s 18. They’ll likely continue to work as a tandem in Week 16, when the Jaguars could have a more run-heavy game script than usual in a battle between bottom-feeders against the Raiders. Bigsby has just five catches all season, so he relies almost exclusively on rushing contributions while the versatile Etienne can play in all situations.</p> <h4 id="quentin-johnston-wr">Quentin Johnston (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> The ankle injury is new for Johnston, so his practice status bears monitoring over the next couple of days ahead of Thursday night’s game against the Broncos. Johnston’s 73 percent snap share against the Bucs on Sunday was right in line with his norm, so it’s unclear when he was injured. He finished with a 5-45-1 line on a season-high 10 targets. If Johnston were to miss Week 16, Joshua Palmer, Jalen Reagor and DJ Chark would be in line to handle outside wide receiver snaps, with rookie Ladd McConkey spending most of his time in the slot.</p> <h4 id="raheem-mostert-rb">Raheem Mostert (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Mostert made his return from a one-game absence due to a hip injury, and he finished with his third single-digit rushing yardage total in the last four games. Mostert’s reception total was a new season high, yet it’s clear he’s a distant second fiddle, at best, to De’Von Achane in Miami’s unproductive ground attack barring an injury to the latter.</p> <h4 id="devin-singletary-rb">Devin Singletary (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Singletary tied his highest carry total since Week 4, the last game in which he was still considered the lead back before Tyrone Tracy usurped him for the role. Singletary logged only two fewer carries than his backfield mate Sunday, and his two-yard rushing touchdown late in the first half was his fourth of the campaign. The veteran back should retain a solid complementary role at minimum in a Week 16 road matchup against the vulnerable Falcons defense.</p> <h4 id="aaron-rodgers-qb">Aaron Rodgers (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Rodgers posted his third-highest passing yardage total of the campaign while setting a new season high in rushing yards in this throwback performance. He answered an opening-drive Jaguars touchdown with a 22-yard touchdown pass to Garrett Wilson, but the veteran quarterback finished the first half with just three completions and 55 passing yards. Rodgers bounced back in the third quarter with a go-ahead one-yard touchdown pass to Davante Adams, whom Rodgers connected with for a 43-yard gain earlier on the drive. After the Jets fell behind 22-17 in the fourth quarter, Rodgers found Adams for a 71-yard touchdown and a two-point conversion to take a three-point lead with 3:24 remaining, then linked up with Adams for a 41-yard gain to set up Breece Hall’s game-winning touchdown run. Adams accounted for 198 of Rodgers’ 289 passing yards, and their chemistry will be tough for the Rams to stop in Week 16.</p> <h4 id="russell-wilson-qb">Russell Wilson (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> The Eagles dominated time of possession, and the Steelers ran only offensive 41 plays. That was due in part to Wilson’s inability to move the Pittsburgh offense, as the unit totaled -19 yards through their five possessions while picking up only 163 net yards for the game. The end result was Wilson’s lowest yardage total as the team’s starter and his second consecutive performance with less than 160 passing yards with George Pickens (hamstring) sidelined. Though Baltimore’s passing defense, which Pittsburgh’s offense will face next Saturday, has been leaky at times, it will be difficult to trust Wilson moving forward – particularly as long as Pickens is out.</p> <h4 id="kenneth-walker-iii-rb">Kenneth Walker III (RB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Walker has missed back-to-back contests due to a calf injury, and he also hasn’t practiced since Wednesday, Dec. 4. Macdonald added, “We’ll see,” regarding Walker’s chances to take the field Wednesday, when the Seahawks are slated for their first session of Week 16 prep. Zach Charbonnet has filled in for Walker during his absence, turning 38 touches into 259 yards from scrimmage and three rushing TDs, and even Kenny McIntosh has got some run (12 touches for 54 total yards).</p> <h4 id="tyler-lockett-wr">Tyler Lockett (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Since the Seahawks’ Week 10 bye, Lockett has averaged just 15.4 receiving yards per game while failing to find the end zone. Meanwhile, second-year wideout Jaxon Smith-Njigba has been a target hog, tallying a team-high 12 targets in Week 15. It will be tough to depend on Lockett for fantasy purposes moving forward.</p> <h4 id="mike-evans-wr">Mike Evans (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Evans showed no ill effects from the hamstring injury that limited him during the practice week, ripping off two long touchdown receptions in Sunday’s lopsided victory. The nine receptions and 159 yards both marked new highs for the superstar wideout in 2024. Evans likely helped many fantasy managers advance in their respective playoff schedule, and he could be in for an encore against a middling Cowboys squad on Sunday Night Football in Week 16.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_TIB_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_TIB_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table>]]></content><author><name></name></author><category term="team-reports"/><category term="2024-25,"/><category term="WeeklyRecap,"/><category term="Week15"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Tom and Jerry Week 15 Report</title><link href="https://family-fantasy-football.github.io/blog/2024/Week-15-TOM/" rel="alternate" type="text/html" title="Tom and Jerry Week 15 Report"/><published>2024-12-17T14:21:22+00:00</published><updated>2024-12-17T14:21:22+00:00</updated><id>https://family-fantasy-football.github.io/blog/2024/Week-15-TOM</id><content type="html" xml:base="https://family-fantasy-football.github.io/blog/2024/Week-15-TOM/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Tom and Jerry Lost against Pink Pony Club 307.18-366.24<br/> Current Standing: #4<br/> Playoff Chances: 100.0%<br/> Lineup Efficiency: 86.3%<br/> Best Performer: Baker Mayfield (28.02 pts)<br/></p> <pre><code class="language-echarts">{
-    "tooltip": {
-        "trigger": "item",
-        "formatter": "{a} &lt;br/&gt;{b}: {d}%"
-    },
-    "legend": {
-        "orient": "vertical",
-        "left": "left",
-        "data": [
-            "QB",
-            "RB",
-            "WR",
-            "TE",
-            "D/ST",
-            "K"
-        ]
-    },
-    "series": [
-        {
-            "name": "Position Points",
-            "type": "pie",
-            "radius": [
-                "50%",
-                "70%"
-            ],
-            "avoidLabelOverlap": false,
-            "data": [
-                {
-                    "value": 43.8,
-                    "name": "QB"
-                },
-                {
-                    "value": 34.6,
-                    "name": "RB"
-                },
-                {
-                    "value": 54.7,
-                    "name": "WR"
-                },
-                {
-                    "value": 19.7,
-                    "name": "TE"
-                }
-            ]
-        }
-    ]
-}
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="justice-hill-rb">Justice Hill (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Hill made an additional mark outside of fantasy matchups when he ripped off a 59-yard return on special teams. Baltimore’s talented backup recorded his fourth touchdown of the season on quarterback Lamar Jackson’s fifth passing touchdown of the game. Hill remains a boom-or-bust option (due to his limited usage) for those in deeper leagues as the Ravens prepare to host the Steelers on Saturday.</p> <h4 id="jerome-ford-rb">Jerome Ford (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ford opened the game in his usual complementary role behind Nick Chubb, but the latter eventually exited the game due to what was subsequently determined to be a broken foot. Ford broke off a 62-yard touchdown run late in the fourth quarter to account for the majority of his yardage, but he should be poised to handle a lead-back role moving forward for what remains of the season with Chubb sidelined.</p> <h4 id="jerry-jeudy-wr">Jerry Jeudy (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Jeudy comfortably led the Browns in receptions, receiving yards and targets on an afternoon when Jameis Winston and Dorian Thompson-Robinson combined for just 154 passing yards and threw four interceptions between them. The 2020 first-round pick of the Broncos is putting the finishing touches on a career year despite his team’s struggles, now boasting a 70-1,052-4 line across 14 games. Both the reception and receiving yardage totals are new high-water marks for the talented wideout, but he could see a downturn in production over the final three games if head coach Kevin Stefanski opts to turn to the erratic Thompson-Robinson at quarterback the rest of the way following Winston’s benching Sunday.</p> <h4 id="jake-ferguson-te">Jake Ferguson (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Dallas was able to take its foot off the gas in the second half thanks to a multi-score lead, and Cooper Rush attempted nine passes in the final two quarters. That limited volume for all pass catchers with the exception of CeeDee Lamb, and Ferguson saw only four targets – good for third on the team – as a result. The game script should look different in a Week 16 showdown with Tampa Bay, giving Ferguson a better chance to produce.</p> <h4 id="tucker-kraft-te">Tucker Kraft (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Kraft did most of his damage on a jump ball that he corralled for a 26-yard gain late in the second quarter, but he didn’t see a target after that point, leaving him below 50 receiving yards for the fifth time in the past six games. During that span, he’s mustered 15 catches for 179 yards on 21 targets, but he’s salvaged two of those performances with TD catches. In an offense that has leaned toward the run most weeks since a Week 10 bye, Kraft must take full advantage of the handful of targets that he may receive, and he’ll look to do just that Week 16 against the Saints on Monday Night Football.</p> <h4 id="jordan-love-qb">Jordan Love (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> After Josh Jacobs ran in a touchdown on the opening drive, Love doubled Green Bay’s lead with a 13-yard touchdown pass to Romeo Doubs. Love had only one incompletion as the Packers produced points on all four of their first-half drives to take a 20-3 lead into the locker room. Green Bay’s offense slowed down in the second half, but the defense did its job, and Love added some breathing room with a 22-yard touchdown pass to Romeo Doubs with 4:59 left in the fourth quarter. This clean performance improved Love’s TD:INT to 23:11 heading into a Week 16 home game against the Saints.</p> <h4 id="josh-jacobs-rb">Josh Jacobs (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Jacobs was involved from the get-go with 44 scrimmage yards on seven carries and two catches on the opening drive, which concluded with a one-yard touchdown run. He finished the first half with 17 touches for 111 yards but struggled after halftime. Jacobs went backward in the third quarter with four carries for minus-5 yards, then fumbled in the fourth. He racked up some more yardage as the Packers kept the clock running with the lead but was stuffed on fourth-and-2 with 5:55 left. Jacobs came six rushing yards shy of his fourth 100-yard rushing performance, but he’s up to 12 rushing touchdowns in 14 games with the Packers and will look to add to that total against the Saints in Week 16.</p> <h4 id="tank-dell-wr">Tank Dell (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Dell’s receiving yardage total, modest as it was, qualified as the second highest on the Texans for the afternoon behind Joe Mixon’s 33. Dell also recorded his longest rush since Week 2 with his 15-yard run, but he’s now posted under 40 receiving yards in five of his last eight games overall. Dell will look to make inroads against the Chiefs’ defense in a Week 16 road matchup on Saturday afternoon.</p> <h4 id="alec-pierce-wr">Alec Pierce (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> questionable</p> <h4 id="patrick-mahomes-qb">Patrick Mahomes (QB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Mahomes was forced out of Sunday’s 21-7 win over the Browns in the fourth quarter, leaving backup Carson Wentz to close out the contest. Now, with the Chiefs facing a short turnaround for Week 16’s matchup against the Texans on Saturday, then a road matchup against Pittsburgh on Christmas Day coming Week 17, Mahomes’ availability for the remainder of the regular season is murky at best. Currently, at 13-1, Kansas City has a two-game lead on Buffalo (11-3) for the top seed in the AFC, and the Chiefs have already clinched a playoff spot. The team figures to take a cautious approach to Mahomes’ health in order to prioritize his effectiveness for the postseason, making it appear likely that Wentz starts Saturday versus Houston. For Weeks 17 and 18, though, playoff standing could potentially factor into decisions made on Mahomes’ availability.</p> <h4 id="jonnu-smith-te">Jonnu Smith (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Smith was the Dolphins’ leader in receptions and targets while checking in second in receiving yards. The veteran tight end has at least nine catches in three of his last four games, and his seven-yard touchdown grab with 4:30 remaining was Smith’s fifth score in the last five contests as well. The FIU product heads into a Week 16 home matchup against the 49ers with a career-best 70 receptions and 740 receiving yards over 14 games, while his six touchdowns are the second most of his career.</p> <h4 id="alvin-kamara-rb">Alvin Kamara (RB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Kamara was forced out of New Orleans’ 20-19 loss against Washington in Week 15 in the second half, and it’s possible his groin injury could impact his availability for Monday night’s road matchup against Green Bay on Dec. 23. If Kamara were to miss any time, second-year pro Kendre Miller and veteran Jamaal Williams would be positioned as the lead options in the Saints backfield. Further details on Kamara’s health may not be made available until later during Week 16 prep, with New Orleans’ first official practice scheduled to occur Thursday.</p> <h4 id="chris-olave-wr">Chris Olave (WR)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> In other words, the Saints aren’t shutting Olave down for the season – at least not yet – but he’s unlikely to play this Sunday against the Commanders when first eligible to return from IR. Olave sustained his second concussion of the season and his third in less than a year in the Saints’ Week 9 loss to the Panthers on Nov. 3.</p> <h4 id="aj-brown-wr">A.J. Brown (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Brown made headlines throughout the week after being critical of Philadelphia’s passing offense, but he did his part to quiet that storyline by making a season-best eight receptions while topping 100 yards for the fifth time in 11 contests. His performance was highlighted by long receptions 21, 20, 19 and 17 yards as well as a five-yard touchdown late in the first quarter. Brown’s strong performance was almost soured late in the game, when he got up slowly after an apparent hip-drop tackle, though he was spotted moving fine in the locker room following the win, per Eliot Shorr-Parks of Sports Radio 94 WIP Philadelphia.</p> <h4 id="mike-williams-wr">Mike Williams (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Playing without Pickens in Week 14 against the Browns, Williams resurfaced in the Steelers’ air attack, albeit modestly, with a 3-36-0 line on four targets. However, that represented a significant uptick in involvement for the veteran trade-deadline acquisition, whose only reception in a Steelers uniform prior to that game had been a 32-yard touchdown catch in his Week 10 team debut against the Commanders. Williams again will have added opportunities for targets Sunday, although those will come versus a talented Philadelphia secondary that’s allowed an NFC-low 178.5 passing yards per game.</p> <h4 id="jauan-jennings-wr">Jauan Jennings (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Just four days after bringing in seven of eight targets – a pair of touchdown grabs among them – against the Bears, Jennings saw a team-high target total in Thursday’s rainy conditions but was highly inefficient. The veteran wideout entered Thursday with a solid 73.1 percent catch rate on the season, and his struggles led to his lowest yardage total since Week 6. Jennings will aim to bounce back against a talented Dolphins secondary in a Week 16 road interconference battle on Sunday, Dec. 22.</p> <h4 id="jaxon-smith-njigba-wr">Jaxon Smith-Njigba (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Smith-Njigba was the lone bright spot among Seattle receivers Sunday, leading the team in every notable category by a large margin. The sophomore standout has quietly become the top wideout for a team boasting two proven veterans at the position. Smith-Njigba has generated at least 69 yards of offense over his last seven contests with four touchdowns scored over that span. Continue riding the hot hand down the stretch as the Seahawks prepare to host the Vikings next Sunday.</p> <h4 id="baker-mayfield-qb">Baker Mayfield (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Mayfield posted a stellar 135.3 passer rating en route to a lopsided victory between cross-conference playoff hopefuls. The four scores also helped the 2018 first-overall pick set a new high-water mark in touchdown passes (32) in a single season. Mayfield continues to prove that last year’s breakout with Tampa Bay was no fluke, as he is now 383 yards away from recording consecutive 4,000-yard campaigns. It would take a season-best effort against the Cowboys on Sunday Night Football in Week 16 to accomplish the feat, but the late-blooming QB makes for a strong fantasy play whether or not he hits the 4K mark in passing yards next Sunday.</p> <h4 id="austin-ekeler-rb">Austin Ekeler (RB)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ekeler said he doesn’t remember walking off the field Nov. 24 against the Cowboys, or indeed anything until he got in the ambulance to go to the hospital. The veteran running back also states he had memory loss following his Week 3 concussion earlier in the season. All of these symptoms led to Ekeler’s placement on injured reserve ahead of Week 13, sidelining him until at least Week 18. Brian Robinson, Jeremy McNichols and Chris Rodriguez are set to handle backfield duties while Ekeler is out.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_TOM_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_TOM_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table>]]></content><author><name></name></author><category term="team-reports"/><category term="2024-25,"/><category term="WeeklyRecap,"/><category term="Week15"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry></feed>
+</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="marvin-harrison-jr-wr">Marvin Harrison Jr. (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> It was an inefficient day at the office for Harrison, who recorded just 32 receiving yards on a 33 percent catch rate. A one-sided game script in favor of Arizona also hurt the wideout’s fantasy potential Sunday, as this contest was never close despite the 13-point difference once the game clock hit zero. Harrison owns a 47-687-7 receiving line through 14 starts as a rookie, with his next chance to play coming in a road tilt against Carolina next Sunday.</p> <h4 id="trey-mcbride-te">Trey McBride (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> McBride continued his dominance in between the 20s with another big PPR effort that resulted in no touchdowns. The 24-year-old has shockingly recorded 89 receptions for 938 yards with zero trips to the end zone in 13 starts this season. It will be curious to see if the budding tight end will reach the 1,000-yard receiving mark or score his first touchdown of 2024 first. We could find out the answer when McBride and the Cardinals face the Panthers next Sunday.</p> <h4 id="diontae-johnson-wr">Diontae Johnson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Johnson was suspended by Baltimore for Week 15 due to conduct detrimental to the team, but even after his suspension is officially lifted, the veteran wideout won’t be back in the building to prepare for Saturday’s divisional matchup against the Steelers. Since joining the Ravens in a trade with the Panthers back in October, Johnson has failed to solidify his standing in Baltimore’s wide receiver corps. At this point, it remains to be seen whether the veteran wideout will return to team activities Week 17.</p> <h4 id="rome-odunze-wr">Rome Odunze (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Odunze was unable to replicate his two-score game from a week prior, instead providing fantasy managers with just two receptions in Monday’s lopsided loss. The Bears’ first-round rookies struggled to get on the same page after Caleb Williams connected with Odunze on just 29 percent of his throws against Minnesota. Odunze has potential to go off on a given week, but his floor is too low to rely on against the Lions on Sunday for managers making critical lineup decisions in the fantasy playoffs.</p> <h4 id="chase-brown-rb">Chase Brown (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Brown scored his fourth receiving touchdown of the season on a six-yard catch in the first quarter and added his seventh rushing touchdown on a five-yard run with 1:09 remaining in the fourth quarter. The 2023 third-round pick also came just three yards shy of his second career 100-yard rushing performance. Brown has excelled in the lead role with seven total touchdowns in his last seven games, and he’ll look to keep rolling in Week 16 against the Browns.</p> <h4 id="jared-goff-qb">Jared Goff (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> The Lions went down 14-0 in the first quarter and played from behind the entire contest, which led to a season-high 59 pass attempts for Goff. He converted that into an excellent stat line, including his second-most yards in any game of his career while matching a career-high with five touchdowns. He also completed five passes of at least 20 yards, highlighted by a 66-yard touchdown connection with Amon-Ra St. Brown late in the third quarter. While this was an outlier performance, Goff has at least three passing scores in half of Detroit’s 10 games since their Week 5 bye and should remain an excellent starting option heading into a Week 16 matchup against the Bears.</p> <h4 id="cooper-kupp-wr">Cooper Kupp (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The wet conditions certainly played a role, but seeing Kupp finish without a catch for the first time since Week 10 of the 2019 season and second time in his career still was shocking, not to mention especially ill-timed from a fantasy perspective. Kupp had entered Thursday with at least 60 receiving yards in five of the previous six games, and he’ll naturally have nowhere to go but up in a Week 16 road matchup against the Jets on Sunday, Dec. 22.</p> <h4 id="jaylen-waddle-wr">Jaylen Waddle (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Waddle’s status appears murky for Miami’s upcoming matchup against the 49ers on Sunday, but it at least appears he’s avoided a more severe outcome. Tyreek Hill remains available for the Dolphins, and if Waddle can’t go Week 16, rookie sixth-round pick Malik Washington would be in a solid position to build upon the career-best 5-52-0 receiving line that he logged versus Houston. Further clarity on Waddle’s status could arrive with Wednesday’s first official injury report of Week 16.</p> <h4 id="devon-achane-rb">De’Von Achane (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Achane doubled up Raheem Mostert in carries and finished with his highest rushing yardage total since Week 11. While Achane failed to average even 4.0 yards per carry for the fourth straight contest, he was once again heavily involved as a receiver. He’s recorded at least six catches in three straight games, but he’ll aim to get back on track on the ground in a Week 16 home matchup against a 49ers defense that’s had trouble against the run on occasion.</p> <h4 id="justin-jefferson-wr">Justin Jefferson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Jefferson brought in Sam Darnold’s only touchdown pass of the night on a seven-yard catch with just over five minutes remaining in the first quarter. Jefferson tied Jordan Addison for the team lead in receptions and set the pace in both receiving yards and targets, a familiar position for the star wideout. Jefferson has eclipsed 70 receiving yards in four of the last five games and also has three total scores in the last pair of contests heading into a Week 16 road battle against the Seahawks.</p> <h4 id="sam-darnold-qb">Sam Darnold (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> The Vikings had the luxury of running a balanced attack against the hapless Bears, so Darnold didn’t have to do anywhere near as much as he had against the Falcons in Week 14. However, the veteran quarterback still put together a solid effort that saw him connect with seven different targets overall, including starting wideouts Justin Jefferson and Jordan Addison seven times apiece. Darnold’s one scoring toss went to Jefferson as well from seven yards out with just over five minutes remaining in the first quarter, extending his streak with at least one touchdown pass to five games. Darnold now will turn his sights to what could be a tough Week 16 road date with the Seahawks on a short week.</p> <h4 id="antonio-gibson-rb">Antonio Gibson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Gibson followed up his first touchdown of the season with a well-rounded effort behind starter Rhamondre Stevenson (13-69-0). The 26-year-old Gibson is averaging 4.7 yards with the Patriots this season, a mark he hadn’t sniffed since his impressive rookie campaign with Washington in 2020. Gibson can provide niche value for those in deep PPR formats for Week 16 against Buffalo.</p> <h4 id="wandale-robinson-wr">Wan’Dale Robinson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Robinson finished a distant runner-up across the board in all three receiving categories to Malik Nabers. The reliable third-year pro eclipsed the 70-catch mark on the season (71) with Sunday’s production, and he heads into a favorable Week 16 road matchup against the Falcons with at least four receptions in four of the last five contests.</p> <h4 id="allen-lazard-wr">Allen Lazard (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> Lazard has displayed butter fingers throughout his tenure with the Jets, and he had an especially costly drop Sunday on a dime from Aaron Rodgers that should have been a 30-yard touchdown. Anders Carlson missed a field-goal attempt on the very next play, though Lazard’s struggles ultimately didn’t prevent the Jets from notching their fourth win of the season. For the second consecutive game since Lazard returned from IR, Davante Adams and Garrett Wilson combined for double-digit catches and well over 200 yards, leaving limited opportunities for the team’s No. 3 wideout.</p> <h4 id="breece-hall-rb">Breece Hall (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Hall wasn’t efficient in his return after a one-game absence due to a knee injury, and he ceded a combined seven carries to Isaiah Davis and Braelon Allen, the latter of whom exited due to a back injury. The lead back salvaged his fantasy stat line with a one-yard rushing touchdown, which broke a 25-25 tie with 1:05 left in the fourth quarter. If Hall avoids any setbacks in practice, he’ll likely get a larger workload in Week 16 against the Rams.</p> <h4 id="braelon-allen-rb">Braelon Allen (RB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Before his departure, Allen carried twice for five yards. While he is sidelined, Breece Hall and Isaiah Davis are available to handle the Jets’ backfield duties versus Jacksonville.</p> <h4 id="dallas-goedert-te">Dallas Goedert (TE)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> This was reported earlier by various sources, but it was officially confirmed by the team later in the day. Grant Calcaterra and C.J. Uzomah will be tasked with taking on the work vacated by Goedert, who will be eligible to return during the team’s final week of the regular season.</p> <h4 id="geno-smith-qb">Geno Smith (QB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Smith took a low hit from a Packers defender in the middle of the third quarter of Sunday’s loss and limped to the sideline and eventually the locker room. He returned to the bench not long after, but he didn’t retake the field, yielding QB duties to Sam Howell for the remainder of the contest. It seems that Smith has dodged a bullet, but it remains to be seen if he’ll be able to do enough to gain clearance for this coming Sunday’s game against the Vikings.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_RRT_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-height="630" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_15_2024_RRT_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table>]]></content><author><name></name></author><category term="team-reports"/><category term="2024-25,"/><category term="WeeklyRecap,"/><category term="Week15"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry></feed>
