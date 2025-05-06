@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 31.78,
+    "projected": 21.45
+  },
+  {
+    "player_name": "Adam Thielen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 25.5,
+    "projected": 10.35
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.4,
+    "projected": 14.96
+  },
+  {
+    "player_name": "Deebo Samuel Sr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.6,
+    "projected": 12.59
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 24.3,
+    "projected": 22.28
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.7,
+    "projected": 18.14
+  },
+  {
+    "player_name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 8.4,
+    "projected": 8.01
+  },
+  {
+    "player_name": "Isaac Guerendo",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.9,
+    "projected": 13.26
+  },
+  {
+    "player_name": "Michael Carter",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.1,
+    "projected": 4.58
+  },
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 16.92,
+    "projected": 15.13
+  }
+]

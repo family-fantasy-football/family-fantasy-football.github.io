@@ -12,7 +12,7 @@ pretty_table: True
 
 # League History
  <br>
- <center>
+<center>
 <div class="row mb-3">
     <div class="col-12">
         <a href="/archive/" class="btn btn-primary">View League Archives</a>

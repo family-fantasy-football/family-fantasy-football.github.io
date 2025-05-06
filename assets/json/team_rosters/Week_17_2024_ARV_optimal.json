@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 16.04,
+    "projected": 18.15
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 27.0,
+    "projected": 10.91
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.9,
+    "projected": 12.04
+  },
+  {
+    "player_name": "Garrett Wilson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 12.17
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.0,
+    "projected": 10.97
+  },
+  {
+    "player_name": "Alexander Mattison",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 4.3,
+    "projected": 12.24
+  },
+  {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 18.4,
+    "projected": 10.52
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.1,
+    "projected": 13.19
+  },
+  {
+    "player_name": "Adonai Mitchell",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.2,
+    "projected": 3.12
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 0.0,
+    "projected": 0.0
+  }
+]

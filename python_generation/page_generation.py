@@ -2035,7 +2035,7 @@ def generate_payment_page(league, teams):
         "layout: page",
         "permalink: /payments/",
         "title: league payments",
-        "nav: true",
+        "nav: false",
         "nav_order: 7",
         "description: League payment tracking and prize distribution",
         "pretty_table: True",

@@ -47,4 +47,4 @@ data-url="{{ "/assets/json/payments/current_season.json" }}">
 - **1st Place**: $50 (remainder + penalties)
 
 
-*Last updated: 2025-05-05*
+*Last updated: 2025-05-06*

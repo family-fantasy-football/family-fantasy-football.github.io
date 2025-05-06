@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 22.98,
+    "projected": 24.28
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.6,
+    "projected": 10.88
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 11.62
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.2,
+    "projected": 16.7
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 26.6,
+    "projected": 18.76
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.0,
+    "projected": 16.06
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 22.2,
+    "projected": 7.76
+  },
+  {
+    "player_name": "Kyle Pitts",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 12.4,
+    "projected": 5.58
+  },
+  {
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 9.3,
+    "projected": 8.38
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 8.0,
+    "projected": 7.37
+  }
+]

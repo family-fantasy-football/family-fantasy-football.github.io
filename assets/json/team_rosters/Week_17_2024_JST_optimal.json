@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 21.86,
+    "projected": 17.9
+  },
+  {
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.9,
+    "projected": 12.94
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.0,
+    "projected": 12.02
+  },
+  {
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.6,
+    "projected": 11.59
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.1,
+    "projected": 16.66
+  },
+  {
+    "player_name": "Rachaad White",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 3.9,
+    "projected": 12.4
+  },
+  {
+    "player_name": "Pat Freiermuth",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 7.5,
+    "projected": 6.36
+  },
+  {
+    "player_name": "Tre Tucker",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.9,
+    "projected": 6.89
+  },
+  {
+    "player_name": "Brandin Cooks",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.2,
+    "projected": 7.04
+  },
+  {
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 5.7,
+    "projected": 11.91
+  }
+]

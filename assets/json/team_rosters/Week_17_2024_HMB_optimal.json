@@ -1,0 +1,72 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 36.98,
+    "projected": 19.61
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 32.6,
+    "projected": 13.77
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 25.4,
+    "projected": 11.94
+  },
+  {
+    "player_name": "Jameson Williams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.0,
+    "projected": 11.75
+  },
+  {
+    "player_name": "Ameer Abdullah",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.2,
+    "projected": 9.62
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.1,
+    "projected": 12.3
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 15.2,
+    "projected": 12.35
+  },
+  {
+    "player_name": "Tyreek Hill",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 15.0,
+    "projected": 7.97
+  },
+  {
+    "player_name": "Aaron Jones",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.7,
+    "projected": 13.28
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 30.28,
+    "projected": 18.55
+  }
+]
