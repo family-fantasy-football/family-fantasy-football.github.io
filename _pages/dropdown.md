@@ -16,9 +16,9 @@ children:
   - title: divider
   - title: constitution
     permalink: /constitution/
-  - title: divider
-  - title: league payments
-    permalink: /payments/
+  # - title: divider
+  # - title: league payments
+  #   permalink: /payments/
   # - title: divider
   # - title: playoffs
   #   permalink: /playoffs/

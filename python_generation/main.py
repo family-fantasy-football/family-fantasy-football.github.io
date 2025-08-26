@@ -29,13 +29,13 @@ def main():
     SWID = "{42614A28-F6F5-4052-A14A-28F6F52052AF}" 
     ESPN_S2 = "AECeHAkR7FZuTvVWSEnMRIA29wVeroZhvd7fHHy5tZvIUdIp4XIZaglA17V6g2rulDDFMCUiC%2BpeXNqWzEJTpjTJsz5Zv2DTMOIjeX0JrC6CYs8kDidYeF0HHkI78OG2O%2Bs6f%2FUPVSwXRBZEGMKPDdKl%2BE0a7na225JN4bC80tD9RXFv32kqqtEk%2Bgw1hgQ968ARiAdt69axAvjryW57rj58sYK4oMJPxjtPbh9tATi%2BSI2AmQ0dNPXZfRTA%2FFgCtgzyxWNwbKT2boYeDfFe7rm8idW47lnavsfYGwWjVpddVY6%2BcupF7uoc9AeVFQ5xNUY%3D"
     LEAGUE_ID = 697625923
-    YEAR = 2024
+    YEAR = 2025
     league=  League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
     week = league.nfl_week
     teams = league.teams
     weekly_rankings = []
-    week = 17
-    # reg_season_length= week
+    week = 1
+    reg_season_length= week
     box_scores_cache = {}  # Initialize cache
     teams = sorted(league.teams, key=lambda x: (x.wins, x.points_for), reverse=True)
     def get_box_scores(week, cache=box_scores_cache):
@@ -60,10 +60,10 @@ def main():
             trades.append(activity)
     generate_team_json(league, teams, box_scores, week, trades, transactions)
     generate_weekly_scores_json(teams, week, league)
-    # # save_team_logos(league)
+    save_team_logos(league)
     generate_roster_table(league, week)
     generate_standings_table(league, week)
-    # news_data = []
+    news_data = []
     generate_about_md(league, week, teams, box_scores)
     for team in teams:
         generate_indv_team_page_md(league, week, team, box_scores)
@@ -89,8 +89,8 @@ def main():
     generate_matchups_preview(league, week, box_scores, news_data)
     generate_player_comparison_data(league, week)
     
-    archive_team_pages(league, week, teams, box_scores)
-    generate_archive_index()
+    # archive_team_pages(league, week, teams, box_scores)
+    # generate_archive_index()
     
     generate_payment_page(league, teams)
 
