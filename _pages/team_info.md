@@ -25,4 +25,4 @@ children:
 
 ---
 
-Will be updated after the season starts!
+Will be updated after the draft is finished!
