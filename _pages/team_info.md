@@ -13,9 +13,9 @@ children:
   - title: divider
   - title: trades
     permalink: /trades/
-  # - title: divider
-  # - title: trade analyzer
-  #   permalink: /trades/trade_analyzer
+  - title: divider
+  - title: trade analyzer
+    permalink: /trades/trade_analyzer
   - title: divider
   - title: players
     permalink: /players/
