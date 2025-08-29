@@ -16,7 +16,7 @@ pretty_table: True
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/team_data/draft_best_2024.json" }}">
+data-url="{{ "/assets/json/team_data/draft_best_2025.json" }}">
 <thead>
 <tr>
 <th data-field="team" data-halign="center" data-align="left" data-sortable="true">Team</th>
@@ -36,7 +36,7 @@ data-url="{{ "/assets/json/team_data/draft_best_2024.json" }}">
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/team_data/draft_worst_2024.json" }}">
+data-url="{{ "/assets/json/team_data/draft_worst_2025.json" }}">
 <thead>
 <tr>
 <th data-field="team" data-halign="center" data-align="left" data-sortable="true">Team</th>
@@ -57,7 +57,7 @@ data-click-to-select="true"
 data-height="800"
 data-search="true"
 data-toggle="table"
-data-url="{{ "/assets/json/team_data/draft_total_2024.json" }}">
+data-url="{{ "/assets/json/team_data/draft_total_2025.json" }}">
 <thead>
 <tr>
 <th data-field="team" data-halign="center" data-align="left" data-sortable="true">Team</th>

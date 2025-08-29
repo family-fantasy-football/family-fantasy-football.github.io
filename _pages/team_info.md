@@ -3,7 +3,7 @@ layout: page
 title: team info
 nav: true
 nav_order: 2
-dropdown: true
+dropdown: false
 children:
   - title: team comparison
     permalink: /comparison/
@@ -24,3 +24,5 @@ children:
     permalink: /players/compare/
 
 ---
+
+Will be updated after the season starts!

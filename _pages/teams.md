@@ -5,40 +5,42 @@ permalink: /teams/
 description:
 nav: true
 nav_order: 1
-display_categories: [2024-25, 2025-26]
+display_categories: 2025-26
 horizontal: false
-dropdown: true
+dropdown: false
 children:
-  - title: WKCR
-    permalink: /projects/WKCR_2024/
-  - title: divider
-  - title: PONY
-    permalink: /projects/PONY_2024/
-  - title: divider
-  - title: TOM
-    permalink: /projects/TOM_2024/
-  - title: divider
-  - title: HMB
-    permalink: /projects/HMB_2024/
-  - title: divider
-  - title: JST
-    permalink: /projects/JST_2024/
-  - title: divider
-  - title: TIB
-    permalink: /projects/TIB_2024/
-  - title: divider
-  - title: MMT
-    permalink: /projects/MMT_2024/
-  - title: divider
-  - title: RRT
-    permalink: /projects/RRT_2024/
-  - title: divider
-  - title: KTT
-    permalink: /projects/KTT_2024/
-  - title: divider
-  - title: ARV
-    permalink: /projects/ARV_2024/
+    - title: ARV
+      permalink: /projects/ARV_2025/
+    - title: divider
+    - title: HMB
+      permalink: /projects/HMB_2025/
+    - title: divider
+    - title: JST
+      permalink: /projects/JST_2025/
+    - title: divider
+    - title: KTT
+      permalink: /projects/KTT_2025/
+    - title: divider
+    - title: MMT
+      permalink: /projects/MMT_2025/
+    - title: divider
+    - title: PONY
+      permalink: /projects/PONY_2025/
+    - title: divider
+    - title: RRT
+      permalink: /projects/RRT_2025/
+    - title: divider
+    - title: TIB
+      permalink: /projects/TIB_2025/
+    - title: divider
+    - title: TOM
+      permalink: /projects/TOM_2025/
+    - title: divider
+    - title: WKCR
+      permalink: /projects/WKCR_2025/
 ---
+
+Will be updated after the draft occurs!
 
 <!-- pages/teams.md -->
 <div class="projects">
@@ -64,20 +66,17 @@ children:
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
+    </div>
   </div>
   {% endif %}
   {% endfor %}
 
 {% else %}
 
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
+  <!-- Display projects without categories -->
+  {% assign sorted_projects = site.projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
+  {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
@@ -90,7 +89,7 @@ children:
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
+    </div>
   </div>
   {% endif %}
 {% endif %}
-</div>

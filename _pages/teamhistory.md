@@ -22,6 +22,25 @@ pretty_table: True
 
 
 
+## 2025 Season
+
+<table
+data-click-to-select="true"
+data-search="false"
+data-toggle="table"
+data-url="{{ "/assets/json/history/2025_teams.json" }}">
+<thead>
+<tr>
+<th data-field="team_name" data-halign="left" data-align="left" data-sortable="true">Team</th>
+<th data-field="managers" data-halign="left" data-align="left" data-sortable="true">Managers</th>
+<th data-field="final_rank" data-halign="center" data-align="center" data-sortable="true">Final Rank</th>
+<th data-field="record" data-halign="center" data-align="center" data-sortable="true">Record</th>
+<th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th>
+</tr>
+</thead>
+</table>
+
+
 ## 2024 Season
 
 <table

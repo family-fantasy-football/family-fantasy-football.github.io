@@ -46,12 +46,11 @@ data-url="{{ "/assets/json/payments/current_season.json" }}">
 - **2nd Place**: $15 (buy-in back)
 - **1st Place**: $50 (remainder + penalties)
 
-### Payment Information\n
+
+### Payment Information
+
 <div style='text-align: center; margin: 20px 0;'>
     <h4>Send payments via Venmo:</h4>
     <img src='/assets/img/Venmo.png' alt='Venmo QR Code' style='max-width: 300px; border: 1px solid #ddd; border-radius: 8px;'>
     <p style='margin-top: 10px;'><strong>Entry Fee: $15 per team</strong></p>
 </div>
-
-
-*Last updated: 2025-05-06*

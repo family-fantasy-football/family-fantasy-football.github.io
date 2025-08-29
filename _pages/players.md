@@ -33,7 +33,7 @@ Below are the top 10 performers at each position through Week 17.
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/players/top_qb_2024.json" }}">
+data-url="{{ "/assets/json/players/top_qb_2025.json" }}">
 <thead>
 <tr>
 <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th>
@@ -53,7 +53,7 @@ data-url="{{ "/assets/json/players/top_qb_2024.json" }}">
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/players/top_rb_2024.json" }}">
+data-url="{{ "/assets/json/players/top_rb_2025.json" }}">
 <thead>
 <tr>
 <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th>
@@ -73,7 +73,7 @@ data-url="{{ "/assets/json/players/top_rb_2024.json" }}">
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/players/top_wr_2024.json" }}">
+data-url="{{ "/assets/json/players/top_wr_2025.json" }}">
 <thead>
 <tr>
 <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th>
@@ -93,7 +93,7 @@ data-url="{{ "/assets/json/players/top_wr_2024.json" }}">
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/players/top_te_2024.json" }}">
+data-url="{{ "/assets/json/players/top_te_2025.json" }}">
 <thead>
 <tr>
 <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th>
