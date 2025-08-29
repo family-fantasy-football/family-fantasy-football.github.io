@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Load teams and roster data at startup
     Promise.all([
         fetch('../../assets/json/standings.json'),
-        fetch('../../assets/json/player_comparison/players_2024.json')
+        fetch('../../assets/json/player_comparison/players_2025.json')
     ])
     .then(([standingsResponse, playersResponse]) => 
         Promise.all([standingsResponse.json(), playersResponse.json()]))
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Load rosters
         const rosterPromises = standings.map(team => 
-            fetch(`../../assets/json/team_rosters/${team.abbrev}_2024.json`)
+            fetch(`../../assets/json/team_rosters/${team.abbrev}_2025.json`)
                 .then(response => response.json())
                 .then(roster => {
                     allRosters[team.team] = roster;

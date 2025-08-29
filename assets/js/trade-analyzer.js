@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Load team and player data
-    fetch('/assets/json/trade_analyzer/players_2024.json')
+    fetch('/assets/json/trade_analyzer/players_2025.json')
         .then(response => response.json())
         .then(data => initializeTradeAnalyzer(data));
 });

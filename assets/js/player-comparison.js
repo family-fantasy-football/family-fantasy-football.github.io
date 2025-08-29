@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const darkMode = document.body.classList.contains('dark');
     let echartsTheme = document.body.classList.contains('dark');
     // Load player data
-    fetch('/assets/json/player_comparison/players_2024.json')
+    fetch('/assets/json/player_comparison/players_2025.json')
         .then(response => response.json())
         .then(data => {
             playerData = data;

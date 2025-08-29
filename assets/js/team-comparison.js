@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const basePath = "/assets/json/team_data/";
-  const defaultYear = 2024;
+  const defaultYear = 2025;
   const team1Select = document.getElementById("team1-select");
   const team2Select = document.getElementById("team2-select");
   const compareButton = document.getElementById("compare-btn");
@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const chartDiv = document.getElementById("chart-container");
   const darkMode = document.body.classList.contains('dark');
 
-  // Load available teams for 2024
-  fetch(`/assets/json/team_data/team_abbrev_list_2024.json`)
+  // Load available teams for 2025
+  fetch(`/assets/json/team_data/team_abbrev_list_2025.json`)
     .then((response) => response.json())
     .then((teams) => populateTeamDropdowns(teams))
     .catch((error) => console.error("Failed to load teams:", error));
