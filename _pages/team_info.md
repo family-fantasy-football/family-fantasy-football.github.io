@@ -1,7 +1,7 @@
 ---
 layout: page
 title: team info
-permalink: team_info
+permalink: /team_info/
 nav: true
 nav_order: 2
 dropdown: false
