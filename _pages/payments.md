@@ -4,7 +4,7 @@ permalink: /payments/
 title: league payments
 nav: false
 nav_order: 7
-description: League payment tracking and prize distribution
+description: League payment tracking
 pretty_table: True
 ---
 
@@ -17,7 +17,7 @@ pretty_table: True
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/payments/current_season.json" }}">
+data-url="{{ "/assets/json/payments/current_season.json"}}">
 <thead>
 <tr>
 <th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th>
