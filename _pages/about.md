@@ -25,12 +25,6 @@ chart:
 </div>
 
 
-The current top scorer is: Christian Ratcliff (0.00)
-
-The current bottom scorer is: Christian Ratcliff (0.00)
-
-
-
 
 ### Current Standings:
 
