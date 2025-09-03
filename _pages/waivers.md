@@ -16,7 +16,7 @@ data-click-to-select="true"
 data-height="340"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/transactions/best_fa_2024.json"}}">
+data-url="{{ "/assets/json/transactions/best_fa_2025.json"}}">
 <thead>
     <tr>
      <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
@@ -35,7 +35,7 @@ data-click-to-select="true"
 data-height="930"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/transactions/all_fa_2024.json"}}">
+data-url="{{ "/assets/json/transactions/all_fa_2025.json"}}">
 <thead>
     <tr>
      <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
