@@ -30,7 +30,8 @@
       "Week 10",
       "Week 11",
       "Week 12",
-      "Week 13"
+      "Week 13",
+      "Week 14"
     ]
   },
   "yAxis": {
@@ -50,6 +51,7 @@
       "name": "Points For",
       "type": "line",
       "data": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -86,6 +88,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "symbol": "circle",
@@ -98,6 +101,7 @@
       "name": "League Avg",
       "type": "line",
       "data": [
+        0.0,
         0.0,
         0.0,
         0.0,

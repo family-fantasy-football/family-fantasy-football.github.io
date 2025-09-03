@@ -26,7 +26,7 @@ pretty_table: True
 data-click-to-select="true"
 data-search="false"
 data-toggle="table"
-data-url="{{ "/assets/json/transactions/trades_2024.json"}}">
+data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
 <thead>
     <tr>
      <th data-field="week" data-halign="left" data-align="left" data-sortable="true">Week</th>
@@ -68,132 +68,91 @@ data-url="{{ "/assets/json/transactions/trades_2024.json"}}">
             ],
             "data": [
                 {
-                    "id": "Who Killed Charbonnet Ramsey?",
-                    "name": "Who Killed Charbonnet Ramsey?",
+                    "id": "TBD",
+                    "name": "TBD",
                     "itemStyle": {
                         "color": "hsl(0.0, 70%, 50%)"
                     }
                 },
                 {
-                    "id": "Pink Pony Club",
-                    "name": "Pink Pony Club",
+                    "id": "90s MonCon",
+                    "name": "90s MonCon",
                     "itemStyle": {
-                        "color": "hsl(40.0, 70%, 50%)"
+                        "color": "hsl(32.72727272727273, 70%, 50%)"
                     }
                 },
                 {
-                    "id": "Tom and Jerry",
-                    "name": "Tom and Jerry",
+                    "id": "30 Years of Tears",
+                    "name": "30 Years of Tears",
                     "itemStyle": {
-                        "color": "hsl(80.0, 70%, 50%)"
+                        "color": "hsl(65.45454545454545, 70%, 50%)"
                     }
                 },
                 {
-                    "id": "Hit and Ruggs",
-                    "name": "Hit and Ruggs",
+                    "id": "Americas Team ",
+                    "name": "Americas Team ",
                     "itemStyle": {
-                        "color": "hsl(120.0, 70%, 50%)"
+                        "color": "hsl(98.18181818181819, 70%, 50%)"
                     }
                 },
                 {
                     "id": "Michael's Managable Team",
                     "name": "Michael's Managable Team",
                     "itemStyle": {
-                        "color": "hsl(160.0, 70%, 50%)"
+                        "color": "hsl(130.9090909090909, 70%, 50%)"
                     }
                 },
                 {
                     "id": "To Infinity and Bijan!",
                     "name": "To Infinity and Bijan!",
                     "itemStyle": {
-                        "color": "hsl(200.0, 70%, 50%)"
+                        "color": "hsl(163.63636363636363, 70%, 50%)"
                     }
                 },
                 {
                     "id": "Fantasy Guru Kayden",
                     "name": "Fantasy Guru Kayden",
                     "itemStyle": {
-                        "color": "hsl(240.0, 70%, 50%)"
+                        "color": "hsl(196.36363636363637, 70%, 50%)"
                     }
                 },
                 {
                     "id": "Mama Daughter Duo",
                     "name": "Mama Daughter Duo",
                     "itemStyle": {
-                        "color": "hsl(280.0, 70%, 50%)"
+                        "color": "hsl(229.0909090909091, 70%, 50%)"
                     }
                 },
                 {
-                    "id": "Abbey Road to Victory",
-                    "name": "Abbey Road to Victory",
+                    "id": "Abbey's TNT Team ",
+                    "name": "Abbey's TNT Team ",
                     "itemStyle": {
-                        "color": "hsl(320.0, 70%, 50%)"
+                        "color": "hsl(261.8181818181818, 70%, 50%)"
                     }
                 },
                 {
                     "id": "Hamlin My Business ",
                     "name": "Hamlin My Business ",
                     "itemStyle": {
+                        "color": "hsl(294.54545454545456, 70%, 50%)"
+                    }
+                },
+                {
+                    "id": "Emma's Excellent Team",
+                    "name": "Emma's Excellent Team",
+                    "itemStyle": {
+                        "color": "hsl(327.27272727272725, 70%, 50%)"
+                    }
+                },
+                {
+                    "id": "Big Titi Energy",
+                    "name": "Big Titi Energy",
+                    "itemStyle": {
                         "color": "hsl(360.0, 70%, 50%)"
                     }
                 }
             ],
-            "links": [
-                {
-                    "source": "Pink Pony Club",
-                    "target": "To Infinity and Bijan!",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Pink Pony Club: Mike Gesicki, Russell Wilson \u27f7 To Infinity and Bijan!: Cade Otton, Jameis Winston"
-                },
-                {
-                    "source": "Pink Pony Club",
-                    "target": "Tom and Jerry",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Pink Pony Club: Jake Ferguson, Tank Dell \u27f7 Tom and Jerry: Evan Engram, Jalen Coker"
-                },
-                {
-                    "source": "Hamlin My Business ",
-                    "target": "Michael's Managable Team",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Hamlin My Business : Justin Herbert \u27f7 Michael's Managable Team: Aaron Jones"
-                },
-                {
-                    "source": "Michael's Managable Team",
-                    "target": "Who Killed Charbonnet Ramsey?",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Michael's Managable Team: Brock Bowers, Amari Cooper \u27f7 Who Killed Charbonnet Ramsey?: DeMario Douglas, Zack Moss, Drake Maye"
-                },
-                {
-                    "source": "Hamlin My Business ",
-                    "target": "Who Killed Charbonnet Ramsey?",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Hamlin My Business : Javonte Williams \u27f7 Who Killed Charbonnet Ramsey?: Romeo Doubs"
-                },
-                {
-                    "source": "Abbey Road to Victory",
-                    "target": "Pink Pony Club",
-                    "value": 1,
-                    "tooltip": {
-                        "show": true
-                    },
-                    "name": "Abbey Road to Victory: Nico Collins \u27f7 Pink Pony Club: DeVonta Smith"
-                }
-            ],
+            "links": [],
             "lineStyle": {
                 "opacity": 0.9,
                 "width": 2,

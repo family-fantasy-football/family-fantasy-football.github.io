@@ -1,15 +1,15 @@
 [
   {
-    "team": "Who Killed Charbonnet Ramsey?",
+    "team": "TBD",
     "manager": "Christian Ratcliff",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
     "net": "$0"
   },
   {
-    "team": "Pink Pony Club",
+    "team": "90s MonCon",
     "manager": "Connor Dickson and Monika Monko",
     "paid": "No",
     "high_scoring_weeks": 0,
@@ -18,7 +18,7 @@
     "net": "$0"
   },
   {
-    "team": "Tom and Jerry",
+    "team": "30 Years of Tears",
     "manager": "Tom Ratcliff",
     "paid": "No",
     "high_scoring_weeks": 0,
@@ -38,7 +38,7 @@
   {
     "team": "Michael's Managable Team",
     "manager": "Michael Ratcliff",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -47,7 +47,7 @@
   {
     "team": "To Infinity and Bijan!",
     "manager": "Nick Hill",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -72,9 +72,9 @@
     "net": "$0"
   },
   {
-    "team": "Abbey Road to Victory",
-    "manager": "Abbey Hamlin and Christine Hamlin",
-    "paid": "No",
+    "team": "Abbey's TNT Team ",
+    "manager": "Abbey Hamlin",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -83,6 +83,24 @@
   {
     "team": "Hamlin My Business ",
     "manager": "Kyle Hamlin",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Emma's Excellent Team",
+    "manager": "Emma Grau",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Big Titi Energy",
+    "manager": "Christine Hamlin",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",

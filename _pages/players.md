@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Lamar Jackson (430.38 pts) owned by Who Killed Charbonnet Ramsey?
+* **QB:** Patrick Mahomes (0.0 pts) owned by TBD
 
-* **RB:** Saquon Barkley (338.8 pts) owned by Michael's Managable Team
+* **RB:** Bucky Irving (0.0 pts) owned by TBD
 
-* **WR:** Ja'Marr Chase (339.5 pts) owned by Who Killed Charbonnet Ramsey?
+* **WR:** CeeDee Lamb (0.0 pts) owned by TBD
 
-* **TE:** Brock Bowers (206.7 pts) owned by Who Killed Charbonnet Ramsey?
+* **TE:** Zach Ertz (0.0 pts) owned by TBD
 
 
-Below are the top 10 performers at each position through Week 17.
+Below are the top 10 performers at each position through Week 1.
 
 
 

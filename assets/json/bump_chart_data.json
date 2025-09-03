@@ -13,23 +13,7 @@
     "nameLocation": "middle",
     "nameGap": 30,
     "data": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17
+      1
     ]
   },
   "yAxis": {
@@ -39,37 +23,65 @@
     "nameGap": 20,
     "inverse": true,
     "min": 1,
-    "max": 10
+    "max": 12
   },
   "series": [
     {
-      "name": "Abbey Road to Victory",
+      "name": "30 Years of Tears",
       "type": "line",
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#7f7f7f"
+        "color": "#ffbb78"
       },
       "itemStyle": {
-        "color": "#7f7f7f"
+        "color": "#ffbb78"
       },
       "data": [
-        8,
-        7,
-        8,
-        10,
-        8,
-        8,
-        10,
-        8,
-        8,
-        8,
-        9,
-        8,
-        8,
-        8,
-        9,
-        9,
+        3
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "30 Years of ..."
+      }
+    },
+    {
+      "name": "90s MonCon",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#aec7e8"
+      },
+      "itemStyle": {
+        "color": "#aec7e8"
+      },
+      "data": [
+        2
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "90s MonCon"
+      }
+    },
+    {
+      "name": "Abbey's TNT Team ",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#f7b6d2"
+      },
+      "itemStyle": {
+        "color": "#f7b6d2"
+      },
+      "data": [
         9
       ],
       "symbol": "circle",
@@ -77,7 +89,73 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Abbey Road t..."
+        "formatter": "Abbey's TNT ..."
+      }
+    },
+    {
+      "name": "Americas Team ",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#98df8a"
+      },
+      "itemStyle": {
+        "color": "#98df8a"
+      },
+      "data": [
+        4
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Americas Team "
+      }
+    },
+    {
+      "name": "Big Titi Energy",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#17becf"
+      },
+      "itemStyle": {
+        "color": "#17becf"
+      },
+      "data": [
+        12
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Big Titi Ene..."
+      }
+    },
+    {
+      "name": "Emma's Excellent Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#bcbd22"
+      },
+      "itemStyle": {
+        "color": "#bcbd22"
+      },
+      "data": [
+        11
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Emma's Excel..."
       }
     },
     {
@@ -86,29 +164,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#17becf"
+        "color": "#8c564b"
       },
       "itemStyle": {
-        "color": "#17becf"
+        "color": "#8c564b"
       },
       "data": [
-        4,
-        8,
-        9,
-        9,
-        9,
-        10,
-        9,
-        9,
-        10,
-        10,
-        10,
-        10,
-        10,
-        9,
-        10,
-        10,
-        10
+        7
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -124,29 +186,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#ff7f0e"
+        "color": "#c7c7c7"
       },
       "itemStyle": {
-        "color": "#ff7f0e"
+        "color": "#c7c7c7"
       },
       "data": [
-        7,
-        6,
-        4,
-        5,
-        2,
-        1,
-        1,
-        2,
-        3,
-        2,
-        1,
-        2,
-        2,
-        3,
-        2,
-        2,
-        2
+        10
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -157,72 +203,18 @@
       }
     },
     {
-      "name": "Hit and Ruggs",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#8c564b"
-      },
-      "itemStyle": {
-        "color": "#8c564b"
-      },
-      "data": [
-        6,
-        3,
-        2,
-        4,
-        7,
-        7,
-        7,
-        7,
-        6,
-        6,
-        6,
-        6,
-        6,
-        7,
-        6,
-        6,
-        6
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "Hit and Ruggs"
-      }
-    },
-    {
       "name": "Mama Daughter Duo",
       "type": "line",
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#e377c2"
+        "color": "#c49c94"
       },
       "itemStyle": {
-        "color": "#e377c2"
+        "color": "#c49c94"
       },
       "data": [
-        2,
-        5,
-        6,
-        8,
-        10,
-        9,
-        8,
-        10,
-        9,
-        9,
-        8,
-        7,
-        7,
-        6,
-        7,
-        7,
-        7
+        8
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -238,29 +230,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#bcbd22"
+        "color": "#d62728"
       },
       "itemStyle": {
-        "color": "#bcbd22"
+        "color": "#d62728"
       },
       "data": [
-        1,
-        4,
-        1,
-        2,
-        3,
-        5,
-        6,
-        5,
-        7,
-        7,
-        7,
-        9,
-        9,
-        10,
-        8,
-        8,
-        8
+        5
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -271,7 +247,7 @@
       }
     },
     {
-      "name": "Pink Pony Club",
+      "name": "TBD",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -282,22 +258,6 @@
         "color": "#1f77b4"
       },
       "data": [
-        3,
-        2,
-        3,
-        1,
-        1,
-        2,
-        2,
-        1,
-        1,
-        1,
-        2,
-        1,
-        1,
-        1,
-        1,
-        1,
         1
       ],
       "symbol": "circle",
@@ -305,7 +265,7 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Pink Pony Club"
+        "formatter": "TBD"
       }
     },
     {
@@ -320,23 +280,7 @@
         "color": "#9467bd"
       },
       "data": [
-        10,
-        9,
-        10,
-        7,
-        6,
-        4,
-        4,
-        3,
-        2,
-        3,
-        4,
-        5,
-        5,
-        5,
-        4,
-        4,
-        4
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -344,82 +288,6 @@
         "show": false,
         "position": "right",
         "formatter": "To Infinity ..."
-      }
-    },
-    {
-      "name": "Tom and Jerry",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#d62728"
-      },
-      "itemStyle": {
-        "color": "#d62728"
-      },
-      "data": [
-        5,
-        1,
-        5,
-        3,
-        5,
-        6,
-        5,
-        6,
-        5,
-        5,
-        5,
-        4,
-        4,
-        4,
-        5,
-        5,
-        5
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "Tom and Jerry"
-      }
-    },
-    {
-      "name": "Who Killed Charbonnet Ramsey?",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#2ca02c"
-      },
-      "itemStyle": {
-        "color": "#2ca02c"
-      },
-      "data": [
-        9,
-        10,
-        7,
-        6,
-        4,
-        3,
-        3,
-        4,
-        4,
-        4,
-        3,
-        3,
-        3,
-        2,
-        3,
-        3,
-        3
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "Who Killed C..."
       }
     }
   ],

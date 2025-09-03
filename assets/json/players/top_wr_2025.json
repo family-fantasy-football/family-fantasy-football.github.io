@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "player_name": "CeeDee Lamb",
+    "team": "TBD",
+    "draft": "2.1",
+    "overall_pick": 13,
+    "points": 0.0,
+    "projected": 15.17
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "team": "TBD",
+    "draft": "5.12",
+    "overall_pick": 60,
+    "points": 0.0,
+    "projected": 12.31
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "team": "TBD",
+    "draft": "7.12",
+    "overall_pick": 84,
+    "points": 0.0,
+    "projected": 10.98
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "team": "TBD",
+    "draft": "9.12",
+    "overall_pick": 108,
+    "points": 0.0,
+    "projected": 9.58
+  },
+  {
+    "player_name": "Chris Godwin Jr.",
+    "team": "TBD",
+    "draft": "12.1",
+    "overall_pick": 133,
+    "points": 0.0,
+    "projected": 8.93
+  },
+  {
+    "player_name": "Brandon Aiyuk",
+    "team": "TBD",
+    "draft": "16.1",
+    "overall_pick": 181,
+    "points": 0.0,
+    "projected": 5.53
+  },
+  {
+    "player_name": "Nico Collins",
+    "team": "90s MonCon",
+    "draft": "3.1",
+    "overall_pick": 25,
+    "points": 0.0,
+    "projected": 14.06
+  },
+  {
+    "player_name": "Garrett Wilson",
+    "team": "90s MonCon",
+    "draft": "6.12",
+    "overall_pick": 72,
+    "points": 0.0,
+    "projected": 11.53
+  },
+  {
+    "player_name": "Jameson Williams",
+    "team": "90s MonCon",
+    "draft": "7.1",
+    "overall_pick": 73,
+    "points": 0.0,
+    "projected": 10.93
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "team": "90s MonCon",
+    "draft": "8.12",
+    "overall_pick": 96,
+    "points": 0.0,
+    "projected": 10.75
+  }
+]

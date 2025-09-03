@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 0,
+    "projected": 21.81
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 0,
+    "projected": 16.63
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 0,
+    "projected": 15.67
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 0,
+    "projected": 14.47
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 0,
+    "projected": 13.1
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 0,
+    "projected": 10.78
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 0,
+    "projected": 11.42
+  },
+  {
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 0,
+    "projected": 9.25
+  },
+  {
+    "player_name": "Justin Fields",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 0,
+    "projected": 14.7
+  }
+]

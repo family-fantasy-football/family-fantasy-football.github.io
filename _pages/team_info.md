@@ -4,7 +4,7 @@ title: team info
 permalink: /team_info/
 nav: true
 nav_order: 2
-dropdown: false
+dropdown: true
 children:
   - title: team comparison
     permalink: /comparison/

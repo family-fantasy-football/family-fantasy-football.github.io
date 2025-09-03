@@ -34,17 +34,17 @@ data-url="{{ "/assets/json/payments/current_season.json" }}">
 
 ### League Pot
 
-- **Entry Fees**: $150 ($15 per team)
+- **Entry Fees**: $180 ($15 per team)
 - **Penalty Fees**: $0
-- **Total Pot**: $150
+- **Total Pot**: $180
 
 
 ### Payout Structure
 
 - **Weekly High Score**: $5 per week (all weeks, including playoffs)
-- **Weekly High Score Total**: $85
+- **Weekly High Score Total**: $90
 - **2nd Place**: $15 (buy-in back)
-- **1st Place**: $50 (remainder + penalties)
+- **1st Place**: $75 (remainder + penalties)
 
 
 ### Payment Information

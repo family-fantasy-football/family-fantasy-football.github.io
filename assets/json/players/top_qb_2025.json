@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "team": "TBD",
+    "draft": "1.12",
+    "overall_pick": 12,
+    "points": 0.0,
+    "projected": 23.02
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "team": "TBD",
+    "draft": "6.1",
+    "overall_pick": 61,
+    "points": 0.0,
+    "projected": 18.15
+  },
+  {
+    "player_name": "Bryce Young",
+    "team": "TBD",
+    "draft": "11.12",
+    "overall_pick": 132,
+    "points": 0.0,
+    "projected": 16.2
+  },
+  {
+    "player_name": "Lamar Jackson",
+    "team": "90s MonCon",
+    "draft": "1.1",
+    "overall_pick": 1,
+    "points": 0.0,
+    "projected": 24.95
+  },
+  {
+    "player_name": "Tua Tagovailoa",
+    "team": "90s MonCon",
+    "draft": "4.12",
+    "overall_pick": 48,
+    "points": 0.0,
+    "projected": 20.48
+  },
+  {
+    "player_name": "Joe Flacco",
+    "team": "90s MonCon",
+    "draft": "15.1",
+    "overall_pick": 169,
+    "points": 0.0,
+    "projected": 5.88
+  },
+  {
+    "player_name": "Joe Burrow",
+    "team": "30 Years of Tears",
+    "draft": "1.7",
+    "overall_pick": 7,
+    "points": 0.0,
+    "projected": 24.64
+  },
+  {
+    "player_name": "Jared Goff",
+    "team": "30 Years of Tears",
+    "draft": "3.7",
+    "overall_pick": 31,
+    "points": 0.0,
+    "projected": 19.46
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "team": "30 Years of Tears",
+    "draft": "13.7",
+    "overall_pick": 151,
+    "points": 0.0,
+    "projected": 8.02
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "team": "Americas Team ",
+    "draft": "7.5",
+    "overall_pick": 77,
+    "points": 0.0,
+    "projected": 18.97
+  }
+]

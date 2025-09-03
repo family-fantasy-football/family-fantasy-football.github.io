@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "player_name": "Bucky Irving",
+    "team": "TBD",
+    "draft": "3.12",
+    "overall_pick": 36,
+    "points": 0.0,
+    "projected": 15.1
+  },
+  {
+    "player_name": "Chase Brown",
+    "team": "TBD",
+    "draft": "4.1",
+    "overall_pick": 37,
+    "points": 0.0,
+    "projected": 14.64
+  },
+  {
+    "player_name": "Aaron Jones Sr.",
+    "team": "TBD",
+    "draft": "8.1",
+    "overall_pick": 85,
+    "points": 0.0,
+    "projected": 11.22
+  },
+  {
+    "player_name": "Cam Skattebo",
+    "team": "TBD",
+    "draft": "10.1",
+    "overall_pick": 109,
+    "points": 0.0,
+    "projected": 7.55
+  },
+  {
+    "player_name": "Braelon Allen",
+    "team": "TBD",
+    "draft": "14.1",
+    "overall_pick": 157,
+    "points": 0.0,
+    "projected": 5.03
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "team": "90s MonCon",
+    "draft": "2.12",
+    "overall_pick": 24,
+    "points": 0.0,
+    "projected": 16.03
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "team": "90s MonCon",
+    "draft": "9.1",
+    "overall_pick": 97,
+    "points": 0.0,
+    "projected": 10.17
+  },
+  {
+    "player_name": "Jordan Mason",
+    "team": "90s MonCon",
+    "draft": "10.12",
+    "overall_pick": 120,
+    "points": 0.0,
+    "projected": 7.43
+  },
+  {
+    "player_name": "Quinshon Judkins",
+    "team": "90s MonCon",
+    "draft": "13.1",
+    "overall_pick": 145,
+    "points": 0.0,
+    "projected": 7.09
+  },
+  {
+    "player_name": "Tyjae Spears",
+    "team": "90s MonCon",
+    "draft": "16.12",
+    "overall_pick": 192,
+    "points": 0.0,
+    "projected": 6.11
+  }
+]

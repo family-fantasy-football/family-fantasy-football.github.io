@@ -7,10 +7,22 @@ nav: true
 nav_order: 1
 display_categories: 2025-26
 horizontal: false
-dropdown: false
+dropdown: true
 children:
+    - title: 90s
+      permalink: /projects/90s_2025/
+    - title: divider
     - title: ARV
       permalink: /projects/ARV_2025/
+    - title: divider
+    - title: BTE
+      permalink: /projects/BTE_2025/
+    - title: divider
+    - title: CTR
+      permalink: /projects/CTR_2025/
+    - title: divider
+    - title: EET
+      permalink: /projects/EET_2025/
     - title: divider
     - title: HMB
       permalink: /projects/HMB_2025/
@@ -24,9 +36,6 @@ children:
     - title: MMT
       permalink: /projects/MMT_2025/
     - title: divider
-    - title: PONY
-      permalink: /projects/PONY_2025/
-    - title: divider
     - title: RRT
       permalink: /projects/RRT_2025/
     - title: divider
@@ -35,12 +44,7 @@ children:
     - title: divider
     - title: TOM
       permalink: /projects/TOM_2025/
-    - title: divider
-    - title: WKCR
-      permalink: /projects/WKCR_2025/
 ---
-
-Will be updated after the draft occurs!
 
 <!-- pages/teams.md -->
 <div class="projects">
