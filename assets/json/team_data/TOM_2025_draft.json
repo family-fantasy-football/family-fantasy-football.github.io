@@ -1,6 +1,6 @@
 [
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 1,
     "pick": 7,
     "player_name": "Joe Burrow",
@@ -12,7 +12,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
@@ -24,7 +24,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
@@ -36,7 +36,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 4,
     "pick": 6,
     "player_name": "James Cook",
@@ -48,19 +48,19 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.1",
+    "before_trade": "7.1",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-14.1",
-    "grade": "C"
+    "value_diff": "-7.0",
+    "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
@@ -72,7 +72,7 @@
     "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 7,
     "pick": 7,
     "player_name": "Matthew Golden",
@@ -81,10 +81,10 @@
     "after_trade": "0.0",
     "draft_position": 79,
     "value_diff": "-10.0",
-    "grade": "B"
+    "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 8,
     "pick": 6,
     "player_name": "Travis Hunter",
@@ -93,10 +93,10 @@
     "after_trade": "0.0",
     "draft_position": 90,
     "value_diff": "-10.2",
-    "grade": "B"
+    "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
@@ -108,7 +108,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 10,
     "pick": 6,
     "player_name": "J.K. Dobbins",
@@ -120,7 +120,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 11,
     "pick": 7,
     "player_name": "Jayden Higgins",
@@ -128,11 +128,11 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-7.9",
+    "value_diff": "-7.8",
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 12,
     "pick": 6,
     "player_name": "Ollie Gordon II",
@@ -141,10 +141,10 @@
     "after_trade": "0.0",
     "draft_position": 138,
     "value_diff": "-4.5",
-    "grade": "A"
+    "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
@@ -156,7 +156,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
@@ -168,7 +168,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 15,
     "pick": 7,
     "player_name": "Tyler Higbee",
@@ -180,7 +180,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 16,
     "pick": 6,
     "player_name": "Chig Okonkwo",

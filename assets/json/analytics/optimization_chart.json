@@ -9,7 +9,7 @@
   },
   "legend": {
     "data": [
-      "CTR",
+      "TTC",
       "90s",
       "TOM",
       "RRT",
@@ -38,9 +38,11 @@
   },
   "series": [
     {
-      "name": "CTR",
+      "name": "TTC",
       "type": "line",
-      "data": []
+      "data": [
+        100.0
+      ]
     },
     {
       "name": "90s",
@@ -50,32 +52,44 @@
     {
       "name": "TOM",
       "type": "line",
-      "data": []
+      "data": [
+        100.0
+      ]
     },
     {
       "name": "RRT",
       "type": "line",
-      "data": []
+      "data": [
+        100.0
+      ]
     },
     {
       "name": "MMT",
       "type": "line",
-      "data": []
+      "data": [
+        84.6
+      ]
     },
     {
       "name": "TIB",
       "type": "line",
-      "data": []
+      "data": [
+        0.0
+      ]
     },
     {
       "name": "KTT",
       "type": "line",
-      "data": []
+      "data": [
+        100.0
+      ]
     },
     {
       "name": "JST",
       "type": "line",
-      "data": []
+      "data": [
+        94.5
+      ]
     },
     {
       "name": "ARV",
@@ -85,17 +99,23 @@
     {
       "name": "HMB",
       "type": "line",
-      "data": []
+      "data": [
+        0.0
+      ]
     },
     {
       "name": "EET",
       "type": "line",
-      "data": []
+      "data": [
+        59.3
+      ]
     },
     {
       "name": "BTE",
       "type": "line",
-      "data": []
+      "data": [
+        100.0
+      ]
     }
   ],
   "grid": {

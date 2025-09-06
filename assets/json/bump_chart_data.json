@@ -27,28 +27,6 @@
   },
   "series": [
     {
-      "name": "30 Years of Tears",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#ffbb78"
-      },
-      "itemStyle": {
-        "color": "#ffbb78"
-      },
-      "data": [
-        3
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "30 Years of ..."
-      }
-    },
-    {
       "name": "90s MonCon",
       "type": "line",
       "smooth": true,
@@ -247,7 +225,29 @@
       }
     },
     {
-      "name": "TBD",
+      "name": "Rookie Mistake",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#ffbb78"
+      },
+      "itemStyle": {
+        "color": "#ffbb78"
+      },
+      "data": [
+        3
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Rookie Mistake"
+      }
+    },
+    {
+      "name": "Third Time's the Charm?",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -265,7 +265,7 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "TBD"
+        "formatter": "Third Time's..."
       }
     },
     {

@@ -20,7 +20,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "-21.2",
+    "value_diff": "-21.3",
     "grade": "D"
   },
   {
@@ -33,7 +33,7 @@
     "after_trade": "0.0",
     "draft_position": 33,
     "value_diff": "-14.6",
-    "grade": "C"
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -104,20 +104,20 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-9.2",
-    "grade": "B"
+    "value_diff": "-10.2",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 10,
     "pick": 4,
     "player_name": "Javonte Williams",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "19.4",
+    "before_trade": "19.4",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "-8.4",
-    "grade": "B"
+    "value_diff": "7.8",
+    "grade": "A"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -165,7 +165,7 @@
     "after_trade": "0.0",
     "draft_position": 160,
     "value_diff": "-4.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 4,
     "player_name": "Quentin Johnston",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 184,
-    "value_diff": "-4.9",
+    "value_diff": "17.2",
     "grade": "A"
   }
 ]

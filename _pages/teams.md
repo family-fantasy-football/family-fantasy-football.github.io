@@ -18,9 +18,6 @@ children:
     - title: BTE
       permalink: /projects/BTE_2025/
     - title: divider
-    - title: CTR
-      permalink: /projects/CTR_2025/
-    - title: divider
     - title: EET
       permalink: /projects/EET_2025/
     - title: divider
@@ -44,6 +41,9 @@ children:
     - title: divider
     - title: TOM
       permalink: /projects/TOM_2025/
+    - title: divider
+    - title: TTC
+      permalink: /projects/TTC_2025/
 ---
 
 <!-- pages/teams.md -->

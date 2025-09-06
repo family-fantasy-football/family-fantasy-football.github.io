@@ -24,7 +24,12 @@
         "70%"
       ],
       "avoidLabelOverlap": false,
-      "data": []
+      "data": [
+        {
+          "value": 7.1,
+          "name": "RB"
+        }
+      ]
     }
   ]
 }

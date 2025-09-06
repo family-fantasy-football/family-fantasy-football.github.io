@@ -8,7 +8,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "-24.9",
+    "value_diff": "-25.0",
     "grade": "D"
   },
   {
@@ -28,12 +28,12 @@
     "round": 1,
     "pick": 3,
     "player_name": "Saquon Barkley",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "16.4",
+    "before_trade": "16.4",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-17.8",
-    "grade": "D"
+    "value_diff": "-1.4",
+    "grade": "A"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -72,7 +72,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 1,
     "pick": 7,
     "player_name": "Joe Burrow",
@@ -92,7 +92,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "-11.9",
+    "value_diff": "-12.0",
     "grade": "C"
   },
   {
@@ -112,12 +112,12 @@
     "round": 1,
     "pick": 10,
     "player_name": "Jalen Hurts",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "29.8",
+    "before_trade": "29.8",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "-24.1",
-    "grade": "D"
+    "value_diff": "5.7",
+    "grade": "A"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -144,6 +144,18 @@
     "grade": "D"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 1,
+    "pick": 12,
+    "player_name": "Patrick Mahomes",
+    "points": "25.0",
+    "before_trade": "25.0",
+    "after_trade": "0.0",
+    "draft_position": 12,
+    "value_diff": "2.0",
+    "grade": "A"
+  },
+  {
     "team": "TBD",
     "round": 2,
     "pick": 1,
@@ -154,6 +166,18 @@
     "draft_position": 13,
     "value_diff": "-15.2",
     "grade": "D"
+  },
+  {
+    "team": "Third Time's the Charm?",
+    "round": 2,
+    "pick": 1,
+    "player_name": "CeeDee Lamb",
+    "points": "14.5",
+    "before_trade": "14.5",
+    "after_trade": "0.0",
+    "draft_position": 13,
+    "value_diff": "-0.7",
+    "grade": "A"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -188,7 +212,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "-21.2",
+    "value_diff": "-21.3",
     "grade": "D"
   },
   {
@@ -204,7 +228,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
@@ -220,23 +244,23 @@
     "round": 2,
     "pick": 7,
     "player_name": "Justin Herbert",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "37.4",
+    "before_trade": "37.4",
     "after_trade": "0.0",
     "draft_position": 19,
-    "value_diff": "-19.0",
-    "grade": "D"
+    "value_diff": "18.4",
+    "grade": "A"
   },
   {
     "team": "Americas Team ",
     "round": 2,
     "pick": 8,
     "player_name": "A.J. Brown",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.3",
+    "before_trade": "1.3",
     "after_trade": "0.0",
     "draft_position": 20,
-    "value_diff": "-13.5",
+    "value_diff": "-12.2",
     "grade": "C"
   },
   {
@@ -249,7 +273,7 @@
     "after_trade": "0.0",
     "draft_position": 21,
     "value_diff": "-14.5",
-    "grade": "C"
+    "grade": "D"
   },
   {
     "team": "Emma's Excellent Team",
@@ -272,7 +296,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-16.1",
+    "value_diff": "-16.0",
     "grade": "D"
   },
   {
@@ -316,11 +340,11 @@
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "5.3",
+    "before_trade": "5.3",
     "after_trade": "0.0",
     "draft_position": 27,
-    "value_diff": "-19.9",
+    "value_diff": "-14.5",
     "grade": "D"
   },
   {
@@ -360,7 +384,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
@@ -393,7 +417,7 @@
     "after_trade": "0.0",
     "draft_position": 33,
     "value_diff": "-14.6",
-    "grade": "C"
+    "grade": "D"
   },
   {
     "team": "Mama Daughter Duo",
@@ -432,6 +456,18 @@
     "grade": "D"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 3,
+    "pick": 12,
+    "player_name": "Bucky Irving",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 36,
+    "value_diff": "-15.1",
+    "grade": "D"
+  },
+  {
     "team": "TBD",
     "round": 4,
     "pick": 1,
@@ -442,6 +478,18 @@
     "draft_position": 37,
     "value_diff": "-14.6",
     "grade": "C"
+  },
+  {
+    "team": "Third Time's the Charm?",
+    "round": 4,
+    "pick": 1,
+    "player_name": "Chase Brown",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 37,
+    "value_diff": "-14.6",
+    "grade": "D"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -460,11 +508,11 @@
     "round": 4,
     "pick": 3,
     "player_name": "DeVonta Smith",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.1",
+    "before_trade": "3.1",
     "after_trade": "0.0",
     "draft_position": 39,
-    "value_diff": "-10.5",
+    "value_diff": "-7.4",
     "grade": "B"
   },
   {
@@ -492,7 +540,7 @@
     "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 4,
     "pick": 6,
     "player_name": "James Cook",
@@ -584,7 +632,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "-13.9",
+    "value_diff": "-13.8",
     "grade": "C"
   },
   {
@@ -620,7 +668,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "-12.7",
+    "value_diff": "-12.8",
     "grade": "C"
   },
   {
@@ -648,16 +696,16 @@
     "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.1",
+    "before_trade": "7.1",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-14.1",
-    "grade": "C"
+    "value_diff": "-7.0",
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
@@ -700,12 +748,12 @@
     "round": 5,
     "pick": 11,
     "player_name": "Ladd McConkey",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "10.4",
+    "before_trade": "10.4",
     "after_trade": "0.0",
     "draft_position": 59,
-    "value_diff": "-12.1",
-    "grade": "C"
+    "value_diff": "-1.7",
+    "grade": "A"
   },
   {
     "team": "TBD",
@@ -720,7 +768,31 @@
     "grade": "C"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 5,
+    "pick": 12,
+    "player_name": "Xavier Worthy",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 60,
+    "value_diff": "-12.3",
+    "grade": "C"
+  },
+  {
     "team": "TBD",
+    "round": 6,
+    "pick": 1,
+    "player_name": "Trevor Lawrence",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 61,
+    "value_diff": "-18.1",
+    "grade": "D"
+  },
+  {
+    "team": "Third Time's the Charm?",
     "round": 6,
     "pick": 1,
     "player_name": "Trevor Lawrence",
@@ -780,7 +852,7 @@
     "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
@@ -796,11 +868,11 @@
     "round": 6,
     "pick": 7,
     "player_name": "George Pickens",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "4.5",
+    "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 67,
-    "value_diff": "-10.9",
+    "value_diff": "-6.4",
     "grade": "B"
   },
   {
@@ -824,7 +896,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 69,
-    "value_diff": "-18.1",
+    "value_diff": "-18.3",
     "grade": "D"
   },
   {
@@ -849,7 +921,7 @@
     "after_trade": "0.0",
     "draft_position": 71,
     "value_diff": "-10.2",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -860,7 +932,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "-11.5",
+    "value_diff": "-11.6",
     "grade": "C"
   },
   {
@@ -873,7 +945,7 @@
     "after_trade": "0.0",
     "draft_position": 73,
     "value_diff": "-10.9",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Hamlin My Business ",
@@ -933,10 +1005,10 @@
     "after_trade": "0.0",
     "draft_position": 78,
     "value_diff": "-9.7",
-    "grade": "B"
+    "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 7,
     "pick": 7,
     "player_name": "Matthew Golden",
@@ -945,7 +1017,7 @@
     "after_trade": "0.0",
     "draft_position": 79,
     "value_diff": "-10.0",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
@@ -976,24 +1048,24 @@
     "round": 7,
     "pick": 10,
     "player_name": "Travis Kelce",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "12.2",
+    "before_trade": "12.2",
     "after_trade": "0.0",
     "draft_position": 82,
-    "value_diff": "-9.5",
-    "grade": "B"
+    "value_diff": "2.7",
+    "grade": "A"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 7,
     "pick": 11,
     "player_name": "Isiah Pacheco",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.8",
+    "before_trade": "3.8",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "-11.2",
-    "grade": "C"
+    "value_diff": "-7.4",
+    "grade": "B"
   },
   {
     "team": "TBD",
@@ -1008,7 +1080,31 @@
     "grade": "B"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 7,
+    "pick": 12,
+    "player_name": "Jerry Jeudy",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 84,
+    "value_diff": "-11.0",
+    "grade": "C"
+  },
+  {
     "team": "TBD",
+    "round": 8,
+    "pick": 1,
+    "player_name": "Aaron Jones Sr.",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 85,
+    "value_diff": "-11.2",
+    "grade": "C"
+  },
+  {
+    "team": "Third Time's the Charm?",
     "round": 8,
     "pick": 1,
     "player_name": "Aaron Jones Sr.",
@@ -1041,7 +1137,7 @@
     "after_trade": "0.0",
     "draft_position": 87,
     "value_diff": "-10.7",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -1060,15 +1156,15 @@
     "round": 8,
     "pick": 5,
     "player_name": "Dallas Goedert",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "9.7",
+    "before_trade": "9.7",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "-8.3",
-    "grade": "B"
+    "value_diff": "1.4",
+    "grade": "A"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 8,
     "pick": 6,
     "player_name": "Travis Hunter",
@@ -1077,7 +1173,7 @@
     "after_trade": "0.0",
     "draft_position": 90,
     "value_diff": "-10.2",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
@@ -1089,7 +1185,7 @@
     "after_trade": "0.0",
     "draft_position": 91,
     "value_diff": "-10.9",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Americas Team ",
@@ -1125,7 +1221,7 @@
     "after_trade": "0.0",
     "draft_position": 94,
     "value_diff": "-11.0",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Hamlin My Business ",
@@ -1148,8 +1244,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "-10.7",
-    "grade": "B"
+    "value_diff": "-10.8",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -1160,8 +1256,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-10.2",
-    "grade": "B"
+    "value_diff": "-11.5",
+    "grade": "C"
   },
   {
     "team": "Hamlin My Business ",
@@ -1184,8 +1280,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "-10.4",
-    "grade": "B"
+    "value_diff": "-10.3",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -1209,7 +1305,7 @@
     "after_trade": "0.0",
     "draft_position": 101,
     "value_diff": "-9.7",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
@@ -1220,11 +1316,11 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 102,
-    "value_diff": "-9.7",
-    "grade": "B"
+    "value_diff": "-9.6",
+    "grade": "C"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
@@ -1256,8 +1352,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-9.2",
-    "grade": "B"
+    "value_diff": "-10.2",
+    "grade": "C"
   },
   {
     "team": "Mama Daughter Duo",
@@ -1269,7 +1365,7 @@
     "after_trade": "0.0",
     "draft_position": 106,
     "value_diff": "-9.9",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -1296,7 +1392,31 @@
     "grade": "B"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 9,
+    "pick": 12,
+    "player_name": "Stefon Diggs",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 108,
+    "value_diff": "-9.6",
+    "grade": "B"
+  },
+  {
     "team": "TBD",
+    "round": 10,
+    "pick": 1,
+    "player_name": "Cam Skattebo",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 109,
+    "value_diff": "-7.6",
+    "grade": "B"
+  },
+  {
+    "team": "Third Time's the Charm?",
     "round": 10,
     "pick": 1,
     "player_name": "Cam Skattebo",
@@ -1328,7 +1448,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "-10.5",
+    "value_diff": "-8.8",
     "grade": "B"
   },
   {
@@ -1336,12 +1456,12 @@
     "round": 10,
     "pick": 4,
     "player_name": "Javonte Williams",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "19.4",
+    "before_trade": "19.4",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "-8.4",
-    "grade": "B"
+    "value_diff": "7.8",
+    "grade": "A"
   },
   {
     "team": "Big Titi Energy",
@@ -1356,7 +1476,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 10,
     "pick": 6,
     "player_name": "J.K. Dobbins",
@@ -1401,7 +1521,7 @@
     "after_trade": "0.0",
     "draft_position": 117,
     "value_diff": "-10.1",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
@@ -1456,24 +1576,24 @@
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "16.3",
+    "before_trade": "16.3",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-8.8",
-    "grade": "B"
+    "value_diff": "7.5",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 11,
     "pick": 3,
     "player_name": "Hollywood Brown",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "14.9",
+    "before_trade": "14.9",
     "after_trade": "0.0",
     "draft_position": 123,
-    "value_diff": "-8.1",
-    "grade": "B"
+    "value_diff": "6.8",
+    "grade": "A"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -1485,7 +1605,7 @@
     "after_trade": "0.0",
     "draft_position": 124,
     "value_diff": "-5.9",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
@@ -1508,11 +1628,11 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "-9.3",
+    "value_diff": "-9.2",
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 11,
     "pick": 7,
     "player_name": "Jayden Higgins",
@@ -1520,7 +1640,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-7.9",
+    "value_diff": "-7.8",
     "grade": "B"
   },
   {
@@ -1532,7 +1652,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-6.5",
+    "value_diff": "-6.2",
     "grade": "B"
   },
   {
@@ -1568,7 +1688,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-8.8",
+    "value_diff": "-8.7",
     "grade": "B"
   },
   {
@@ -1584,7 +1704,31 @@
     "grade": "D"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 11,
+    "pick": 12,
+    "player_name": "Bryce Young",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 132,
+    "value_diff": "-16.3",
+    "grade": "D"
+  },
+  {
     "team": "TBD",
+    "round": 12,
+    "pick": 1,
+    "player_name": "Chris Godwin Jr.",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 133,
+    "value_diff": "-8.9",
+    "grade": "B"
+  },
+  {
+    "team": "Third Time's the Charm?",
     "round": 12,
     "pick": 1,
     "player_name": "Chris Godwin Jr.",
@@ -1644,7 +1788,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 12,
     "pick": 6,
     "player_name": "Ollie Gordon II",
@@ -1653,7 +1797,7 @@
     "after_trade": "0.0",
     "draft_position": 138,
     "value_diff": "-4.5",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Michael's Managable Team",
@@ -1665,7 +1809,7 @@
     "after_trade": "0.0",
     "draft_position": 139,
     "value_diff": "-5.7",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
@@ -1688,7 +1832,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-5.4",
+    "value_diff": "-1.0",
     "grade": "A"
   },
   {
@@ -1744,12 +1888,12 @@
     "round": 13,
     "pick": 2,
     "player_name": "Najee Harris",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.5",
+    "before_trade": "1.5",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-5.2",
-    "grade": "A"
+    "value_diff": "-3.7",
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
@@ -1761,7 +1905,7 @@
     "after_trade": "0.0",
     "draft_position": 147,
     "value_diff": "-5.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -1772,7 +1916,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-7.9",
+    "value_diff": "-8.0",
     "grade": "B"
   },
   {
@@ -1792,15 +1936,15 @@
     "round": 13,
     "pick": 6,
     "player_name": "Jake Ferguson",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "6.0",
+    "before_trade": "6.0",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "-7.8",
-    "grade": "B"
+    "value_diff": "-1.8",
+    "grade": "A"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
@@ -1820,7 +1964,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "-7.9",
+    "value_diff": "-7.8",
     "grade": "B"
   },
   {
@@ -1872,6 +2016,18 @@
     "grade": "B"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 13,
+    "pick": 12,
+    "player_name": "Zach Ertz",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 156,
+    "value_diff": "-7.4",
+    "grade": "B"
+  },
+  {
     "team": "TBD",
     "round": 14,
     "pick": 1,
@@ -1882,6 +2038,18 @@
     "draft_position": 157,
     "value_diff": "-5.0",
     "grade": "A"
+  },
+  {
+    "team": "Third Time's the Charm?",
+    "round": 14,
+    "pick": 1,
+    "player_name": "Braelon Allen",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 157,
+    "value_diff": "-5.0",
+    "grade": "B"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -1917,7 +2085,7 @@
     "after_trade": "0.0",
     "draft_position": 160,
     "value_diff": "-4.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
@@ -1932,7 +2100,7 @@
     "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
@@ -1977,7 +2145,7 @@
     "after_trade": "0.0",
     "draft_position": 165,
     "value_diff": "-4.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
@@ -1988,7 +2156,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 166,
-    "value_diff": "-7.4",
+    "value_diff": "-7.0",
     "grade": "B"
   },
   {
@@ -2025,7 +2193,7 @@
     "after_trade": "0.0",
     "draft_position": 169,
     "value_diff": "-5.9",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Hamlin My Business ",
@@ -2037,7 +2205,7 @@
     "after_trade": "0.0",
     "draft_position": 170,
     "value_diff": "-4.6",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
@@ -2048,8 +2216,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-5.8",
-    "grade": "A"
+    "value_diff": "-5.3",
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -2072,7 +2240,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 173,
-    "value_diff": "-4.8",
+    "value_diff": "0.0",
     "grade": "A"
   },
   {
@@ -2085,10 +2253,10 @@
     "after_trade": "0.0",
     "draft_position": 174,
     "value_diff": "-3.6",
-    "grade": "A"
+    "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 15,
     "pick": 7,
     "player_name": "Tyler Higbee",
@@ -2109,7 +2277,7 @@
     "after_trade": "0.0",
     "draft_position": 176,
     "value_diff": "-3.3",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -2128,11 +2296,11 @@
     "round": 15,
     "pick": 10,
     "player_name": "Will Shipley",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "2.6",
+    "before_trade": "2.6",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-3.1",
+    "value_diff": "-0.5",
     "grade": "A"
   },
   {
@@ -2145,10 +2313,22 @@
     "after_trade": "0.0",
     "draft_position": 179,
     "value_diff": "-4.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "TBD",
+    "round": 15,
+    "pick": 12,
+    "player_name": "Brenton Strange",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 180,
+    "value_diff": "-7.3",
+    "grade": "B"
+  },
+  {
+    "team": "Third Time's the Charm?",
     "round": 15,
     "pick": 12,
     "player_name": "Brenton Strange",
@@ -2172,6 +2352,18 @@
     "grade": "A"
   },
   {
+    "team": "Third Time's the Charm?",
+    "round": 16,
+    "pick": 1,
+    "player_name": "Brandon Aiyuk",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 181,
+    "value_diff": "-5.5",
+    "grade": "B"
+  },
+  {
     "team": "Fantasy Guru Kayden",
     "round": 16,
     "pick": 2,
@@ -2181,7 +2373,7 @@
     "after_trade": "0.0",
     "draft_position": 182,
     "value_diff": "-5.6",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
@@ -2193,18 +2385,18 @@
     "after_trade": "0.0",
     "draft_position": 183,
     "value_diff": "-5.2",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 16,
     "pick": 4,
     "player_name": "Quentin Johnston",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 184,
-    "value_diff": "-4.9",
+    "value_diff": "17.2",
     "grade": "A"
   },
   {
@@ -2217,10 +2409,10 @@
     "after_trade": "0.0",
     "draft_position": 185,
     "value_diff": "-4.3",
-    "grade": "A"
+    "grade": "B"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 16,
     "pick": 6,
     "player_name": "Chig Okonkwo",
@@ -2236,12 +2428,12 @@
     "round": 16,
     "pick": 7,
     "player_name": "Tre' Harris",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.6",
+    "before_trade": "1.6",
     "after_trade": "0.0",
     "draft_position": 187,
-    "value_diff": "-5.2",
-    "grade": "A"
+    "value_diff": "-3.2",
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
@@ -2253,7 +2445,7 @@
     "after_trade": "0.0",
     "draft_position": 188,
     "value_diff": "-4.3",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -2277,7 +2469,7 @@
     "after_trade": "0.0",
     "draft_position": 190,
     "value_diff": "-5.2",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Hamlin My Business ",
@@ -2289,7 +2481,7 @@
     "after_trade": "0.0",
     "draft_position": 191,
     "value_diff": "-5.1",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "90s MonCon",

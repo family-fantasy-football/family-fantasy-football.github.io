@@ -20,7 +20,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-16.1",
+    "value_diff": "-16.0",
     "grade": "D"
   },
   {
@@ -69,7 +69,7 @@
     "after_trade": "0.0",
     "draft_position": 71,
     "value_diff": "-10.2",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Hamlin My Business ",
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "16.3",
+    "before_trade": "16.3",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-8.8",
-    "grade": "B"
+    "value_diff": "7.5",
+    "grade": "A"
   },
   {
     "team": "Hamlin My Business ",
@@ -148,12 +148,12 @@
     "round": 13,
     "pick": 2,
     "player_name": "Najee Harris",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.5",
+    "before_trade": "1.5",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-5.2",
-    "grade": "A"
+    "value_diff": "-3.7",
+    "grade": "B"
   },
   {
     "team": "Hamlin My Business ",
@@ -177,7 +177,7 @@
     "after_trade": "0.0",
     "draft_position": 170,
     "value_diff": "-4.6",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Hamlin My Business ",
@@ -189,6 +189,6 @@
     "after_trade": "0.0",
     "draft_position": 191,
     "value_diff": "-5.1",
-    "grade": "A"
+    "grade": "B"
   }
 ]

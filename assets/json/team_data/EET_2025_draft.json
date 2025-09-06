@@ -4,12 +4,12 @@
     "round": 1,
     "pick": 3,
     "player_name": "Saquon Barkley",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "16.4",
+    "before_trade": "16.4",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-17.8",
-    "grade": "D"
+    "value_diff": "-1.4",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "5.3",
+    "before_trade": "5.3",
     "after_trade": "0.0",
     "draft_position": 27,
-    "value_diff": "-19.9",
+    "value_diff": "-14.5",
     "grade": "D"
   },
   {
@@ -93,7 +93,7 @@
     "after_trade": "0.0",
     "draft_position": 94,
     "value_diff": "-11.0",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
@@ -104,8 +104,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "-10.4",
-    "grade": "B"
+    "value_diff": "-10.3",
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 3,
     "player_name": "Hollywood Brown",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "14.9",
+    "before_trade": "14.9",
     "after_trade": "0.0",
     "draft_position": 123,
-    "value_diff": "-8.1",
-    "grade": "B"
+    "value_diff": "6.8",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
@@ -153,7 +153,7 @@
     "after_trade": "0.0",
     "draft_position": 147,
     "value_diff": "-5.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 166,
-    "value_diff": "-7.4",
+    "value_diff": "-7.0",
     "grade": "B"
   },
   {
@@ -176,8 +176,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-5.8",
-    "grade": "A"
+    "value_diff": "-5.3",
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
@@ -189,6 +189,6 @@
     "after_trade": "0.0",
     "draft_position": 190,
     "value_diff": "-5.2",
-    "grade": "A"
+    "grade": "B"
   }
 ]

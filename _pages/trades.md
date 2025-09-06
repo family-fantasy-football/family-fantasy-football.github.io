@@ -68,8 +68,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
             ],
             "data": [
                 {
-                    "id": "TBD",
-                    "name": "TBD",
+                    "id": "Third Time's the Charm?",
+                    "name": "Third Time's the Charm?",
                     "itemStyle": {
                         "color": "hsl(0.0, 70%, 50%)"
                     }
@@ -82,8 +82,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 },
                 {
-                    "id": "30 Years of Tears",
-                    "name": "30 Years of Tears",
+                    "id": "Rookie Mistake",
+                    "name": "Rookie Mistake",
                     "itemStyle": {
                         "color": "hsl(65.45454545454545, 70%, 50%)"
                     }

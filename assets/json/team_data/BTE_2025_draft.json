@@ -8,7 +8,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "-11.9",
+    "value_diff": "-12.0",
     "grade": "C"
   },
   {
@@ -88,12 +88,12 @@
     "round": 8,
     "pick": 5,
     "player_name": "Dallas Goedert",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "9.7",
+    "before_trade": "9.7",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "-8.3",
-    "grade": "B"
+    "value_diff": "1.4",
+    "grade": "A"
   },
   {
     "team": "Big Titi Energy",
@@ -128,7 +128,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-6.5",
+    "value_diff": "-6.2",
     "grade": "B"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "-7.9",
+    "value_diff": "-7.8",
     "grade": "B"
   },
   {
@@ -177,7 +177,7 @@
     "after_trade": "0.0",
     "draft_position": 176,
     "value_diff": "-3.3",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
@@ -189,6 +189,6 @@
     "after_trade": "0.0",
     "draft_position": 185,
     "value_diff": "-4.3",
-    "grade": "A"
+    "grade": "B"
   }
 ]

@@ -33,17 +33,17 @@
   },
   "series": [
     {
-      "name": "TBD",
+      "name": "Third Time's the Charm?",
       "type": "radar",
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            8.4,
+            -0.9,
+            4.0,
+            -1.7
           ],
-          "name": "TBD"
+          "name": "Third Time's the Charm?"
         }
       ]
     },
@@ -53,27 +53,27 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.8,
+            -1.7
           ],
           "name": "90s MonCon"
         }
       ]
     },
     {
-      "name": "30 Years of Tears",
+      "name": "Rookie Mistake",
       "type": "radar",
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            1.5,
+            -0.8,
+            -1.7
           ],
-          "name": "30 Years of Tears"
+          "name": "Rookie Mistake"
         }
       ]
     },
@@ -83,10 +83,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.5,
+            -1.7
           ],
           "name": "Americas Team "
         }
@@ -98,10 +98,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            14.6,
+            -0.9,
+            0.7,
+            -1.7
           ],
           "name": "Michael's Managable Team"
         }
@@ -113,10 +113,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.8,
+            -1.7
           ],
           "name": "To Infinity and Bijan!"
         }
@@ -128,10 +128,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            0.4,
+            2.6,
+            -1.7
           ],
           "name": "Fantasy Guru Kayden"
         }
@@ -143,10 +143,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            10.8,
+            -0.9,
+            -0.1,
+            10.5
           ],
           "name": "Mama Daughter Duo"
         }
@@ -158,10 +158,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.8,
+            -1.7
           ],
           "name": "Abbey's TNT Team "
         }
@@ -173,10 +173,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.8,
+            -1.7
           ],
           "name": "Hamlin My Business "
         }
@@ -188,10 +188,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -1.4,
+            4.6,
+            -0.8,
+            -1.7
           ],
           "name": "Emma's Excellent Team"
         }
@@ -203,10 +203,10 @@
       "data": [
         {
           "value": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
+            -4.1,
+            -0.9,
+            -0.8,
+            8.0
           ],
           "name": "Big Titi Energy"
         }

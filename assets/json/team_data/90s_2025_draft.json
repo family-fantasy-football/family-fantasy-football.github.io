@@ -8,7 +8,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "-24.9",
+    "value_diff": "-25.0",
     "grade": "D"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "-13.9",
+    "value_diff": "-13.8",
     "grade": "C"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "-11.5",
+    "value_diff": "-11.6",
     "grade": "C"
   },
   {
@@ -81,7 +81,7 @@
     "after_trade": "0.0",
     "draft_position": 73,
     "value_diff": "-10.9",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -92,8 +92,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "-10.7",
-    "grade": "B"
+    "value_diff": "-10.8",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -104,8 +104,8 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-10.2",
-    "grade": "B"
+    "value_diff": "-11.5",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -177,7 +177,7 @@
     "after_trade": "0.0",
     "draft_position": 169,
     "value_diff": "-5.9",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "90s MonCon",

@@ -14,13 +14,13 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Patrick Mahomes (0.0 pts) owned by TBD
+* **QB:** Justin Herbert (37.42 pts) owned by Michael's Managable Team
 
-* **RB:** Bucky Irving (0.0 pts) owned by TBD
+* **RB:** Javonte Williams (19.4 pts) owned by To Infinity and Bijan!
 
-* **WR:** CeeDee Lamb (0.0 pts) owned by TBD
+* **WR:** Quentin Johnston (22.4 pts) owned by To Infinity and Bijan!
 
-* **TE:** Zach Ertz (0.0 pts) owned by TBD
+* **TE:** Travis Kelce (12.2 pts) owned by Mama Daughter Duo
 
 
 Below are the top 10 performers at each position through Week 1.

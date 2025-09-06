@@ -24,7 +24,12 @@
         "70%"
       ],
       "avoidLabelOverlap": false,
-      "data": []
+      "data": [
+        {
+          "value": 9.7,
+          "name": "TE"
+        }
+      ]
     }
   ]
 }

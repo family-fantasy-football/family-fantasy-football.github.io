@@ -1,7 +1,31 @@
 [
   {
+    "player_name": "Travis Kelce",
+    "team": "Mama Daughter Duo",
+    "draft": "7.10",
+    "overall_pick": 82,
+    "points": 12.2,
+    "projected": 9.48
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "team": "Big Titi Energy",
+    "draft": "8.5",
+    "overall_pick": 89,
+    "points": 9.65,
+    "projected": 8.28
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "team": "Michael's Managable Team",
+    "draft": "13.6",
+    "overall_pick": 150,
+    "points": 6.05,
+    "projected": 7.87
+  },
+  {
     "player_name": "Zach Ertz",
-    "team": "TBD",
+    "team": "Third Time's the Charm?",
     "draft": "13.12",
     "overall_pick": 156,
     "points": 0.0,
@@ -9,7 +33,7 @@
   },
   {
     "player_name": "Brenton Strange",
-    "team": "TBD",
+    "team": "Third Time's the Charm?",
     "draft": "15.12",
     "overall_pick": 180,
     "points": 0.0,
@@ -21,19 +45,19 @@
     "draft": "5.1",
     "overall_pick": 49,
     "points": 0.0,
-    "projected": 13.85
+    "projected": 13.79
   },
   {
     "player_name": "Tyler Warren",
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "draft": "9.7",
     "overall_pick": 103,
     "points": 0.0,
-    "projected": 8.83
+    "projected": 8.82
   },
   {
     "player_name": "Tyler Higbee",
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "draft": "15.7",
     "overall_pick": 175,
     "points": 0.0,
@@ -41,11 +65,11 @@
   },
   {
     "player_name": "Chig Okonkwo",
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "draft": "16.6",
     "overall_pick": 186,
     "points": 0.0,
-    "projected": 7.13
+    "projected": 7.12
   },
   {
     "player_name": "Trey McBride",
@@ -53,30 +77,6 @@
     "draft": "3.5",
     "overall_pick": 29,
     "points": 0.0,
-    "projected": 13.58
-  },
-  {
-    "player_name": "Dalton Schultz",
-    "team": "Americas Team ",
-    "draft": "13.5",
-    "overall_pick": 149,
-    "points": 0.0,
-    "projected": 6.64
-  },
-  {
-    "player_name": "T.J. Hockenson",
-    "team": "Michael's Managable Team",
-    "draft": "7.6",
-    "overall_pick": 78,
-    "points": 0.0,
-    "projected": 9.67
-  },
-  {
-    "player_name": "Jake Ferguson",
-    "team": "Michael's Managable Team",
-    "draft": "13.6",
-    "overall_pick": 150,
-    "points": 0.0,
-    "projected": 7.85
+    "projected": 13.59
   }
 ]

@@ -8,7 +8,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "-24.9",
+    "value_diff": "-25.0",
     "grade": "D"
   },
   {
@@ -24,7 +24,7 @@
     "grade": "D"
   },
   {
-    "team": "30 Years of Tears",
+    "team": "Rookie Mistake",
     "round": 1,
     "pick": 7,
     "player_name": "Joe Burrow",
@@ -33,18 +33,6 @@
     "after_trade": "0.0",
     "draft_position": 7,
     "value_diff": "-24.6",
-    "grade": "D"
-  },
-  {
-    "team": "Mama Daughter Duo",
-    "round": 1,
-    "pick": 10,
-    "player_name": "Jalen Hurts",
-    "points": "0.0",
-    "before_trade": "0.0",
-    "after_trade": "0.0",
-    "draft_position": 10,
-    "value_diff": "-24.1",
     "grade": "D"
   },
   {
@@ -57,6 +45,18 @@
     "after_trade": "0.0",
     "draft_position": 2,
     "value_diff": "-23.8",
+    "grade": "D"
+  },
+  {
+    "team": "TBD",
+    "round": 1,
+    "pick": 12,
+    "player_name": "Patrick Mahomes",
+    "points": "0.0",
+    "before_trade": "0.0",
+    "after_trade": "0.0",
+    "draft_position": 12,
+    "value_diff": "-23.0",
     "grade": "D"
   }
 ]

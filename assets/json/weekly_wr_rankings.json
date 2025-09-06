@@ -27,7 +27,6 @@
             "90s",
             "ARV",
             "BTE",
-            "CTR",
             "EET",
             "HMB",
             "JST",
@@ -35,7 +34,8 @@
             "MMT",
             "RRT",
             "TIB",
-            "TOM"
+            "TOM",
+            "TTC"
         ],
         "name": "",
         "nameLocation": "end",
