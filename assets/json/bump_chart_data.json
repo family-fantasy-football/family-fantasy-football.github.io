@@ -32,13 +32,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#aec7e8"
+        "color": "#8c564b"
       },
       "itemStyle": {
-        "color": "#aec7e8"
+        "color": "#8c564b"
       },
       "data": [
-        2
+        7
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -50,28 +50,6 @@
     },
     {
       "name": "Abbey's TNT Team ",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#f7b6d2"
-      },
-      "itemStyle": {
-        "color": "#f7b6d2"
-      },
-      "data": [
-        9
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "Abbey's TNT ..."
-      }
-    },
-    {
-      "name": "Americas Team ",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -89,11 +67,11 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Americas Team "
+        "formatter": "Abbey's TNT ..."
       }
     },
     {
-      "name": "Big Titi Energy",
+      "name": "Americas Team ",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -111,11 +89,11 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Big Titi Ene..."
+        "formatter": "Americas Team "
       }
     },
     {
-      "name": "Emma's Excellent Team",
+      "name": "Big Titi Energy",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -133,33 +111,33 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Emma's Excel..."
+        "formatter": "Big Titi Ene..."
       }
     },
     {
-      "name": "Fantasy Guru Kayden",
+      "name": "Emma's Excellent Team",
       "type": "line",
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#8c564b"
+        "color": "#c49c94"
       },
       "itemStyle": {
-        "color": "#8c564b"
+        "color": "#c49c94"
       },
       "data": [
-        7
+        8
       ],
       "symbol": "circle",
       "symbolSize": 12,
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Fantasy Guru..."
+        "formatter": "Emma's Excel..."
       }
     },
     {
-      "name": "Hamlin My Business ",
+      "name": "Fantasy Guru Kayden",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -177,7 +155,29 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Hamlin My Bu..."
+        "formatter": "Fantasy Guru..."
+      }
+    },
+    {
+      "name": "Game of Zones - House Hamlin",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#1f77b4"
+      },
+      "itemStyle": {
+        "color": "#1f77b4"
+      },
+      "data": [
+        1
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Game of Zone..."
       }
     },
     {
@@ -186,13 +186,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#c49c94"
+        "color": "#ffbb78"
       },
       "itemStyle": {
-        "color": "#c49c94"
+        "color": "#ffbb78"
       },
       "data": [
-        8
+        3
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -230,13 +230,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#ffbb78"
+        "color": "#f7b6d2"
       },
       "itemStyle": {
-        "color": "#ffbb78"
+        "color": "#f7b6d2"
       },
       "data": [
-        3
+        9
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -252,13 +252,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#1f77b4"
+        "color": "#9467bd"
       },
       "itemStyle": {
-        "color": "#1f77b4"
+        "color": "#9467bd"
       },
       "data": [
-        1
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -274,13 +274,13 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#9467bd"
+        "color": "#aec7e8"
       },
       "itemStyle": {
-        "color": "#9467bd"
+        "color": "#aec7e8"
       },
       "data": [
-        6
+        2
       ],
       "symbol": "circle",
       "symbolSize": 12,

@@ -1,65 +1,65 @@
 [
   {
-    "player_name": "Jayden Daniels",
+    "player_name": "Aaron Rodgers",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 23.61
-  },
-  {
-    "player_name": "Brian Thomas Jr.",
-    "pos": "WR",
-    "slot": "WR",
-    "points": 0,
-    "projected": 13.57
+    "points": 36.66,
+    "projected": 14.62
   },
   {
     "player_name": "Ladd McConkey",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 12.21
+    "points": 10.4,
+    "projected": 12.25
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.5,
+    "projected": 13.57
   },
   {
     "player_name": "De'Von Achane",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 15.55
+    "points": 15.0,
+    "projected": 15.51
   },
   {
-    "player_name": "Isiah Pacheco",
+    "player_name": "Austin Ekeler",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 11.59
+    "points": 7.2,
+    "projected": 10.42
   },
   {
     "player_name": "David Njoku",
     "pos": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 5.95,
     "projected": 10.14
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.5,
+    "projected": 7.58
   },
   {
     "player_name": "Mike Evans",
     "pos": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 13.38
-  },
-  {
-    "player_name": "Rashee Rice",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 0.0
+    "points": 7.6,
+    "projected": 13.37
   },
   {
     "player_name": "Baker Mayfield",
     "pos": "QB",
     "slot": "OP",
-    "points": 0,
-    "projected": 23.86
+    "points": 22.08,
+    "projected": 23.84
   }
 ]

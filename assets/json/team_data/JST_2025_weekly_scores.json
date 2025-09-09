@@ -51,7 +51,7 @@
       "name": "Points For",
       "type": "line",
       "data": [
-        0.0,
+        126.4,
         0.0,
         0.0,
         0.0,
@@ -76,7 +76,7 @@
       "name": "Points Against",
       "type": "line",
       "data": [
-        0.0,
+        103.7,
         0.0,
         0.0,
         0.0,
@@ -101,7 +101,7 @@
       "name": "League Avg",
       "type": "line",
       "data": [
-        0.0,
+        113.1,
         0.0,
         0.0,
         0.0,

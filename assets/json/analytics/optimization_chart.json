@@ -9,18 +9,18 @@
   },
   "legend": {
     "data": [
-      "TTC",
-      "90s",
-      "TOM",
-      "RRT",
-      "MMT",
+      "HMB",
       "TIB",
-      "KTT",
       "JST",
       "ARV",
-      "HMB",
+      "MMT",
+      "TTC",
+      "90s",
       "EET",
-      "BTE"
+      "TOM",
+      "KTT",
+      "BTE",
+      "RRT"
     ],
     "orient": "vertical",
     "right": 0,
@@ -38,83 +38,87 @@
   },
   "series": [
     {
-      "name": "TTC",
+      "name": "HMB",
       "type": "line",
       "data": [
-        100.0
-      ]
-    },
-    {
-      "name": "90s",
-      "type": "line",
-      "data": []
-    },
-    {
-      "name": "TOM",
-      "type": "line",
-      "data": [
-        100.0
-      ]
-    },
-    {
-      "name": "RRT",
-      "type": "line",
-      "data": [
-        100.0
-      ]
-    },
-    {
-      "name": "MMT",
-      "type": "line",
-      "data": [
-        84.6
+        92.6
       ]
     },
     {
       "name": "TIB",
       "type": "line",
       "data": [
-        0.0
-      ]
-    },
-    {
-      "name": "KTT",
-      "type": "line",
-      "data": [
-        100.0
+        79.6
       ]
     },
     {
       "name": "JST",
       "type": "line",
       "data": [
-        94.5
+        91.7
       ]
     },
     {
       "name": "ARV",
       "type": "line",
-      "data": []
+      "data": [
+        84.2
+      ]
     },
     {
-      "name": "HMB",
+      "name": "MMT",
       "type": "line",
       "data": [
-        0.0
+        75.5
+      ]
+    },
+    {
+      "name": "TTC",
+      "type": "line",
+      "data": [
+        90.7
+      ]
+    },
+    {
+      "name": "90s",
+      "type": "line",
+      "data": [
+        88.5
       ]
     },
     {
       "name": "EET",
       "type": "line",
       "data": [
-        59.3
+        88.3
+      ]
+    },
+    {
+      "name": "TOM",
+      "type": "line",
+      "data": [
+        89.1
+      ]
+    },
+    {
+      "name": "KTT",
+      "type": "line",
+      "data": [
+        83.0
       ]
     },
     {
       "name": "BTE",
       "type": "line",
       "data": [
-        100.0
+        77.9
+      ]
+    },
+    {
+      "name": "RRT",
+      "type": "line",
+      "data": [
+        81.4
       ]
     }
   ],

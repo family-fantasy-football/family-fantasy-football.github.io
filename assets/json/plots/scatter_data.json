@@ -12,16 +12,16 @@
     "name": "Points For",
     "nameLocation": "middle",
     "nameGap": 30,
-    "min": -150.0,
-    "max": 150.0
+    "min": -70.0,
+    "max": 326.0
   },
   "yAxis": {
     "type": "value",
     "name": "Points Against",
     "nameLocation": "middle",
     "nameGap": 40,
-    "min": -150.0,
-    "max": 150.0
+    "min": -70.0,
+    "max": 326.0
   },
   "series": [
     {
@@ -32,85 +32,85 @@
         {
           "name": "Third Time's the Charm?",
           "value": [
-            0.0,
-            0.0
+            106.14,
+            80.1
           ]
         },
         {
           "name": "90s MonCon",
           "value": [
-            0.0,
-            0.0
+            111.47,
+            111.95
           ]
         },
         {
           "name": "Rookie Mistake",
           "value": [
-            0.0,
-            0.0
+            103.67,
+            126.38
           ]
         },
         {
           "name": "Americas Team ",
           "value": [
-            0.0,
-            0.0
+            80.1,
+            106.14
           ]
         },
         {
           "name": "Michael's Managable Team",
           "value": [
-            0.0,
-            0.0
+            111.95,
+            111.47
           ]
         },
         {
           "name": "To Infinity and Bijan!",
           "value": [
-            0.0,
-            0.0
+            134.09,
+            101.15
           ]
         },
         {
           "name": "Fantasy Guru Kayden",
           "value": [
-            0.0,
-            0.0
+            101.15,
+            134.09
           ]
         },
         {
           "name": "Mama Daughter Duo",
           "value": [
-            0.0,
-            0.0
+            126.38,
+            103.67
           ]
         },
         {
           "name": "Abbey's TNT Team ",
           "value": [
-            0.0,
-            0.0
+            115.72,
+            108.2
           ]
         },
         {
-          "name": "Hamlin My Business ",
+          "name": "Game of Zones - House Hamlin",
           "value": [
-            0.0,
-            0.0
+            176.38,
+            81.59
           ]
         },
         {
           "name": "Emma's Excellent Team",
           "value": [
-            0.0,
-            0.0
+            108.2,
+            115.72
           ]
         },
         {
           "name": "Big Titi Energy",
           "value": [
-            0.0,
-            0.0
+            81.59,
+            176.38
           ]
         }
       ],
@@ -130,12 +130,12 @@
       "showSymbol": false,
       "data": [
         [
-          -150.0,
-          -150.0
+          -70.0,
+          -70.0
         ],
         [
-          150.0,
-          150.0
+          326.0,
+          326.0
         ]
       ]
     },
@@ -146,14 +146,14 @@
         "silent": true,
         "data": [
           {
-            "xAxis": 0.0,
+            "xAxis": 113.07,
             "lineStyle": {
               "color": "blue",
               "opacity": 0.5
             }
           },
           {
-            "yAxis": 0.0,
+            "yAxis": 113.07,
             "lineStyle": {
               "color": "red",
               "opacity": 0.5

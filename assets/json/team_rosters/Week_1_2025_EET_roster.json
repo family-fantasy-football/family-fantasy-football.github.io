@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.4,
+    "projected": 19.54
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 24.78,
+    "projected": 19.24
+  },
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 5.32,
+    "projected": 19.09
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.5,
+    "projected": 13.11
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 11.5,
+    "projected": 12.37
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.4,
+    "projected": 11.41
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.1,
+    "projected": 11.26
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 4.5,
+    "projected": 12.14
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 13.7,
+    "projected": 10.22
+  }
+]

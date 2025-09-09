@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 6,
     "player_name": "Jahmyr Gibbs",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "10.0",
+    "before_trade": "10.0",
     "after_trade": "0.0",
     "draft_position": 6,
-    "value_diff": "-16.9",
+    "value_diff": "-6.9",
     "grade": "D"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "37.4",
     "after_trade": "0.0",
     "draft_position": 19,
-    "value_diff": "18.4",
+    "value_diff": "18.5",
     "grade": "A"
   },
   {
@@ -28,23 +28,23 @@
     "round": 3,
     "pick": 6,
     "player_name": "Drake Maye",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "16.3",
+    "before_trade": "16.3",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "-19.6",
-    "grade": "D"
+    "value_diff": "-3.2",
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
     "round": 4,
     "pick": 7,
     "player_name": "Davante Adams",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.1",
+    "before_trade": "7.1",
     "after_trade": "0.0",
     "draft_position": 43,
-    "value_diff": "-12.6",
+    "value_diff": "-5.5",
     "grade": "C"
   },
   {
@@ -52,12 +52,12 @@
     "round": 5,
     "pick": 6,
     "player_name": "Alvin Kamara",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "12.7",
+    "before_trade": "12.7",
     "after_trade": "0.0",
     "draft_position": 54,
-    "value_diff": "-13.6",
-    "grade": "C"
+    "value_diff": "-0.9",
+    "grade": "B"
   },
   {
     "team": "Michael's Managable Team",
@@ -69,18 +69,18 @@
     "after_trade": "0.0",
     "draft_position": 67,
     "value_diff": "-6.4",
-    "grade": "B"
+    "grade": "D"
   },
   {
     "team": "Michael's Managable Team",
     "round": 7,
     "pick": 6,
     "player_name": "T.J. Hockenson",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.8",
+    "before_trade": "3.8",
     "after_trade": "0.0",
     "draft_position": 78,
-    "value_diff": "-9.7",
+    "value_diff": "-5.9",
     "grade": "C"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 7,
     "player_name": "RJ Harvey",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.4",
+    "before_trade": "7.4",
     "after_trade": "0.0",
     "draft_position": 91,
-    "value_diff": "-10.9",
+    "value_diff": "-3.4",
     "grade": "C"
   },
   {
@@ -100,35 +100,35 @@
     "round": 9,
     "pick": 6,
     "player_name": "Ricky Pearsall",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "12.8",
+    "before_trade": "12.8",
     "after_trade": "0.0",
     "draft_position": 102,
-    "value_diff": "-9.6",
-    "grade": "C"
+    "value_diff": "3.2",
+    "grade": "B"
   },
   {
     "team": "Michael's Managable Team",
     "round": 10,
     "pick": 7,
     "player_name": "Michael Pittman Jr.",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "17.0",
+    "before_trade": "17.0",
     "after_trade": "0.0",
     "draft_position": 115,
-    "value_diff": "-9.3",
-    "grade": "B"
+    "value_diff": "7.7",
+    "grade": "A"
   },
   {
     "team": "Michael's Managable Team",
     "round": 11,
     "pick": 6,
     "player_name": "Khalil Shakir",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "9.4",
+    "before_trade": "9.4",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "-9.2",
+    "value_diff": "0.2",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 7,
     "player_name": "Bhayshul Tuten",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.1",
+    "before_trade": "1.1",
     "after_trade": "0.0",
     "draft_position": 139,
-    "value_diff": "-5.7",
+    "value_diff": "0.8",
     "grade": "B"
   },
   {
@@ -153,31 +153,31 @@
     "after_trade": "0.0",
     "draft_position": 150,
     "value_diff": "-1.8",
-    "grade": "A"
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
     "round": 14,
     "pick": 7,
     "player_name": "Daniel Jones",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "35.5",
+    "before_trade": "35.5",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "-13.1",
-    "grade": "C"
+    "value_diff": "22.3",
+    "grade": "A"
   },
   {
     "team": "Michael's Managable Team",
     "round": 15,
     "pick": 6,
     "player_name": "Woody Marks",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "0.3",
+    "before_trade": "0.3",
     "after_trade": "0.0",
     "draft_position": 174,
-    "value_diff": "-3.6",
-    "grade": "B"
+    "value_diff": "-3.3",
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
@@ -188,7 +188,7 @@
     "before_trade": "1.6",
     "after_trade": "0.0",
     "draft_position": 187,
-    "value_diff": "-3.2",
+    "value_diff": "0.3",
     "grade": "B"
   }
 ]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 21.48,
+    "projected": 17.85
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 21.6,
+    "projected": 11.27
+  },
+  {
+    "player_name": "Deebo Samuel",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.1,
+    "projected": 10.05
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.4,
+    "projected": 17.88
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.4,
+    "projected": 14.72
+  },
+  {
+    "player_name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 2.7,
+    "projected": 7.94
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 18.1,
+    "projected": 13.75
+  },
+  {
+    "player_name": "Dylan Sampson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 13.3,
+    "projected": 8.57
+  },
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 6.34,
+    "projected": 21.81
+  }
+]

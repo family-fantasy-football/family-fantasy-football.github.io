@@ -16,24 +16,24 @@
     "round": 2,
     "pick": 3,
     "player_name": "Christian McCaffrey",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "18.7",
+    "before_trade": "18.7",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "-16.6",
-    "grade": "D"
+    "value_diff": "2.1",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 3,
     "pick": 10,
     "player_name": "Caleb Williams",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "22.7",
+    "before_trade": "22.7",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "-17.9",
-    "grade": "D"
+    "value_diff": "4.8",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
@@ -45,18 +45,18 @@
     "after_trade": "0.0",
     "draft_position": 39,
     "value_diff": "-7.4",
-    "grade": "B"
+    "grade": "D"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 5,
     "pick": 10,
     "player_name": "D'Andre Swift",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "8.0",
+    "before_trade": "8.0",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-12.2",
+    "value_diff": "-4.2",
     "grade": "C"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 3,
     "player_name": "DK Metcalf",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "10.3",
+    "before_trade": "10.3",
     "after_trade": "0.0",
     "draft_position": 63,
-    "value_diff": "-11.7",
+    "value_diff": "-1.5",
     "grade": "C"
   },
   {
@@ -81,42 +81,42 @@
     "after_trade": "0.0",
     "draft_position": 82,
     "value_diff": "2.7",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 8,
     "pick": 3,
     "player_name": "Rome Odunze",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "12.7",
+    "before_trade": "12.7",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "-10.7",
-    "grade": "C"
+    "value_diff": "2.0",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 9,
     "pick": 10,
     "player_name": "Chris Olave",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "8.9",
+    "before_trade": "8.9",
     "after_trade": "0.0",
     "draft_position": 106,
-    "value_diff": "-9.9",
-    "grade": "C"
+    "value_diff": "-1.0",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 10,
     "pick": 3,
     "player_name": "Kaleb Johnson",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "-0.2",
+    "before_trade": "-0.2",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "-8.8",
+    "value_diff": "-0.5",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 10,
     "player_name": "Jayden Reed",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "12.0",
+    "before_trade": "12.0",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-8.7",
+    "value_diff": "3.3",
     "grade": "B"
   },
   {
@@ -136,23 +136,23 @@
     "round": 12,
     "pick": 3,
     "player_name": "Michael Penix Jr.",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "24.5",
+    "before_trade": "24.5",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "-16.1",
-    "grade": "D"
+    "value_diff": "8.4",
+    "grade": "A"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 13,
     "pick": 10,
     "player_name": "Hunter Henry",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "9.6",
+    "before_trade": "9.6",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "-7.9",
+    "value_diff": "1.7",
     "grade": "B"
   },
   {
@@ -160,12 +160,12 @@
     "round": 14,
     "pick": 3,
     "player_name": "Rachaad White",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "2.1",
+    "before_trade": "2.1",
     "after_trade": "0.0",
     "draft_position": 159,
-    "value_diff": "-6.6",
-    "grade": "B"
+    "value_diff": "-4.5",
+    "grade": "C"
   },
   {
     "team": "Mama Daughter Duo",
@@ -177,7 +177,7 @@
     "after_trade": "0.0",
     "draft_position": 178,
     "value_diff": "-0.5",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
@@ -189,6 +189,6 @@
     "after_trade": "0.0",
     "draft_position": 183,
     "value_diff": "-5.2",
-    "grade": "B"
+    "grade": "C"
   }
 ]

@@ -131,8 +131,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 },
                 {
-                    "id": "Hamlin My Business ",
-                    "name": "Hamlin My Business ",
+                    "id": "Game of Zones - House Hamlin",
+                    "name": "Game of Zones - House Hamlin",
                     "itemStyle": {
                         "color": "hsl(294.54545454545456, 70%, 50%)"
                     }

@@ -14,13 +14,13 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Justin Herbert (37.42 pts) owned by Michael's Managable Team
+* **QB:** Josh Allen (46.26 pts) owned by Game of Zones - House Hamlin
 
-* **RB:** Javonte Williams (19.4 pts) owned by To Infinity and Bijan!
+* **RB:** Derrick Henry (28.7 pts) owned by Game of Zones - House Hamlin
 
-* **WR:** Quentin Johnston (22.4 pts) owned by To Infinity and Bijan!
+* **WR:** Zay Flowers (24.6 pts) owned by Game of Zones - House Hamlin
 
-* **TE:** Travis Kelce (12.2 pts) owned by Mama Daughter Duo
+* **TE:** Brock Bowers (14.05 pts) owned by 90s MonCon
 
 
 Below are the top 10 performers at each position through Week 1.

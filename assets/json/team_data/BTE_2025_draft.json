@@ -4,23 +4,23 @@
     "round": 1,
     "pick": 8,
     "player_name": "Breece Hall",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "15.5",
+    "before_trade": "15.5",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "-12.0",
-    "grade": "C"
+    "value_diff": "3.5",
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
     "round": 2,
     "pick": 5,
     "player_name": "C.J. Stroud",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "10.2",
+    "before_trade": "10.2",
     "after_trade": "0.0",
     "draft_position": 17,
-    "value_diff": "-18.1",
+    "value_diff": "-7.9",
     "grade": "D"
   },
   {
@@ -28,59 +28,59 @@
     "round": 3,
     "pick": 8,
     "player_name": "J.J. McCarthy",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "25.7",
+    "before_trade": "25.7",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-19.2",
-    "grade": "D"
+    "value_diff": "6.5",
+    "grade": "A"
   },
   {
     "team": "Big Titi Energy",
     "round": 4,
     "pick": 5,
     "player_name": "Tee Higgins",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "4.8",
+    "before_trade": "4.8",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "-12.8",
-    "grade": "C"
+    "value_diff": "-8.0",
+    "grade": "D"
   },
   {
     "team": "Big Titi Energy",
     "round": 5,
     "pick": 8,
     "player_name": "Kenneth Walker III",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.9",
+    "before_trade": "3.9",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "-12.7",
-    "grade": "C"
+    "value_diff": "-8.8",
+    "grade": "D"
   },
   {
     "team": "Big Titi Energy",
     "round": 6,
     "pick": 5,
     "player_name": "Terry McLaurin",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.7",
+    "before_trade": "3.7",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "-12.1",
-    "grade": "C"
+    "value_diff": "-8.3",
+    "grade": "D"
   },
   {
     "team": "Big Titi Energy",
     "round": 7,
     "pick": 8,
     "player_name": "DJ Moore",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.1",
+    "before_trade": "7.1",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-11.4",
+    "value_diff": "-4.3",
     "grade": "C"
   },
   {
@@ -93,30 +93,30 @@
     "after_trade": "0.0",
     "draft_position": 89,
     "value_diff": "1.4",
-    "grade": "A"
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
     "round": 9,
     "pick": 8,
     "player_name": "Russell Wilson",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "-0.4",
+    "before_trade": "-0.4",
     "after_trade": "0.0",
     "draft_position": 104,
-    "value_diff": "-7.3",
-    "grade": "B"
+    "value_diff": "-7.7",
+    "grade": "D"
   },
   {
     "team": "Big Titi Energy",
     "round": 10,
     "pick": 5,
     "player_name": "Zach Charbonnet",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "10.7",
+    "before_trade": "10.7",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "-7.2",
+    "value_diff": "3.5",
     "grade": "B"
   },
   {
@@ -129,42 +129,42 @@
     "after_trade": "0.0",
     "draft_position": 128,
     "value_diff": "-6.2",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
     "round": 12,
     "pick": 5,
     "player_name": "Jerome Ford",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "1.0",
+    "before_trade": "1.0",
     "after_trade": "0.0",
     "draft_position": 137,
-    "value_diff": "-7.3",
-    "grade": "B"
+    "value_diff": "-4.8",
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
     "round": 13,
     "pick": 8,
     "player_name": "Dalton Kincaid",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "13.8",
+    "before_trade": "13.8",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "-7.8",
-    "grade": "B"
+    "value_diff": "6.0",
+    "grade": "A"
   },
   {
     "team": "Big Titi Energy",
     "round": 14,
     "pick": 5,
     "player_name": "DeMario Douglas",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.2",
+    "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "-6.7",
+    "value_diff": "0.5",
     "grade": "B"
   },
   {
@@ -177,7 +177,7 @@
     "after_trade": "0.0",
     "draft_position": 176,
     "value_diff": "-3.3",
-    "grade": "B"
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
@@ -189,6 +189,6 @@
     "after_trade": "0.0",
     "draft_position": 185,
     "value_diff": "-4.3",
-    "grade": "B"
+    "grade": "C"
   }
 ]

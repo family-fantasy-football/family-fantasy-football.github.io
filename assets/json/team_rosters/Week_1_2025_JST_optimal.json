@@ -3,63 +3,63 @@
     "player_name": "Jalen Hurts",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 26.98
+    "points": 29.78,
+    "projected": 26.96
   },
   {
-    "player_name": "DeVonta Smith",
+    "player_name": "Rome Odunze",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 10.87
+    "points": 12.7,
+    "projected": 10.25
   },
   {
-    "player_name": "DK Metcalf",
+    "player_name": "Jayden Reed",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 11.19
+    "points": 12.0,
+    "projected": 9.28
   },
   {
     "player_name": "Christian McCaffrey",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 15.61
+    "points": 18.7,
+    "projected": 15.59
   },
   {
     "player_name": "D'Andre Swift",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 8.0,
     "projected": 11.57
   },
   {
     "player_name": "Travis Kelce",
     "pos": "TE",
     "slot": "TE",
-    "points": 0,
-    "projected": 10.54
+    "points": 12.2,
+    "projected": 10.55
   },
   {
-    "player_name": "Rome Odunze",
+    "player_name": "DK Metcalf",
     "pos": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 10.24
+    "points": 10.3,
+    "projected": 11.21
   },
   {
-    "player_name": "Chris Olave",
-    "pos": "WR",
+    "player_name": "Hunter Henry",
+    "pos": "TE",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 9.97
+    "points": 9.6,
+    "projected": 8.03
   },
   {
-    "player_name": "Caleb Williams",
+    "player_name": "Michael Penix Jr.",
     "pos": "QB",
     "slot": "OP",
-    "points": 0,
-    "projected": 16.21
+    "points": 24.52,
+    "projected": 16.2
   }
 ]

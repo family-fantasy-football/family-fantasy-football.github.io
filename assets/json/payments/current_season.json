@@ -1,61 +1,16 @@
 [
   {
-    "team": "Third Time's the Charm?",
-    "manager": "Christian Ratcliff",
+    "team": "Game of Zones - House Hamlin",
+    "manager": "Kyle Hamlin",
     "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
     "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "90s MonCon",
-    "manager": "Connor Dickson and Monika Monko",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Rookie Mistake",
-    "manager": "Tom Ratcliff",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Americas Team ",
-    "manager": "Ryan Ratcliff",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Michael's Managable Team",
-    "manager": "Michael Ratcliff",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
+    "net": "$5"
   },
   {
     "team": "To Infinity and Bijan!",
     "manager": "Nick Hill",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Fantasy Guru Kayden",
-    "manager": "Kayden Mullins",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",
@@ -81,8 +36,26 @@
     "net": "$0"
   },
   {
-    "team": "Hamlin My Business ",
-    "manager": "Kyle Hamlin",
+    "team": "Michael's Managable Team",
+    "manager": "Michael Ratcliff",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Third Time's the Charm?",
+    "manager": "Christian Ratcliff",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "90s MonCon",
+    "manager": "Connor Dickson and Monika Monko",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",
@@ -99,8 +72,35 @@
     "net": "$0"
   },
   {
+    "team": "Rookie Mistake",
+    "manager": "Tom Ratcliff",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Fantasy Guru Kayden",
+    "manager": "Kayden Mullins",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
     "team": "Big Titi Energy",
     "manager": "Christine Hamlin",
+    "paid": "No",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Americas Team ",
+    "manager": "Ryan Ratcliff",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",

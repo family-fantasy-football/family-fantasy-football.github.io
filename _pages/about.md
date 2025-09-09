@@ -25,6 +25,20 @@ chart:
 </div>
 
 
+The current top scorer is: Kyle Hamlin (176.38)
+
+The current bottom scorer is: Ryan Ratcliff (80.10)
+
+Highest Scoring Week: Kyle Hamlin - 176.38 points (Week 1)
+
+Lowest Scoring Week: Ryan Ratcliff - 80.10 points (Week 1)
+
+Luckiest Team: Christian Ratcliff (1.0) Wins Above Expected
+
+Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
+
+
+
 
 ### Current Standings:
 
@@ -82,139 +96,7 @@ chart:
     },
     "series": [
         {
-            "name": "30 Years of Tears",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#ffbb78"
-            },
-            "itemStyle": {
-                "color": "#ffbb78"
-            },
-            "data": [
-                3
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "30 Years of ..."
-            }
-        },
-        {
             "name": "90s MonCon",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#aec7e8"
-            },
-            "itemStyle": {
-                "color": "#aec7e8"
-            },
-            "data": [
-                2
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "90s MonCon"
-            }
-        },
-        {
-            "name": "Abbey's TNT Team ",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#f7b6d2"
-            },
-            "itemStyle": {
-                "color": "#f7b6d2"
-            },
-            "data": [
-                9
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "Abbey's TNT ..."
-            }
-        },
-        {
-            "name": "Americas Team ",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#98df8a"
-            },
-            "itemStyle": {
-                "color": "#98df8a"
-            },
-            "data": [
-                4
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "Americas Team "
-            }
-        },
-        {
-            "name": "Big Titi Energy",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#17becf"
-            },
-            "itemStyle": {
-                "color": "#17becf"
-            },
-            "data": [
-                12
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "Big Titi Ene..."
-            }
-        },
-        {
-            "name": "Emma's Excellent Team",
-            "type": "line",
-            "smooth": true,
-            "lineStyle": {
-                "width": 3,
-                "color": "#bcbd22"
-            },
-            "itemStyle": {
-                "color": "#bcbd22"
-            },
-            "data": [
-                11
-            ],
-            "symbol": "circle",
-            "symbolSize": 12,
-            "label": {
-                "show": false,
-                "position": "right",
-                "formatter": "Emma's Excel..."
-            }
-        },
-        {
-            "name": "Fantasy Guru Kayden",
             "type": "line",
             "smooth": true,
             "lineStyle": {
@@ -232,11 +114,99 @@ chart:
             "label": {
                 "show": false,
                 "position": "right",
-                "formatter": "Fantasy Guru..."
+                "formatter": "90s MonCon"
             }
         },
         {
-            "name": "Hamlin My Business ",
+            "name": "Abbey's TNT Team ",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#98df8a"
+            },
+            "itemStyle": {
+                "color": "#98df8a"
+            },
+            "data": [
+                4
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Abbey's TNT ..."
+            }
+        },
+        {
+            "name": "Americas Team ",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#17becf"
+            },
+            "itemStyle": {
+                "color": "#17becf"
+            },
+            "data": [
+                12
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Americas Team "
+            }
+        },
+        {
+            "name": "Big Titi Energy",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#bcbd22"
+            },
+            "itemStyle": {
+                "color": "#bcbd22"
+            },
+            "data": [
+                11
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Big Titi Ene..."
+            }
+        },
+        {
+            "name": "Emma's Excellent Team",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#c49c94"
+            },
+            "itemStyle": {
+                "color": "#c49c94"
+            },
+            "data": [
+                8
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Emma's Excel..."
+            }
+        },
+        {
+            "name": "Fantasy Guru Kayden",
             "type": "line",
             "smooth": true,
             "lineStyle": {
@@ -254,7 +224,29 @@ chart:
             "label": {
                 "show": false,
                 "position": "right",
-                "formatter": "Hamlin My Bu..."
+                "formatter": "Fantasy Guru..."
+            }
+        },
+        {
+            "name": "Game of Zones - House Hamlin",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#1f77b4"
+            },
+            "itemStyle": {
+                "color": "#1f77b4"
+            },
+            "data": [
+                1
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Game of Zone..."
             }
         },
         {
@@ -263,13 +255,13 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#c49c94"
+                "color": "#ffbb78"
             },
             "itemStyle": {
-                "color": "#c49c94"
+                "color": "#ffbb78"
             },
             "data": [
-                8
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -302,29 +294,29 @@ chart:
             }
         },
         {
-            "name": "TBD",
+            "name": "Rookie Mistake",
             "type": "line",
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#1f77b4"
+                "color": "#f7b6d2"
             },
             "itemStyle": {
-                "color": "#1f77b4"
+                "color": "#f7b6d2"
             },
             "data": [
-                1
+                9
             ],
             "symbol": "circle",
             "symbolSize": 12,
             "label": {
                 "show": false,
                 "position": "right",
-                "formatter": "TBD"
+                "formatter": "Rookie Mistake"
             }
         },
         {
-            "name": "To Infinity and Bijan!",
+            "name": "Third Time's the Charm?",
             "type": "line",
             "smooth": true,
             "lineStyle": {
@@ -336,6 +328,28 @@ chart:
             },
             "data": [
                 6
+            ],
+            "symbol": "circle",
+            "symbolSize": 12,
+            "label": {
+                "show": false,
+                "position": "right",
+                "formatter": "Third Time's..."
+            }
+        },
+        {
+            "name": "To Infinity and Bijan!",
+            "type": "line",
+            "smooth": true,
+            "lineStyle": {
+                "width": 3,
+                "color": "#aec7e8"
+            },
+            "itemStyle": {
+                "color": "#aec7e8"
+            },
+            "data": [
+                2
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -372,16 +386,16 @@ chart:
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": -150.0,
-        "max": 150.0
+        "min": -70.0,
+        "max": 326.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": -150.0,
-        "max": 150.0
+        "min": -70.0,
+        "max": 326.0
     },
     "series": [
         {
@@ -390,87 +404,87 @@ chart:
             "symbolSize": 15,
             "data": [
                 {
-                    "name": "TBD",
+                    "name": "Third Time's the Charm?",
                     "value": [
-                        0.0,
-                        0.0
+                        106.14,
+                        80.1
                     ]
                 },
                 {
                     "name": "90s MonCon",
                     "value": [
-                        0.0,
-                        0.0
+                        111.47,
+                        111.95
                     ]
                 },
                 {
-                    "name": "30 Years of Tears",
+                    "name": "Rookie Mistake",
                     "value": [
-                        0.0,
-                        0.0
+                        103.67,
+                        126.38
                     ]
                 },
                 {
                     "name": "Americas Team ",
                     "value": [
-                        0.0,
-                        0.0
+                        80.1,
+                        106.14
                     ]
                 },
                 {
                     "name": "Michael's Managable Team",
                     "value": [
-                        0.0,
-                        0.0
+                        111.95,
+                        111.47
                     ]
                 },
                 {
                     "name": "To Infinity and Bijan!",
                     "value": [
-                        0.0,
-                        0.0
+                        134.09,
+                        101.15
                     ]
                 },
                 {
                     "name": "Fantasy Guru Kayden",
                     "value": [
-                        0.0,
-                        0.0
+                        101.15,
+                        134.09
                     ]
                 },
                 {
                     "name": "Mama Daughter Duo",
                     "value": [
-                        0.0,
-                        0.0
+                        126.38,
+                        103.67
                     ]
                 },
                 {
                     "name": "Abbey's TNT Team ",
                     "value": [
-                        0.0,
-                        0.0
+                        115.72,
+                        108.2
                     ]
                 },
                 {
-                    "name": "Hamlin My Business ",
+                    "name": "Game of Zones - House Hamlin",
                     "value": [
-                        0.0,
-                        0.0
+                        176.38,
+                        81.59
                     ]
                 },
                 {
                     "name": "Emma's Excellent Team",
                     "value": [
-                        0.0,
-                        0.0
+                        108.2,
+                        115.72
                     ]
                 },
                 {
                     "name": "Big Titi Energy",
                     "value": [
-                        0.0,
-                        0.0
+                        81.59,
+                        176.38
                     ]
                 }
             ],
@@ -490,12 +504,12 @@ chart:
             "showSymbol": false,
             "data": [
                 [
-                    -150.0,
-                    -150.0
+                    -70.0,
+                    -70.0
                 ],
                 [
-                    150.0,
-                    150.0
+                    326.0,
+                    326.0
                 ]
             ]
         },
@@ -506,14 +520,14 @@ chart:
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 0.0,
+                        "xAxis": 113.07,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 0.0,
+                        "yAxis": 113.07,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -546,18 +560,18 @@ chart:
         "nameLocation": "middle",
         "nameGap": 30,
         "data": [
-            "CTR",
-            "90s",
-            "TOM",
-            "RRT",
-            "MMT",
+            "HMB",
             "TIB",
-            "KTT",
             "JST",
             "ARV",
-            "HMB",
+            "MMT",
+            "TTC",
+            "90s",
             "EET",
-            "BTE"
+            "TOM",
+            "KTT",
+            "BTE",
+            "RRT"
         ]
     },
     "yAxis": {
@@ -666,287 +680,287 @@ chart:
             "data": [
                 [
                     0,
-                    0.0,
-                    "CTR"
+                    176.38,
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
                 ],
                 [
                     0,
                     0.0,
-                    "CTR"
+                    "HMB"
+                ],
+                [
+                    1,
+                    134.09,
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
                     1,
                     0.0,
-                    "90s"
+                    "TIB"
                 ],
                 [
-                    1,
-                    0.0,
-                    "90s"
+                    2,
+                    126.38,
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
                     2,
                     0.0,
-                    "TOM"
+                    "JST"
                 ],
                 [
-                    2,
-                    0.0,
-                    "TOM"
+                    3,
+                    115.72,
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     3,
                     0.0,
-                    "RRT"
-                ],
-                [
-                    3,
-                    0.0,
-                    "RRT"
+                    "ARV"
                 ],
                 [
                     4,
-                    0.0,
+                    111.95,
                     "MMT"
                 ],
                 [
@@ -1016,493 +1030,493 @@ chart:
                 ],
                 [
                     5,
-                    0.0,
-                    "TIB"
+                    106.14,
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
                 ],
                 [
                     5,
                     0.0,
-                    "TIB"
+                    "TTC"
+                ],
+                [
+                    6,
+                    111.47,
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
-                    "KTT"
+                    "90s"
                 ],
                 [
                     6,
                     0.0,
+                    "90s"
+                ],
+                [
+                    7,
+                    108.2,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    7,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    8,
+                    103.67,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    8,
+                    0.0,
+                    "TOM"
+                ],
+                [
+                    9,
+                    101.15,
                     "KTT"
                 ],
                 [
-                    6,
+                    9,
                     0.0,
                     "KTT"
                 ],
                 [
-                    7,
+                    9,
                     0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    7,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    8,
-                    0.0,
-                    "ARV"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
                     9,
                     0.0,
-                    "HMB"
+                    "KTT"
                 ],
                 [
-                    9,
-                    0.0,
-                    "HMB"
-                ],
-                [
-                    9,
-                    0.0,
-                    "HMB"
-                ],
-                [
-                    9,
-                    0.0,
-                    "HMB"
+                    10,
+                    81.59,
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
                     0.0,
-                    "EET"
+                    "BTE"
                 ],
                 [
                     10,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    10,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    11,
                     0.0,
                     "BTE"
                 ],
                 [
                     11,
-                    0.0,
-                    "BTE"
+                    80.1,
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
                 ],
                 [
                     11,
                     0.0,
-                    "BTE"
+                    "RRT"
+                ],
+                [
+                    11,
+                    0.0,
+                    "RRT"
                 ]
             ]
         }
@@ -1548,18 +1562,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "CTR",
-            "90s",
-            "TOM",
-            "RRT",
-            "MMT",
+            "HMB",
             "TIB",
-            "KTT",
             "JST",
             "ARV",
-            "HMB",
+            "MMT",
+            "TTC",
+            "90s",
             "EET",
-            "BTE"
+            "TOM",
+            "KTT",
+            "BTE",
+            "RRT"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1596,57 +1610,57 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    1
                 ],
                 [
                     1,
                     0,
-                    6
+                    1
                 ],
                 [
                     2,
                     0,
-                    6
+                    5
                 ],
                 [
                     3,
                     0,
-                    6
+                    1
                 ],
                 [
                     0,
                     1,
-                    6
+                    2
                 ],
                 [
                     1,
                     1,
-                    6
+                    8
                 ],
                 [
                     2,
                     1,
-                    6
+                    12
                 ],
                 [
                     3,
                     1,
-                    6
+                    2
                 ],
                 [
                     0,
                     2,
-                    6
+                    4
                 ],
                 [
                     1,
                     2,
-                    6
+                    3
                 ],
                 [
                     2,
                     2,
-                    6
+                    3
                 ],
                 [
                     3,
@@ -1656,62 +1670,62 @@ chart:
                 [
                     0,
                     3,
-                    6
+                    11
                 ],
                 [
                     1,
                     3,
-                    6
+                    2
                 ],
                 [
                     2,
                     3,
-                    6
+                    11
                 ],
                 [
                     3,
                     3,
-                    6
+                    4
                 ],
                 [
                     0,
                     4,
-                    6
+                    3
                 ],
                 [
                     1,
                     4,
-                    6
+                    9
                 ],
                 [
                     2,
                     4,
-                    6
+                    10
                 ],
                 [
                     3,
                     4,
-                    6
+                    9
                 ],
                 [
                     0,
                     5,
-                    6
+                    8
                 ],
                 [
                     1,
                     5,
-                    6
+                    4
                 ],
                 [
                     2,
                     5,
-                    6
+                    8
                 ],
                 [
                     3,
                     5,
-                    6
+                    10
                 ],
                 [
                     0,
@@ -1726,102 +1740,102 @@ chart:
                 [
                     2,
                     6,
-                    6
+                    1
                 ],
                 [
                     3,
                     6,
-                    6
+                    8
                 ],
                 [
                     0,
                     7,
-                    6
+                    9
                 ],
                 [
                     1,
                     7,
-                    6
+                    10
                 ],
                 [
                     2,
                     7,
-                    6
+                    4
                 ],
                 [
                     3,
                     7,
-                    6
+                    3
                 ],
                 [
                     0,
                     8,
-                    6
+                    10
                 ],
                 [
                     1,
                     8,
-                    6
+                    5
                 ],
                 [
                     2,
                     8,
-                    6
+                    2
                 ],
                 [
                     3,
                     8,
-                    6
+                    7
                 ],
                 [
                     0,
                     9,
-                    6
+                    5
                 ],
                 [
                     1,
                     9,
-                    6
+                    11
                 ],
                 [
                     2,
                     9,
-                    6
+                    9
                 ],
                 [
                     3,
                     9,
-                    6
+                    5
                 ],
                 [
                     0,
                     10,
-                    6
+                    7
                 ],
                 [
                     1,
                     10,
-                    6
+                    12
                 ],
                 [
                     2,
                     10,
-                    6
+                    7
                 ],
                 [
                     3,
                     10,
-                    6
+                    12
                 ],
                 [
                     0,
                     11,
-                    6
+                    12
                 ],
                 [
                     1,
                     11,
-                    6
+                    7
                 ],
                 [
                     2,
@@ -1831,7 +1845,7 @@ chart:
                 [
                     3,
                     11,
-                    6
+                    11
                 ]
             ],
             "label": {
@@ -1876,17 +1890,17 @@ chart:
         "type": "category",
         "data": [
             "90s",
-            "ARV",
-            "BTE",
-            "CTR",
             "EET",
-            "HMB",
-            "JST",
-            "KTT",
-            "MMT",
             "RRT",
-            "TIB",
-            "TOM"
+            "TTC",
+            "MMT",
+            "TOM",
+            "ARV",
+            "HMB",
+            "KTT",
+            "JST",
+            "BTE",
+            "TIB"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1923,32 +1937,32 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    12
                 ],
                 [
                     0,
                     1,
-                    6
+                    11
                 ],
                 [
                     0,
                     2,
-                    6
+                    10
                 ],
                 [
                     0,
                     3,
-                    6
+                    9
                 ],
                 [
                     0,
                     4,
-                    6
+                    8
                 ],
                 [
                     0,
                     5,
-                    6
+                    7
                 ],
                 [
                     0,
@@ -1958,27 +1972,27 @@ chart:
                 [
                     0,
                     7,
-                    6
+                    5
                 ],
                 [
                     0,
                     8,
-                    6
+                    4
                 ],
                 [
                     0,
                     9,
-                    6
+                    3
                 ],
                 [
                     0,
                     10,
-                    6
+                    2
                 ],
                 [
                     0,
                     11,
-                    6
+                    1
                 ]
             ],
             "label": {
@@ -2018,18 +2032,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "90s",
-            "ARV",
             "BTE",
-            "CTR",
             "EET",
-            "HMB",
-            "JST",
+            "RRT",
+            "TOM",
             "KTT",
             "MMT",
-            "RRT",
+            "JST",
             "TIB",
-            "TOM"
+            "90s",
+            "ARV",
+            "HMB",
+            "TTC"
         ],
         "name": "",
         "nameLocation": "end",
@@ -2066,32 +2080,32 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    12
                 ],
                 [
                     0,
                     1,
-                    6
+                    11
                 ],
                 [
                     0,
                     2,
-                    6
+                    10
                 ],
                 [
                     0,
                     3,
-                    6
+                    9
                 ],
                 [
                     0,
                     4,
-                    6
+                    8
                 ],
                 [
                     0,
                     5,
-                    6
+                    7
                 ],
                 [
                     0,
@@ -2101,27 +2115,27 @@ chart:
                 [
                     0,
                     7,
-                    6
+                    5
                 ],
                 [
                     0,
                     8,
-                    6
+                    4
                 ],
                 [
                     0,
                     9,
-                    6
+                    3
                 ],
                 [
                     0,
                     10,
-                    6
+                    1
                 ],
                 [
                     0,
                     11,
-                    6
+                    1
                 ]
             ],
             "label": {
@@ -2161,18 +2175,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "90s",
-            "ARV",
-            "BTE",
-            "CTR",
-            "EET",
-            "HMB",
-            "JST",
-            "KTT",
-            "MMT",
             "RRT",
+            "90s",
+            "TOM",
+            "BTE",
+            "KTT",
+            "JST",
+            "TTC",
+            "MMT",
+            "EET",
             "TIB",
-            "TOM"
+            "ARV",
+            "HMB"
         ],
         "name": "",
         "nameLocation": "end",
@@ -2209,32 +2223,32 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    12
                 ],
                 [
                     0,
                     1,
-                    6
+                    11
                 ],
                 [
                     0,
                     2,
-                    6
+                    10
                 ],
                 [
                     0,
                     3,
-                    6
+                    9
                 ],
                 [
                     0,
                     4,
-                    6
+                    8
                 ],
                 [
                     0,
                     5,
-                    6
+                    7
                 ],
                 [
                     0,
@@ -2244,27 +2258,27 @@ chart:
                 [
                     0,
                     7,
-                    6
+                    5
                 ],
                 [
                     0,
                     8,
-                    6
+                    4
                 ],
                 [
                     0,
                     9,
-                    6
+                    3
                 ],
                 [
                     0,
                     10,
-                    6
+                    2
                 ],
                 [
                     0,
                     11,
-                    6
+                    1
                 ]
             ],
             "label": {
@@ -2304,18 +2318,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "90s",
-            "ARV",
-            "BTE",
-            "CTR",
-            "EET",
-            "HMB",
-            "JST",
-            "KTT",
-            "MMT",
-            "RRT",
             "TIB",
-            "TOM"
+            "ARV",
+            "MMT",
+            "KTT",
+            "TTC",
+            "HMB",
+            "BTE",
+            "RRT",
+            "EET",
+            "JST",
+            "TOM",
+            "90s"
         ],
         "name": "",
         "nameLocation": "end",
@@ -2352,32 +2366,32 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    12
                 ],
                 [
                     0,
                     1,
-                    6
+                    11
                 ],
                 [
                     0,
                     2,
-                    6
+                    10
                 ],
                 [
                     0,
                     3,
-                    6
+                    9
                 ],
                 [
                     0,
                     4,
-                    6
+                    8
                 ],
                 [
                     0,
                     5,
-                    6
+                    7
                 ],
                 [
                     0,
@@ -2387,27 +2401,27 @@ chart:
                 [
                     0,
                     7,
-                    6
+                    5
                 ],
                 [
                     0,
                     8,
-                    6
+                    4
                 ],
                 [
                     0,
                     9,
-                    6
+                    3
                 ],
                 [
                     0,
                     10,
-                    6
+                    2
                 ],
                 [
                     0,
                     11,
-                    6
+                    1
                 ]
             ],
             "label": {
@@ -2438,18 +2452,18 @@ chart:
     },
     "legend": {
         "data": [
-            "CTR",
-            "90s",
-            "TOM",
-            "RRT",
-            "MMT",
+            "HMB",
             "TIB",
-            "KTT",
             "JST",
             "ARV",
-            "HMB",
+            "MMT",
+            "TTC",
+            "90s",
             "EET",
-            "BTE"
+            "TOM",
+            "KTT",
+            "BTE",
+            "RRT"
         ],
         "orient": "vertical",
         "right": 0,
@@ -2467,64 +2481,88 @@ chart:
     },
     "series": [
         {
-            "name": "CTR",
+            "name": "HMB",
             "type": "line",
-            "data": []
-        },
-        {
-            "name": "90s",
-            "type": "line",
-            "data": []
-        },
-        {
-            "name": "TOM",
-            "type": "line",
-            "data": []
-        },
-        {
-            "name": "RRT",
-            "type": "line",
-            "data": []
-        },
-        {
-            "name": "MMT",
-            "type": "line",
-            "data": []
+            "data": [
+                92.6
+            ]
         },
         {
             "name": "TIB",
             "type": "line",
-            "data": []
-        },
-        {
-            "name": "KTT",
-            "type": "line",
-            "data": []
+            "data": [
+                79.6
+            ]
         },
         {
             "name": "JST",
             "type": "line",
-            "data": []
+            "data": [
+                91.7
+            ]
         },
         {
             "name": "ARV",
             "type": "line",
-            "data": []
+            "data": [
+                84.2
+            ]
         },
         {
-            "name": "HMB",
+            "name": "MMT",
             "type": "line",
-            "data": []
+            "data": [
+                75.5
+            ]
+        },
+        {
+            "name": "TTC",
+            "type": "line",
+            "data": [
+                90.7
+            ]
+        },
+        {
+            "name": "90s",
+            "type": "line",
+            "data": [
+                88.5
+            ]
         },
         {
             "name": "EET",
             "type": "line",
-            "data": []
+            "data": [
+                88.3
+            ]
+        },
+        {
+            "name": "TOM",
+            "type": "line",
+            "data": [
+                89.1
+            ]
+        },
+        {
+            "name": "KTT",
+            "type": "line",
+            "data": [
+                83.0
+            ]
         },
         {
             "name": "BTE",
             "type": "line",
-            "data": []
+            "data": [
+                77.9
+            ]
+        },
+        {
+            "name": "RRT",
+            "type": "line",
+            "data": [
+                81.4
+            ]
         }
     ],
     "grid": {
@@ -2574,77 +2612,17 @@ chart:
     },
     "series": [
         {
-            "name": "TBD",
+            "name": "Game of Zones - House Hamlin",
             "type": "radar",
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        13.3,
+                        6.6,
+                        6.1,
+                        2.0
                     ],
-                    "name": "TBD"
-                }
-            ]
-        },
-        {
-            "name": "90s MonCon",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "name": "90s MonCon"
-                }
-            ]
-        },
-        {
-            "name": "30 Years of Tears",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "name": "30 Years of Tears"
-                }
-            ]
-        },
-        {
-            "name": "Americas Team ",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "name": "Americas Team "
-                }
-            ]
-        },
-        {
-            "name": "Michael's Managable Team",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "name": "Michael's Managable Team"
+                    "name": "Game of Zones - House Hamlin"
                 }
             ]
         },
@@ -2654,27 +2632,12 @@ chart:
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        8.4,
+                        -1.0,
+                        3.8,
+                        -7.6
                     ],
                     "name": "To Infinity and Bijan!"
-                }
-            ]
-        },
-        {
-            "name": "Fantasy Guru Kayden",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "name": "Fantasy Guru Kayden"
                 }
             ]
         },
@@ -2684,10 +2647,10 @@ chart:
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        5.5,
+                        1.6,
+                        -0.7,
+                        3.3
                     ],
                     "name": "Mama Daughter Duo"
                 }
@@ -2699,27 +2662,57 @@ chart:
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        -6.9,
+                        5.6,
+                        3.2,
+                        -6.2
                     ],
                     "name": "Abbey's TNT Team "
                 }
             ]
         },
         {
-            "name": "Hamlin My Business ",
+            "name": "Michael's Managable Team",
             "type": "radar",
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
+                        6.1,
+                        -1.8,
+                        -1.3,
+                        -5.1
+                    ],
+                    "name": "Michael's Managable Team"
+                }
+            ]
+        },
+        {
+            "name": "Third Time's the Charm?",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -3.3,
+                        1.1,
+                        -1.6,
                         0.0
                     ],
-                    "name": "Hamlin My Business "
+                    "name": "Third Time's the Charm?"
+                }
+            ]
+        },
+        {
+            "name": "90s MonCon",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -0.5,
+                        0.3,
+                        -1.3,
+                        5.2
+                    ],
+                    "name": "90s MonCon"
                 }
             ]
         },
@@ -2729,12 +2722,42 @@ chart:
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        -5.7,
+                        -2.4,
+                        3.3,
+                        2.6
                     ],
                     "name": "Emma's Excellent Team"
+                }
+            ]
+        },
+        {
+            "name": "Rookie Mistake",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -6.2,
+                        0.5,
+                        -1.3,
+                        4.3
+                    ],
+                    "name": "Rookie Mistake"
+                }
+            ]
+        },
+        {
+            "name": "Fantasy Guru Kayden",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        0.6,
+                        -3.1,
+                        -0.6,
+                        -2.9
+                    ],
+                    "name": "Fantasy Guru Kayden"
                 }
             ]
         },
@@ -2744,12 +2767,27 @@ chart:
             "data": [
                 {
                     "value": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
+                        -2.8,
+                        -5.0,
+                        -4.2,
+                        0.8
                     ],
                     "name": "Big Titi Energy"
+                }
+            ]
+        },
+        {
+            "name": "Americas Team ",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -8.5,
+                        -0.4,
+                        -3.9,
+                        1.7
+                    ],
+                    "name": "Americas Team "
                 }
             ]
         }

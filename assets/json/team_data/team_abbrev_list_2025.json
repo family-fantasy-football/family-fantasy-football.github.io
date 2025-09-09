@@ -1,31 +1,11 @@
 [
   {
-    "name": "Third Time's the Charm?",
-    "abbrev": "TTC"
-  },
-  {
-    "name": "90s MonCon",
-    "abbrev": "90s"
-  },
-  {
-    "name": "Rookie Mistake",
-    "abbrev": "TOM"
-  },
-  {
-    "name": "Americas Team ",
-    "abbrev": "RRT"
-  },
-  {
-    "name": "Michael's Managable Team",
-    "abbrev": "MMT"
+    "name": "Game of Zones - House Hamlin",
+    "abbrev": "HMB"
   },
   {
     "name": "To Infinity and Bijan!",
     "abbrev": "TIB"
-  },
-  {
-    "name": "Fantasy Guru Kayden",
-    "abbrev": "KTT"
   },
   {
     "name": "Mama Daughter Duo",
@@ -36,15 +16,35 @@
     "abbrev": "ARV"
   },
   {
-    "name": "Hamlin My Business ",
-    "abbrev": "HMB"
+    "name": "Michael's Managable Team",
+    "abbrev": "MMT"
+  },
+  {
+    "name": "Third Time's the Charm?",
+    "abbrev": "TTC"
+  },
+  {
+    "name": "90s MonCon",
+    "abbrev": "90s"
   },
   {
     "name": "Emma's Excellent Team",
     "abbrev": "EET"
   },
   {
+    "name": "Rookie Mistake",
+    "abbrev": "TOM"
+  },
+  {
+    "name": "Fantasy Guru Kayden",
+    "abbrev": "KTT"
+  },
+  {
     "name": "Big Titi Energy",
     "abbrev": "BTE"
+  },
+  {
+    "name": "Americas Team ",
+    "abbrev": "RRT"
   }
 ]
