@@ -152,7 +152,17 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 }
             ],
-            "links": [],
+            "links": [
+                {
+                    "source": "Emma's Excellent Team",
+                    "target": "Third Time's the Charm?",
+                    "value": 1,
+                    "tooltip": {
+                        "show": true
+                    },
+                    "name": "Emma's Excellent Team: Dak Prescott, Tyrone Tracy Jr. \u27f7 Third Time's the Charm?: Trevor Lawrence, Zach Ertz, Aaron Jones Sr."
+                }
+            ],
             "lineStyle": {
                 "opacity": 0.9,
                 "width": 2,

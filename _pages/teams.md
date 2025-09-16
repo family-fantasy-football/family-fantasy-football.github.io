@@ -10,40 +10,40 @@ horizontal: false
 dropdown: true
 children:
     - title: 90s
-      permalink: /projects/90s_2025/
+      permalink: /teams/90s_2025/
     - title: divider
     - title: ARV
-      permalink: /projects/ARV_2025/
+      permalink: /teams/ARV_2025/
     - title: divider
     - title: BTE
-      permalink: /projects/BTE_2025/
+      permalink: /teams/BTE_2025/
     - title: divider
     - title: EET
-      permalink: /projects/EET_2025/
+      permalink: /teams/EET_2025/
     - title: divider
     - title: HMB
-      permalink: /projects/HMB_2025/
+      permalink: /teams/HMB_2025/
     - title: divider
     - title: JST
-      permalink: /projects/JST_2025/
+      permalink: /teams/JST_2025/
     - title: divider
     - title: KTT
-      permalink: /projects/KTT_2025/
+      permalink: /teams/KTT_2025/
     - title: divider
     - title: MMT
-      permalink: /projects/MMT_2025/
+      permalink: /teams/MMT_2025/
     - title: divider
     - title: RRT
-      permalink: /projects/RRT_2025/
+      permalink: /teams/RRT_2025/
     - title: divider
     - title: TIB
-      permalink: /projects/TIB_2025/
+      permalink: /teams/TIB_2025/
     - title: divider
     - title: TOM
-      permalink: /projects/TOM_2025/
+      permalink: /teams/TOM_2025/
     - title: divider
     - title: TTC
-      permalink: /projects/TTC_2025/
+      permalink: /teams/TTC_2025/
 ---
 
 <!-- pages/teams.md -->

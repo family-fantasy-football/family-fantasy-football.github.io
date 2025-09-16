@@ -1,65 +1,65 @@
 [
   {
-    "player_name": "Joe Burrow",
+    "player_name": "Jared Goff",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 24.95
+    "points": 50.46,
+    "projected": 19.44
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.3,
+    "projected": 8.09
   },
   {
     "player_name": "Marvin Harrison Jr.",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 11.58
-  },
-  {
-    "player_name": "Matthew Golden",
-    "pos": "WR",
-    "slot": "WR",
-    "points": 0,
-    "projected": 8.95
-  },
-  {
-    "player_name": "Ashton Jeanty",
-    "pos": "RB",
-    "slot": "RB",
-    "points": 0,
-    "projected": 15.68
+    "points": 3.7,
+    "projected": 11.61
   },
   {
     "player_name": "James Cook",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 14.32
+    "points": 26.0,
+    "projected": 14.31
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.0,
+    "projected": 10.41
   },
   {
     "player_name": "Tyler Warren",
     "pos": "TE",
     "slot": "TE",
-    "points": 0,
+    "points": 10.9,
     "projected": 9.75
   },
   {
-    "player_name": "Omarion Hampton",
+    "player_name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 6.5,
+    "projected": 7.72
+  },
+  {
+    "player_name": "Ashton Jeanty",
     "pos": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 14.59
+    "points": 5.9,
+    "projected": 15.68
   },
   {
-    "player_name": "Travis Hunter",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 11.01
-  },
-  {
-    "player_name": "Jared Goff",
+    "player_name": "Joe Burrow",
     "pos": "QB",
     "slot": "OP",
-    "points": 0,
-    "projected": 19.34
+    "points": 6.54,
+    "projected": 0.0
   }
 ]

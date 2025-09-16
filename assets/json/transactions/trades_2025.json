@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "team_1": "Emma's Excellent Team",
+  "team_2": "Third Time's the Charm?",
+  "week": 1,
+  "team_1_sending": [
+   "Dak Prescott (QB)",
+   "Tyrone Tracy Jr. (RB)"
+  ],
+  "team_2_sending": [
+   "Trevor Lawrence (QB)",
+   "Zach Ertz (TE)",
+   "Aaron Jones Sr. (RB)"
+  ]
+ }
+]

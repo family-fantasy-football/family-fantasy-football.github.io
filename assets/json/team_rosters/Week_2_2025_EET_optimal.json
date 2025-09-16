@@ -1,65 +1,65 @@
 [
   {
-    "player_name": "Brock Purdy",
+    "player_name": "Trevor Lawrence",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 21.79
+    "points": 19.24,
+    "projected": 19.97
   },
   {
-    "player_name": "Drake London",
+    "player_name": "Rashid Shaheed",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 12.48
+    "points": 13.2,
+    "projected": 9.34
   },
   {
-    "player_name": "Courtland Sutton",
+    "player_name": "Jakobi Meyers",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 11.13
+    "points": 9.8,
+    "projected": 11.35
   },
   {
     "player_name": "Saquon Barkley",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 16.4,
     "projected": 16.92
   },
   {
     "player_name": "Tony Pollard",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
+    "points": 9.2,
     "projected": 13.02
   },
   {
-    "player_name": "George Kittle",
+    "player_name": "Zach Ertz",
     "pos": "TE",
     "slot": "TE",
-    "points": 0,
-    "projected": 0.0
+    "points": 16.9,
+    "projected": 8.33
   },
   {
-    "player_name": "Tyrone Tracy Jr.",
+    "player_name": "Trey Benson",
     "pos": "RB",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 12.81
+    "points": 6.4,
+    "projected": 9.02
   },
   {
-    "player_name": "Jakobi Meyers",
+    "player_name": "Joshua Palmer",
     "pos": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 11.34
+    "points": 5.7,
+    "projected": 7.04
   },
   {
-    "player_name": "Dak Prescott",
-    "pos": "QB",
+    "player_name": "Hollywood Brown",
+    "pos": "WR",
     "slot": "OP",
-    "points": 0,
-    "projected": 20.01
+    "points": 5.5,
+    "projected": 10.85
   }
 ]

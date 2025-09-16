@@ -1,14 +1,26 @@
 [
   {
+    "team": "Rookie Mistake",
+    "round": 1,
+    "pick": 7,
+    "player_name": "Joe Burrow",
+    "points": "15.4",
+    "before_trade": "15.4",
+    "after_trade": "0.0",
+    "draft_position": 7,
+    "value_diff": "-34.0",
+    "grade": "D"
+  },
+  {
     "team": "Game of Zones: House Hamlin",
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "-7.5",
-    "before_trade": "-7.5",
+    "points": "-0.2",
+    "before_trade": "-0.2",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-23.3",
+    "value_diff": "-31.7",
     "grade": "D"
   },
   {
@@ -24,39 +36,27 @@
     "grade": "D"
   },
   {
-    "team": "TBD",
+    "team": "Americas Team ",
+    "round": 2,
+    "pick": 8,
+    "player_name": "A.J. Brown",
+    "points": "6.5",
+    "before_trade": "6.5",
+    "after_trade": "0.0",
+    "draft_position": 20,
+    "value_diff": "-20.6",
+    "grade": "D"
+  },
+  {
+    "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 6,
-    "pick": 1,
-    "player_name": "Trevor Lawrence",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "pick": 9,
+    "player_name": "Geno Smith",
+    "points": "17.7",
+    "before_trade": "17.7",
     "after_trade": "0.0",
-    "draft_position": 61,
-    "value_diff": "-18.1",
-    "grade": "D"
-  },
-  {
-    "team": "TBD",
-    "round": 11,
-    "pick": 12,
-    "player_name": "Bryce Young",
-    "points": "0.0",
-    "before_trade": "0.0",
-    "after_trade": "0.0",
-    "draft_position": 132,
-    "value_diff": "-16.2",
-    "grade": "D"
-  },
-  {
-    "team": "Rookie Mistake",
-    "round": 1,
-    "pick": 7,
-    "player_name": "Joe Burrow",
-    "points": "8.8",
-    "before_trade": "8.8",
-    "after_trade": "0.0",
-    "draft_position": 7,
-    "value_diff": "-15.8",
+    "draft_position": 69,
+    "value_diff": "-18.9",
     "grade": "D"
   }
 ]

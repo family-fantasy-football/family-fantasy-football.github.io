@@ -13,7 +13,8 @@
     "nameLocation": "middle",
     "nameGap": 30,
     "data": [
-      1
+      1,
+      2
     ]
   },
   "yAxis": {
@@ -32,13 +33,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#8c564b"
+        "color": "#98df8a"
       },
       "itemStyle": {
-        "color": "#8c564b"
+        "color": "#98df8a"
       },
       "data": [
-        7
+        7,
+        4
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -54,13 +56,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#98df8a"
+        "color": "#c49c94"
       },
       "itemStyle": {
-        "color": "#98df8a"
+        "color": "#c49c94"
       },
       "data": [
-        4
+        4,
+        8
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -76,13 +79,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#17becf"
+        "color": "#c7c7c7"
       },
       "itemStyle": {
-        "color": "#17becf"
+        "color": "#c7c7c7"
       },
       "data": [
-        12
+        12,
+        10
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -98,13 +102,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#bcbd22"
+        "color": "#17becf"
       },
       "itemStyle": {
-        "color": "#bcbd22"
+        "color": "#17becf"
       },
       "data": [
-        11
+        11,
+        12
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -120,13 +125,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#c49c94"
+        "color": "#bcbd22"
       },
       "itemStyle": {
-        "color": "#c49c94"
+        "color": "#bcbd22"
       },
       "data": [
-        8
+        8,
+        11
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -142,13 +148,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#c7c7c7"
+        "color": "#f7b6d2"
       },
       "itemStyle": {
-        "color": "#c7c7c7"
+        "color": "#f7b6d2"
       },
       "data": [
-        10
+        10,
+        9
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -170,6 +177,7 @@
         "color": "#1f77b4"
       },
       "data": [
+        1,
         1
       ],
       "symbol": "circle",
@@ -186,13 +194,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#ffbb78"
+        "color": "#d62728"
       },
       "itemStyle": {
-        "color": "#ffbb78"
+        "color": "#d62728"
       },
       "data": [
-        3
+        3,
+        5
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -208,13 +217,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#d62728"
+        "color": "#aec7e8"
       },
       "itemStyle": {
-        "color": "#d62728"
+        "color": "#aec7e8"
       },
       "data": [
-        5
+        5,
+        2
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -230,13 +240,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#f7b6d2"
+        "color": "#8c564b"
       },
       "itemStyle": {
-        "color": "#f7b6d2"
+        "color": "#8c564b"
       },
       "data": [
-        9
+        9,
+        7
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -252,13 +263,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#9467bd"
+        "color": "#ffbb78"
       },
       "itemStyle": {
-        "color": "#9467bd"
+        "color": "#ffbb78"
       },
       "data": [
-        6
+        6,
+        3
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -274,13 +286,14 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#aec7e8"
+        "color": "#9467bd"
       },
       "itemStyle": {
-        "color": "#aec7e8"
+        "color": "#9467bd"
       },
       "data": [
-        2
+        2,
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,

@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Josh Allen (46.26 pts) owned by Game of Zones - House Hamlin
+* **QB:** Jared Goff (70.86 pts) owned by Rookie Mistake
 
-* **RB:** Derrick Henry (28.7 pts) owned by Game of Zones - House Hamlin
+* **RB:** James Cook (44.7 pts) owned by Rookie Mistake
 
-* **WR:** Zay Flowers (24.6 pts) owned by Game of Zones - House Hamlin
+* **WR:** Malik Nabers (42.8 pts) owned by To Infinity and Bijan!
 
-* **TE:** Brock Bowers (14.05 pts) owned by 90s MonCon
+* **TE:** Tucker Kraft (32.3 pts) owned by Game of Zones - House Hamlin
 
 
-Below are the top 10 performers at each position through Week 1.
+Below are the top 10 performers at each position through Week 2.
 
 
 

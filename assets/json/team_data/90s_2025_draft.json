@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 1,
     "player_name": "Lamar Jackson",
-    "points": "35.4",
-    "before_trade": "35.4",
+    "points": "69.2",
+    "before_trade": "69.2",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "10.4",
+    "value_diff": "19.3",
     "grade": "A"
   },
   {
@@ -16,23 +16,23 @@
     "round": 2,
     "pick": 12,
     "player_name": "Jonathan Taylor",
-    "points": "11.3",
-    "before_trade": "11.3",
+    "points": "39.8",
+    "before_trade": "39.8",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "-4.7",
-    "grade": "C"
+    "value_diff": "7.7",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 3,
     "pick": 1,
     "player_name": "Nico Collins",
-    "points": "4.0",
-    "before_trade": "4.0",
+    "points": "16.7",
+    "before_trade": "16.7",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "-10.1",
+    "value_diff": "-11.4",
     "grade": "D"
   },
   {
@@ -40,71 +40,71 @@
     "round": 4,
     "pick": 12,
     "player_name": "Tua Tagovailoa",
-    "points": "5.3",
-    "before_trade": "5.3",
+    "points": "34.9",
+    "before_trade": "34.9",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-15.2",
-    "grade": "D"
+    "value_diff": "-6.1",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 5,
     "pick": 1,
     "player_name": "Brock Bowers",
-    "points": "14.1",
-    "before_trade": "14.1",
+    "points": "21.6",
+    "before_trade": "21.6",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "0.2",
-    "grade": "B"
+    "value_diff": "-6.0",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 6,
     "pick": 12,
     "player_name": "Garrett Wilson",
-    "points": "19.0",
-    "before_trade": "19.0",
+    "points": "26.0",
+    "before_trade": "26.0",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "7.4",
-    "grade": "A"
+    "value_diff": "2.9",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 7,
     "pick": 1,
     "player_name": "Jameson Williams",
-    "points": "4.6",
-    "before_trade": "4.6",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-6.3",
-    "grade": "D"
+    "value_diff": "0.5",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 8,
     "pick": 12,
     "player_name": "Jaylen Waddle",
-    "points": "5.0",
-    "before_trade": "5.0",
+    "points": "20.3",
+    "before_trade": "20.3",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "-5.7",
-    "grade": "C"
+    "value_diff": "-1.2",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 9,
     "pick": 1,
     "player_name": "Jaylen Warren",
-    "points": "12.9",
-    "before_trade": "12.9",
+    "points": "28.3",
+    "before_trade": "28.3",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-0.1",
+    "value_diff": "2.4",
     "grade": "B"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 12,
     "player_name": "Jordan Mason",
-    "points": "8.0",
-    "before_trade": "8.0",
+    "points": "12.8",
+    "before_trade": "12.8",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "0.6",
+    "value_diff": "-2.1",
     "grade": "B"
   },
   {
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 1,
     "player_name": "Jauan Jennings",
-    "points": "2.6",
-    "before_trade": "2.6",
+    "points": "20.0",
+    "before_trade": "20.0",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-6.7",
-    "grade": "D"
+    "value_diff": "1.5",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
@@ -140,7 +140,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 144,
-    "value_diff": "-8.1",
+    "value_diff": "-16.2",
     "grade": "D"
   },
   {
@@ -148,36 +148,36 @@
     "round": 13,
     "pick": 1,
     "player_name": "Quinshon Judkins",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "8.6",
+    "before_trade": "8.6",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "-2.6",
-    "grade": "C"
+    "value_diff": "3.5",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 14,
     "pick": 12,
     "player_name": "Marvin Mims Jr.",
-    "points": "0.7",
-    "before_trade": "0.7",
+    "points": "10.1",
+    "before_trade": "10.1",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-6.8",
-    "grade": "D"
+    "value_diff": "-4.9",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 15,
     "pick": 1,
     "player_name": "Joe Flacco",
-    "points": "15.7",
-    "before_trade": "15.7",
+    "points": "19.0",
+    "before_trade": "19.0",
     "after_trade": "0.0",
     "draft_position": 169,
-    "value_diff": "9.8",
-    "grade": "A"
+    "value_diff": "7.2",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 192,
-    "value_diff": "-6.1",
-    "grade": "C"
+    "value_diff": "-12.2",
+    "grade": "D"
   }
 ]

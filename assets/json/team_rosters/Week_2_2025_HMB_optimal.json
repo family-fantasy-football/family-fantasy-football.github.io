@@ -1,65 +1,65 @@
 [
   {
-    "player_name": "Josh Allen",
+    "player_name": "Jordan Love",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 24.18
+    "points": 22.38,
+    "projected": 20.73
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 13.59
+    "points": 34.7,
+    "projected": 13.54
   },
   {
-    "player_name": "Zay Flowers",
+    "player_name": "Keenan Allen",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 11.89
-  },
-  {
-    "player_name": "Derrick Henry",
-    "pos": "RB",
-    "slot": "RB",
-    "points": 0,
-    "projected": 17.31
+    "points": 14.6,
+    "projected": 10.35
   },
   {
     "player_name": "James Conner",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 14.97
+    "points": 11.7,
+    "projected": 14.95
   },
   {
-    "player_name": "Sam LaPorta",
-    "pos": "TE",
-    "slot": "TE",
-    "points": 0,
-    "projected": 10.09
-  },
-  {
-    "player_name": "Jacory Croskey-Merritt",
+    "player_name": "Najee Harris",
     "pos": "RB",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 7.8
+    "slot": "RB",
+    "points": 5.8,
+    "projected": 6.03
   },
   {
     "player_name": "Tucker Kraft",
     "pos": "TE",
-    "slot": "RB/WR/TE",
-    "points": 0,
+    "slot": "TE",
+    "points": 22.9,
     "projected": 8.86
   },
   {
-    "player_name": "Jordan Love",
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 11.4,
+    "projected": 11.95
+  },
+  {
+    "player_name": "Cedric Tillman",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.2,
+    "projected": 8.35
+  },
+  {
+    "player_name": "Josh Allen",
     "pos": "QB",
     "slot": "OP",
-    "points": 0,
-    "projected": 20.53
+    "points": 7.82,
+    "projected": 24.35
   }
 ]

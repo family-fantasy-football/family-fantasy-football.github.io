@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 1,
     "player_name": "Lamar Jackson",
-    "points": "35.4",
-    "before_trade": "35.4",
+    "points": "69.2",
+    "before_trade": "69.2",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "10.4",
+    "value_diff": "19.3",
     "grade": "A"
   },
   {
@@ -16,23 +16,23 @@
     "round": 1,
     "pick": 2,
     "player_name": "Josh Allen",
-    "points": "46.3",
-    "before_trade": "46.3",
+    "points": "54.1",
+    "before_trade": "54.1",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "22.5",
-    "grade": "A"
+    "value_diff": "6.6",
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 1,
     "pick": 3,
     "player_name": "Saquon Barkley",
-    "points": "16.4",
-    "before_trade": "16.4",
+    "points": "32.8",
+    "before_trade": "32.8",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-1.4",
+    "value_diff": "-2.8",
     "grade": "C"
   },
   {
@@ -40,11 +40,11 @@
     "round": 1,
     "pick": 4,
     "player_name": "Bijan Robinson",
-    "points": "21.4",
-    "before_trade": "21.4",
+    "points": "39.7",
+    "before_trade": "39.7",
     "after_trade": "0.0",
     "draft_position": 4,
-    "value_diff": "3.3",
+    "value_diff": "3.4",
     "grade": "B"
   },
   {
@@ -52,35 +52,35 @@
     "round": 1,
     "pick": 5,
     "player_name": "Ja'Marr Chase",
-    "points": "3.6",
-    "before_trade": "3.6",
+    "points": "33.1",
+    "before_trade": "33.1",
     "after_trade": "0.0",
     "draft_position": 5,
-    "value_diff": "-13.0",
-    "grade": "D"
+    "value_diff": "-0.0",
+    "grade": "B"
   },
   {
     "team": "Michael's Managable Team",
     "round": 1,
     "pick": 6,
     "player_name": "Jahmyr Gibbs",
-    "points": "10.0",
-    "before_trade": "10.0",
+    "points": "27.9",
+    "before_trade": "27.9",
     "after_trade": "0.0",
     "draft_position": 6,
-    "value_diff": "-6.9",
-    "grade": "D"
+    "value_diff": "-5.9",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 1,
     "pick": 7,
     "player_name": "Joe Burrow",
-    "points": "8.8",
-    "before_trade": "8.8",
+    "points": "15.4",
+    "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-15.8",
+    "value_diff": "-34.0",
     "grade": "D"
   },
   {
@@ -88,23 +88,23 @@
     "round": 1,
     "pick": 8,
     "player_name": "Breece Hall",
-    "points": "15.5",
-    "before_trade": "15.5",
+    "points": "20.3",
+    "before_trade": "20.3",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "3.5",
-    "grade": "B"
+    "value_diff": "-3.7",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 1,
     "pick": 9,
     "player_name": "Justin Jefferson",
-    "points": "12.8",
-    "before_trade": "12.8",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 9,
-    "value_diff": "-2.5",
+    "value_diff": "-8.2",
     "grade": "C"
   },
   {
@@ -112,24 +112,24 @@
     "round": 1,
     "pick": 10,
     "player_name": "Jalen Hurts",
-    "points": "29.8",
-    "before_trade": "29.8",
+    "points": "41.8",
+    "before_trade": "41.8",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "5.7",
-    "grade": "A"
+    "value_diff": "-6.4",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 1,
     "pick": 11,
     "player_name": "Jayden Daniels",
-    "points": "20.6",
-    "before_trade": "20.6",
+    "points": "38.3",
+    "before_trade": "38.3",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-4.3",
-    "grade": "C"
+    "value_diff": "-11.5",
+    "grade": "D"
   },
   {
     "team": "TBD",
@@ -148,11 +148,11 @@
     "round": 1,
     "pick": 12,
     "player_name": "Patrick Mahomes",
-    "points": "25.0",
-    "before_trade": "25.0",
+    "points": "44.1",
+    "before_trade": "44.1",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "2.1",
+    "value_diff": "-1.8",
     "grade": "B"
   },
   {
@@ -172,11 +172,11 @@
     "round": 2,
     "pick": 1,
     "player_name": "CeeDee Lamb",
-    "points": "14.5",
-    "before_trade": "14.5",
+    "points": "30.2",
+    "before_trade": "30.2",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-0.7",
+    "value_diff": "-0.2",
     "grade": "B"
   },
   {
@@ -184,11 +184,11 @@
     "round": 2,
     "pick": 2,
     "player_name": "Baker Mayfield",
-    "points": "22.1",
-    "before_trade": "22.1",
+    "points": "45.5",
+    "before_trade": "45.5",
     "after_trade": "0.0",
     "draft_position": 14,
-    "value_diff": "-0.9",
+    "value_diff": "-0.5",
     "grade": "B"
   },
   {
@@ -196,11 +196,11 @@
     "round": 2,
     "pick": 3,
     "player_name": "Christian McCaffrey",
-    "points": "18.7",
-    "before_trade": "18.7",
+    "points": "38.4",
+    "before_trade": "38.4",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "2.1",
+    "value_diff": "5.1",
     "grade": "B"
   },
   {
@@ -208,11 +208,11 @@
     "round": 2,
     "pick": 4,
     "player_name": "Kyler Murray",
-    "points": "24.8",
-    "before_trade": "24.8",
+    "points": "41.3",
+    "before_trade": "41.3",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "3.6",
+    "value_diff": "-1.2",
     "grade": "B"
   },
   {
@@ -220,11 +220,11 @@
     "round": 2,
     "pick": 5,
     "player_name": "C.J. Stroud",
-    "points": "10.2",
-    "before_trade": "10.2",
+    "points": "22.7",
+    "before_trade": "22.7",
     "after_trade": "0.0",
     "draft_position": 17,
-    "value_diff": "-7.9",
+    "value_diff": "-13.6",
     "grade": "D"
   },
   {
@@ -232,23 +232,23 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "11.0",
-    "before_trade": "11.0",
+    "points": "16.9",
+    "before_trade": "16.9",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-4.9",
-    "grade": "C"
+    "value_diff": "-14.9",
+    "grade": "D"
   },
   {
     "team": "Michael's Managable Team",
     "round": 2,
     "pick": 7,
     "player_name": "Justin Herbert",
-    "points": "37.4",
-    "before_trade": "37.4",
+    "points": "61.7",
+    "before_trade": "61.7",
     "after_trade": "0.0",
     "draft_position": 19,
-    "value_diff": "18.5",
+    "value_diff": "23.8",
     "grade": "A"
   },
   {
@@ -256,11 +256,11 @@
     "round": 2,
     "pick": 8,
     "player_name": "A.J. Brown",
-    "points": "1.3",
-    "before_trade": "1.3",
+    "points": "6.5",
+    "before_trade": "6.5",
     "after_trade": "0.0",
     "draft_position": 20,
-    "value_diff": "-12.2",
+    "value_diff": "-20.6",
     "grade": "D"
   },
   {
@@ -268,12 +268,12 @@
     "round": 2,
     "pick": 9,
     "player_name": "Puka Nacua",
-    "points": "18.1",
-    "before_trade": "18.1",
+    "points": "41.7",
+    "before_trade": "41.7",
     "after_trade": "0.0",
     "draft_position": 21,
-    "value_diff": "3.6",
-    "grade": "B"
+    "value_diff": "12.8",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
@@ -284,43 +284,43 @@
     "before_trade": "24.8",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "3.6",
-    "grade": "B"
+    "value_diff": "-17.6",
+    "grade": "D"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 2,
     "pick": 11,
     "player_name": "Derrick Henry",
-    "points": "28.7",
-    "before_trade": "28.7",
+    "points": "31.0",
+    "before_trade": "31.0",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "12.7",
-    "grade": "A"
+    "value_diff": "-1.1",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 2,
     "pick": 12,
     "player_name": "Jonathan Taylor",
-    "points": "11.3",
-    "before_trade": "11.3",
+    "points": "39.8",
+    "before_trade": "39.8",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "-4.7",
-    "grade": "C"
+    "value_diff": "7.7",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 3,
     "pick": 1,
     "player_name": "Nico Collins",
-    "points": "4.0",
-    "before_trade": "4.0",
+    "points": "16.7",
+    "before_trade": "16.7",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "-10.1",
+    "value_diff": "-11.4",
     "grade": "D"
   },
   {
@@ -328,47 +328,47 @@
     "round": 3,
     "pick": 2,
     "player_name": "Amon-Ra St. Brown",
-    "points": "6.5",
-    "before_trade": "6.5",
+    "points": "41.2",
+    "before_trade": "41.2",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "-7.2",
-    "grade": "D"
+    "value_diff": "13.9",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
-    "points": "5.3",
-    "before_trade": "5.3",
-    "after_trade": "0.0",
+    "points": "36.5",
+    "before_trade": "0.0",
+    "after_trade": "36.5",
     "draft_position": 27,
-    "value_diff": "-14.5",
-    "grade": "D"
+    "value_diff": "-3.2",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 3,
     "pick": 4,
     "player_name": "Bo Nix",
-    "points": "6.3",
-    "before_trade": "6.3",
+    "points": "35.6",
+    "before_trade": "35.6",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "-14.1",
-    "grade": "D"
+    "value_diff": "-5.3",
+    "grade": "C"
   },
   {
     "team": "Americas Team ",
     "round": 3,
     "pick": 5,
     "player_name": "Trey McBride",
-    "points": "10.6",
-    "before_trade": "10.6",
+    "points": "22.9",
+    "before_trade": "22.9",
     "after_trade": "0.0",
     "draft_position": 29,
-    "value_diff": "-3.0",
+    "value_diff": "-4.3",
     "grade": "C"
   },
   {
@@ -376,59 +376,59 @@
     "round": 3,
     "pick": 6,
     "player_name": "Drake Maye",
-    "points": "16.3",
-    "before_trade": "16.3",
+    "points": "52.1",
+    "before_trade": "52.1",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "-3.2",
-    "grade": "C"
+    "value_diff": "13.1",
+    "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "20.4",
-    "before_trade": "20.4",
+    "points": "70.9",
+    "before_trade": "70.9",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "0.9",
-    "grade": "B"
+    "value_diff": "31.9",
+    "grade": "A"
   },
   {
     "team": "Big Titi Energy",
     "round": 3,
     "pick": 8,
     "player_name": "J.J. McCarthy",
-    "points": "25.7",
-    "before_trade": "25.7",
+    "points": "24.0",
+    "before_trade": "24.0",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "6.5",
-    "grade": "A"
+    "value_diff": "-14.4",
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 3,
     "pick": 9,
     "player_name": "Malik Nabers",
-    "points": "9.6",
-    "before_trade": "9.6",
+    "points": "42.8",
+    "before_trade": "42.8",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-5.0",
-    "grade": "C"
+    "value_diff": "13.6",
+    "grade": "A"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 3,
     "pick": 10,
     "player_name": "Caleb Williams",
-    "points": "22.7",
-    "before_trade": "22.7",
+    "points": "42.2",
+    "before_trade": "42.2",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "4.8",
+    "value_diff": "6.5",
     "grade": "B"
   },
   {
@@ -436,12 +436,12 @@
     "round": 3,
     "pick": 11,
     "player_name": "Brian Thomas Jr.",
-    "points": "8.5",
-    "before_trade": "8.5",
+    "points": "15.4",
+    "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-4.6",
-    "grade": "C"
+    "value_diff": "-10.8",
+    "grade": "D"
   },
   {
     "team": "TBD",
@@ -460,8 +460,8 @@
     "round": 3,
     "pick": 12,
     "player_name": "Bucky Irving",
-    "points": "12.5",
-    "before_trade": "12.5",
+    "points": "27.6",
+    "before_trade": "27.6",
     "after_trade": "0.0",
     "draft_position": 36,
     "value_diff": "-2.6",
@@ -484,11 +484,11 @@
     "round": 4,
     "pick": 1,
     "player_name": "Chase Brown",
-    "points": "12.1",
-    "before_trade": "12.1",
+    "points": "19.6",
+    "before_trade": "19.6",
     "after_trade": "0.0",
     "draft_position": 37,
-    "value_diff": "-2.5",
+    "value_diff": "-9.7",
     "grade": "C"
   },
   {
@@ -496,11 +496,11 @@
     "round": 4,
     "pick": 2,
     "player_name": "De'Von Achane",
-    "points": "15.0",
-    "before_trade": "15.0",
+    "points": "37.2",
+    "before_trade": "37.2",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "-0.9",
+    "value_diff": "5.4",
     "grade": "B"
   },
   {
@@ -508,11 +508,11 @@
     "round": 4,
     "pick": 3,
     "player_name": "DeVonta Smith",
-    "points": "3.1",
-    "before_trade": "3.1",
+    "points": "10.4",
+    "before_trade": "10.4",
     "after_trade": "0.0",
     "draft_position": 39,
-    "value_diff": "-7.4",
+    "value_diff": "-10.6",
     "grade": "D"
   },
   {
@@ -520,11 +520,11 @@
     "round": 4,
     "pick": 4,
     "player_name": "Josh Jacobs",
-    "points": "13.5",
-    "before_trade": "13.5",
+    "points": "27.9",
+    "before_trade": "27.9",
     "after_trade": "0.0",
     "draft_position": 40,
-    "value_diff": "-1.9",
+    "value_diff": "-2.9",
     "grade": "C"
   },
   {
@@ -532,47 +532,47 @@
     "round": 4,
     "pick": 5,
     "player_name": "Tee Higgins",
-    "points": "4.8",
-    "before_trade": "4.8",
+    "points": "17.9",
+    "before_trade": "17.9",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "-8.0",
-    "grade": "D"
+    "value_diff": "-7.8",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 4,
     "pick": 6,
     "player_name": "James Cook",
-    "points": "18.7",
-    "before_trade": "18.7",
+    "points": "44.7",
+    "before_trade": "44.7",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "3.9",
-    "grade": "B"
+    "value_diff": "15.1",
+    "grade": "A"
   },
   {
     "team": "Michael's Managable Team",
     "round": 4,
     "pick": 7,
     "player_name": "Davante Adams",
-    "points": "7.1",
-    "before_trade": "7.1",
+    "points": "26.7",
+    "before_trade": "26.7",
     "after_trade": "0.0",
     "draft_position": 43,
-    "value_diff": "-5.5",
-    "grade": "C"
+    "value_diff": "1.5",
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
     "round": 4,
     "pick": 8,
     "player_name": "Jaxon Smith-Njigba",
-    "points": "14.9",
-    "before_trade": "14.9",
+    "points": "29.2",
+    "before_trade": "29.2",
     "after_trade": "0.0",
     "draft_position": 44,
-    "value_diff": "3.3",
+    "value_diff": "6.1",
     "grade": "B"
   },
   {
@@ -580,11 +580,11 @@
     "round": 4,
     "pick": 9,
     "player_name": "Kyren Williams",
-    "points": "13.4",
-    "before_trade": "13.4",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 45,
-    "value_diff": "-2.3",
+    "value_diff": "-8.9",
     "grade": "C"
   },
   {
@@ -592,60 +592,60 @@
     "round": 4,
     "pick": 10,
     "player_name": "Drake London",
-    "points": "9.5",
-    "before_trade": "9.5",
+    "points": "13.9",
+    "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 46,
-    "value_diff": "-3.4",
-    "grade": "C"
+    "value_diff": "-11.8",
+    "grade": "D"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 4,
     "pick": 11,
     "player_name": "Jordan Love",
-    "points": "21.9",
-    "before_trade": "21.9",
+    "points": "44.3",
+    "before_trade": "44.3",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "4.4",
-    "grade": "B"
+    "value_diff": "9.2",
+    "grade": "A"
   },
   {
     "team": "90s MonCon",
     "round": 4,
     "pick": 12,
     "player_name": "Tua Tagovailoa",
-    "points": "5.3",
-    "before_trade": "5.3",
+    "points": "34.9",
+    "before_trade": "34.9",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-15.2",
-    "grade": "D"
+    "value_diff": "-6.1",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 5,
     "pick": 1,
     "player_name": "Brock Bowers",
-    "points": "14.1",
-    "before_trade": "14.1",
+    "points": "21.6",
+    "before_trade": "21.6",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "0.2",
-    "grade": "B"
+    "value_diff": "-6.0",
+    "grade": "C"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 5,
     "pick": 2,
     "player_name": "James Conner",
-    "points": "12.4",
-    "before_trade": "12.4",
+    "points": "24.1",
+    "before_trade": "24.1",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-1.0",
-    "grade": "B"
+    "value_diff": "-2.6",
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
@@ -656,31 +656,31 @@
     "before_trade": "11.5",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-0.7",
-    "grade": "B"
+    "value_diff": "-12.9",
+    "grade": "D"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 5,
     "pick": 4,
     "player_name": "Tyreek Hill",
-    "points": "6.0",
-    "before_trade": "6.0",
+    "points": "19.9",
+    "before_trade": "19.9",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "-6.8",
-    "grade": "D"
+    "value_diff": "-5.6",
+    "grade": "C"
   },
   {
     "team": "Americas Team ",
     "round": 5,
     "pick": 5,
     "player_name": "Chuba Hubbard",
-    "points": "16.4",
-    "before_trade": "16.4",
+    "points": "32.6",
+    "before_trade": "32.6",
     "after_trade": "0.0",
     "draft_position": 53,
-    "value_diff": "2.6",
+    "value_diff": "5.1",
     "grade": "B"
   },
   {
@@ -688,11 +688,11 @@
     "round": 5,
     "pick": 6,
     "player_name": "Alvin Kamara",
-    "points": "12.7",
-    "before_trade": "12.7",
+    "points": "25.7",
+    "before_trade": "25.7",
     "after_trade": "0.0",
     "draft_position": 54,
-    "value_diff": "-0.9",
+    "value_diff": "-1.5",
     "grade": "B"
   },
   {
@@ -700,11 +700,11 @@
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "7.1",
-    "before_trade": "7.1",
+    "points": "10.1",
+    "before_trade": "10.1",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-7.0",
+    "value_diff": "-18.0",
     "grade": "D"
   },
   {
@@ -712,35 +712,35 @@
     "round": 5,
     "pick": 8,
     "player_name": "Kenneth Walker III",
-    "points": "3.9",
-    "before_trade": "3.9",
+    "points": "22.2",
+    "before_trade": "22.2",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "-8.8",
-    "grade": "D"
+    "value_diff": "-3.2",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 5,
     "pick": 9,
     "player_name": "TreVeyon Henderson",
-    "points": "8.1",
-    "before_trade": "8.1",
+    "points": "13.1",
+    "before_trade": "13.1",
     "after_trade": "0.0",
     "draft_position": 57,
-    "value_diff": "-3.8",
-    "grade": "C"
+    "value_diff": "-10.7",
+    "grade": "D"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 5,
     "pick": 10,
     "player_name": "D'Andre Swift",
-    "points": "8.0",
-    "before_trade": "8.0",
+    "points": "20.4",
+    "before_trade": "20.4",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-4.2",
+    "value_diff": "-4.1",
     "grade": "C"
   },
   {
@@ -748,12 +748,12 @@
     "round": 5,
     "pick": 11,
     "player_name": "Ladd McConkey",
-    "points": "10.4",
-    "before_trade": "10.4",
+    "points": "17.7",
+    "before_trade": "17.7",
     "after_trade": "0.0",
     "draft_position": 59,
-    "value_diff": "-1.2",
-    "grade": "B"
+    "value_diff": "-5.5",
+    "grade": "C"
   },
   {
     "team": "TBD",
@@ -776,7 +776,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-8.3",
+    "value_diff": "-16.6",
     "grade": "D"
   },
   {
@@ -796,23 +796,23 @@
     "round": 6,
     "pick": 1,
     "player_name": "Trevor Lawrence",
-    "points": "9.8",
-    "before_trade": "9.8",
-    "after_trade": "0.0",
+    "points": "29.1",
+    "before_trade": "0.0",
+    "after_trade": "29.1",
     "draft_position": 61,
-    "value_diff": "-8.3",
-    "grade": "D"
+    "value_diff": "-7.3",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 6,
     "pick": 2,
     "player_name": "Mike Evans",
-    "points": "7.6",
-    "before_trade": "7.6",
+    "points": "15.7",
+    "before_trade": "15.7",
     "after_trade": "0.0",
     "draft_position": 62,
-    "value_diff": "-3.9",
+    "value_diff": "-7.3",
     "grade": "C"
   },
   {
@@ -820,11 +820,11 @@
     "round": 6,
     "pick": 3,
     "player_name": "DK Metcalf",
-    "points": "10.3",
-    "before_trade": "10.3",
+    "points": "19.8",
+    "before_trade": "19.8",
     "after_trade": "0.0",
     "draft_position": 63,
-    "value_diff": "-1.5",
+    "value_diff": "-3.7",
     "grade": "C"
   },
   {
@@ -832,23 +832,23 @@
     "round": 6,
     "pick": 4,
     "player_name": "Justin Fields",
-    "points": "33.5",
-    "before_trade": "33.5",
+    "points": "31.0",
+    "before_trade": "31.0",
     "after_trade": "0.0",
     "draft_position": 64,
-    "value_diff": "15.6",
-    "grade": "A"
+    "value_diff": "-4.9",
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
     "round": 6,
     "pick": 5,
     "player_name": "Terry McLaurin",
-    "points": "3.7",
-    "before_trade": "3.7",
+    "points": "11.0",
+    "before_trade": "11.0",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "-8.3",
+    "value_diff": "-13.1",
     "grade": "D"
   },
   {
@@ -856,35 +856,35 @@
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
-    "points": "15.6",
-    "before_trade": "15.6",
+    "points": "19.3",
+    "before_trade": "19.3",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "3.9",
-    "grade": "B"
+    "value_diff": "-4.1",
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
     "round": 6,
     "pick": 7,
     "player_name": "George Pickens",
-    "points": "4.5",
-    "before_trade": "4.5",
+    "points": "19.8",
+    "before_trade": "19.8",
     "after_trade": "0.0",
     "draft_position": 67,
-    "value_diff": "-6.4",
-    "grade": "D"
+    "value_diff": "-2.0",
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
     "round": 6,
     "pick": 8,
     "player_name": "David Montgomery",
-    "points": "6.3",
-    "before_trade": "6.3",
+    "points": "18.9",
+    "before_trade": "18.9",
     "after_trade": "0.0",
     "draft_position": 68,
-    "value_diff": "-5.2",
+    "value_diff": "-4.1",
     "grade": "C"
   },
   {
@@ -892,23 +892,23 @@
     "round": 6,
     "pick": 9,
     "player_name": "Geno Smith",
-    "points": "21.5",
-    "before_trade": "21.5",
+    "points": "17.7",
+    "before_trade": "17.7",
     "after_trade": "0.0",
     "draft_position": 69,
-    "value_diff": "3.2",
-    "grade": "B"
+    "value_diff": "-18.9",
+    "grade": "D"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 6,
     "pick": 10,
     "player_name": "Tony Pollard",
-    "points": "7.4",
-    "before_trade": "7.4",
+    "points": "16.6",
+    "before_trade": "16.6",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-4.3",
+    "value_diff": "-6.8",
     "grade": "C"
   },
   {
@@ -916,47 +916,47 @@
     "round": 6,
     "pick": 11,
     "player_name": "Sam LaPorta",
-    "points": "12.4",
-    "before_trade": "12.4",
+    "points": "17.2",
+    "before_trade": "17.2",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "2.2",
-    "grade": "B"
+    "value_diff": "-3.1",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 6,
     "pick": 12,
     "player_name": "Garrett Wilson",
-    "points": "19.0",
-    "before_trade": "19.0",
+    "points": "26.0",
+    "before_trade": "26.0",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "7.4",
-    "grade": "A"
+    "value_diff": "2.9",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 7,
     "pick": 1,
     "player_name": "Jameson Williams",
-    "points": "4.6",
-    "before_trade": "4.6",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-6.3",
-    "grade": "D"
+    "value_diff": "0.5",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 7,
     "pick": 2,
     "player_name": "Zay Flowers",
-    "points": "24.6",
-    "before_trade": "24.6",
+    "points": "36.0",
+    "before_trade": "36.0",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "13.1",
+    "value_diff": "13.0",
     "grade": "A"
   },
   {
@@ -964,23 +964,23 @@
     "round": 7,
     "pick": 3,
     "player_name": "Courtland Sutton",
-    "points": "15.1",
-    "before_trade": "15.1",
+    "points": "16.2",
+    "before_trade": "16.2",
     "after_trade": "0.0",
     "draft_position": 75,
-    "value_diff": "3.9",
-    "grade": "B"
+    "value_diff": "-6.2",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 7,
     "pick": 4,
     "player_name": "Calvin Ridley",
-    "points": "4.7",
-    "before_trade": "4.7",
+    "points": "11.9",
+    "before_trade": "11.9",
     "after_trade": "0.0",
     "draft_position": 76,
-    "value_diff": "-6.7",
+    "value_diff": "-11.0",
     "grade": "D"
   },
   {
@@ -988,11 +988,11 @@
     "round": 7,
     "pick": 5,
     "player_name": "Matthew Stafford",
-    "points": "18.1",
-    "before_trade": "18.1",
+    "points": "40.9",
+    "before_trade": "40.9",
     "after_trade": "0.0",
     "draft_position": 77,
-    "value_diff": "-0.9",
+    "value_diff": "3.0",
     "grade": "B"
   },
   {
@@ -1000,23 +1000,23 @@
     "round": 7,
     "pick": 6,
     "player_name": "T.J. Hockenson",
-    "points": "3.8",
-    "before_trade": "3.8",
+    "points": "5.7",
+    "before_trade": "5.7",
     "after_trade": "0.0",
     "draft_position": 78,
-    "value_diff": "-5.9",
-    "grade": "C"
+    "value_diff": "-13.6",
+    "grade": "D"
   },
   {
     "team": "Rookie Mistake",
     "round": 7,
     "pick": 7,
     "player_name": "Matthew Golden",
-    "points": "2.6",
-    "before_trade": "2.6",
+    "points": "4.1",
+    "before_trade": "4.1",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-7.4",
+    "value_diff": "-15.8",
     "grade": "D"
   },
   {
@@ -1024,11 +1024,11 @@
     "round": 7,
     "pick": 8,
     "player_name": "DJ Moore",
-    "points": "7.1",
-    "before_trade": "7.1",
+    "points": "14.2",
+    "before_trade": "14.2",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-4.3",
+    "value_diff": "-8.6",
     "grade": "C"
   },
   {
@@ -1036,23 +1036,23 @@
     "round": 7,
     "pick": 9,
     "player_name": "Tetairoa McMillan",
-    "points": "9.3",
-    "before_trade": "9.3",
+    "points": "22.3",
+    "before_trade": "22.3",
     "after_trade": "0.0",
     "draft_position": 81,
-    "value_diff": "-2.1",
-    "grade": "C"
+    "value_diff": "-0.5",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 7,
     "pick": 10,
     "player_name": "Travis Kelce",
-    "points": "12.2",
-    "before_trade": "12.2",
+    "points": "21.3",
+    "before_trade": "21.3",
     "after_trade": "0.0",
     "draft_position": 82,
-    "value_diff": "2.7",
+    "value_diff": "2.3",
     "grade": "B"
   },
   {
@@ -1060,11 +1060,11 @@
     "round": 7,
     "pick": 11,
     "player_name": "Isiah Pacheco",
-    "points": "3.8",
-    "before_trade": "3.8",
+    "points": "7.2",
+    "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "-7.5",
+    "value_diff": "-15.4",
     "grade": "D"
   },
   {
@@ -1084,11 +1084,11 @@
     "round": 7,
     "pick": 12,
     "player_name": "Jerry Jeudy",
-    "points": "9.1",
-    "before_trade": "9.1",
+    "points": "16.2",
+    "before_trade": "16.2",
     "after_trade": "0.0",
     "draft_position": 84,
-    "value_diff": "-1.9",
+    "value_diff": "-5.7",
     "grade": "C"
   },
   {
@@ -1108,12 +1108,12 @@
     "round": 8,
     "pick": 1,
     "player_name": "Aaron Jones Sr.",
-    "points": "14.2",
-    "before_trade": "14.2",
-    "after_trade": "0.0",
+    "points": "16.5",
+    "before_trade": "0.0",
+    "after_trade": "16.5",
     "draft_position": 85,
-    "value_diff": "3.0",
-    "grade": "B"
+    "value_diff": "-5.9",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -1124,7 +1124,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "-7.7",
+    "value_diff": "-15.5",
     "grade": "D"
   },
   {
@@ -1132,23 +1132,23 @@
     "round": 8,
     "pick": 3,
     "player_name": "Rome Odunze",
-    "points": "12.7",
-    "before_trade": "12.7",
+    "points": "41.0",
+    "before_trade": "41.0",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "2.0",
-    "grade": "B"
+    "value_diff": "19.7",
+    "grade": "A"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 8,
     "pick": 4,
     "player_name": "Mark Andrews",
-    "points": "1.2",
-    "before_trade": "1.2",
+    "points": "2.4",
+    "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "-8.0",
+    "value_diff": "-16.2",
     "grade": "D"
   },
   {
@@ -1160,44 +1160,44 @@
     "before_trade": "9.7",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "1.4",
-    "grade": "B"
+    "value_diff": "-6.9",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 8,
     "pick": 6,
     "player_name": "Travis Hunter",
-    "points": "6.3",
-    "before_trade": "6.3",
+    "points": "10.0",
+    "before_trade": "10.0",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-3.9",
-    "grade": "C"
+    "value_diff": "-10.3",
+    "grade": "D"
   },
   {
     "team": "Michael's Managable Team",
     "round": 8,
     "pick": 7,
     "player_name": "RJ Harvey",
-    "points": "7.4",
-    "before_trade": "7.4",
+    "points": "10.3",
+    "before_trade": "10.3",
     "after_trade": "0.0",
     "draft_position": 91,
-    "value_diff": "-3.4",
-    "grade": "C"
+    "value_diff": "-11.4",
+    "grade": "D"
   },
   {
     "team": "Americas Team ",
     "round": 8,
     "pick": 8,
     "player_name": "Sam Darnold",
-    "points": "6.4",
-    "before_trade": "6.4",
+    "points": "26.2",
+    "before_trade": "26.2",
     "after_trade": "0.0",
     "draft_position": 92,
-    "value_diff": "-9.7",
-    "grade": "D"
+    "value_diff": "-6.1",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -1208,19 +1208,19 @@
     "before_trade": "2.7",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-5.5",
-    "grade": "C"
+    "value_diff": "-13.8",
+    "grade": "D"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 8,
     "pick": 10,
     "player_name": "Tyrone Tracy Jr.",
-    "points": "4.5",
-    "before_trade": "4.5",
-    "after_trade": "0.0",
+    "points": "11.6",
+    "before_trade": "0.0",
+    "after_trade": "11.6",
     "draft_position": 94,
-    "value_diff": "-6.5",
+    "value_diff": "-10.4",
     "grade": "D"
   },
   {
@@ -1228,11 +1228,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "-7.5",
-    "before_trade": "-7.5",
+    "points": "-0.2",
+    "before_trade": "-0.2",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-23.3",
+    "value_diff": "-31.7",
     "grade": "D"
   },
   {
@@ -1240,23 +1240,23 @@
     "round": 8,
     "pick": 12,
     "player_name": "Jaylen Waddle",
-    "points": "5.0",
-    "before_trade": "5.0",
+    "points": "20.3",
+    "before_trade": "20.3",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "-5.7",
-    "grade": "C"
+    "value_diff": "-1.2",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 9,
     "pick": 1,
     "player_name": "Jaylen Warren",
-    "points": "12.9",
-    "before_trade": "12.9",
+    "points": "28.3",
+    "before_trade": "28.3",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-0.1",
+    "value_diff": "2.4",
     "grade": "B"
   },
   {
@@ -1264,11 +1264,11 @@
     "round": 9,
     "pick": 2,
     "player_name": "Jacory Croskey-Merritt",
-    "points": "14.2",
-    "before_trade": "14.2",
+    "points": "15.9",
+    "before_trade": "15.9",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "5.3",
+    "value_diff": "-1.9",
     "grade": "B"
   },
   {
@@ -1276,11 +1276,11 @@
     "round": 9,
     "pick": 3,
     "player_name": "Jakobi Meyers",
-    "points": "13.7",
-    "before_trade": "13.7",
+    "points": "23.5",
+    "before_trade": "23.5",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "3.4",
+    "value_diff": "2.8",
     "grade": "B"
   },
   {
@@ -1288,11 +1288,11 @@
     "round": 9,
     "pick": 4,
     "player_name": "Emeka Egbuka",
-    "points": "21.6",
-    "before_trade": "21.6",
+    "points": "32.5",
+    "before_trade": "32.5",
     "after_trade": "0.0",
     "draft_position": 100,
-    "value_diff": "12.9",
+    "value_diff": "15.2",
     "grade": "A"
   },
   {
@@ -1300,23 +1300,23 @@
     "round": 9,
     "pick": 5,
     "player_name": "Cooper Kupp",
-    "points": "2.5",
-    "before_trade": "2.5",
+    "points": "15.0",
+    "before_trade": "15.0",
     "after_trade": "0.0",
     "draft_position": 101,
-    "value_diff": "-7.2",
-    "grade": "D"
+    "value_diff": "-4.3",
+    "grade": "C"
   },
   {
     "team": "Michael's Managable Team",
     "round": 9,
     "pick": 6,
     "player_name": "Ricky Pearsall",
-    "points": "12.8",
-    "before_trade": "12.8",
+    "points": "20.0",
+    "before_trade": "20.0",
     "after_trade": "0.0",
     "draft_position": 102,
-    "value_diff": "3.2",
+    "value_diff": "0.7",
     "grade": "B"
   },
   {
@@ -1324,11 +1324,11 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "13.2",
-    "before_trade": "13.2",
+    "points": "24.1",
+    "before_trade": "24.1",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "4.3",
+    "value_diff": "6.4",
     "grade": "B"
   },
   {
@@ -1336,11 +1336,11 @@
     "round": 9,
     "pick": 8,
     "player_name": "Russell Wilson",
-    "points": "-0.4",
-    "before_trade": "-0.4",
+    "points": "0.0",
+    "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 104,
-    "value_diff": "-7.7",
+    "value_diff": "-14.7",
     "grade": "D"
   },
   {
@@ -1348,35 +1348,35 @@
     "round": 9,
     "pick": 9,
     "player_name": "Keon Coleman",
-    "points": "21.2",
-    "before_trade": "21.2",
+    "points": "25.3",
+    "before_trade": "25.3",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "11.0",
-    "grade": "A"
+    "value_diff": "5.0",
+    "grade": "B"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 9,
     "pick": 10,
     "player_name": "Chris Olave",
-    "points": "8.9",
-    "before_trade": "8.9",
+    "points": "17.3",
+    "before_trade": "17.3",
     "after_trade": "0.0",
     "draft_position": 106,
-    "value_diff": "-1.0",
-    "grade": "B"
+    "value_diff": "-2.5",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 9,
     "pick": 11,
     "player_name": "David Njoku",
-    "points": "6.0",
-    "before_trade": "6.0",
+    "points": "12.9",
+    "before_trade": "12.9",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-3.4",
+    "value_diff": "-5.7",
     "grade": "C"
   },
   {
@@ -1396,11 +1396,11 @@
     "round": 9,
     "pick": 12,
     "player_name": "Stefon Diggs",
-    "points": "8.7",
-    "before_trade": "8.7",
+    "points": "13.9",
+    "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "1.2",
+    "value_diff": "-1.1",
     "grade": "B"
   },
   {
@@ -1420,12 +1420,12 @@
     "round": 10,
     "pick": 1,
     "player_name": "Cam Skattebo",
-    "points": "1.9",
-    "before_trade": "1.9",
+    "points": "14.8",
+    "before_trade": "14.8",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "-5.5",
-    "grade": "C"
+    "value_diff": "0.1",
+    "grade": "B"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -1436,31 +1436,31 @@
     "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-3.5",
-    "grade": "C"
+    "value_diff": "-14.1",
+    "grade": "D"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 10,
     "pick": 3,
     "player_name": "Kaleb Johnson",
-    "points": "-0.2",
-    "before_trade": "-0.2",
+    "points": "-0.1",
+    "before_trade": "-0.1",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "-0.5",
-    "grade": "B"
+    "value_diff": "-17.6",
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 10,
     "pick": 4,
     "player_name": "Javonte Williams",
-    "points": "19.4",
-    "before_trade": "19.4",
+    "points": "41.4",
+    "before_trade": "41.4",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "7.8",
+    "value_diff": "18.2",
     "grade": "A"
   },
   {
@@ -1468,59 +1468,59 @@
     "round": 10,
     "pick": 5,
     "player_name": "Zach Charbonnet",
-    "points": "10.7",
-    "before_trade": "10.7",
+    "points": "11.7",
+    "before_trade": "11.7",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "3.5",
-    "grade": "B"
+    "value_diff": "-2.7",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 10,
     "pick": 6,
     "player_name": "J.K. Dobbins",
-    "points": "13.8",
-    "before_trade": "13.8",
+    "points": "28.8",
+    "before_trade": "28.8",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "4.8",
-    "grade": "B"
+    "value_diff": "10.9",
+    "grade": "A"
   },
   {
     "team": "Michael's Managable Team",
     "round": 10,
     "pick": 7,
     "player_name": "Michael Pittman Jr.",
-    "points": "17.0",
-    "before_trade": "17.0",
+    "points": "23.0",
+    "before_trade": "23.0",
     "after_trade": "0.0",
     "draft_position": 115,
-    "value_diff": "7.7",
-    "grade": "A"
+    "value_diff": "4.4",
+    "grade": "B"
   },
   {
     "team": "Americas Team ",
     "round": 10,
     "pick": 8,
     "player_name": "Rhamondre Stevenson",
-    "points": "3.7",
-    "before_trade": "3.7",
+    "points": "22.4",
+    "before_trade": "22.4",
     "after_trade": "0.0",
     "draft_position": 116,
-    "value_diff": "-5.6",
-    "grade": "C"
+    "value_diff": "3.8",
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 10,
     "pick": 9,
     "player_name": "Deebo Samuel",
-    "points": "19.1",
-    "before_trade": "19.1",
+    "points": "33.0",
+    "before_trade": "33.0",
     "after_trade": "0.0",
     "draft_position": 117,
-    "value_diff": "9.0",
+    "value_diff": "12.8",
     "grade": "A"
   },
   {
@@ -1528,35 +1528,35 @@
     "round": 10,
     "pick": 10,
     "player_name": "Rashid Shaheed",
-    "points": "6.3",
-    "before_trade": "6.3",
+    "points": "19.5",
+    "before_trade": "19.5",
     "after_trade": "0.0",
     "draft_position": 118,
-    "value_diff": "-2.5",
-    "grade": "C"
+    "value_diff": "1.9",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 10,
     "pick": 11,
     "player_name": "Tucker Kraft",
-    "points": "9.4",
-    "before_trade": "9.4",
+    "points": "32.3",
+    "before_trade": "32.3",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "0.9",
-    "grade": "B"
+    "value_diff": "15.3",
+    "grade": "A"
   },
   {
     "team": "90s MonCon",
     "round": 10,
     "pick": 12,
     "player_name": "Jordan Mason",
-    "points": "8.0",
-    "before_trade": "8.0",
+    "points": "12.8",
+    "before_trade": "12.8",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "0.6",
+    "value_diff": "-2.1",
     "grade": "B"
   },
   {
@@ -1564,23 +1564,23 @@
     "round": 11,
     "pick": 1,
     "player_name": "Jauan Jennings",
-    "points": "2.6",
-    "before_trade": "2.6",
+    "points": "20.0",
+    "before_trade": "20.0",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-6.7",
-    "grade": "D"
+    "value_diff": "1.5",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "16.3",
-    "before_trade": "16.3",
+    "points": "30.9",
+    "before_trade": "30.9",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "6.2",
+    "value_diff": "10.7",
     "grade": "A"
   },
   {
@@ -1588,12 +1588,12 @@
     "round": 11,
     "pick": 3,
     "player_name": "Hollywood Brown",
-    "points": "14.9",
-    "before_trade": "14.9",
+    "points": "20.4",
+    "before_trade": "20.4",
     "after_trade": "0.0",
     "draft_position": 123,
-    "value_diff": "6.4",
-    "grade": "A"
+    "value_diff": "3.4",
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -1604,19 +1604,19 @@
     "before_trade": "1.2",
     "after_trade": "0.0",
     "draft_position": 124,
-    "value_diff": "-4.9",
-    "grade": "C"
+    "value_diff": "-10.9",
+    "grade": "D"
   },
   {
     "team": "Americas Team ",
     "round": 11,
     "pick": 5,
     "player_name": "Travis Etienne Jr.",
-    "points": "17.1",
-    "before_trade": "17.1",
+    "points": "33.0",
+    "before_trade": "33.0",
     "after_trade": "0.0",
     "draft_position": 125,
-    "value_diff": "7.4",
+    "value_diff": "13.7",
     "grade": "A"
   },
   {
@@ -1624,23 +1624,23 @@
     "round": 11,
     "pick": 6,
     "player_name": "Khalil Shakir",
-    "points": "9.4",
-    "before_trade": "9.4",
+    "points": "11.1",
+    "before_trade": "11.1",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "0.2",
-    "grade": "B"
+    "value_diff": "-7.3",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 11,
     "pick": 7,
     "player_name": "Jayden Higgins",
-    "points": "4.2",
-    "before_trade": "4.2",
+    "points": "7.5",
+    "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-3.6",
+    "value_diff": "-8.2",
     "grade": "C"
   },
   {
@@ -1652,19 +1652,19 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-6.2",
-    "grade": "C"
+    "value_diff": "-12.4",
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 11,
     "pick": 9,
     "player_name": "Nick Chubb",
-    "points": "6.0",
-    "before_trade": "6.0",
+    "points": "20.2",
+    "before_trade": "20.2",
     "after_trade": "0.0",
     "draft_position": 129,
-    "value_diff": "-0.7",
+    "value_diff": "6.8",
     "grade": "B"
   },
   {
@@ -1676,20 +1676,20 @@
     "before_trade": "12.0",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "3.3",
-    "grade": "B"
+    "value_diff": "-5.3",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 11,
     "pick": 11,
     "player_name": "Evan Engram",
-    "points": "4.3",
-    "before_trade": "4.3",
+    "points": "6.3",
+    "before_trade": "6.3",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-4.4",
-    "grade": "C"
+    "value_diff": "-11.2",
+    "grade": "D"
   },
   {
     "team": "TBD",
@@ -1708,12 +1708,12 @@
     "round": 11,
     "pick": 12,
     "player_name": "Bryce Young",
-    "points": "2.2",
-    "before_trade": "2.2",
+    "points": "27.0",
+    "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-14.1",
-    "grade": "D"
+    "value_diff": "-5.6",
+    "grade": "C"
   },
   {
     "team": "TBD",
@@ -1736,7 +1736,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 133,
-    "value_diff": "-8.9",
+    "value_diff": "-17.9",
     "grade": "D"
   },
   {
@@ -1748,7 +1748,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 134,
-    "value_diff": "-6.4",
+    "value_diff": "-12.7",
     "grade": "D"
   },
   {
@@ -1756,23 +1756,23 @@
     "round": 12,
     "pick": 3,
     "player_name": "Michael Penix Jr.",
-    "points": "24.5",
-    "before_trade": "24.5",
+    "points": "28.3",
+    "before_trade": "28.3",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "8.4",
-    "grade": "A"
+    "value_diff": "-3.8",
+    "grade": "C"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 12,
     "pick": 4,
     "player_name": "Darnell Mooney",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "3.0",
+    "before_trade": "3.0",
     "after_trade": "0.0",
     "draft_position": 136,
-    "value_diff": "-7.8",
+    "value_diff": "-12.5",
     "grade": "D"
   },
   {
@@ -1780,11 +1780,11 @@
     "round": 12,
     "pick": 5,
     "player_name": "Jerome Ford",
-    "points": "1.0",
-    "before_trade": "1.0",
+    "points": "8.9",
+    "before_trade": "8.9",
     "after_trade": "0.0",
     "draft_position": 137,
-    "value_diff": "-4.8",
+    "value_diff": "-2.8",
     "grade": "C"
   },
   {
@@ -1792,11 +1792,11 @@
     "round": 12,
     "pick": 6,
     "player_name": "Ollie Gordon II",
-    "points": "0.8",
-    "before_trade": "0.8",
+    "points": "2.6",
+    "before_trade": "2.6",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-3.7",
+    "value_diff": "-6.4",
     "grade": "C"
   },
   {
@@ -1804,23 +1804,23 @@
     "round": 12,
     "pick": 7,
     "player_name": "Bhayshul Tuten",
-    "points": "1.1",
-    "before_trade": "1.1",
+    "points": "15.5",
+    "before_trade": "15.5",
     "after_trade": "0.0",
     "draft_position": 139,
-    "value_diff": "0.8",
-    "grade": "B"
+    "value_diff": "15.0",
+    "grade": "A"
   },
   {
     "team": "Americas Team ",
     "round": 12,
     "pick": 8,
     "player_name": "Josh Downs",
-    "points": "2.2",
-    "before_trade": "2.2",
+    "points": "10.3",
+    "before_trade": "10.3",
     "after_trade": "0.0",
     "draft_position": 140,
-    "value_diff": "-6.1",
+    "value_diff": "-6.4",
     "grade": "C"
   },
   {
@@ -1832,7 +1832,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-1.0",
+    "value_diff": "-2.0",
     "grade": "B"
   },
   {
@@ -1840,11 +1840,11 @@
     "round": 12,
     "pick": 10,
     "player_name": "Trey Benson",
-    "points": "8.0",
-    "before_trade": "8.0",
+    "points": "14.4",
+    "before_trade": "14.4",
     "after_trade": "0.0",
     "draft_position": 142,
-    "value_diff": "1.1",
+    "value_diff": "0.6",
     "grade": "B"
   },
   {
@@ -1852,12 +1852,12 @@
     "round": 12,
     "pick": 11,
     "player_name": "Cedric Tillman",
-    "points": "13.7",
-    "before_trade": "13.7",
+    "points": "22.9",
+    "before_trade": "22.9",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "5.8",
-    "grade": "A"
+    "value_diff": "7.1",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
@@ -1868,7 +1868,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 144,
-    "value_diff": "-8.1",
+    "value_diff": "-16.2",
     "grade": "D"
   },
   {
@@ -1876,23 +1876,23 @@
     "round": 13,
     "pick": 1,
     "player_name": "Quinshon Judkins",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "8.6",
+    "before_trade": "8.6",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "-2.6",
-    "grade": "C"
+    "value_diff": "3.5",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 13,
     "pick": 2,
     "player_name": "Najee Harris",
-    "points": "1.5",
-    "before_trade": "1.5",
+    "points": "7.3",
+    "before_trade": "7.3",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-3.7",
+    "value_diff": "-3.1",
     "grade": "C"
   },
   {
@@ -1900,35 +1900,35 @@
     "round": 13,
     "pick": 3,
     "player_name": "Tyler Allgeier",
-    "points": "2.4",
-    "before_trade": "2.4",
+    "points": "0.0",
+    "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 147,
-    "value_diff": "-3.4",
-    "grade": "C"
+    "value_diff": "-11.6",
+    "grade": "D"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 13,
     "pick": 4,
     "player_name": "Xavier Legette",
-    "points": "2.5",
-    "before_trade": "2.5",
+    "points": "2.8",
+    "before_trade": "2.8",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-5.5",
-    "grade": "C"
+    "value_diff": "-13.1",
+    "grade": "D"
   },
   {
     "team": "Americas Team ",
     "round": 13,
     "pick": 5,
     "player_name": "Dalton Schultz",
-    "points": "5.0",
-    "before_trade": "5.0",
+    "points": "10.2",
+    "before_trade": "10.2",
     "after_trade": "0.0",
     "draft_position": 149,
-    "value_diff": "-1.6",
+    "value_diff": "-3.1",
     "grade": "C"
   },
   {
@@ -1936,23 +1936,23 @@
     "round": 13,
     "pick": 6,
     "player_name": "Jake Ferguson",
-    "points": "6.0",
-    "before_trade": "6.0",
+    "points": "20.6",
+    "before_trade": "20.6",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "-1.8",
-    "grade": "C"
+    "value_diff": "4.9",
+    "grade": "B"
   },
   {
     "team": "Rookie Mistake",
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "-0.3",
+    "before_trade": "-0.3",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "-8.0",
+    "value_diff": "-16.3",
     "grade": "D"
   },
   {
@@ -1960,23 +1960,23 @@
     "round": 13,
     "pick": 8,
     "player_name": "Dalton Kincaid",
-    "points": "13.8",
-    "before_trade": "13.8",
+    "points": "20.5",
+    "before_trade": "20.5",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "6.0",
-    "grade": "A"
+    "value_diff": "4.9",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 13,
     "pick": 9,
     "player_name": "Kyle Pitts Sr.",
-    "points": "11.2",
-    "before_trade": "11.2",
+    "points": "17.9",
+    "before_trade": "17.9",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "3.5",
+    "value_diff": "2.5",
     "grade": "B"
   },
   {
@@ -1984,23 +1984,23 @@
     "round": 13,
     "pick": 10,
     "player_name": "Hunter Henry",
-    "points": "9.6",
-    "before_trade": "9.6",
+    "points": "11.2",
+    "before_trade": "11.2",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "1.7",
-    "grade": "B"
+    "value_diff": "-4.5",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 13,
     "pick": 11,
     "player_name": "Aaron Rodgers",
-    "points": "36.7",
-    "before_trade": "36.7",
+    "points": "43.1",
+    "before_trade": "43.1",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "20.9",
+    "value_diff": "11.6",
     "grade": "A"
   },
   {
@@ -2020,12 +2020,12 @@
     "round": 13,
     "pick": 12,
     "player_name": "Zach Ertz",
-    "points": "10.8",
-    "before_trade": "10.8",
-    "after_trade": "0.0",
+    "points": "27.8",
+    "before_trade": "0.0",
+    "after_trade": "27.8",
     "draft_position": 156,
-    "value_diff": "3.4",
-    "grade": "B"
+    "value_diff": "12.8",
+    "grade": "A"
   },
   {
     "team": "TBD",
@@ -2044,11 +2044,11 @@
     "round": 14,
     "pick": 1,
     "player_name": "Braelon Allen",
-    "points": "6.9",
-    "before_trade": "6.9",
+    "points": "8.0",
+    "before_trade": "8.0",
     "after_trade": "0.0",
     "draft_position": 157,
-    "value_diff": "1.9",
+    "value_diff": "-2.1",
     "grade": "B"
   },
   {
@@ -2056,35 +2056,35 @@
     "round": 14,
     "pick": 2,
     "player_name": "Wan'Dale Robinson",
-    "points": "8.5",
-    "before_trade": "8.5",
+    "points": "32.7",
+    "before_trade": "32.7",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "1.5",
-    "grade": "B"
+    "value_diff": "18.8",
+    "grade": "A"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 14,
     "pick": 3,
     "player_name": "Rachaad White",
-    "points": "2.1",
-    "before_trade": "2.1",
+    "points": "15.7",
+    "before_trade": "15.7",
     "after_trade": "0.0",
     "draft_position": 159,
-    "value_diff": "-4.5",
-    "grade": "C"
+    "value_diff": "2.5",
+    "grade": "B"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 14,
     "pick": 4,
     "player_name": "Luther Burden III",
-    "points": "0.2",
-    "before_trade": "0.2",
+    "points": "1.2",
+    "before_trade": "1.2",
     "after_trade": "0.0",
     "draft_position": 160,
-    "value_diff": "-4.2",
+    "value_diff": "-7.6",
     "grade": "C"
   },
   {
@@ -2092,23 +2092,23 @@
     "round": 14,
     "pick": 5,
     "player_name": "DeMario Douglas",
-    "points": "7.2",
-    "before_trade": "7.2",
+    "points": "8.5",
+    "before_trade": "8.5",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "0.5",
-    "grade": "B"
+    "value_diff": "-4.8",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
-    "points": "7.8",
-    "before_trade": "7.8",
+    "points": "18.1",
+    "before_trade": "18.1",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "1.7",
+    "value_diff": "6.0",
     "grade": "B"
   },
   {
@@ -2116,11 +2116,11 @@
     "round": 14,
     "pick": 7,
     "player_name": "Daniel Jones",
-    "points": "35.5",
-    "before_trade": "35.5",
+    "points": "60.8",
+    "before_trade": "60.8",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "22.3",
+    "value_diff": "34.6",
     "grade": "A"
   },
   {
@@ -2128,23 +2128,23 @@
     "round": 14,
     "pick": 8,
     "player_name": "Spencer Rattler",
-    "points": "6.0",
-    "before_trade": "6.0",
+    "points": "37.1",
+    "before_trade": "37.1",
     "after_trade": "0.0",
     "draft_position": 164,
-    "value_diff": "-2.7",
-    "grade": "C"
+    "value_diff": "19.8",
+    "grade": "A"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 14,
     "pick": 9,
     "player_name": "Dylan Sampson",
-    "points": "13.3",
-    "before_trade": "13.3",
+    "points": "22.7",
+    "before_trade": "22.7",
     "after_trade": "0.0",
     "draft_position": 165,
-    "value_diff": "3.0",
+    "value_diff": "2.0",
     "grade": "B"
   },
   {
@@ -2156,7 +2156,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 166,
-    "value_diff": "-7.0",
+    "value_diff": "-14.0",
     "grade": "D"
   },
   {
@@ -2164,11 +2164,11 @@
     "round": 14,
     "pick": 11,
     "player_name": "Rashod Bateman",
-    "points": "2.0",
-    "before_trade": "2.0",
+    "points": "4.5",
+    "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-4.7",
+    "value_diff": "-8.9",
     "grade": "C"
   },
   {
@@ -2176,35 +2176,35 @@
     "round": 14,
     "pick": 12,
     "player_name": "Marvin Mims Jr.",
-    "points": "0.7",
-    "before_trade": "0.7",
+    "points": "10.1",
+    "before_trade": "10.1",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-6.8",
-    "grade": "D"
+    "value_diff": "-4.9",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 15,
     "pick": 1,
     "player_name": "Joe Flacco",
-    "points": "15.7",
-    "before_trade": "15.7",
+    "points": "19.0",
+    "before_trade": "19.0",
     "after_trade": "0.0",
     "draft_position": 169,
-    "value_diff": "9.8",
-    "grade": "A"
+    "value_diff": "7.2",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 15,
     "pick": 2,
     "player_name": "Ray Davis",
-    "points": "0.6",
-    "before_trade": "0.6",
+    "points": "3.0",
+    "before_trade": "3.0",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "-4.0",
+    "value_diff": "-6.1",
     "grade": "C"
   },
   {
@@ -2212,11 +2212,11 @@
     "round": 15,
     "pick": 3,
     "player_name": "Joshua Palmer",
-    "points": "8.6",
-    "before_trade": "8.6",
+    "points": "14.3",
+    "before_trade": "14.3",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "3.3",
+    "value_diff": "3.7",
     "grade": "B"
   },
   {
@@ -2224,12 +2224,12 @@
     "round": 15,
     "pick": 4,
     "player_name": "Cade Otton",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "4.8",
+    "before_trade": "4.8",
     "after_trade": "0.0",
     "draft_position": 172,
-    "value_diff": "-7.4",
-    "grade": "D"
+    "value_diff": "-10.0",
+    "grade": "C"
   },
   {
     "team": "Americas Team ",
@@ -2248,12 +2248,12 @@
     "round": 15,
     "pick": 6,
     "player_name": "Woody Marks",
-    "points": "0.3",
-    "before_trade": "0.3",
+    "points": "5.9",
+    "before_trade": "5.9",
     "after_trade": "0.0",
     "draft_position": 174,
-    "value_diff": "-3.3",
-    "grade": "C"
+    "value_diff": "-1.3",
+    "grade": "B"
   },
   {
     "team": "Rookie Mistake",
@@ -2264,7 +2264,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-6.5",
+    "value_diff": "-13.1",
     "grade": "D"
   },
   {
@@ -2276,7 +2276,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 176,
-    "value_diff": "-3.3",
+    "value_diff": "-6.6",
     "grade": "C"
   },
   {
@@ -2284,11 +2284,11 @@
     "round": 15,
     "pick": 9,
     "player_name": "Isaac TeSlaa",
-    "points": "7.8",
-    "before_trade": "7.8",
+    "points": "11.2",
+    "before_trade": "11.2",
     "after_trade": "0.0",
     "draft_position": 177,
-    "value_diff": "5.1",
+    "value_diff": "5.8",
     "grade": "B"
   },
   {
@@ -2300,8 +2300,8 @@
     "before_trade": "2.6",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-0.5",
-    "grade": "B"
+    "value_diff": "-3.6",
+    "grade": "C"
   },
   {
     "team": "Fantasy Guru Kayden",
@@ -2312,7 +2312,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 179,
-    "value_diff": "-2.0",
+    "value_diff": "-6.3",
     "grade": "C"
   },
   {
@@ -2332,11 +2332,11 @@
     "round": 15,
     "pick": 12,
     "player_name": "Brenton Strange",
-    "points": "8.9",
-    "before_trade": "8.9",
+    "points": "12.8",
+    "before_trade": "12.8",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "1.6",
+    "value_diff": "-1.8",
     "grade": "B"
   },
   {
@@ -2360,19 +2360,19 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 181,
-    "value_diff": "-5.5",
-    "grade": "C"
+    "value_diff": "-11.1",
+    "grade": "D"
   },
   {
     "team": "Fantasy Guru Kayden",
     "round": 16,
     "pick": 2,
     "player_name": "Darius Slayton",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "7.1",
+    "before_trade": "7.1",
     "after_trade": "0.0",
     "draft_position": 182,
-    "value_diff": "-5.6",
+    "value_diff": "-4.2",
     "grade": "C"
   },
   {
@@ -2384,19 +2384,19 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 183,
-    "value_diff": "-5.2",
-    "grade": "C"
+    "value_diff": "-10.3",
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
     "round": 16,
     "pick": 4,
     "player_name": "Quentin Johnston",
-    "points": "22.4",
-    "before_trade": "22.4",
+    "points": "36.8",
+    "before_trade": "36.8",
     "after_trade": "0.0",
     "draft_position": 184,
-    "value_diff": "14.3",
+    "value_diff": "20.7",
     "grade": "A"
   },
   {
@@ -2408,7 +2408,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 185,
-    "value_diff": "-4.3",
+    "value_diff": "-8.6",
     "grade": "C"
   },
   {
@@ -2416,11 +2416,11 @@
     "round": 16,
     "pick": 6,
     "player_name": "Chig Okonkwo",
-    "points": "4.2",
-    "before_trade": "4.2",
+    "points": "10.7",
+    "before_trade": "10.7",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-3.0",
+    "value_diff": "-3.6",
     "grade": "C"
   },
   {
@@ -2428,11 +2428,11 @@
     "round": 16,
     "pick": 7,
     "player_name": "Tre' Harris",
-    "points": "1.6",
-    "before_trade": "1.6",
+    "points": "6.0",
+    "before_trade": "6.0",
     "after_trade": "0.0",
     "draft_position": 187,
-    "value_diff": "0.3",
+    "value_diff": "3.5",
     "grade": "B"
   },
   {
@@ -2440,11 +2440,11 @@
     "round": 16,
     "pick": 8,
     "player_name": "Brian Robinson Jr.",
-    "points": "4.2",
-    "before_trade": "4.2",
+    "points": "6.6",
+    "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 188,
-    "value_diff": "-0.1",
+    "value_diff": "-2.0",
     "grade": "B"
   },
   {
@@ -2452,11 +2452,11 @@
     "round": 16,
     "pick": 9,
     "player_name": "Kalif Raymond",
-    "points": "2.6",
-    "before_trade": "2.6",
+    "points": "5.4",
+    "before_trade": "5.4",
     "after_trade": "0.0",
     "draft_position": 189,
-    "value_diff": "1.3",
+    "value_diff": "2.7",
     "grade": "B"
   },
   {
@@ -2464,11 +2464,11 @@
     "round": 16,
     "pick": 10,
     "player_name": "Justice Hill",
-    "points": "-0.6",
-    "before_trade": "-0.6",
+    "points": "3.4",
+    "before_trade": "3.4",
     "after_trade": "0.0",
     "draft_position": 190,
-    "value_diff": "-5.8",
+    "value_diff": "-7.1",
     "grade": "C"
   },
   {
@@ -2480,8 +2480,8 @@
     "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 191,
-    "value_diff": "1.4",
-    "grade": "B"
+    "value_diff": "-3.8",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -2492,7 +2492,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 192,
-    "value_diff": "-6.1",
-    "grade": "C"
+    "value_diff": "-12.2",
+    "grade": "D"
   }
 ]

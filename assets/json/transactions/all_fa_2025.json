@@ -8,6 +8,62 @@
   "bid_amount": 2
  },
  {
+  "team": "Rookie Mistake",
+  "week": 1,
+  "player_name": "Jonnu Smith",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 3
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 1,
+  "player_name": "Tyler Higbee",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 1,
+  "player_name": "Calvin Austin III",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 4
+ },
+ {
+  "team": "90s MonCon",
+  "week": 1,
+  "player_name": "Adam Thielen",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 1,
+  "player_name": "Russell Wilson",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 1,
+  "player_name": "Juwan Johnson",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 5
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 1,
+  "player_name": "Kayshon Boutte",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 12
+ },
+ {
   "team": "Americas Team ",
   "week": 1,
   "player_name": "Hunter Renfrow",
@@ -22,5 +78,61 @@
   "position": "WR",
   "type": "WAIVER",
   "bid_amount": 0
+ },
+ {
+  "team": "Americas Team ",
+  "week": 2,
+  "player_name": "DeAndre Hopkins",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team ",
+  "week": 2,
+  "player_name": "Hunter Renfrow",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 2,
+  "player_name": "Roman Wilson",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 2,
+  "player_name": "Tre Tucker",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 2,
+  "player_name": "JuJu Smith-Schuster",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 2
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 2,
+  "player_name": "Ray-Ray McCloud III",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 2,
+  "player_name": "Harold Fannin Jr.",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 10
  }
 ]

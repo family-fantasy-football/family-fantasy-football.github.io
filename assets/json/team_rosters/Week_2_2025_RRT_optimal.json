@@ -1,65 +1,65 @@
 [
   {
-    "player_name": "Matthew Stafford",
+    "player_name": "Spencer Rattler",
     "pos": "QB",
     "slot": "QB",
-    "points": 0,
-    "projected": 20.24
+    "points": 31.18,
+    "projected": 14.63
   },
   {
     "player_name": "Ja'Marr Chase",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
+    "points": 29.5,
     "projected": 16.47
   },
   {
-    "player_name": "A.J. Brown",
+    "player_name": "Jaxon Smith-Njigba",
     "pos": "WR",
     "slot": "WR",
-    "points": 0,
-    "projected": 13.08
+    "points": 14.3,
+    "projected": 11.66
+  },
+  {
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.7,
+    "projected": 10.67
   },
   {
     "player_name": "Chuba Hubbard",
     "pos": "RB",
     "slot": "RB",
-    "points": 0,
-    "projected": 14.04
-  },
-  {
-    "player_name": "David Montgomery",
-    "pos": "RB",
-    "slot": "RB",
-    "points": 0,
-    "projected": 12.0
+    "points": 16.2,
+    "projected": 14.06
   },
   {
     "player_name": "Trey McBride",
     "pos": "TE",
     "slot": "TE",
-    "points": 0,
-    "projected": 13.88
+    "points": 12.3,
+    "projected": 13.92
   },
   {
-    "player_name": "Jaxon Smith-Njigba",
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 15.9,
+    "projected": 12.03
+  },
+  {
+    "player_name": "DeAndre Hopkins",
     "pos": "WR",
     "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 11.65
+    "points": 13.4,
+    "projected": 5.32
   },
   {
-    "player_name": "Cooper Kupp",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "points": 0,
-    "projected": 7.76
-  },
-  {
-    "player_name": "Sam Darnold",
+    "player_name": "Matthew Stafford",
     "pos": "QB",
     "slot": "OP",
-    "points": 0,
-    "projected": 13.57
+    "points": 22.82,
+    "projected": 20.44
   }
 ]

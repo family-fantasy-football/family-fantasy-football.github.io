@@ -24,7 +24,24 @@
         "70%"
       ],
       "avoidLabelOverlap": false,
-      "data": []
+      "data": [
+        {
+          "value": 10.8,
+          "name": "QB"
+        },
+        {
+          "value": 24.1,
+          "name": "RB"
+        },
+        {
+          "value": 27.5,
+          "name": "WR"
+        },
+        {
+          "value": 6.7,
+          "name": "TE"
+        }
+      ]
     }
   ]
 }

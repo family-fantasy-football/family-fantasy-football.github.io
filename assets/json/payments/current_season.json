@@ -2,43 +2,16 @@
   {
     "team": "Game of Zones - House Hamlin",
     "manager": "Kyle Hamlin",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",
     "penalties": "$0",
     "net": "$5"
   },
   {
-    "team": "To Infinity and Bijan!",
-    "manager": "Nick Hill",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Mama Daughter Duo",
-    "manager": "Cathy Dickson and Jordan Dickson",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
-    "team": "Abbey's TNT Team ",
-    "manager": "Abbey Hamlin",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
     "team": "Michael's Managable Team",
     "manager": "Michael Ratcliff",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -47,7 +20,7 @@
   {
     "team": "Third Time's the Charm?",
     "manager": "Christian Ratcliff",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -57,15 +30,24 @@
     "team": "90s MonCon",
     "manager": "Connor Dickson and Monika Monko",
     "paid": "No",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
+    "penalties": "$0",
+    "net": "$5"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "manager": "Cathy Dickson and Jordan Dickson",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
     "net": "$0"
   },
   {
-    "team": "Emma's Excellent Team",
-    "manager": "Emma Grau",
-    "paid": "No",
+    "team": "To Infinity and Bijan!",
+    "manager": "Nick Hill",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -81,6 +63,15 @@
     "net": "$0"
   },
   {
+    "team": "Abbey's TNT Team ",
+    "manager": "Abbey Hamlin",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
     "team": "Fantasy Guru Kayden",
     "manager": "Kayden Mullins",
     "paid": "No",
@@ -90,8 +81,8 @@
     "net": "$0"
   },
   {
-    "team": "Big Titi Energy",
-    "manager": "Christine Hamlin",
+    "team": "Americas Team ",
+    "manager": "Ryan Ratcliff",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",
@@ -99,8 +90,17 @@
     "net": "$0"
   },
   {
-    "team": "Americas Team ",
-    "manager": "Ryan Ratcliff",
+    "team": "Emma's Excellent Team",
+    "manager": "Emma Grau",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Big Titi Energy",
+    "manager": "Christine Hamlin",
     "paid": "No",
     "high_scoring_weeks": 0,
     "winnings": "$0",

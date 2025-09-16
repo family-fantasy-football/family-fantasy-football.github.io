@@ -25,17 +25,17 @@ chart:
 </div>
 
 
-The current top scorer is: Kyle Hamlin (176.38)
+The current top scorer is: Kyle Hamlin (296.13)
 
-The current bottom scorer is: Ryan Ratcliff (80.10)
+The current bottom scorer is: Christine Hamlin (150.69)
 
 Highest Scoring Week: Kyle Hamlin - 176.38 points (Week 1)
 
-Lowest Scoring Week: Ryan Ratcliff - 80.10 points (Week 1)
+Lowest Scoring Week: Emma Grau - 67.94 points (Week 2)
 
-Luckiest Team: Christian Ratcliff (1.0) Wins Above Expected
+Luckiest Team: Christian Ratcliff (0.8) Wins Above Expected
 
-Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
+Unluckiest Team: Ryan Ratcliff (-1.1) Wins Below Expected
 
 
 
@@ -82,7 +82,8 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
         "nameLocation": "middle",
         "nameGap": 30,
         "data": [
-            1
+            1,
+            2
         ]
     },
     "yAxis": {
@@ -101,13 +102,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#8c564b"
+                "color": "#98df8a"
             },
             "itemStyle": {
-                "color": "#8c564b"
+                "color": "#98df8a"
             },
             "data": [
-                7
+                7,
+                4
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -123,13 +125,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#98df8a"
+                "color": "#c49c94"
             },
             "itemStyle": {
-                "color": "#98df8a"
+                "color": "#c49c94"
             },
             "data": [
-                4
+                4,
+                8
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -145,13 +148,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#17becf"
+                "color": "#c7c7c7"
             },
             "itemStyle": {
-                "color": "#17becf"
+                "color": "#c7c7c7"
             },
             "data": [
-                12
+                12,
+                10
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -167,13 +171,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#bcbd22"
+                "color": "#17becf"
             },
             "itemStyle": {
-                "color": "#bcbd22"
+                "color": "#17becf"
             },
             "data": [
-                11
+                11,
+                12
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -189,13 +194,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#c49c94"
+                "color": "#bcbd22"
             },
             "itemStyle": {
-                "color": "#c49c94"
+                "color": "#bcbd22"
             },
             "data": [
-                8
+                8,
+                11
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -211,13 +217,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#c7c7c7"
+                "color": "#f7b6d2"
             },
             "itemStyle": {
-                "color": "#c7c7c7"
+                "color": "#f7b6d2"
             },
             "data": [
-                10
+                10,
+                9
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -239,6 +246,7 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 "color": "#1f77b4"
             },
             "data": [
+                1,
                 1
             ],
             "symbol": "circle",
@@ -255,13 +263,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#ffbb78"
+                "color": "#d62728"
             },
             "itemStyle": {
-                "color": "#ffbb78"
+                "color": "#d62728"
             },
             "data": [
-                3
+                3,
+                5
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -277,13 +286,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#d62728"
+                "color": "#aec7e8"
             },
             "itemStyle": {
-                "color": "#d62728"
+                "color": "#aec7e8"
             },
             "data": [
-                5
+                5,
+                2
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -299,13 +309,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#f7b6d2"
+                "color": "#8c564b"
             },
             "itemStyle": {
-                "color": "#f7b6d2"
+                "color": "#8c564b"
             },
             "data": [
-                9
+                9,
+                7
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -321,13 +332,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#9467bd"
+                "color": "#ffbb78"
             },
             "itemStyle": {
-                "color": "#9467bd"
+                "color": "#ffbb78"
             },
             "data": [
-                6
+                6,
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -343,13 +355,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#aec7e8"
+                "color": "#9467bd"
             },
             "itemStyle": {
-                "color": "#aec7e8"
+                "color": "#9467bd"
             },
             "data": [
-                2
+                2,
+                6
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -386,16 +399,16 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": -70.0,
-        "max": 326.0
+        "min": 1.0,
+        "max": 452.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": -70.0,
-        "max": 326.0
+        "min": 1.0,
+        "max": 452.0
     },
     "series": [
         {
@@ -406,85 +419,85 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 {
                     "name": "Third Time's the Charm?",
                     "value": [
-                        106.14,
-                        80.1
+                        218.01,
+                        191.53
                     ]
                 },
                 {
                     "name": "90s MonCon",
                     "value": [
-                        111.47,
-                        111.95
+                        268.62,
+                        260.57
                     ]
                 },
                 {
                     "name": "Rookie Mistake",
                     "value": [
-                        103.67,
-                        126.38
+                        228.87,
+                        195.48
                     ]
                 },
                 {
                     "name": "Americas Team ",
                     "value": [
-                        80.1,
-                        106.14
+                        228.72,
+                        263.29
                     ]
                 },
                 {
                     "name": "Michael's Managable Team",
                     "value": [
-                        111.95,
-                        111.47
+                        252.98,
+                        237.69
                     ]
                 },
                 {
                     "name": "To Infinity and Bijan!",
                     "value": [
-                        134.09,
-                        101.15
+                        245.52,
+                        213.02
                     ]
                 },
                 {
                     "name": "Fantasy Guru Kayden",
                     "value": [
-                        101.15,
-                        134.09
+                        200.55,
+                        202.03
                     ]
                 },
                 {
                     "name": "Mama Daughter Duo",
                     "value": [
-                        126.38,
-                        103.67
+                        252.6,
+                        244.7
                     ]
                 },
                 {
                     "name": "Abbey's TNT Team ",
                     "value": [
-                        115.72,
-                        108.2
+                        228.81,
+                        227.95
                     ]
                 },
                 {
                     "name": "Game of Zones - House Hamlin",
                     "value": [
-                        176.38,
-                        81.59
+                        296.13,
+                        194.68
                     ]
                 },
                 {
                     "name": "Emma's Excellent Team",
                     "value": [
-                        108.2,
-                        115.72
+                        176.14,
+                        215.12
                     ]
                 },
                 {
                     "name": "Big Titi Energy",
                     "value": [
-                        81.59,
-                        176.38
+                        150.69,
+                        301.58
                     ]
                 }
             ],
@@ -504,12 +517,12 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "showSymbol": false,
             "data": [
                 [
-                    -70.0,
-                    -70.0
+                    1.0,
+                    1.0
                 ],
                 [
-                    326.0,
-                    326.0
+                    452.0,
+                    452.0
                 ]
             ]
         },
@@ -520,14 +533,14 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 113.07,
+                        "xAxis": 228.97,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 113.07,
+                        "yAxis": 228.97,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -561,17 +574,17 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
         "nameGap": 30,
         "data": [
             "HMB",
-            "TIB",
-            "JST",
-            "ARV",
             "MMT",
             "TTC",
             "90s",
-            "EET",
+            "JST",
+            "TIB",
             "TOM",
+            "ARV",
             "KTT",
-            "BTE",
-            "RRT"
+            "RRT",
+            "EET",
+            "BTE"
         ]
     },
     "yAxis": {
@@ -685,7 +698,7 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 ],
                 [
                     0,
-                    0.0,
+                    119.75,
                     "HMB"
                 ],
                 [
@@ -750,773 +763,773 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 ],
                 [
                     1,
-                    134.09,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    1,
-                    0.0,
-                    "TIB"
-                ],
-                [
-                    2,
-                    126.38,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    2,
-                    0.0,
-                    "JST"
-                ],
-                [
-                    3,
-                    115.72,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    3,
-                    0.0,
-                    "ARV"
-                ],
-                [
-                    4,
                     111.95,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
+                    141.03,
+                    "MMT"
+                ],
+                [
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
                     0.0,
                     "MMT"
                 ],
                 [
-                    4,
-                    0.0,
-                    "MMT"
-                ],
-                [
-                    5,
+                    2,
                     106.14,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
+                    111.87,
+                    "TTC"
+                ],
+                [
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
+                    2,
                     0.0,
                     "TTC"
                 ],
                 [
-                    5,
-                    0.0,
-                    "TTC"
-                ],
-                [
-                    6,
+                    3,
                     111.47,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
+                    157.15,
+                    "90s"
+                ],
+                [
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
-                    6,
+                    3,
                     0.0,
                     "90s"
                 ],
                 [
+                    4,
+                    126.38,
+                    "JST"
+                ],
+                [
+                    4,
+                    126.22,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    4,
+                    0.0,
+                    "JST"
+                ],
+                [
+                    5,
+                    134.09,
+                    "TIB"
+                ],
+                [
+                    5,
+                    111.43,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
+                    5,
+                    0.0,
+                    "TIB"
+                ],
+                [
                     6,
-                    0.0,
-                    "90s"
-                ],
-                [
-                    7,
-                    108.2,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    7,
-                    0.0,
-                    "EET"
-                ],
-                [
-                    8,
                     103.67,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
+                    125.2,
+                    "TOM"
+                ],
+                [
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
+                    6,
                     0.0,
                     "TOM"
                 ],
                 [
-                    8,
-                    0.0,
-                    "TOM"
+                    7,
+                    115.72,
+                    "ARV"
                 ],
                 [
-                    9,
+                    7,
+                    113.09,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    7,
+                    0.0,
+                    "ARV"
+                ],
+                [
+                    8,
                     101.15,
                     "KTT"
                 ],
                 [
-                    9,
+                    8,
+                    99.4,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
+                    0.0,
+                    "KTT"
+                ],
+                [
+                    8,
                     0.0,
                     "KTT"
                 ],
                 [
                     9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    9,
-                    0.0,
-                    "KTT"
-                ],
-                [
-                    10,
-                    81.59,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    10,
-                    0.0,
-                    "BTE"
-                ],
-                [
-                    11,
                     80.1,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
+                    148.62,
+                    "RRT"
+                ],
+                [
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
-                    11,
+                    9,
                     0.0,
                     "RRT"
                 ],
                 [
+                    10,
+                    108.2,
+                    "EET"
+                ],
+                [
+                    10,
+                    67.94,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    10,
+                    0.0,
+                    "EET"
+                ],
+                [
+                    11,
+                    81.59,
+                    "BTE"
+                ],
+                [
+                    11,
+                    69.1,
+                    "BTE"
+                ],
+                [
                     11,
                     0.0,
-                    "RRT"
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
+                ],
+                [
+                    11,
+                    0.0,
+                    "BTE"
                 ]
             ]
         }
@@ -1563,17 +1576,17 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
         "type": "category",
         "data": [
             "HMB",
-            "TIB",
-            "JST",
-            "ARV",
             "MMT",
             "TTC",
             "90s",
-            "EET",
+            "JST",
+            "TIB",
             "TOM",
+            "ARV",
             "KTT",
-            "BTE",
-            "RRT"
+            "RRT",
+            "EET",
+            "BTE"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1610,222 +1623,222 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 [
                     0,
                     0,
-                    1
+                    3
                 ],
                 [
                     1,
                     0,
-                    1
-                ],
-                [
-                    2,
-                    0,
-                    5
-                ],
-                [
-                    3,
-                    0,
-                    1
-                ],
-                [
-                    0,
-                    1,
-                    2
-                ],
-                [
-                    1,
-                    1,
                     8
                 ],
                 [
                     2,
-                    1,
-                    12
+                    0,
+                    1
                 ],
                 [
                     3,
-                    1,
-                    2
+                    0,
+                    1
                 ],
                 [
                     0,
-                    2,
-                    4
+                    1,
+                    1
                 ],
                 [
                     1,
-                    2,
-                    3
-                ],
-                [
-                    2,
-                    2,
-                    3
-                ],
-                [
-                    3,
-                    2,
-                    6
-                ],
-                [
-                    0,
-                    3,
-                    11
-                ],
-                [
                     1,
-                    3,
-                    2
+                    7
                 ],
                 [
                     2,
-                    3,
+                    1,
                     11
                 ],
                 [
                     3,
-                    3,
-                    4
-                ],
-                [
-                    0,
-                    4,
-                    3
-                ],
-                [
                     1,
-                    4,
-                    9
-                ],
-                [
-                    2,
-                    4,
-                    10
-                ],
-                [
-                    3,
-                    4,
-                    9
-                ],
-                [
-                    0,
-                    5,
-                    8
-                ],
-                [
-                    1,
-                    5,
-                    4
-                ],
-                [
-                    2,
-                    5,
-                    8
-                ],
-                [
-                    3,
-                    5,
-                    10
-                ],
-                [
-                    0,
-                    6,
-                    6
-                ],
-                [
-                    1,
-                    6,
-                    6
-                ],
-                [
-                    2,
-                    6,
-                    1
-                ],
-                [
-                    3,
-                    6,
-                    8
-                ],
-                [
-                    0,
-                    7,
-                    9
-                ],
-                [
-                    1,
-                    7,
-                    10
-                ],
-                [
-                    2,
-                    7,
-                    4
-                ],
-                [
-                    3,
-                    7,
-                    3
-                ],
-                [
-                    0,
-                    8,
-                    10
-                ],
-                [
-                    1,
-                    8,
                     5
                 ],
                 [
+                    0,
                     2,
-                    8,
+                    5
+                ],
+                [
+                    1,
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    2,
+                    8
+                ],
+                [
+                    0,
+                    3,
+                    2
+                ],
+                [
+                    1,
+                    3,
+                    3
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    3,
+                    7
+                ],
+                [
+                    0,
+                    4,
+                    6
+                ],
+                [
+                    1,
+                    4,
+                    2
+                ],
+                [
+                    2,
+                    4,
+                    5
+                ],
+                [
+                    3,
+                    4,
+                    4
+                ],
+                [
+                    0,
+                    5,
+                    8
+                ],
+                [
+                    1,
+                    5,
+                    4
+                ],
+                [
+                    2,
+                    5,
+                    12
+                ],
+                [
+                    3,
+                    5,
+                    2
+                ],
+                [
+                    0,
+                    6,
+                    4
+                ],
+                [
+                    1,
+                    6,
+                    6
+                ],
+                [
+                    2,
+                    6,
                     2
                 ],
                 [
                     3,
+                    6,
+                    12
+                ],
+                [
+                    0,
+                    7,
+                    11
+                ],
+                [
+                    1,
+                    7,
+                    1
+                ],
+                [
+                    2,
+                    7,
+                    10
+                ],
+                [
+                    3,
+                    7,
+                    3
+                ],
+                [
+                    0,
                     8,
                     7
                 ],
                 [
-                    0,
-                    9,
-                    5
-                ],
-                [
                     1,
-                    9,
+                    8,
                     11
                 ],
                 [
                     2,
+                    8,
+                    7
+                ],
+                [
+                    3,
+                    8,
+                    10
+                ],
+                [
+                    0,
                     9,
                     9
                 ],
                 [
-                    3,
+                    1,
                     9,
                     5
                 ],
                 [
+                    2,
+                    9,
+                    3
+                ],
+                [
+                    3,
+                    9,
+                    6
+                ],
+                [
                     0,
                     10,
-                    7
+                    10
                 ],
                 [
                     1,
                     10,
-                    12
+                    10
                 ],
                 [
                     2,
                     10,
-                    7
+                    9
                 ],
                 [
                     3,
                     10,
-                    12
+                    9
                 ],
                 [
                     0,
@@ -1835,7 +1848,7 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 [
                     1,
                     11,
-                    7
+                    12
                 ],
                 [
                     2,
@@ -1874,7 +1887,8 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "xAxis": {
         "type": "category",
         "data": [
-            1
+            1,
+            2
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -1889,17 +1903,221 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "yAxis": {
         "type": "category",
         "data": [
-            "90s",
             "EET",
-            "RRT",
-            "TTC",
-            "MMT",
-            "TOM",
             "ARV",
-            "HMB",
-            "KTT",
-            "JST",
+            "RRT",
+            "90s",
             "BTE",
+            "TIB",
+            "TTC",
+            "HMB",
+            "JST",
+            "MMT",
+            "KTT",
+            "TOM"
+        ],
+        "name": "",
+        "nameLocation": "end",
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "visualMap": {
+        "min": 1,
+        "max": 12,
+        "calculable": true,
+        "orient": "vertical",
+        "right": "right",
+        "show": false,
+        "bottom": "30%",
+        "text": [],
+        "inRange": {
+            "color": [
+                "#4575b4",
+                "#91bfdb",
+                "#fee090",
+                "#fc8d59",
+                "#d73027"
+            ]
+        }
+    },
+    "series": [
+        {
+            "type": "heatmap",
+            "data": [
+                [
+                    0,
+                    0,
+                    11
+                ],
+                [
+                    1,
+                    0,
+                    9
+                ],
+                [
+                    0,
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    1,
+                    12
+                ],
+                [
+                    0,
+                    2,
+                    10
+                ],
+                [
+                    1,
+                    2,
+                    7
+                ],
+                [
+                    0,
+                    3,
+                    12
+                ],
+                [
+                    1,
+                    3,
+                    4
+                ],
+                [
+                    0,
+                    4,
+                    2
+                ],
+                [
+                    1,
+                    4,
+                    10
+                ],
+                [
+                    0,
+                    5,
+                    1
+                ],
+                [
+                    1,
+                    5,
+                    11
+                ],
+                [
+                    0,
+                    6,
+                    9
+                ],
+                [
+                    1,
+                    6,
+                    3
+                ],
+                [
+                    0,
+                    7,
+                    5
+                ],
+                [
+                    1,
+                    7,
+                    6
+                ],
+                [
+                    0,
+                    8,
+                    3
+                ],
+                [
+                    1,
+                    8,
+                    8
+                ],
+                [
+                    0,
+                    9,
+                    8
+                ],
+                [
+                    1,
+                    9,
+                    2
+                ],
+                [
+                    0,
+                    10,
+                    4
+                ],
+                [
+                    1,
+                    10,
+                    5
+                ],
+                [
+                    0,
+                    11,
+                    7
+                ],
+                [
+                    1,
+                    11,
+                    1
+                ]
+            ],
+            "label": {
+                "show": true,
+                "fontSize": 12
+            }
+        }
+    ]
+}
+```
+
+##### RB
+```echarts
+{
+    "grid": {
+        "top": "10%",
+        "bottom": "13%",
+        "left": "5%",
+        "right": "0%",
+        "containLabel": true
+    },
+    "xAxis": {
+        "type": "category",
+        "data": [
+            1,
+            2
+        ],
+        "name": "Week",
+        "nameLocation": "center",
+        "nameGap": 35,
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "yAxis": {
+        "type": "category",
+        "data": [
+            "BTE",
+            "EET",
+            "KTT",
+            "HMB",
+            "90s",
+            "RRT",
+            "TOM",
+            "JST",
+            "MMT",
+            "ARV",
+            "TTC",
             "TIB"
         ],
         "name": "",
@@ -1940,145 +2158,7 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     12
                 ],
                 [
-                    0,
                     1,
-                    11
-                ],
-                [
-                    0,
-                    2,
-                    10
-                ],
-                [
-                    0,
-                    3,
-                    9
-                ],
-                [
-                    0,
-                    4,
-                    8
-                ],
-                [
-                    0,
-                    5,
-                    7
-                ],
-                [
-                    0,
-                    6,
-                    6
-                ],
-                [
-                    0,
-                    7,
-                    5
-                ],
-                [
-                    0,
-                    8,
-                    4
-                ],
-                [
-                    0,
-                    9,
-                    3
-                ],
-                [
-                    0,
-                    10,
-                    2
-                ],
-                [
-                    0,
-                    11,
-                    1
-                ]
-            ],
-            "label": {
-                "show": true,
-                "fontSize": 12
-            }
-        }
-    ]
-}
-```
-
-##### RB
-```echarts
-{
-    "grid": {
-        "top": "10%",
-        "bottom": "13%",
-        "left": "5%",
-        "right": "0%",
-        "containLabel": true
-    },
-    "xAxis": {
-        "type": "category",
-        "data": [
-            1
-        ],
-        "name": "Week",
-        "nameLocation": "center",
-        "nameGap": 35,
-        "nameTextStyle": {
-            "fontSize": 16
-        },
-        "axisLabel": {
-            "fontSize": 14
-        }
-    },
-    "yAxis": {
-        "type": "category",
-        "data": [
-            "BTE",
-            "EET",
-            "RRT",
-            "TOM",
-            "KTT",
-            "MMT",
-            "JST",
-            "TIB",
-            "90s",
-            "ARV",
-            "HMB",
-            "TTC"
-        ],
-        "name": "",
-        "nameLocation": "end",
-        "nameTextStyle": {
-            "fontSize": 16
-        },
-        "axisLabel": {
-            "fontSize": 14
-        }
-    },
-    "visualMap": {
-        "min": 1,
-        "max": 12,
-        "calculable": true,
-        "orient": "vertical",
-        "right": "right",
-        "show": false,
-        "bottom": "30%",
-        "text": [],
-        "inRange": {
-            "color": [
-                "#4575b4",
-                "#91bfdb",
-                "#fee090",
-                "#fc8d59",
-                "#d73027"
-            ]
-        }
-    },
-    "series": [
-        {
-            "type": "heatmap",
-            "data": [
-                [
-                    0,
                     0,
                     12
                 ],
@@ -2088,37 +2168,77 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     11
                 ],
                 [
-                    0,
-                    2,
+                    1,
+                    1,
                     10
                 ],
                 [
                     0,
-                    3,
+                    2,
+                    8
+                ],
+                [
+                    1,
+                    2,
                     9
                 ],
                 [
                     0,
+                    3,
+                    1
+                ],
+                [
+                    1,
+                    3,
+                    11
+                ],
+                [
+                    0,
+                    4,
+                    4
+                ],
+                [
+                    1,
                     4,
                     8
                 ],
                 [
                     0,
                     5,
-                    7
+                    10
+                ],
+                [
+                    1,
+                    5,
+                    2
                 ],
                 [
                     0,
                     6,
-                    6
+                    9
+                ],
+                [
+                    1,
+                    6,
+                    3
                 ],
                 [
                     0,
+                    7,
+                    6
+                ],
+                [
+                    1,
                     7,
                     5
                 ],
                 [
                     0,
+                    8,
+                    7
+                ],
+                [
+                    1,
                     8,
                     4
                 ],
@@ -2128,12 +2248,27 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     3
                 ],
                 [
+                    1,
+                    9,
+                    6
+                ],
+                [
                     0,
                     10,
                     1
                 ],
                 [
+                    1,
+                    10,
+                    7
+                ],
+                [
                     0,
+                    11,
+                    5
+                ],
+                [
+                    1,
                     11,
                     1
                 ]
@@ -2160,7 +2295,8 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "xAxis": {
         "type": "category",
         "data": [
-            1
+            1,
+            2
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2175,16 +2311,16 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "yAxis": {
         "type": "category",
         "data": [
-            "RRT",
-            "90s",
             "TOM",
             "BTE",
-            "KTT",
-            "JST",
             "TTC",
-            "MMT",
-            "EET",
+            "KTT",
+            "RRT",
             "TIB",
+            "EET",
+            "MMT",
+            "90s",
+            "JST",
             "ARV",
             "HMB"
         ],
@@ -2223,37 +2359,72 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                 [
                     0,
                     0,
+                    10
+                ],
+                [
+                    1,
+                    0,
                     12
                 ],
                 [
                     0,
                     1,
-                    11
+                    9
+                ],
+                [
+                    1,
+                    1,
+                    7
                 ],
                 [
                     0,
+                    2,
+                    6
+                ],
+                [
+                    1,
                     2,
                     10
                 ],
                 [
                     0,
                     3,
-                    9
+                    8
+                ],
+                [
+                    1,
+                    3,
+                    6
                 ],
                 [
                     0,
                     4,
-                    8
+                    12
+                ],
+                [
+                    1,
+                    4,
+                    2
                 ],
                 [
                     0,
                     5,
-                    7
+                    3
+                ],
+                [
+                    1,
+                    5,
+                    11
                 ],
                 [
                     0,
                     6,
-                    6
+                    4
+                ],
+                [
+                    1,
+                    6,
+                    9
                 ],
                 [
                     0,
@@ -2261,14 +2432,29 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     5
                 ],
                 [
+                    1,
+                    7,
+                    8
+                ],
+                [
                     0,
                     8,
-                    4
+                    11
+                ],
+                [
+                    1,
+                    8,
+                    1
                 ],
                 [
                     0,
                     9,
-                    3
+                    7
+                ],
+                [
+                    1,
+                    9,
+                    5
                 ],
                 [
                     0,
@@ -2276,9 +2462,19 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     2
                 ],
                 [
+                    1,
+                    10,
+                    4
+                ],
+                [
                     0,
                     11,
                     1
+                ],
+                [
+                    1,
+                    11,
+                    3
                 ]
             ],
             "label": {
@@ -2303,7 +2499,8 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "xAxis": {
         "type": "category",
         "data": [
-            1
+            1,
+            2
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2319,17 +2516,17 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
         "type": "category",
         "data": [
             "TIB",
-            "ARV",
             "MMT",
-            "KTT",
+            "ARV",
             "TTC",
-            "HMB",
-            "BTE",
-            "RRT",
             "EET",
+            "KTT",
+            "BTE",
+            "HMB",
             "JST",
-            "TOM",
-            "90s"
+            "RRT",
+            "90s",
+            "TOM"
         ],
         "name": "",
         "nameLocation": "end",
@@ -2369,29 +2566,59 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     12
                 ],
                 [
-                    0,
                     1,
+                    0,
                     11
                 ],
                 [
                     0,
-                    2,
+                    1,
+                    10
+                ],
+                [
+                    1,
+                    1,
                     10
                 ],
                 [
                     0,
+                    2,
+                    11
+                ],
+                [
+                    1,
+                    2,
+                    8
+                ],
+                [
+                    0,
+                    3,
+                    8
+                ],
+                [
+                    1,
                     3,
                     9
                 ],
                 [
                     0,
                     4,
-                    8
+                    4
+                ],
+                [
+                    1,
+                    4,
+                    12
                 ],
                 [
                     0,
                     5,
-                    7
+                    9
+                ],
+                [
+                    1,
+                    5,
+                    6
                 ],
                 [
                     0,
@@ -2399,29 +2626,59 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
                     6
                 ],
                 [
-                    0,
-                    7,
-                    5
+                    1,
+                    6,
+                    7
                 ],
                 [
                     0,
+                    7,
+                    7
+                ],
+                [
+                    1,
+                    7,
+                    1
+                ],
+                [
+                    0,
+                    8,
+                    3
+                ],
+                [
+                    1,
                     8,
                     4
                 ],
                 [
                     0,
                     9,
-                    3
+                    5
                 ],
                 [
-                    0,
-                    10,
+                    1,
+                    9,
                     2
                 ],
                 [
                     0,
-                    11,
+                    10,
                     1
+                ],
+                [
+                    1,
+                    10,
+                    5
+                ],
+                [
+                    0,
+                    11,
+                    2
+                ],
+                [
+                    1,
+                    11,
+                    3
                 ]
             ],
             "label": {
@@ -2453,17 +2710,17 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "legend": {
         "data": [
             "HMB",
-            "TIB",
-            "JST",
-            "ARV",
             "MMT",
             "TTC",
             "90s",
-            "EET",
+            "JST",
+            "TIB",
             "TOM",
+            "ARV",
             "KTT",
-            "BTE",
-            "RRT"
+            "RRT",
+            "EET",
+            "BTE"
         ],
         "orient": "vertical",
         "right": 0,
@@ -2472,7 +2729,8 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
     "xAxis": {
         "type": "category",
         "data": [
-            "Week 1"
+            "Week 1",
+            "Week 2"
         ]
     },
     "yAxis": {
@@ -2484,84 +2742,96 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "name": "HMB",
             "type": "line",
             "data": [
-                92.6
-            ]
-        },
-        {
-            "name": "TIB",
-            "type": "line",
-            "data": [
-                79.6
-            ]
-        },
-        {
-            "name": "JST",
-            "type": "line",
-            "data": [
-                91.7
-            ]
-        },
-        {
-            "name": "ARV",
-            "type": "line",
-            "data": [
-                84.2
+                92.6,
+                85.2
             ]
         },
         {
             "name": "MMT",
             "type": "line",
             "data": [
-                75.5
+                75.5,
+                86.5
             ]
         },
         {
             "name": "TTC",
             "type": "line",
             "data": [
-                90.7
+                90.7,
+                85.5
             ]
         },
         {
             "name": "90s",
             "type": "line",
             "data": [
-                88.5
+                88.5,
+                88.3
             ]
         },
         {
-            "name": "EET",
+            "name": "JST",
             "type": "line",
             "data": [
-                88.3
+                91.7,
+                95.2
+            ]
+        },
+        {
+            "name": "TIB",
+            "type": "line",
+            "data": [
+                79.6,
+                77.4
             ]
         },
         {
             "name": "TOM",
             "type": "line",
             "data": [
-                89.1
+                89.1,
+                92.5
+            ]
+        },
+        {
+            "name": "ARV",
+            "type": "line",
+            "data": [
+                84.2,
+                85.0
             ]
         },
         {
             "name": "KTT",
             "type": "line",
             "data": [
-                83.0
-            ]
-        },
-        {
-            "name": "BTE",
-            "type": "line",
-            "data": [
-                77.9
+                83.0,
+                82.6
             ]
         },
         {
             "name": "RRT",
             "type": "line",
             "data": [
-                81.4
+                81.4,
+                85.3
+            ]
+        },
+        {
+            "name": "EET",
+            "type": "line",
+            "data": [
+                88.3,
+                66.4
+            ]
+        },
+        {
+            "name": "BTE",
+            "type": "line",
+            "data": [
+                77.9,
+                74.8
             ]
         }
     ],
@@ -2617,57 +2887,12 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        13.3,
-                        6.6,
-                        6.1,
-                        2.0
+                        7.4,
+                        2.2,
+                        7.9,
+                        3.6
                     ],
                     "name": "Game of Zones - House Hamlin"
-                }
-            ]
-        },
-        {
-            "name": "To Infinity and Bijan!",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        8.4,
-                        -1.0,
-                        3.8,
-                        -7.6
-                    ],
-                    "name": "To Infinity and Bijan!"
-                }
-            ]
-        },
-        {
-            "name": "Mama Daughter Duo",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        5.5,
-                        1.6,
-                        -0.7,
-                        3.3
-                    ],
-                    "name": "Mama Daughter Duo"
-                }
-            ]
-        },
-        {
-            "name": "Abbey's TNT Team ",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        -6.9,
-                        5.6,
-                        3.2,
-                        -6.2
-                    ],
-                    "name": "Abbey's TNT Team "
                 }
             ]
         },
@@ -2677,10 +2902,10 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        6.1,
-                        -1.8,
-                        -1.3,
-                        -5.1
+                        7.6,
+                        -0.5,
+                        -0.5,
+                        -5.2
                     ],
                     "name": "Michael's Managable Team"
                 }
@@ -2692,10 +2917,10 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -3.3,
-                        1.1,
-                        -1.6,
-                        0.0
+                        -0.3,
+                        0.1,
+                        -1.8,
+                        -1.1
                     ],
                     "name": "Third Time's the Charm?"
                 }
@@ -2707,27 +2932,42 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -0.5,
-                        0.3,
-                        -1.3,
-                        5.2
+                        3.8,
+                        2.0,
+                        -0.8,
+                        3.6
                     ],
                     "name": "90s MonCon"
                 }
             ]
         },
         {
-            "name": "Emma's Excellent Team",
+            "name": "Mama Daughter Duo",
             "type": "radar",
             "data": [
                 {
                     "value": [
-                        -5.7,
-                        -2.4,
-                        3.3,
-                        2.6
+                        2.4,
+                        2.4,
+                        0.1,
+                        2.9
                     ],
-                    "name": "Emma's Excellent Team"
+                    "name": "Mama Daughter Duo"
+                }
+            ]
+        },
+        {
+            "name": "To Infinity and Bijan!",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        1.5,
+                        1.4,
+                        3.6,
+                        -7.1
+                    ],
+                    "name": "To Infinity and Bijan!"
                 }
             ]
         },
@@ -2737,12 +2977,27 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -6.2,
+                        -1.1,
                         0.5,
-                        -1.3,
-                        4.3
+                        -3.1,
+                        4.1
                     ],
                     "name": "Rookie Mistake"
+                }
+            ]
+        },
+        {
+            "name": "Abbey's TNT Team ",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -6.8,
+                        4.3,
+                        2.9,
+                        -4.9
+                    ],
+                    "name": "Abbey's TNT Team "
                 }
             ]
         },
@@ -2752,27 +3007,12 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        0.6,
-                        -3.1,
-                        -0.6,
-                        -2.9
+                        0.8,
+                        -2.9,
+                        -1.8,
+                        -2.0
                     ],
                     "name": "Fantasy Guru Kayden"
-                }
-            ]
-        },
-        {
-            "name": "Big Titi Energy",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        -2.8,
-                        -5.0,
-                        -4.2,
-                        0.8
-                    ],
-                    "name": "Big Titi Energy"
                 }
             ]
         },
@@ -2782,12 +3022,42 @@ Unluckiest Team: Connor Dickson and Monika Monko (-0.0) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -8.5,
-                        -0.4,
-                        -3.9,
-                        1.7
+                        -5.0,
+                        1.0,
+                        -1.7,
+                        2.9
                     ],
                     "name": "Americas Team "
+                }
+            ]
+        },
+        {
+            "name": "Emma's Excellent Team",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -4.4,
+                        -2.5,
+                        -0.4,
+                        -0.6
+                    ],
+                    "name": "Emma's Excellent Team"
+                }
+            ]
+        },
+        {
+            "name": "Big Titi Energy",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -6.5,
+                        -4.7,
+                        -3.6,
+                        0.4
+                    ],
+                    "name": "Big Titi Energy"
                 }
             ]
         }
