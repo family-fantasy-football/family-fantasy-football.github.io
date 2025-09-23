@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 24.4,
+    "projected": 15.9
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 11.6,
+    "projected": 20.95
+  },
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 28.22,
+    "projected": 21.3
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.1,
+    "projected": 13.81
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.1,
+    "projected": 13.5
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.3,
+    "projected": 10.92
+  },
+  {
+    "player_name": "Ricky Pearsall",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 15.7,
+    "projected": 9.9
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 16.3,
+    "projected": 8.2
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 17.95,
+    "projected": 10.16
+  }
+]

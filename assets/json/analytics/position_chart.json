@@ -38,10 +38,10 @@
       "data": [
         {
           "value": [
-            7.4,
-            2.2,
-            7.9,
-            3.6
+            6.2,
+            0.2,
+            6.8,
+            3.4
           ],
           "name": "Game of Zones - House Hamlin"
         }
@@ -53,27 +53,12 @@
       "data": [
         {
           "value": [
-            7.6,
-            -0.5,
-            -0.5,
-            -5.2
+            6.8,
+            0.1,
+            0.7,
+            -2.7
           ],
           "name": "Michael's Managable Team"
-        }
-      ]
-    },
-    {
-      "name": "Third Time's the Charm?",
-      "type": "radar",
-      "data": [
-        {
-          "value": [
-            -0.3,
-            0.1,
-            -1.8,
-            -1.1
-          ],
-          "name": "Third Time's the Charm?"
         }
       ]
     },
@@ -83,10 +68,10 @@
       "data": [
         {
           "value": [
-            3.8,
-            2.0,
-            -0.8,
-            3.6
+            5.2,
+            3.6,
+            0.0,
+            2.8
           ],
           "name": "90s MonCon"
         }
@@ -98,12 +83,57 @@
       "data": [
         {
           "value": [
-            2.4,
-            2.4,
-            0.1,
-            2.9
+            4.4,
+            2.3,
+            0.7,
+            1.9
           ],
           "name": "Mama Daughter Duo"
+        }
+      ]
+    },
+    {
+      "name": "Abbey's TNT Team ",
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            -5.2,
+            3.8,
+            2.6,
+            -5.3
+          ],
+          "name": "Abbey's TNT Team "
+        }
+      ]
+    },
+    {
+      "name": "Third Time's the Charm?",
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            -0.3,
+            -0.3,
+            -2.9,
+            -0.7
+          ],
+          "name": "Third Time's the Charm?"
+        }
+      ]
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            0.5,
+            -3.1,
+            -2.3,
+            -1.6
+          ],
+          "name": "Mcconky Donkeys"
         }
       ]
     },
@@ -113,10 +143,10 @@
       "data": [
         {
           "value": [
-            1.5,
-            1.4,
-            3.6,
-            -7.1
+            -0.2,
+            0.6,
+            2.3,
+            -6.1
           ],
           "name": "To Infinity and Bijan!"
         }
@@ -128,42 +158,12 @@
       "data": [
         {
           "value": [
-            -1.1,
-            0.5,
-            -3.1,
-            4.1
+            -1.8,
+            0.9,
+            -3.7,
+            3.0
           ],
           "name": "Rookie Mistake"
-        }
-      ]
-    },
-    {
-      "name": "Abbey's TNT Team ",
-      "type": "radar",
-      "data": [
-        {
-          "value": [
-            -6.8,
-            4.3,
-            2.9,
-            -4.9
-          ],
-          "name": "Abbey's TNT Team "
-        }
-      ]
-    },
-    {
-      "name": "Fantasy Guru Kayden",
-      "type": "radar",
-      "data": [
-        {
-          "value": [
-            0.8,
-            -2.9,
-            -1.8,
-            -2.0
-          ],
-          "name": "Fantasy Guru Kayden"
         }
       ]
     },
@@ -173,10 +173,10 @@
       "data": [
         {
           "value": [
-            -5.0,
-            1.0,
-            -1.7,
-            2.9
+            -3.7,
+            1.7,
+            -0.3,
+            3.5
           ],
           "name": "Americas Team "
         }
@@ -188,10 +188,10 @@
       "data": [
         {
           "value": [
-            -4.4,
-            -2.5,
-            -0.4,
-            -0.6
+            -5.9,
+            -2.8,
+            -0.7,
+            -1.5
           ],
           "name": "Emma's Excellent Team"
         }
@@ -203,9 +203,9 @@
       "data": [
         {
           "value": [
-            -6.5,
-            -4.7,
-            -3.6,
+            -7.4,
+            -4.2,
+            -3.5,
             0.4
           ],
           "name": "Big Titi Energy"

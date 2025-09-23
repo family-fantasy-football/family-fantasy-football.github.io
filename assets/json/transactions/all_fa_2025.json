@@ -72,12 +72,116 @@
   "bid_amount": 0
  },
  {
-  "team": "Fantasy Guru Kayden",
+  "team": "Mcconky Donkeys",
   "week": 1,
   "player_name": "Tyler Lockett",
   "position": "WR",
   "type": "WAIVER",
   "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 2,
+  "player_name": "Ray Davis",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 2,
+  "player_name": "Sterling Shepard",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 2,
+  "player_name": "Isaiah Likely",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 2,
+  "player_name": "Marvin Mims Jr.",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Emma's Excellent Team",
+  "week": 2,
+  "player_name": "Darren Waller",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Emma's Excellent Team",
+  "week": 2,
+  "player_name": "Aaron Jones Sr.",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 2,
+  "player_name": "Russell Wilson",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 8
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 2,
+  "player_name": "Jake Browning",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 8
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 2,
+  "player_name": "Tre Tucker",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 2,
+  "player_name": "Luther Burden III",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 2,
+  "player_name": "Mac Jones",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 13
+ },
+ {
+  "team": "Mcconky Donkeys",
+  "week": 2,
+  "player_name": "Tyler Allgeier",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 20
+ },
+ {
+  "team": "Mcconky Donkeys",
+  "week": 2,
+  "player_name": "Troy Franklin",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 40
  },
  {
   "team": "Americas Team ",
@@ -134,5 +238,29 @@
   "position": "TE",
   "type": "WAIVER",
   "bid_amount": 10
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
+  "player_name": "Jayden Higgins",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
+  "player_name": "Dyami Brown",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 3,
+  "player_name": "Carson Wentz",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 0
  }
 ]

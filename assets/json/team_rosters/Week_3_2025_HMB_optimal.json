@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 34.02,
+    "projected": 27.68
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.2,
+    "projected": 15.63
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.0,
+    "projected": 10.72
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.6,
+    "projected": 10.46
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.2,
+    "projected": 15.8
+  },
+  {
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.3,
+    "projected": 10.66
+  },
+  {
+    "player_name": "Rashod Bateman",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 14.8,
+    "projected": 8.08
+  },
+  {
+    "player_name": "Sterling Shepard",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 7.07
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 15.12,
+    "projected": 18.16
+  }
+]

@@ -14,7 +14,8 @@
     "nameGap": 30,
     "data": [
       1,
-      2
+      2,
+      3
     ]
   },
   "yAxis": {
@@ -33,14 +34,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#98df8a"
+        "color": "#ffbb78"
       },
       "itemStyle": {
-        "color": "#98df8a"
+        "color": "#ffbb78"
       },
       "data": [
         7,
-        4
+        4,
+        3
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -56,14 +58,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#c49c94"
+        "color": "#d62728"
       },
       "itemStyle": {
-        "color": "#c49c94"
+        "color": "#d62728"
       },
       "data": [
         4,
-        8
+        8,
+        5
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -86,6 +89,7 @@
       },
       "data": [
         12,
+        10,
         10
       ],
       "symbol": "circle",
@@ -109,6 +113,7 @@
       },
       "data": [
         11,
+        12,
         12
       ],
       "symbol": "circle",
@@ -132,6 +137,7 @@
       },
       "data": [
         8,
+        11,
         11
       ],
       "symbol": "circle",
@@ -140,29 +146,6 @@
         "show": false,
         "position": "right",
         "formatter": "Emma's Excel..."
-      }
-    },
-    {
-      "name": "Fantasy Guru Kayden",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#f7b6d2"
-      },
-      "itemStyle": {
-        "color": "#f7b6d2"
-      },
-      "data": [
-        10,
-        9
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false,
-        "position": "right",
-        "formatter": "Fantasy Guru..."
       }
     },
     {
@@ -177,6 +160,7 @@
         "color": "#1f77b4"
       },
       "data": [
+        1,
         1,
         1
       ],
@@ -194,14 +178,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "itemStyle": {
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "data": [
         3,
-        5
+        5,
+        4
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -209,6 +194,30 @@
         "show": false,
         "position": "right",
         "formatter": "Mama Daughte..."
+      }
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#8c564b"
+      },
+      "itemStyle": {
+        "color": "#8c564b"
+      },
+      "data": [
+        10,
+        9,
+        7
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false,
+        "position": "right",
+        "formatter": "Mcconky Donk..."
       }
     },
     {
@@ -224,6 +233,7 @@
       },
       "data": [
         5,
+        2,
         2
       ],
       "symbol": "circle",
@@ -240,14 +250,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#8c564b"
+        "color": "#f7b6d2"
       },
       "itemStyle": {
-        "color": "#8c564b"
+        "color": "#f7b6d2"
       },
       "data": [
         9,
-        7
+        7,
+        9
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -263,14 +274,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#ffbb78"
+        "color": "#9467bd"
       },
       "itemStyle": {
-        "color": "#ffbb78"
+        "color": "#9467bd"
       },
       "data": [
         6,
-        3
+        3,
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -286,14 +298,15 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#9467bd"
+        "color": "#c49c94"
       },
       "itemStyle": {
-        "color": "#9467bd"
+        "color": "#c49c94"
       },
       "data": [
         2,
-        6
+        6,
+        8
       ],
       "symbol": "circle",
       "symbolSize": 12,

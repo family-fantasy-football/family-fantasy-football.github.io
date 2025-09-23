@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.72,
+    "projected": 16.25
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.9,
+    "projected": 12.18
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.1,
+    "projected": 12.52
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 28.9,
+    "projected": 11.7
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.6,
+    "projected": 11.41
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.05,
+    "projected": 14.24
+  },
+  {
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.6,
+    "projected": 13.19
+  },
+  {
+    "player_name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 7.65,
+    "projected": 7.34
+  },
+  {
+    "player_name": "Spencer Rattler",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 16.72,
+    "projected": 13.23
+  }
+]

@@ -7,20 +7,20 @@
   },
   {
     "position": "RB",
-    "average": 11.8,
+    "average": 10.6,
     "highest": 28.7,
     "lowest": 1.7
   },
   {
     "position": "TE",
-    "average": 12.4,
+    "average": 11.2,
     "highest": 22.9,
     "lowest": 4.8
   },
   {
     "position": "WR",
-    "average": 19.3,
+    "average": 16.1,
     "highest": 34.7,
-    "lowest": 6.5
+    "lowest": 2.3
   }
 ]

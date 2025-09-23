@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.0,
+    "projected": 15.52
+  },
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.06,
+    "projected": 21.47
+  },
+  {
+    "player_name": "Malik Nabers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 2.3,
+    "projected": 16.48
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.3,
+    "projected": 10.79
+  },
+  {
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.5,
+    "projected": 10.75
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.7,
+    "projected": 14.63
+  },
+  {
+    "player_name": "Nick Chubb",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.5,
+    "projected": 11.2
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.9,
+    "projected": 8.59
+  },
+  {
+    "player_name": "Carson Wentz",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 20.32,
+    "projected": 17.69
+  }
+]

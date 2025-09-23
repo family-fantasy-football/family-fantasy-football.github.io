@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 16.68,
+    "projected": 21.42
+  },
+  {
+    "player_name": "Matthew Golden",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.1,
+    "projected": 7.43
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.9,
+    "projected": 10.47
+  },
+  {
+    "player_name": "Omarion Hampton",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.9,
+    "projected": 11.17
+  },
+  {
+    "player_name": "James Cook",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.3,
+    "projected": 16.21
+  },
+  {
+    "player_name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 10.35,
+    "projected": 8.33
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 14.8,
+    "projected": 10.8
+  },
+  {
+    "player_name": "Ollie Gordon II",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.8,
+    "projected": 1.87
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 6.3,
+    "projected": 13.92
+  }
+]

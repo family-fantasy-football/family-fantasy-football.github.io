@@ -3,8 +3,8 @@
     "team_name": "Game of Zones - House Hamlin",
     "managers": "Kyle Hamlin",
     "final_rank": 1,
-    "record": "2-0",
-    "points": 296.13,
+    "record": "3-0",
+    "points": 411.07,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -13,18 +13,8 @@
     "team_name": "Michael's Managable Team",
     "managers": "Michael Ratcliff",
     "final_rank": 2,
-    "record": "2-0",
-    "points": 252.98,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
-    "team_name": "Third Time's the Charm?",
-    "managers": "Christian Ratcliff",
-    "final_rank": 3,
-    "record": "2-0",
-    "points": 218.01,
+    "record": "3-0",
+    "points": 401.65,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -32,9 +22,9 @@
   {
     "team_name": "90s MonCon",
     "managers": "Connor Dickson and Monika Monko",
-    "final_rank": 4,
-    "record": "1-1",
-    "points": 268.62,
+    "final_rank": 3,
+    "record": "2-1",
+    "points": 439.38,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -42,29 +32,9 @@
   {
     "team_name": "Mama Daughter Duo",
     "managers": "Cathy Dickson and Jordan Dickson",
-    "final_rank": 5,
-    "record": "1-1",
-    "points": 252.6,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
-    "team_name": "To Infinity and Bijan!",
-    "managers": "Nick Hill",
-    "final_rank": 6,
-    "record": "1-1",
-    "points": 245.52,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
-    "team_name": "Rookie Mistake",
-    "managers": "Tom Ratcliff",
-    "final_rank": 7,
-    "record": "1-1",
-    "points": 228.87,
+    "final_rank": 4,
+    "record": "2-1",
+    "points": 409.76,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -72,19 +42,49 @@
   {
     "team_name": "Abbey's TNT Team ",
     "managers": "Abbey Hamlin",
-    "final_rank": 8,
-    "record": "1-1",
-    "points": 228.81,
+    "final_rank": 5,
+    "record": "2-1",
+    "points": 348.99,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
   },
   {
-    "team_name": "Fantasy Guru Kayden",
+    "team_name": "Third Time's the Charm?",
+    "managers": "Christian Ratcliff",
+    "final_rank": 6,
+    "record": "2-1",
+    "points": 303.31,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "Mcconky Donkeys",
     "managers": "Kayden Mullins",
+    "final_rank": 7,
+    "record": "2-1",
+    "points": 289.08,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "To Infinity and Bijan!",
+    "managers": "Nick Hill",
+    "final_rank": 8,
+    "record": "1-2",
+    "points": 324.1,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "Rookie Mistake",
+    "managers": "Tom Ratcliff",
     "final_rank": 9,
-    "record": "1-1",
-    "points": 200.55,
+    "record": "1-2",
+    "points": 323.4,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -93,8 +93,8 @@
     "team_name": "Americas Team ",
     "managers": "Ryan Ratcliff",
     "final_rank": 10,
-    "record": "0-2",
-    "points": 228.72,
+    "record": "0-3",
+    "points": 373.33,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -103,8 +103,8 @@
     "team_name": "Emma's Excellent Team",
     "managers": "Emma Grau",
     "final_rank": 11,
-    "record": "0-2",
-    "points": 176.14,
+    "record": "0-3",
+    "points": 249.77,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -113,8 +113,8 @@
     "team_name": "Big Titi Energy",
     "managers": "Christine Hamlin",
     "final_rank": 12,
-    "record": "0-2",
-    "points": 150.69,
+    "record": "0-3",
+    "points": 231.95,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"

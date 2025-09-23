@@ -110,8 +110,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 },
                 {
-                    "id": "Fantasy Guru Kayden",
-                    "name": "Fantasy Guru Kayden",
+                    "id": "Mcconky Donkeys",
+                    "name": "Mcconky Donkeys",
                     "itemStyle": {
                         "color": "hsl(196.36363636363637, 70%, 50%)"
                     }
@@ -153,6 +153,15 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                 }
             ],
             "links": [
+                {
+                    "source": "Michael's Managable Team",
+                    "target": "Third Time's the Charm?",
+                    "value": 1,
+                    "tooltip": {
+                        "show": true
+                    },
+                    "name": "Michael's Managable Team: RJ Harvey \u27f7 Third Time's the Charm?: Harold Fannin Jr."
+                },
                 {
                     "source": "Emma's Excellent Team",
                     "target": "Third Time's the Charm?",

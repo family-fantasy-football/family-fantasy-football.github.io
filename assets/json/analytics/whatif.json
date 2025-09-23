@@ -1,74 +1,74 @@
 [
   {
     "team": "Game of Zones - House Hamlin",
-    "actual_record": "2-0",
-    "potential_record": "17-5",
-    "luck_factor": "+1.2"
+    "actual_record": "3-0",
+    "potential_record": "23-10",
+    "luck_factor": "+1.5"
   },
   {
     "team": "Michael's Managable Team",
-    "actual_record": "2-0",
-    "potential_record": "16-6",
-    "luck_factor": "+1.1"
-  },
-  {
-    "team": "Third Time's the Charm?",
-    "actual_record": "2-0",
-    "potential_record": "8-14",
-    "luck_factor": "+0.5"
+    "actual_record": "3-0",
+    "potential_record": "25-8",
+    "luck_factor": "+1.7"
   },
   {
     "team": "90s MonCon",
-    "actual_record": "1-1",
-    "potential_record": "17-5",
-    "luck_factor": "+1.2"
+    "actual_record": "2-1",
+    "potential_record": "28-5",
+    "luck_factor": "+2.0"
   },
   {
     "team": "Mama Daughter Duo",
-    "actual_record": "1-1",
-    "potential_record": "17-5",
-    "luck_factor": "+1.2"
-  },
-  {
-    "team": "To Infinity and Bijan!",
-    "actual_record": "1-1",
-    "potential_record": "13-9",
-    "luck_factor": "+0.9"
-  },
-  {
-    "team": "Rookie Mistake",
-    "actual_record": "1-1",
-    "potential_record": "10-12",
-    "luck_factor": "+0.7"
+    "actual_record": "2-1",
+    "potential_record": "27-6",
+    "luck_factor": "+1.9"
   },
   {
     "team": "Abbey's TNT Team ",
-    "actual_record": "1-1",
-    "potential_record": "13-9",
-    "luck_factor": "+0.9"
+    "actual_record": "2-1",
+    "potential_record": "20-13",
+    "luck_factor": "+1.4"
   },
   {
-    "team": "Fantasy Guru Kayden",
-    "actual_record": "1-1",
-    "potential_record": "4-18",
-    "luck_factor": "+0.2"
+    "team": "Third Time's the Charm?",
+    "actual_record": "2-1",
+    "potential_record": "11-22",
+    "luck_factor": "+0.7"
+  },
+  {
+    "team": "Mcconky Donkeys",
+    "actual_record": "2-1",
+    "potential_record": "8-25",
+    "luck_factor": "+0.5"
+  },
+  {
+    "team": "To Infinity and Bijan!",
+    "actual_record": "1-2",
+    "potential_record": "14-19",
+    "luck_factor": "+1.0"
+  },
+  {
+    "team": "Rookie Mistake",
+    "actual_record": "1-2",
+    "potential_record": "15-18",
+    "luck_factor": "+1.1"
   },
   {
     "team": "Americas Team ",
-    "actual_record": "0-2",
-    "potential_record": "10-12",
-    "luck_factor": "+0.8"
+    "actual_record": "0-3",
+    "potential_record": "18-15",
+    "luck_factor": "+1.4"
   },
   {
     "team": "Emma's Excellent Team",
-    "actual_record": "0-2",
-    "potential_record": "5-17",
+    "actual_record": "0-3",
+    "potential_record": "5-28",
     "luck_factor": "+0.4"
   },
   {
     "team": "Big Titi Energy",
-    "actual_record": "0-2",
-    "potential_record": "2-20",
-    "luck_factor": "+0.2"
+    "actual_record": "0-3",
+    "potential_record": "4-29",
+    "luck_factor": "+0.3"
   }
 ]

@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Jared Goff (70.86 pts) owned by Rookie Mistake
+* **QB:** Lamar Jackson (106.68 pts) owned by 90s MonCon
 
-* **RB:** James Cook (44.7 pts) owned by Rookie Mistake
+* **RB:** Jonathan Taylor (71.1 pts) owned by 90s MonCon
 
-* **WR:** Malik Nabers (42.8 pts) owned by To Infinity and Bijan!
+* **WR:** Puka Nacua (59.0 pts) owned by Abbey's TNT Team 
 
-* **TE:** Tucker Kraft (32.3 pts) owned by Game of Zones - House Hamlin
+* **TE:** Jake Ferguson (38.55 pts) owned by Michael's Managable Team
 
 
-Below are the top 10 performers at each position through Week 2.
+Below are the top 10 performers at each position through Week 3.
 
 
 
