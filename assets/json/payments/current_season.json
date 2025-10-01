@@ -21,19 +21,19 @@
     "team": "Third Time's the Charm?",
     "manager": "Christian Ratcliff",
     "paid": "Yes",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
     "penalties": "$0",
-    "net": "$0"
+    "net": "$5"
   },
   {
     "team": "90s MonCon",
     "manager": "Connor Dickson and Monika Monko",
     "paid": "No",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
     "penalties": "$0",
-    "net": "$5"
+    "net": "$10"
   },
   {
     "team": "Mama Daughter Duo",
@@ -56,7 +56,7 @@
   {
     "team": "Rookie Mistake",
     "manager": "Tom Ratcliff",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
