@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Justin Fields",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 32.14,
+    "projected": 20.98
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.8,
+    "projected": 11.8
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.6,
+    "projected": 13.5
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 29.7,
+    "projected": 17.17
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.5,
+    "projected": 12.27
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 16.75,
+    "projected": 7.88
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.6,
+    "projected": 6.35
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 8.25,
+    "projected": 8.38
+  },
+  {
+    "player_name": "Carson Wentz",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 24.2,
+    "projected": 16.5
+  }
+]

@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Lamar Jackson (106.68 pts) owned by 90s MonCon
+* **QB:** Lamar Jackson (120.36 pts) owned by 90s MonCon
 
-* **RB:** Jonathan Taylor (71.1 pts) owned by 90s MonCon
+* **RB:** James Cook (85.0 pts) owned by Rookie Mistake
 
-* **WR:** Puka Nacua (59.0 pts) owned by Abbey's TNT Team 
+* **WR:** Puka Nacua (88.5 pts) owned by Abbey's TNT Team 
 
-* **TE:** Jake Ferguson (38.55 pts) owned by Michael's Managable Team
+* **TE:** Jake Ferguson (53.8 pts) owned by Michael's Managable Team
 
 
-Below are the top 10 performers at each position through Week 3.
+Below are the top 10 performers at each position through Week 4.
 
 
 

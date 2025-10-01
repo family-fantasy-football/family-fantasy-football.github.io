@@ -4,79 +4,79 @@
     "team": "Abbey's TNT Team ",
     "draft": "2.9",
     "overall_pick": 21,
-    "points": 59.0,
-    "projected": 43.41
+    "points": 88.5,
+    "projected": 57.88
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "team": "Game of Zones - House Hamlin",
     "draft": "3.2",
     "overall_pick": 26,
-    "points": 58.4,
-    "projected": 40.99
+    "points": 80.9,
+    "projected": 54.65
   },
   {
     "player_name": "Rome Odunze",
     "team": "Mama Daughter Duo",
     "draft": "8.3",
     "overall_pick": 87,
-    "points": 54.7,
-    "projected": 32.0
+    "points": 69.6,
+    "projected": 42.66
   },
   {
     "player_name": "Quentin Johnston",
     "team": "To Infinity and Bijan!",
     "draft": "16.4",
     "overall_pick": 184,
-    "points": 48.7,
-    "projected": 24.17
+    "points": 68.5,
+    "projected": 32.23
   },
   {
-    "player_name": "Jaxon Smith-Njigba",
-    "team": "Americas Team ",
-    "draft": "4.8",
-    "overall_pick": 44,
-    "points": 47.3,
-    "projected": 34.71
-  },
-  {
-    "player_name": "Keenan Allen",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "11.2",
-    "overall_pick": 122,
-    "points": 46.9,
-    "projected": 30.37
+    "player_name": "George Pickens",
+    "team": "Michael's Managable Team",
+    "draft": "6.7",
+    "overall_pick": 67,
+    "points": 64.5,
+    "projected": 43.59
   },
   {
     "player_name": "Garrett Wilson",
     "team": "90s MonCon",
     "draft": "6.12",
     "overall_pick": 72,
-    "points": 45.4,
-    "projected": 34.71
-  },
-  {
-    "player_name": "Malik Nabers",
-    "team": "To Infinity and Bijan!",
-    "draft": "3.9",
-    "overall_pick": 33,
-    "points": 45.1,
-    "projected": 43.73
+    "points": 62.6,
+    "projected": 46.28
   },
   {
     "player_name": "Emeka Egbuka",
     "team": "Abbey's TNT Team ",
     "draft": "9.4",
     "overall_pick": 100,
-    "points": 44.0,
-    "projected": 25.99
+    "points": 62.1,
+    "projected": 34.65
   },
   {
-    "player_name": "Davante Adams",
-    "team": "Michael's Managable Team",
-    "draft": "4.7",
-    "overall_pick": 43,
-    "points": 39.8,
-    "projected": 37.86
+    "player_name": "Jaxon Smith-Njigba",
+    "team": "Americas Team ",
+    "draft": "4.8",
+    "overall_pick": 44,
+    "points": 58.3,
+    "projected": 46.28
+  },
+  {
+    "player_name": "Tre Tucker",
+    "team": "90s MonCon",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 55.9,
+    "projected": 25.56
+  },
+  {
+    "player_name": "Deebo Samuel",
+    "team": "Abbey's TNT Team ",
+    "draft": "10.9",
+    "overall_pick": 117,
+    "points": 54.0,
+    "projected": 40.35
   }
 ]

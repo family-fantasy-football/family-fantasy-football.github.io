@@ -8,31 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-58.6",
-    "grade": "D"
-  },
-  {
-    "team": "Emma's Excellent Team",
-    "round": 2,
-    "pick": 10,
-    "player_name": "Brock Purdy",
-    "points": "24.8",
-    "before_trade": "24.8",
-    "after_trade": "0.0",
-    "draft_position": 22,
-    "value_diff": "-38.8",
-    "grade": "D"
-  },
-  {
-    "team": "Game of Zones: House Hamlin",
-    "round": 8,
-    "pick": 11,
-    "player_name": "Cam Ward",
-    "points": "10.2",
-    "before_trade": "10.2",
-    "after_trade": "0.0",
-    "draft_position": 95,
-    "value_diff": "-37.0",
+    "value_diff": "-83.3",
     "grade": "D"
   },
   {
@@ -44,7 +20,19 @@
     "before_trade": "38.3",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-36.4",
+    "value_diff": "-61.3",
+    "grade": "D"
+  },
+  {
+    "team": "Game of Zones: House Hamlin",
+    "round": 8,
+    "pick": 11,
+    "player_name": "Cam Ward",
+    "points": "3.8",
+    "before_trade": "3.8",
+    "after_trade": "0.0",
+    "draft_position": 95,
+    "value_diff": "-59.2",
     "grade": "D"
   },
   {
@@ -56,7 +44,19 @@
     "before_trade": "24.0",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-33.7",
+    "value_diff": "-52.9",
+    "grade": "D"
+  },
+  {
+    "team": "Emma's Excellent Team",
+    "round": 2,
+    "pick": 10,
+    "player_name": "Brock Purdy",
+    "points": "41.4",
+    "before_trade": "41.4",
+    "after_trade": "0.0",
+    "draft_position": 22,
+    "value_diff": "-43.3",
     "grade": "D"
   }
 ]

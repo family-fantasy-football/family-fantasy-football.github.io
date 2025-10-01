@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 2,
     "player_name": "Josh Allen",
-    "points": "88.1",
-    "before_trade": "88.1",
+    "points": "119.0",
+    "before_trade": "119.0",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "16.8",
+    "value_diff": "23.9",
     "grade": "A"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 11,
     "player_name": "Derrick Henry",
-    "points": "40.2",
-    "before_trade": "40.2",
+    "points": "47.0",
+    "before_trade": "47.0",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-7.9",
+    "value_diff": "-17.2",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 2,
     "player_name": "Amon-Ra St. Brown",
-    "points": "58.4",
-    "before_trade": "58.4",
+    "points": "80.9",
+    "before_trade": "80.9",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "17.4",
+    "value_diff": "26.2",
     "grade": "A"
   },
   {
@@ -40,12 +40,12 @@
     "round": 4,
     "pick": 11,
     "player_name": "Jordan Love",
-    "points": "59.4",
-    "before_trade": "59.4",
+    "points": "95.2",
+    "before_trade": "95.2",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "6.8",
-    "grade": "B"
+    "value_diff": "25.0",
+    "grade": "A"
   },
   {
     "team": "Game of Zones: House Hamlin",
@@ -56,19 +56,19 @@
     "before_trade": "29.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-10.8",
-    "grade": "C"
+    "value_diff": "-24.2",
+    "grade": "D"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 6,
     "pick": 11,
     "player_name": "Sam LaPorta",
-    "points": "23.6",
-    "before_trade": "23.6",
+    "points": "29.7",
+    "before_trade": "29.7",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-7.0",
+    "value_diff": "-11.0",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 2,
     "player_name": "Zay Flowers",
-    "points": "38.3",
-    "before_trade": "38.3",
+    "points": "49.2",
+    "before_trade": "49.2",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "3.8",
+    "value_diff": "3.1",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "10.2",
-    "before_trade": "10.2",
+    "points": "3.8",
+    "before_trade": "3.8",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-37.0",
+    "value_diff": "-59.2",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 2,
     "player_name": "Jacory Croskey-Merritt",
-    "points": "25.5",
-    "before_trade": "25.5",
+    "points": "32.2",
+    "before_trade": "32.2",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-1.2",
+    "value_diff": "-3.4",
     "grade": "B"
   },
   {
@@ -112,24 +112,24 @@
     "round": 10,
     "pick": 11,
     "player_name": "Tucker Kraft",
-    "points": "37.5",
-    "before_trade": "37.5",
+    "points": "46.8",
+    "before_trade": "46.8",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "12.0",
-    "grade": "A"
+    "value_diff": "12.9",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "46.9",
-    "before_trade": "46.9",
+    "points": "53.1",
+    "before_trade": "53.1",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "16.5",
-    "grade": "A"
+    "value_diff": "12.6",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
@@ -140,7 +140,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "3.3",
+    "value_diff": "-4.7",
     "grade": "B"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 2,
     "player_name": "Najee Harris",
-    "points": "10.1",
-    "before_trade": "10.1",
+    "points": "7.3",
+    "before_trade": "7.3",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-5.5",
+    "value_diff": "-13.5",
     "grade": "C"
   },
   {
@@ -160,12 +160,12 @@
     "round": 14,
     "pick": 11,
     "player_name": "Rashod Bateman",
-    "points": "19.3",
-    "before_trade": "19.3",
+    "points": "4.5",
+    "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-0.8",
-    "grade": "B"
+    "value_diff": "-22.3",
+    "grade": "D"
   },
   {
     "team": "Game of Zones: House Hamlin",
@@ -176,7 +176,7 @@
     "before_trade": "0.6",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "-13.1",
+    "value_diff": "-17.7",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 191,
-    "value_diff": "-9.1",
+    "value_diff": "-14.3",
     "grade": "C"
   }
 ]

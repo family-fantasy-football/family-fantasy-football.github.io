@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 19.8,
+    "projected": 14.11
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.1,
+    "projected": 12.23
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.5,
+    "projected": 8.59
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.6,
+    "projected": 17.16
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.8,
+    "projected": 8.16
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.9,
+    "projected": 5.5
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.1,
+    "projected": 6.11
+  },
+  {
+    "player_name": "Darius Slayton",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.9,
+    "projected": 5.56
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 15.86,
+    "projected": 19.64
+  }
+]

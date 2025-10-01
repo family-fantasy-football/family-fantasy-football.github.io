@@ -242,6 +242,102 @@
  {
   "team": "Rookie Mistake",
   "week": 3,
+  "player_name": "Marcus Mariota",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
+  "player_name": "Russell Wilson",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 3,
+  "player_name": "Luther Burden III",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 3,
+  "player_name": "Isaac TeSlaa",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
+  "player_name": "Dyami Brown",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
+  "player_name": "Elic Ayomanor",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 3,
+  "player_name": "Najee Harris",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 3,
+  "player_name": "Kareem Hunt",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 3
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 3,
+  "player_name": "Kenneth Gainwell",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 5
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 3,
+  "player_name": "Rashod Bateman",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 3,
+  "player_name": "Tre Tucker",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 18
+ },
+ {
+  "team": "90s MonCon",
+  "week": 3,
+  "player_name": "Isaiah Likely",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 3,
   "player_name": "Jayden Higgins",
   "position": "WR",
   "type": "FA",
@@ -261,6 +357,70 @@
   "player_name": "Carson Wentz",
   "position": "QB",
   "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 4,
+  "player_name": "Cedric Tillman",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 4,
+  "player_name": "Blake Corum",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 2
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 4,
+  "player_name": "Tyquan Thornton",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 4,
+  "player_name": "Darren Waller",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 9
+ },
+ {
+  "team": "90s MonCon",
+  "week": 4,
+  "player_name": "Joe Flacco",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 4,
+  "player_name": "Dillon Gabriel",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 16
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 4,
+  "player_name": "Tyquan Thornton",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 3
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 4,
+  "player_name": "Kayshon Boutte",
+  "position": "WR",
+  "type": "FA",
   "bid_amount": 0
  }
 ]

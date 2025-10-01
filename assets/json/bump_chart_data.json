@@ -15,7 +15,8 @@
     "data": [
       1,
       2,
-      3
+      3,
+      4
     ]
   },
   "yAxis": {
@@ -34,15 +35,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#ffbb78"
+        "color": "#1f77b4"
       },
       "itemStyle": {
-        "color": "#ffbb78"
+        "color": "#1f77b4"
       },
       "data": [
         7,
         4,
-        3
+        3,
+        1
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -58,15 +60,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "itemStyle": {
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "data": [
         4,
         8,
-        5
+        5,
+        4
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -89,6 +92,7 @@
       },
       "data": [
         12,
+        10,
         10,
         10
       ],
@@ -114,6 +118,7 @@
       "data": [
         11,
         12,
+        12,
         12
       ],
       "symbol": "circle",
@@ -138,6 +143,7 @@
       "data": [
         8,
         11,
+        11,
         11
       ],
       "symbol": "circle",
@@ -154,15 +160,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#1f77b4"
+        "color": "#aec7e8"
       },
       "itemStyle": {
-        "color": "#1f77b4"
+        "color": "#aec7e8"
       },
       "data": [
         1,
         1,
-        1
+        1,
+        2
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -178,15 +185,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#98df8a"
+        "color": "#9467bd"
       },
       "itemStyle": {
-        "color": "#98df8a"
+        "color": "#9467bd"
       },
       "data": [
         3,
         5,
-        4
+        4,
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -202,15 +210,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#8c564b"
+        "color": "#f7b6d2"
       },
       "itemStyle": {
-        "color": "#8c564b"
+        "color": "#f7b6d2"
       },
       "data": [
         10,
         9,
-        7
+        7,
+        9
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -226,15 +235,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#aec7e8"
+        "color": "#ffbb78"
       },
       "itemStyle": {
-        "color": "#aec7e8"
+        "color": "#ffbb78"
       },
       "data": [
         5,
         2,
-        2
+        2,
+        3
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -250,15 +260,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#f7b6d2"
+        "color": "#8c564b"
       },
       "itemStyle": {
-        "color": "#f7b6d2"
+        "color": "#8c564b"
       },
       "data": [
         9,
         7,
-        9
+        9,
+        7
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -274,15 +285,16 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#9467bd"
+        "color": "#d62728"
       },
       "itemStyle": {
-        "color": "#9467bd"
+        "color": "#d62728"
       },
       "data": [
         6,
         3,
-        6
+        6,
+        5
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -306,6 +318,7 @@
       "data": [
         2,
         6,
+        8,
         8
       ],
       "symbol": "circle",

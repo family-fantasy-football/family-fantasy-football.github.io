@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jalen Hurts",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 21.9,
+    "projected": 23.3
+  },
+  {
+    "player_name": "Christian McCaffrey",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 23.1,
+    "projected": 19.78
+  },
+  {
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 9.78,
+    "projected": 23.21
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 3.9,
+    "projected": 9.35
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.0,
+    "projected": 13.89
+  },
+  {
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 21.1,
+    "projected": 10.28
+  },
+  {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 8.55,
+    "projected": 10.15
+  },
+  {
+    "player_name": "Rome Odunze",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 14.9,
+    "projected": 13.02
+  },
+  {
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.5,
+    "projected": 11.92
+  }
+]

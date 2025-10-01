@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 35.8,
+    "projected": 21.36
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 23.0,
+    "projected": 15.58
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.6,
+    "projected": 12.33
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 14.6,
+    "projected": 9.94
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.3,
+    "projected": 9.03
+  },
+  {
+    "player_name": "Cam Skattebo",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 12.0,
+    "projected": 12.44
+  },
+  {
+    "player_name": "Chris Godwin Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.1,
+    "projected": 8.69
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.0,
+    "projected": 7.43
+  },
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 43.46,
+    "projected": 17.58
+  }
+]
