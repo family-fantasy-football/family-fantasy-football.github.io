@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 21.71,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.37,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "James Cook",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 15.55,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 15.3,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 14.19,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.0,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.79,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Elic Ayomanor",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 7.08,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Omarion Hampton",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 0.0,
+    "opponent": "MIA"
+  }
+]

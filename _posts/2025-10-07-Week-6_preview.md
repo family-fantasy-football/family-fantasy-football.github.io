@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 6 Matchups Preview
-date: 2025-10-07 12:00:32
+date: 2025-10-07 18:31:09
 description: preview of next weeks matchups
 tags: 2025-26, WeeklyPreview, Week6
 categories: league-previews
@@ -15,7 +15,7 @@ toc:
 ---
 ### 90s MonCon @ Emma's Excellent Team
 
-**Projected Score:** 90s MonCon 100.21 - 91.92 Emma's Excellent Team
+**Projected Score:** 90s MonCon 111.90 - 93.84 Emma's Excellent Team
 
 **Historical Matchup:** 0-0 
 
@@ -169,14 +169,14 @@ toc:
 
 **Emma's Excellent Team:** 
 Saquon Barkley (Questionable), 
-Brock Purdy (Out), 
+Brock Purdy (Questionable), 
 George Kittle (Injured Reserve), 
  
 **90s MonCon:** 
-Lamar Jackson (Out), 
-Brock Bowers (Out), 
-Jaylen Warren (Out), 
-Jauan Jennings (Out), 
+Lamar Jackson (Questionable), 
+Brock Bowers (Questionable), 
+Jaylen Warren (Questionable), 
+Jauan Jennings (Questionable), 
 
 #### Recent Form
 **Emma's Excellent Team:** 94.9 ppg last 3 weeks (5 game L streak) 
@@ -196,7 +196,7 @@ Jauan Jennings (Out),
 
 ### Rookie Mistake @ Michael's Managable Team
 
-**Projected Score:** Rookie Mistake 108.47 - 128.23 Michael's Managable Team
+**Projected Score:** Rookie Mistake 109.99 - 128.44 Michael's Managable Team
 
 **Historical Matchup:** 0-0 
 
@@ -349,7 +349,7 @@ Jauan Jennings (Out),
 
 
 **Michael's Managable Team:** 
-Ricky Pearsall (Out), 
+Ricky Pearsall (Questionable), 
  
 **Rookie Mistake:** 
 Omarion Hampton (Out), 
@@ -373,7 +373,7 @@ Jaxson Dart (Questionable),
 
 ### Third Time's the Charm? @ Mama Daughter Duo
 
-**Projected Score:** Third Time's the Charm? 120.10 - 103.19 Mama Daughter Duo
+**Projected Score:** Third Time's the Charm? 121.81 - 104.34 Mama Daughter Duo
 
 **Historical Matchup:** 0-0 
 
@@ -528,10 +528,10 @@ Jaxson Dart (Questionable),
 **Mama Daughter Duo:** 
  
 **Third Time's the Charm?:** 
-CeeDee Lamb (Out), 
+CeeDee Lamb (Questionable), 
 Brenton Strange (Questionable), 
-Tyrone Tracy Jr. (Out), 
-Bucky Irving (Out), 
+Tyrone Tracy Jr. (Questionable), 
+Bucky Irving (Questionable), 
 
 #### Recent Form
 **Mama Daughter Duo:** 133.7 ppg last 3 weeks (2 game L streak) 
@@ -551,7 +551,7 @@ Bucky Irving (Out),
 
 ### Game of Zones - House Hamlin @ Americas Team 
 
-**Projected Score:** Game of Zones - House Hamlin 112.41 - 131.41 Americas Team 
+**Projected Score:** Game of Zones - House Hamlin 112.90 - 133.59 Americas Team 
 
 **Historical Matchup:** 0-0 
 
@@ -704,7 +704,7 @@ Bucky Irving (Out),
 
 
 **Americas Team :** 
-Chuba Hubbard (Out), 
+Chuba Hubbard (Questionable), 
  
 **Game of Zones: House Hamlin:** 
 
@@ -726,7 +726,7 @@ Chuba Hubbard (Out),
 
 ### Mcconky Donkeys @ Big Titi Energy
 
-**Projected Score:** Mcconky Donkeys 122.16 - 78.81 Big Titi Energy
+**Projected Score:** Mcconky Donkeys 122.55 - 80.45 Big Titi Energy
 
 **Historical Matchup:** 0-0 
 
@@ -880,9 +880,10 @@ Chuba Hubbard (Out),
 
 **Big Titi Energy:** 
 J.J. McCarthy (Out), 
-Terry McLaurin (Out), 
+Terry McLaurin (Questionable), 
  
 **Mcconky Donkeys:** 
+Joe Mixon (Out), 
 Darius Slayton (Questionable), 
 Mike Evans (Out), 
 
@@ -904,7 +905,7 @@ Mike Evans (Out),
 
 ### Abbey's TNT Team  @ To Infinity and Bijan!
 
-**Projected Score:** Abbey's TNT Team  124.14 - 95.36 To Infinity and Bijan!
+**Projected Score:** Abbey's TNT Team  124.01 - 123.05 To Infinity and Bijan!
 
 **Historical Matchup:** 0-0 
 
@@ -1062,7 +1063,7 @@ Darnell Mooney (Questionable),
 Carson Wentz (Questionable), 
  
 **Abbey's TNT Team 🧨:** 
-Colston Loveland (Out), 
+Colston Loveland (Questionable), 
 Kalif Raymond (Questionable), 
 Tyreek Hill (Injured Reserve), 
 

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.35,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.21,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 11.77,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.09,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.7,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 8.19,
+    "opponent": "NE"
+  },
+  {
+    "player_name": "Hollywood Brown",
+    "pos": "WR",
+    "slot": "OP",
+    "projected": 7.83,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.7,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Trey Benson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 0.0,
+    "opponent": "IND"
+  }
+]

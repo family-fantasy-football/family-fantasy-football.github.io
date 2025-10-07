@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 22.64,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 15.19,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.37,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.04,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.84,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 12.43,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.5,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Sterling Shepard",
+    "pos": "WR",
+    "slot": "OP",
+    "projected": 7.1,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "Blake Corum",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 5.79,
+    "opponent": "BAL"
+  }
+]
