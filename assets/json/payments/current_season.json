@@ -83,11 +83,11 @@
   {
     "team": "Americas Team ",
     "manager": "Ryan Ratcliff",
-    "paid": "No",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
+    "paid": "Yes",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
     "penalties": "$0",
-    "net": "$0"
+    "net": "$5"
   },
   {
     "team": "Emma's Excellent Team",
