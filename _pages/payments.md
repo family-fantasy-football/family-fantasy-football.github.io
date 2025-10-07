@@ -20,13 +20,13 @@ data-toggle="table"
 data-url="{{ "/assets/json/payments/current_season.json" }}">
 <thead>
 <tr>
-<th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th>
-<th data-field="manager" data-halign="left" data-align="left" data-sortable="true">Manager</th>
+<th data-field="team" data-halign="left" data-align="left" data-sortable="false">Team</th>
+<th data-field="manager" data-halign="left" data-align="left" data-sortable="false">Manager</th>
 <th data-field="paid" data-halign="center" data-align="center" data-sortable="true">Paid Entry</th>
 <th data-field="high_scoring_weeks" data-halign="center" data-align="center" data-sortable="true">High Score Weeks</th>
-<th data-field="winnings" data-halign="center" data-align="center" data-sortable="true">Winnings</th>
-<th data-field="penalties" data-halign="center" data-align="center" data-sortable="true">Penalties</th>
-<th data-field="net" data-halign="center" data-align="center" data-sortable="true">Net</th>
+<th data-field="winnings" data-halign="center" data-align="center" data-sortable="false">Winnings</th>
+<th data-field="penalties" data-halign="center" data-align="center" data-sortable="false">Penalties</th>
+<th data-field="net" data-halign="center" data-align="center" data-sortable="false">Net</th>
 </tr>
 </thead>
 </table>

@@ -29,7 +29,7 @@
   {
     "team": "90s MonCon",
     "manager": "Connor Dickson and Monika Monko",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 2,
     "winnings": "$10",
     "penalties": "$0",
@@ -74,7 +74,7 @@
   {
     "team": "Fantasy Guru Kayden",
     "manager": "Kayden Mullins",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",
@@ -101,7 +101,7 @@
   {
     "team": "Big Titi Energy",
     "manager": "Christine Hamlin",
-    "paid": "No",
+    "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
     "penalties": "$0",

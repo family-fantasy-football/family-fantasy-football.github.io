@@ -1,11 +1,15 @@
 [
   {
-    "name": "90s MonCon",
-    "abbrev": "90s"
-  },
-  {
     "name": "Game of Zones - House Hamlin",
     "abbrev": "HMB"
+  },
+  {
+    "name": "Third Time's the Charm?",
+    "abbrev": "TTC"
+  },
+  {
+    "name": "90s MonCon",
+    "abbrev": "90s"
   },
   {
     "name": "Michael's Managable Team",
@@ -16,20 +20,8 @@
     "abbrev": "ARV"
   },
   {
-    "name": "Third Time's the Charm?",
-    "abbrev": "TTC"
-  },
-  {
-    "name": "Mama Daughter Duo",
-    "abbrev": "JST"
-  },
-  {
     "name": "Rookie Mistake",
     "abbrev": "TOM"
-  },
-  {
-    "name": "To Infinity and Bijan!",
-    "abbrev": "TIB"
   },
   {
     "name": "Mcconky Donkeys",
@@ -40,11 +32,19 @@
     "abbrev": "RRT"
   },
   {
-    "name": "Emma's Excellent Team",
-    "abbrev": "EET"
+    "name": "Mama Daughter Duo",
+    "abbrev": "JST"
+  },
+  {
+    "name": "To Infinity and Bijan!",
+    "abbrev": "TIB"
   },
   {
     "name": "Big Titi Energy",
     "abbrev": "BTE"
+  },
+  {
+    "name": "Emma's Excellent Team",
+    "abbrev": "EET"
   }
 ]

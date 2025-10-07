@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 43.64,
+    "projected": 15.48
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 26.0,
+    "projected": 12.95
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 23.2,
+    "projected": 12.87
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 20.22,
+    "projected": 12.14
+  },
+  {
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.7,
+    "projected": 8.86
+  },
+  {
+    "player_name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.75,
+    "projected": 7.27
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.9,
+    "projected": 8.53
+  },
+  {
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.4,
+    "projected": 6.85
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 29.56,
+    "projected": 19.23
+  }
+]

@@ -1,35 +1,35 @@
 [
   {
     "category": "Record",
-    "value": "2-2-0"
+    "value": "3-2-0"
   },
   {
     "category": "Points For",
-    "value": "375.84"
+    "value": "505.64"
   },
   {
     "category": "Avg Points For",
-    "value": "93.96"
+    "value": "101.13"
   },
   {
     "category": "Points Against",
-    "value": "403.24"
+    "value": "523.49"
   },
   {
     "category": "Avg Points Against",
-    "value": "100.81"
+    "value": "104.70"
   },
   {
     "category": "Points Left on Bench",
-    "value": "60.14"
+    "value": "66.84"
   },
   {
     "category": "Efficiency",
-    "value": "86.21%"
+    "value": "88.32%"
   },
   {
     "category": "Current Streak",
-    "value": "1 L"
+    "value": "1 W"
   },
   {
     "category": "Longest Win Streak",
@@ -41,15 +41,15 @@
   },
   {
     "category": "Expected Wins",
-    "value": "0.909"
+    "value": "1.545"
   },
   {
     "category": "Actual Wins",
-    "value": "2"
+    "value": "3"
   },
   {
     "category": "Luck Factor",
-    "value": "1.091"
+    "value": "1.455"
   },
   {
     "category": "Close Games",
@@ -57,6 +57,6 @@
   },
   {
     "category": "Season Pattern",
-    "value": "LWWL"
+    "value": "LWWLW"
   }
 ]

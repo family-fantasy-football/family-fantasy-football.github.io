@@ -5,120 +5,175 @@
   },
   "tooltip": {
     "trigger": "item",
-    "formatter": "{b}"
+    "formatter": "{a}"
+  },
+  "legend": {
+    "orient": "vertical",
+    "right": "2%",
+    "top": "middle",
+    "data": [
+      "Third Time's the Charm?",
+      "90s MonCon",
+      "Rookie Mistake",
+      "Americas Team ",
+      "Michael's Managable Team",
+      "To Infinity and Bijan!",
+      "Mcconky Donkeys",
+      "Mama Daughter Duo",
+      "Abbey's TNT Team ",
+      "Game of Zones - House Hamlin",
+      "Emma's Excellent Team",
+      "Big Titi Energy"
+    ]
   },
   "xAxis": {
     "type": "value",
     "name": "Points For",
     "nameLocation": "middle",
     "nameGap": 30,
-    "min": 164.0,
-    "max": 712.0
+    "min": 311.0,
+    "max": 865.0
   },
   "yAxis": {
     "type": "value",
     "name": "Points Against",
     "nameLocation": "middle",
     "nameGap": 40,
-    "min": 164.0,
-    "max": 712.0
+    "min": 311.0,
+    "max": 865.0
   },
   "series": [
     {
-      "name": "Teams",
+      "name": "Third Time's the Charm?",
       "type": "scatter",
       "symbolSize": 15,
       "data": [
-        {
-          "name": "Third Time's the Charm?",
-          "value": [
-            460.17,
-            386.12
-          ]
-        },
-        {
-          "name": "90s MonCon",
-          "value": [
-            555.29,
-            425.91
-          ]
-        },
-        {
-          "name": "Rookie Mistake",
-          "value": [
-            479.61,
-            450.9
-          ]
-        },
-        {
-          "name": "Americas Team ",
-          "value": [
-            484.86,
-            502.97
-          ]
-        },
-        {
-          "name": "Michael's Managable Team",
-          "value": [
-            538.54,
-            476.52
-          ]
-        },
-        {
-          "name": "To Infinity and Bijan!",
-          "value": [
-            461.65,
-            507.51
-          ]
-        },
-        {
-          "name": "Mcconky Donkeys",
-          "value": [
-            375.84,
-            403.24
-          ]
-        },
-        {
-          "name": "Mama Daughter Duo",
-          "value": [
-            533.49,
-            526.86
-          ]
-        },
-        {
-          "name": "Abbey's TNT Team ",
-          "value": [
-            506.56,
-            459.37
-          ]
-        },
-        {
-          "name": "Game of Zones - House Hamlin",
-          "value": [
-            546.31,
-            424.52
-          ]
-        },
-        {
-          "name": "Emma's Excellent Team",
-          "value": [
-            355.83,
-            486.92
-          ]
-        },
-        {
-          "name": "Big Titi Energy",
-          "value": [
-            314.47,
-            561.78
-          ]
-        }
-      ],
-      "label": {
-        "show": true,
-        "position": "top",
-        "formatter": "{b}"
-      }
+        [
+          625.62,
+          545.61
+        ]
+      ]
+    },
+    {
+      "name": "90s MonCon",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          714.78,
+          591.36
+        ]
+      ]
+    },
+    {
+      "name": "Rookie Mistake",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          600.01,
+          556.04
+        ]
+      ]
+    },
+    {
+      "name": "Americas Team ",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          663.13,
+          648.67
+        ]
+      ]
+    },
+    {
+      "name": "Michael's Managable Team",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          658.45,
+          599.39
+        ]
+      ]
+    },
+    {
+      "name": "To Infinity and Bijan!",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          593.87,
+          655.36
+        ]
+      ]
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          505.64,
+          523.49
+        ]
+      ]
+    },
+    {
+      "name": "Mama Daughter Duo",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          653.74,
+          656.66
+        ]
+      ]
+    },
+    {
+      "name": "Abbey's TNT Team ",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          652.26,
+          637.64
+        ]
+      ]
+    },
+    {
+      "name": "Game of Zones - House Hamlin",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          669.18,
+          544.43
+        ]
+      ]
+    },
+    {
+      "name": "Emma's Excellent Team",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          460.97,
+          607.32
+        ]
+      ]
+    },
+    {
+      "name": "Big Titi Energy",
+      "type": "scatter",
+      "symbolSize": 15,
+      "data": [
+        [
+          462.32,
+          694.0
+        ]
+      ]
     },
     {
       "name": "Diagonal",
@@ -130,14 +185,15 @@
       "showSymbol": false,
       "data": [
         [
-          164.0,
-          164.0
+          311.0,
+          311.0
         ],
         [
-          712.0,
-          712.0
+          865.0,
+          865.0
         ]
-      ]
+      ],
+      "silent": true
     },
     {
       "name": "Average Lines",
@@ -146,26 +202,27 @@
         "silent": true,
         "data": [
           {
-            "xAxis": 467.72,
+            "xAxis": 605.0,
             "lineStyle": {
               "color": "blue",
               "opacity": 0.5
             }
           },
           {
-            "yAxis": 467.72,
+            "yAxis": 605.0,
             "lineStyle": {
               "color": "red",
               "opacity": 0.5
             }
           }
         ]
-      }
+      },
+      "silent": true
     }
   ],
   "grid": {
     "left": "0%",
-    "right": "5%",
+    "right": "26%",
     "bottom": "10%",
     "top": "10%",
     "containLabel": true

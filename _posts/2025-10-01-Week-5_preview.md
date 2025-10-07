@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 5 Matchups Preview
-date: 2025-10-01 15:06:06
+date: 2025-10-01 17:08:03
 description: preview of next weeks matchups
 tags: 2025-26, WeeklyPreview, Week5
 categories: league-previews
@@ -15,7 +15,7 @@ toc:
 ---
 ### Emma's Excellent Team @ Rookie Mistake
 
-**Projected Score:** Emma's Excellent Team 100.92 - 128.66 Rookie Mistake
+**Projected Score:** Emma's Excellent Team 86.94 - 128.66 Rookie Mistake
 
 **Historical Matchup:** 0-0 
 
@@ -169,6 +169,7 @@ Joe Burrow (Injured Reserve),
 Jaxson Dart (Questionable), 
  
 **Emma's Excellent Team:** 
+Trey Benson (Out), 
 Brock Purdy (Questionable), 
 
 #### Recent Form
@@ -189,7 +190,7 @@ Brock Purdy (Questionable),
 
 ### 90s MonCon @ Third Time's the Charm?
 
-**Projected Score:** 90s MonCon 116.08 - 122.56 Third Time's the Charm?
+**Projected Score:** 90s MonCon 116.08 - 116.48 Third Time's the Charm?
 
 **Historical Matchup:** 0-0 
 
@@ -693,10 +694,8 @@ Ricky Pearsall (Questionable),
 **Mcconky Donkeys:** 
 Joe Mixon (Out), 
 Mike Evans (Out), 
-Jayden Daniels (Questionable), 
  
 **Mama Daughter Duo:** 
-Jalen Coker (Injured Reserve), 
 
 #### Recent Form
 **Mcconky Donkeys:** 91.6 ppg last 3 weeks (1 game L streak) 
@@ -868,7 +867,7 @@ Jalen Coker (Injured Reserve),
 **Abbey's TNT Team 🧨:** 
 Xavier Legette (Questionable), 
 Colston Loveland (Questionable), 
-Tyreek Hill (Out), 
+Tyreek Hill (Injured Reserve), 
 Calvin Ridley (Questionable), 
  
 **Americas Team :** 

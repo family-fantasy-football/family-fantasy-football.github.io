@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 11,
     "player_name": "Jayden Daniels",
-    "points": "38.3",
-    "before_trade": "38.3",
+    "points": "54.0",
+    "before_trade": "54.0",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-61.3",
+    "value_diff": "-70.6",
     "grade": "D"
   },
   {
@@ -16,35 +16,35 @@
     "round": 2,
     "pick": 2,
     "player_name": "Baker Mayfield",
-    "points": "80.6",
-    "before_trade": "80.6",
+    "points": "121.7",
+    "before_trade": "121.7",
     "after_trade": "0.0",
     "draft_position": 14,
-    "value_diff": "-11.5",
-    "grade": "C"
+    "value_diff": "6.7",
+    "grade": "B"
   },
   {
     "team": "Mcconky Donkeys",
     "round": 3,
     "pick": 11,
     "player_name": "Brian Thomas Jr.",
-    "points": "30.0",
-    "before_trade": "30.0",
+    "points": "40.0",
+    "before_trade": "40.0",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-22.3",
-    "grade": "D"
+    "value_diff": "-25.4",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
     "round": 4,
     "pick": 2,
     "player_name": "De'Von Achane",
-    "points": "66.4",
-    "before_trade": "66.4",
+    "points": "80.0",
+    "before_trade": "80.0",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "2.8",
+    "value_diff": "0.5",
     "grade": "B"
   },
   {
@@ -52,12 +52,12 @@
     "round": 5,
     "pick": 11,
     "player_name": "Ladd McConkey",
-    "points": "25.4",
-    "before_trade": "25.4",
+    "points": "37.8",
+    "before_trade": "37.8",
     "after_trade": "0.0",
     "draft_position": 59,
-    "value_diff": "-21.0",
-    "grade": "D"
+    "value_diff": "-20.2",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
@@ -68,20 +68,20 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 62,
-    "value_diff": "-19.0",
-    "grade": "C"
+    "value_diff": "-30.5",
+    "grade": "D"
   },
   {
     "team": "Mcconky Donkeys",
     "round": 7,
     "pick": 11,
     "player_name": "Isiah Pacheco",
-    "points": "24.3",
-    "before_trade": "24.3",
+    "points": "31.4",
+    "before_trade": "31.4",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "-21.0",
-    "grade": "D"
+    "value_diff": "-25.2",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
@@ -92,7 +92,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "-31.0",
+    "value_diff": "-38.7",
     "grade": "D"
   },
   {
@@ -100,12 +100,12 @@
     "round": 9,
     "pick": 11,
     "player_name": "David Njoku",
-    "points": "23.3",
-    "before_trade": "23.3",
+    "points": "40.5",
+    "before_trade": "40.5",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-14.0",
-    "grade": "C"
+    "value_diff": "-6.1",
+    "grade": "B"
   },
   {
     "team": "Mcconky Donkeys",
@@ -116,7 +116,7 @@
     "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-35.5",
+    "value_diff": "-46.2",
     "grade": "D"
   },
   {
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 11,
     "player_name": "Evan Engram",
-    "points": "12.2",
-    "before_trade": "12.2",
+    "points": "24.5",
+    "before_trade": "24.5",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-22.8",
-    "grade": "D"
+    "value_diff": "-19.2",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
@@ -140,7 +140,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 134,
-    "value_diff": "-25.4",
+    "value_diff": "-31.8",
     "grade": "D"
   },
   {
@@ -152,19 +152,19 @@
     "before_trade": "79.5",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "16.6",
-    "grade": "A"
+    "value_diff": "0.8",
+    "grade": "B"
   },
   {
     "team": "Mcconky Donkeys",
     "round": 14,
     "pick": 2,
     "player_name": "Wan'Dale Robinson",
-    "points": "38.7",
-    "before_trade": "38.7",
+    "points": "44.4",
+    "before_trade": "44.4",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "10.9",
+    "value_diff": "9.6",
     "grade": "B"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 179,
-    "value_diff": "-15.1",
+    "value_diff": "-19.4",
     "grade": "C"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 2,
     "player_name": "Darius Slayton",
-    "points": "18.0",
-    "before_trade": "18.0",
+    "points": "20.6",
+    "before_trade": "20.6",
     "after_trade": "0.0",
     "draft_position": 182,
-    "value_diff": "-4.6",
+    "value_diff": "-7.6",
     "grade": "B"
   }
 ]

@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 12,
     "player_name": "Patrick Mahomes",
-    "points": "91.1",
-    "before_trade": "91.1",
+    "points": "122.3",
+    "before_trade": "122.3",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "-0.7",
+    "value_diff": "7.6",
     "grade": "B"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "30.2",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-30.6",
+    "value_diff": "-45.8",
     "grade": "D"
   },
   {
@@ -32,19 +32,19 @@
     "before_trade": "62.5",
     "after_trade": "0.0",
     "draft_position": 36,
-    "value_diff": "2.1",
-    "grade": "B"
+    "value_diff": "-13.0",
+    "grade": "C"
   },
   {
     "team": "Third Time's the Charm?",
     "round": 4,
     "pick": 1,
     "player_name": "Chase Brown",
-    "points": "32.2",
-    "before_trade": "32.2",
+    "points": "40.5",
+    "before_trade": "40.5",
     "after_trade": "0.0",
     "draft_position": 37,
-    "value_diff": "-26.4",
+    "value_diff": "-32.7",
     "grade": "D"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 12,
     "player_name": "Xavier Worthy",
-    "points": "14.6",
-    "before_trade": "14.6",
+    "points": "22.7",
+    "before_trade": "22.7",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-18.5",
+    "value_diff": "-18.7",
     "grade": "C"
   },
   {
@@ -64,24 +64,24 @@
     "round": 6,
     "pick": 1,
     "player_name": "Trevor Lawrence",
-    "points": "41.0",
+    "points": "71.2",
     "before_trade": "0.0",
-    "after_trade": "41.0",
+    "after_trade": "71.2",
     "draft_position": 61,
-    "value_diff": "-31.6",
-    "grade": "D"
+    "value_diff": "-19.6",
+    "grade": "C"
   },
   {
     "team": "Third Time's the Charm?",
     "round": 7,
     "pick": 12,
     "player_name": "Jerry Jeudy",
-    "points": "24.7",
-    "before_trade": "24.7",
+    "points": "27.2",
+    "before_trade": "27.2",
     "after_trade": "0.0",
     "draft_position": 84,
-    "value_diff": "-19.2",
-    "grade": "C"
+    "value_diff": "-27.6",
+    "grade": "D"
   },
   {
     "team": "Third Time's the Charm?",
@@ -92,7 +92,7 @@
     "before_trade": "0.0",
     "after_trade": "16.5",
     "draft_position": 85,
-    "value_diff": "-28.4",
+    "value_diff": "-39.6",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 12,
     "player_name": "Stefon Diggs",
-    "points": "30.8",
-    "before_trade": "30.8",
+    "points": "50.4",
+    "before_trade": "50.4",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "0.7",
+    "value_diff": "12.8",
     "grade": "B"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 1,
     "player_name": "Cam Skattebo",
-    "points": "47.9",
-    "before_trade": "47.9",
+    "points": "59.3",
+    "before_trade": "59.3",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "18.4",
+    "value_diff": "22.4",
     "grade": "A"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 12,
     "player_name": "Bryce Young",
-    "points": "47.9",
-    "before_trade": "47.9",
+    "points": "62.4",
+    "before_trade": "62.4",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-17.2",
+    "value_diff": "-19.0",
     "grade": "C"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 1,
     "player_name": "Chris Godwin Jr.",
-    "points": "4.1",
-    "before_trade": "4.1",
+    "points": "8.2",
+    "before_trade": "8.2",
     "after_trade": "0.0",
     "draft_position": 133,
-    "value_diff": "-31.6",
+    "value_diff": "-36.4",
     "grade": "D"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "0.0",
     "after_trade": "39.4",
     "draft_position": 156,
-    "value_diff": "9.4",
+    "value_diff": "1.9",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "14.3",
     "after_trade": "0.0",
     "draft_position": 157,
-    "value_diff": "-5.8",
+    "value_diff": "-10.9",
     "grade": "C"
   },
   {
@@ -172,11 +172,11 @@
     "round": 15,
     "pick": 12,
     "player_name": "Brenton Strange",
-    "points": "32.5",
-    "before_trade": "32.5",
+    "points": "35.4",
+    "before_trade": "35.4",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "3.2",
+    "value_diff": "-1.1",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 181,
-    "value_diff": "-22.1",
+    "value_diff": "-27.6",
     "grade": "D"
   }
 ]

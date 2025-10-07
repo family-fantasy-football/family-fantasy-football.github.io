@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 31.62,
+    "projected": 23.08
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.8,
+    "projected": 10.7
+  },
+  {
+    "player_name": "Travis Hunter",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.9,
+    "projected": 7.06
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.9,
+    "projected": 11.25
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.4,
+    "projected": 13.68
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 12.4,
+    "projected": 10.17
+  },
+  {
+    "player_name": "Omarion Hampton",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 17.02
+  },
+  {
+    "player_name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 7.8,
+    "projected": 7.0
+  },
+  {
+    "player_name": "Mac Jones",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 26.68,
+    "projected": 14.81
+  }
+]

@@ -4,24 +4,24 @@
     "round": 1,
     "pick": 8,
     "player_name": "Breece Hall",
-    "points": "41.1",
-    "before_trade": "41.1",
+    "points": "56.6",
+    "before_trade": "56.6",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "-6.8",
-    "grade": "C"
+    "value_diff": "-3.3",
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
     "round": 2,
     "pick": 5,
     "player_name": "C.J. Stroud",
-    "points": "62.0",
-    "before_trade": "62.0",
+    "points": "106.2",
+    "before_trade": "106.2",
     "after_trade": "0.0",
     "draft_position": 17,
-    "value_diff": "-10.6",
-    "grade": "C"
+    "value_diff": "15.6",
+    "grade": "B"
   },
   {
     "team": "Big Titi Energy",
@@ -32,7 +32,7 @@
     "before_trade": "24.0",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-52.9",
+    "value_diff": "-72.1",
     "grade": "D"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 5,
     "player_name": "Tee Higgins",
-    "points": "24.6",
-    "before_trade": "24.6",
+    "points": "34.3",
+    "before_trade": "34.3",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "-26.7",
+    "value_diff": "-29.9",
     "grade": "D"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 8,
     "player_name": "Kenneth Walker III",
-    "points": "51.2",
-    "before_trade": "51.2",
+    "points": "60.3",
+    "before_trade": "60.3",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "0.4",
+    "value_diff": "-3.2",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "19.9",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "-28.3",
+    "value_diff": "-40.3",
     "grade": "D"
   },
   {
@@ -80,19 +80,19 @@
     "before_trade": "30.8",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-14.8",
-    "grade": "C"
+    "value_diff": "-26.2",
+    "grade": "D"
   },
   {
     "team": "Big Titi Energy",
     "round": 8,
     "pick": 5,
     "player_name": "Dallas Goedert",
-    "points": "38.4",
-    "before_trade": "38.4",
+    "points": "48.5",
+    "before_trade": "48.5",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "5.3",
+    "value_diff": "7.2",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 104,
-    "value_diff": "-29.4",
+    "value_diff": "-36.7",
     "grade": "D"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 5,
     "player_name": "Zach Charbonnet",
-    "points": "23.1",
-    "before_trade": "23.1",
+    "points": "34.4",
+    "before_trade": "34.4",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "-5.6",
+    "value_diff": "-1.5",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 8,
     "player_name": "Christian Kirk",
-    "points": "7.5",
-    "before_trade": "7.5",
+    "points": "15.9",
+    "before_trade": "15.9",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-17.2",
+    "value_diff": "-15.0",
     "grade": "C"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 5,
     "player_name": "Jerome Ford",
-    "points": "12.7",
-    "before_trade": "12.7",
+    "points": "17.5",
+    "before_trade": "17.5",
     "after_trade": "0.0",
     "draft_position": 137,
-    "value_diff": "-10.7",
+    "value_diff": "-11.7",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 8,
     "player_name": "Dalton Kincaid",
-    "points": "46.4",
-    "before_trade": "46.4",
+    "points": "61.7",
+    "before_trade": "61.7",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "15.1",
+    "value_diff": "22.6",
     "grade": "A"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 5,
     "player_name": "DeMario Douglas",
-    "points": "10.2",
-    "before_trade": "10.2",
+    "points": "12.9",
+    "before_trade": "12.9",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "-16.4",
+    "value_diff": "-20.4",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 176,
-    "value_diff": "-13.1",
+    "value_diff": "-16.4",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 185,
-    "value_diff": "-17.3",
+    "value_diff": "-21.6",
     "grade": "C"
   }
 ]

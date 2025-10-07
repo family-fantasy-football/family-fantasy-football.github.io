@@ -1,82 +1,82 @@
 [
   {
-    "player_name": "Lamar Jackson",
-    "team": "90s MonCon",
-    "draft": "1.1",
-    "overall_pick": 1,
-    "points": 120.36,
-    "projected": 99.8
-  },
-  {
     "player_name": "Josh Allen",
     "team": "Game of Zones - House Hamlin",
     "draft": "1.2",
     "overall_pick": 2,
-    "points": 118.96,
-    "projected": 95.04
-  },
-  {
-    "player_name": "Drake Maye",
-    "team": "Michael's Managable Team",
-    "draft": "3.6",
-    "overall_pick": 30,
-    "points": 111.52,
-    "projected": 78.01
-  },
-  {
-    "player_name": "Jared Goff",
-    "team": "Rookie Mistake",
-    "draft": "3.7",
-    "overall_pick": 31,
-    "points": 101.26,
-    "projected": 77.84
+    "points": 144.38,
+    "projected": 118.8
   },
   {
     "player_name": "Dak Prescott",
     "team": "Third Time's the Charm?",
     "draft": "3.3",
     "overall_pick": 27,
-    "points": 100.46,
-    "projected": 79.26
+    "points": 134.74,
+    "projected": 99.08
   },
   {
-    "player_name": "Jalen Hurts",
-    "team": "Mama Daughter Duo",
-    "draft": "1.10",
-    "overall_pick": 10,
-    "points": 98.26,
-    "projected": 96.52
+    "player_name": "Jared Goff",
+    "team": "Rookie Mistake",
+    "draft": "3.7",
+    "overall_pick": 31,
+    "points": 132.88,
+    "projected": 97.3
   },
   {
-    "player_name": "Daniel Jones",
+    "player_name": "Drake Maye",
     "team": "Michael's Managable Team",
-    "draft": "14.7",
-    "overall_pick": 163,
-    "points": 96.02,
-    "projected": 52.54
-  },
-  {
-    "player_name": "Jordan Love",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "4.11",
-    "overall_pick": 47,
-    "points": 95.2,
-    "projected": 70.22
+    "draft": "3.6",
+    "overall_pick": 30,
+    "points": 126.64,
+    "projected": 97.51
   },
   {
     "player_name": "Patrick Mahomes",
     "team": "Third Time's the Charm?",
     "draft": "1.12",
     "overall_pick": 12,
-    "points": 91.06,
-    "projected": 91.76
+    "points": 122.28,
+    "projected": 114.7
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "team": "Mcconky Donkeys",
+    "draft": "2.2",
+    "overall_pick": 14,
+    "points": 121.72,
+    "projected": 115.02
+  },
+  {
+    "player_name": "Lamar Jackson",
+    "team": "90s MonCon",
+    "draft": "1.1",
+    "overall_pick": 1,
+    "points": 120.36,
+    "projected": 124.75
   },
   {
     "player_name": "Matthew Stafford",
     "team": "Americas Team ",
     "draft": "7.5",
     "overall_pick": 77,
-    "points": 90.16,
-    "projected": 75.89
+    "points": 119.72,
+    "projected": 94.86
+  },
+  {
+    "player_name": "Jalen Hurts",
+    "team": "Mama Daughter Duo",
+    "draft": "1.10",
+    "overall_pick": 10,
+    "points": 118.26,
+    "projected": 120.64
+  },
+  {
+    "player_name": "Daniel Jones",
+    "team": "Michael's Managable Team",
+    "draft": "14.7",
+    "overall_pick": 163,
+    "points": 117.7,
+    "projected": 65.67
   }
 ]
