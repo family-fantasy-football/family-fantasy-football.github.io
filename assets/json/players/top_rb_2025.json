@@ -4,79 +4,79 @@
     "team": "90s MonCon",
     "draft": "2.12",
     "overall_pick": 24,
-    "points": 113.3,
-    "projected": 80.13
+    "points": 135.0,
+    "projected": 96.16
   },
   {
     "player_name": "Christian McCaffrey",
     "team": "Mama Daughter Duo",
     "draft": "2.3",
     "overall_pick": 15,
-    "points": 104.4,
-    "projected": 83.13
-  },
-  {
-    "player_name": "Javonte Williams",
-    "team": "To Infinity and Bijan!",
-    "draft": "10.4",
-    "overall_pick": 112,
-    "points": 95.0,
-    "projected": 57.9
-  },
-  {
-    "player_name": "James Cook",
-    "team": "Rookie Mistake",
-    "draft": "4.6",
-    "overall_pick": 42,
-    "points": 89.9,
-    "projected": 74.0
-  },
-  {
-    "player_name": "Jahmyr Gibbs",
-    "team": "Michael's Managable Team",
-    "draft": "1.6",
-    "overall_pick": 6,
-    "points": 84.7,
-    "projected": 84.44
-  },
-  {
-    "player_name": "De'Von Achane",
-    "team": "Mcconky Donkeys",
-    "draft": "4.2",
-    "overall_pick": 38,
-    "points": 80.0,
-    "projected": 79.51
+    "points": 125.0,
+    "projected": 99.75
   },
   {
     "player_name": "Bijan Robinson",
     "team": "Abbey's TNT Team ",
     "draft": "1.4",
     "overall_pick": 4,
-    "points": 79.4,
-    "projected": 90.63
+    "points": 112.2,
+    "projected": 108.75
+  },
+  {
+    "player_name": "De'Von Achane",
+    "team": "Mcconky Donkeys",
+    "draft": "4.2",
+    "overall_pick": 38,
+    "points": 109.0,
+    "projected": 95.41
+  },
+  {
+    "player_name": "Javonte Williams",
+    "team": "To Infinity and Bijan!",
+    "draft": "10.4",
+    "overall_pick": 112,
+    "points": 100.9,
+    "projected": 69.48
+  },
+  {
+    "player_name": "James Cook III",
+    "team": "Rookie Mistake",
+    "draft": "4.6",
+    "overall_pick": 42,
+    "points": 98.6,
+    "projected": 88.8
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "team": "To Infinity and Bijan!",
+    "draft": "4.4",
+    "overall_pick": 40,
+    "points": 97.0,
+    "projected": 92.54
   },
   {
     "player_name": "Kyren Williams",
     "team": "Abbey's TNT Team ",
     "draft": "4.9",
     "overall_pick": 45,
-    "points": 76.6,
-    "projected": 78.32
+    "points": 92.3,
+    "projected": 93.98
   },
   {
-    "player_name": "Saquon Barkley",
-    "team": "Emma's Excellent Team",
-    "draft": "1.3",
-    "overall_pick": 3,
-    "points": 72.0,
-    "projected": 88.88
+    "player_name": "Jahmyr Gibbs",
+    "team": "Michael's Managable Team",
+    "draft": "1.6",
+    "overall_pick": 6,
+    "points": 91.7,
+    "projected": 101.33
   },
   {
-    "player_name": "Travis Etienne Jr.",
-    "team": "Americas Team ",
-    "draft": "11.5",
-    "overall_pick": 125,
-    "points": 70.9,
-    "projected": 48.25
+    "player_name": "Cam Skattebo",
+    "team": "Third Time's the Charm?",
+    "draft": "10.1",
+    "overall_pick": 109,
+    "points": 89.3,
+    "projected": 44.24
   }
 ]

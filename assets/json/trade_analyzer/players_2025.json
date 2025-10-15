@@ -4,9 +4,9 @@
     "name": "Patrick Mahomes",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 122.28,
-    "avg_points": 24.46,
-    "ros_projection": 275.28
+    "total_points": 162.76,
+    "avg_points": 27.13,
+    "ros_projection": 252.34
   },
   {
     "id": 4241389,
@@ -15,7 +15,7 @@
     "team": "Third Time's the Charm?",
     "total_points": 30.2,
     "avg_points": 10.07,
-    "ros_projection": 182.51
+    "ros_projection": 167.3
   },
   {
     "id": 4596448,
@@ -24,79 +24,61 @@
     "team": "Third Time's the Charm?",
     "total_points": 62.5,
     "avg_points": 15.62,
-    "ros_projection": 181.23
+    "ros_projection": 166.13
   },
   {
     "id": 4362238,
     "name": "Chase Brown",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 40.5,
-    "avg_points": 8.1,
-    "ros_projection": 175.79
+    "total_points": 48.4,
+    "avg_points": 8.07,
+    "ros_projection": 161.14
   },
   {
     "id": 4683062,
     "name": "Xavier Worthy",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 22.7,
-    "avg_points": 7.57,
-    "ros_projection": 99.34
+    "total_points": 32.3,
+    "avg_points": 8.07,
+    "ros_projection": 91.06
   },
   {
     "id": 4241463,
     "name": "Jerry Jeudy",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 27.2,
-    "avg_points": 5.44,
-    "ros_projection": 131.56
+    "total_points": 34.0,
+    "avg_points": 5.67,
+    "ros_projection": 120.59
   },
   {
     "id": 2976212,
     "name": "Stefon Diggs",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 50.4,
-    "avg_points": 10.08,
-    "ros_projection": 90.22
+    "total_points": 54.7,
+    "avg_points": 9.12,
+    "ros_projection": 82.7
   },
   {
     "id": 4696981,
     "name": "Cam Skattebo",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 59.3,
-    "avg_points": 11.86,
-    "ros_projection": 88.48
+    "total_points": 89.3,
+    "avg_points": 14.88,
+    "ros_projection": 81.11
   },
   {
     "id": 4685720,
     "name": "Bryce Young",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 62.44,
-    "avg_points": 12.49,
-    "ros_projection": 195.44
-  },
-  {
-    "id": 3116165,
-    "name": "Chris Godwin Jr.",
-    "position": "WR",
-    "team": "Third Time's the Charm?",
-    "total_points": 8.2,
-    "avg_points": 4.1,
-    "ros_projection": 107.12
-  },
-  {
-    "id": 4430539,
-    "name": "Brenton Strange",
-    "position": "TE",
-    "team": "Third Time's the Charm?",
-    "total_points": 35.4,
-    "avg_points": 7.08,
-    "ros_projection": 87.68
+    "total_points": 87.4,
+    "avg_points": 14.57,
+    "ros_projection": 179.16
   },
   {
     "id": 4360438,
@@ -105,52 +87,70 @@
     "team": "Third Time's the Charm?",
     "total_points": 0.0,
     "avg_points": 0.0,
-    "ros_projection": 66.33
+    "ros_projection": 60.8
   },
   {
     "id": 2577417,
     "name": "Dak Prescott",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 134.74,
-    "avg_points": 26.95,
-    "ros_projection": 237.78
+    "total_points": 166.58,
+    "avg_points": 27.76,
+    "ros_projection": 217.97
   },
   {
     "id": 4360516,
     "name": "Tyrone Tracy Jr.",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 16.2,
-    "avg_points": 5.4,
-    "ros_projection": 132.11
+    "total_points": 16.8,
+    "avg_points": 4.2,
+    "ros_projection": 121.1
   },
   {
     "id": 4568490,
     "name": "RJ Harvey",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 35.7,
-    "avg_points": 7.14,
-    "ros_projection": 130.07
+    "total_points": 40.2,
+    "avg_points": 6.7,
+    "ros_projection": 119.23
   },
   {
     "id": 2576925,
     "name": "Darren Waller",
     "position": "TE",
     "team": "Third Time's the Charm?",
-    "total_points": 34.5,
-    "avg_points": 17.25,
-    "ros_projection": 83.71
+    "total_points": 43.2,
+    "avg_points": 14.4,
+    "ros_projection": 76.73
   },
   {
     "id": 4038815,
     "name": "Rico Dowdle",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 49.7,
-    "avg_points": 9.94,
-    "ros_projection": 51.66
+    "total_points": 81.6,
+    "avg_points": 13.6,
+    "ros_projection": 47.36
+  },
+  {
+    "id": 4808766,
+    "name": "Mason Taylor",
+    "position": "TE",
+    "team": "Third Time's the Charm?",
+    "total_points": 35.45,
+    "avg_points": 5.91,
+    "ros_projection": 75.31
+  },
+  {
+    "id": 4432710,
+    "name": "TreVeyon Henderson",
+    "position": "RB",
+    "team": "Third Time's the Charm?",
+    "total_points": 38.7,
+    "avg_points": 6.45,
+    "ros_projection": 130.87
   },
   {
     "id": 3916387,
@@ -159,16 +159,16 @@
     "team": "90s MonCon",
     "total_points": 120.36,
     "avg_points": 30.09,
-    "ros_projection": 299.4
+    "ros_projection": 274.45
   },
   {
     "id": 4242335,
     "name": "Jonathan Taylor",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 113.3,
-    "avg_points": 22.66,
-    "ros_projection": 192.32
+    "total_points": 135.0,
+    "avg_points": 22.5,
+    "ros_projection": 176.29
   },
   {
     "id": 4258173,
@@ -177,16 +177,16 @@
     "team": "90s MonCon",
     "total_points": 59.0,
     "avg_points": 11.8,
-    "ros_projection": 168.71
+    "ros_projection": 154.65
   },
   {
     "id": 4241479,
     "name": "Tua Tagovailoa",
     "position": "QB",
     "team": "90s MonCon",
-    "total_points": 104.12,
-    "avg_points": 20.82,
-    "ros_projection": 245.72
+    "total_points": 112.22,
+    "avg_points": 18.7,
+    "ros_projection": 225.25
   },
   {
     "id": 4432665,
@@ -195,43 +195,43 @@
     "team": "90s MonCon",
     "total_points": 38.75,
     "avg_points": 9.69,
-    "ros_projection": 165.71
+    "ros_projection": 151.9
   },
   {
     "id": 4569618,
     "name": "Garrett Wilson",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 78.7,
-    "avg_points": 15.74,
-    "ros_projection": 138.85
+    "total_points": 81.5,
+    "avg_points": 13.58,
+    "ros_projection": 127.28
   },
   {
     "id": 4426388,
     "name": "Jameson Williams",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 33.9,
-    "avg_points": 6.78,
-    "ros_projection": 131.14
+    "total_points": 49.5,
+    "avg_points": 8.25,
+    "ros_projection": 120.21
   },
   {
     "id": 4372016,
     "name": "Jaylen Waddle",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 59.0,
-    "avg_points": 11.8,
-    "ros_projection": 128.99
+    "total_points": 72.32,
+    "avg_points": 12.05,
+    "ros_projection": 118.24
   },
   {
     "id": 4569987,
     "name": "Jaylen Warren",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 38.9,
-    "avg_points": 12.97,
-    "ros_projection": 155.46
+    "total_points": 46.2,
+    "avg_points": 11.55,
+    "ros_projection": 142.5
   },
   {
     "id": 4360569,
@@ -240,16 +240,16 @@
     "team": "90s MonCon",
     "total_points": 56.2,
     "avg_points": 11.24,
-    "ros_projection": 89.21
+    "ros_projection": 81.78
   },
   {
     "id": 3886598,
     "name": "Jauan Jennings",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 25.4,
-    "avg_points": 8.47,
-    "ros_projection": 111.28
+    "total_points": 26.6,
+    "avg_points": 6.65,
+    "ros_projection": 102.01
   },
   {
     "id": 4429205,
@@ -258,232 +258,223 @@
     "team": "90s MonCon",
     "total_points": 26.0,
     "avg_points": 13.0,
-    "ros_projection": 97.38
+    "ros_projection": 89.26
   },
   {
     "id": 4685702,
     "name": "Quinshon Judkins",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 57.4,
-    "avg_points": 14.35,
-    "ros_projection": 30.66
+    "total_points": 61.0,
+    "avg_points": 12.2,
+    "ros_projection": 28.11
   },
   {
     "id": 4428557,
     "name": "Tyjae Spears",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 1.4,
-    "avg_points": 1.4,
-    "ros_projection": 73.38
+    "total_points": 8.4,
+    "avg_points": 4.2,
+    "ros_projection": 67.26
   },
   {
     "id": 4427238,
     "name": "Dillon Gabriel",
     "position": "QB",
     "team": "90s MonCon",
-    "total_points": 22.86,
-    "avg_points": 7.62,
-    "ros_projection": 49.15
+    "total_points": 23.2,
+    "avg_points": 5.8,
+    "ros_projection": 45.05
   },
   {
     "id": 4240657,
     "name": "Michael Carter",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 15.9,
-    "avg_points": 7.95,
+    "total_points": 23.3,
+    "avg_points": 7.77,
     "ros_projection": 0.0
   },
   {
-    "id": 4808766,
-    "name": "Mason Taylor",
+    "id": 4576297,
+    "name": "AJ Barner",
     "position": "TE",
     "team": "90s MonCon",
-    "total_points": 34.5,
-    "avg_points": 6.9,
-    "ros_projection": 82.16
+    "total_points": 57.65,
+    "avg_points": 9.61,
+    "ros_projection": 47.55
   },
   {
     "id": 4890973,
     "name": "Ashton Jeanty",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 69.1,
-    "avg_points": 13.82,
-    "ros_projection": 191.07
+    "total_points": 84.7,
+    "avg_points": 14.12,
+    "ros_projection": 175.15
   },
   {
     "id": 3046779,
     "name": "Jared Goff",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 132.88,
-    "avg_points": 26.58,
-    "ros_projection": 233.53
+    "total_points": 159.2,
+    "avg_points": 26.53,
+    "ros_projection": 214.07
   },
   {
     "id": 4379399,
-    "name": "James Cook",
+    "name": "James Cook III",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 89.9,
-    "avg_points": 17.98,
-    "ros_projection": 177.61
-  },
-  {
-    "id": 4685382,
-    "name": "Omarion Hampton",
-    "position": "RB",
-    "team": "Rookie Mistake",
-    "total_points": 67.0,
-    "avg_points": 13.4,
-    "ros_projection": 168.71
+    "total_points": 98.6,
+    "avg_points": 16.43,
+    "ros_projection": 162.81
   },
   {
     "id": 4432708,
     "name": "Marvin Harrison Jr.",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 52.6,
-    "avg_points": 10.52,
-    "ros_projection": 140.29
+    "total_points": 56.8,
+    "avg_points": 9.47,
+    "ros_projection": 128.6
   },
   {
     "id": 4701936,
     "name": "Matthew Golden",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 21.0,
-    "avg_points": 5.25,
-    "ros_projection": 119.47
+    "total_points": 32.7,
+    "avg_points": 6.54,
+    "ros_projection": 109.51
   },
   {
     "id": 4685415,
     "name": "Travis Hunter",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 26.2,
-    "avg_points": 5.24,
-    "ros_projection": 121.98
+    "total_points": 29.7,
+    "avg_points": 4.95,
+    "ros_projection": 111.81
   },
   {
     "id": 4431459,
     "name": "Tyler Warren",
     "position": "TE",
     "team": "Rookie Mistake",
-    "total_points": 59.55,
-    "avg_points": 11.91,
-    "ros_projection": 105.8
+    "total_points": 76.35,
+    "avg_points": 12.72,
+    "ros_projection": 96.98
   },
   {
     "id": 4241985,
     "name": "J.K. Dobbins",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 69.5,
-    "avg_points": 13.9,
-    "ros_projection": 107.56
+    "total_points": 73.5,
+    "avg_points": 12.25,
+    "ros_projection": 98.59
   },
   {
     "id": 4711533,
     "name": "Ollie Gordon II",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 13.2,
-    "avg_points": 2.64,
-    "ros_projection": 54.13
+    "total_points": 13.9,
+    "avg_points": 2.32,
+    "ros_projection": 49.62
   },
   {
     "id": 4689114,
     "name": "Jaxson Dart",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 39.92,
-    "avg_points": 9.98,
-    "ros_projection": 96.2
+    "total_points": 66.02,
+    "avg_points": 13.2,
+    "ros_projection": 88.19
   },
   {
     "id": 4361432,
     "name": "Romeo Doubs",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 48.4,
-    "avg_points": 12.1,
-    "ros_projection": 72.83
+    "total_points": 56.4,
+    "avg_points": 11.28,
+    "ros_projection": 66.76
   },
   {
     "id": 4360635,
     "name": "Chig Okonkwo",
     "position": "TE",
     "team": "Rookie Mistake",
-    "total_points": 29.95,
-    "avg_points": 5.99,
-    "ros_projection": 85.45
-  },
-  {
-    "id": 3054212,
-    "name": "Jonnu Smith",
-    "position": "TE",
-    "team": "Rookie Mistake",
-    "total_points": 23.6,
-    "avg_points": 5.9,
-    "ros_projection": 85.45
+    "total_points": 39.05,
+    "avg_points": 6.51,
+    "ros_projection": 78.33
   },
   {
     "id": 4883647,
     "name": "Elic Ayomanor",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 35.9,
-    "avg_points": 7.18,
-    "ros_projection": 50.69
+    "total_points": 40.1,
+    "avg_points": 6.68,
+    "ros_projection": 46.47
   },
   {
     "id": 4241464,
     "name": "Mac Jones",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 69.2,
-    "avg_points": 23.07,
-    "ros_projection": 1.77
+    "total_points": 81.88,
+    "avg_points": 20.47,
+    "ros_projection": 1.62
+  },
+  {
+    "id": 4259147,
+    "name": "Jake Tonges",
+    "position": "TE",
+    "team": "Rookie Mistake",
+    "total_points": 59.15,
+    "avg_points": 9.86,
+    "ros_projection": 0.0
   },
   {
     "id": 4362628,
     "name": "Ja'Marr Chase",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 70.3,
-    "avg_points": 14.06,
-    "ros_projection": 198.83
+    "total_points": 90.4,
+    "avg_points": 15.07,
+    "ros_projection": 182.26
   },
   {
     "id": 4047646,
     "name": "A.J. Brown",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 34.9,
-    "avg_points": 6.98,
-    "ros_projection": 162.39
+    "total_points": 45.9,
+    "avg_points": 7.65,
+    "ros_projection": 148.86
   },
   {
     "id": 4361307,
     "name": "Trey McBride",
     "position": "TE",
     "team": "Americas Team ",
-    "total_points": 55.25,
-    "avg_points": 11.05,
-    "ros_projection": 163.02
+    "total_points": 74.45,
+    "avg_points": 12.41,
+    "ros_projection": 149.43
   },
   {
     "id": 4430878,
     "name": "Jaxon Smith-Njigba",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 81.5,
-    "avg_points": 16.3,
-    "ros_projection": 138.83
+    "total_points": 107.7,
+    "avg_points": 17.95,
+    "ros_projection": 127.26
   },
   {
     "id": 4241416,
@@ -492,70 +483,70 @@
     "team": "Americas Team ",
     "total_points": 49.6,
     "avg_points": 12.4,
-    "ros_projection": 165.29
+    "ros_projection": 151.52
   },
   {
     "id": 4035538,
     "name": "David Montgomery",
     "position": "RB",
     "team": "Americas Team ",
-    "total_points": 69.22,
-    "avg_points": 13.84,
-    "ros_projection": 137.92
+    "total_points": 76.32,
+    "avg_points": 12.72,
+    "ros_projection": 126.42
   },
   {
     "id": 12483,
     "name": "Matthew Stafford",
     "position": "QB",
     "team": "Americas Team ",
-    "total_points": 119.72,
-    "avg_points": 23.94,
-    "ros_projection": 227.66
+    "total_points": 130.56,
+    "avg_points": 21.76,
+    "ros_projection": 208.69
   },
   {
     "id": 3912547,
     "name": "Sam Darnold",
     "position": "QB",
     "team": "Americas Team ",
-    "total_points": 112.64,
-    "avg_points": 22.53,
-    "ros_projection": 193.66
+    "total_points": 133.64,
+    "avg_points": 22.27,
+    "ros_projection": 177.52
   },
   {
     "id": 2977187,
     "name": "Cooper Kupp",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 32.6,
-    "avg_points": 6.52,
-    "ros_projection": 115.84
+    "total_points": 43.6,
+    "avg_points": 7.27,
+    "ros_projection": 106.19
   },
   {
     "id": 4569173,
     "name": "Rhamondre Stevenson",
     "position": "RB",
     "team": "Americas Team ",
-    "total_points": 43.8,
-    "avg_points": 8.76,
-    "ros_projection": 111.8
+    "total_points": 45.6,
+    "avg_points": 7.6,
+    "ros_projection": 102.49
   },
   {
     "id": 4239996,
     "name": "Travis Etienne Jr.",
     "position": "RB",
     "team": "Americas Team ",
-    "total_points": 70.9,
-    "avg_points": 14.18,
-    "ros_projection": 115.81
+    "total_points": 78.4,
+    "avg_points": 13.07,
+    "ros_projection": 106.16
   },
   {
     "id": 4688813,
     "name": "Josh Downs",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 27.5,
-    "avg_points": 5.5,
-    "ros_projection": 100.06
+    "total_points": 40.7,
+    "avg_points": 6.78,
+    "ros_projection": 91.72
   },
   {
     "id": 3117256,
@@ -564,88 +555,88 @@
     "team": "Americas Team ",
     "total_points": 34.35,
     "avg_points": 6.87,
-    "ros_projection": 79.71
+    "ros_projection": 73.07
   },
   {
     "id": 4426339,
     "name": "Spencer Rattler",
     "position": "QB",
     "team": "Americas Team ",
-    "total_points": 87.9,
-    "avg_points": 17.58,
-    "ros_projection": 104.05
-  },
-  {
-    "id": 4241474,
-    "name": "Brian Robinson Jr.",
-    "position": "RB",
-    "team": "Americas Team ",
-    "total_points": 12.1,
-    "avg_points": 2.42,
-    "ros_projection": 51.69
+    "total_points": 102.98,
+    "avg_points": 17.16,
+    "ros_projection": 95.38
   },
   {
     "id": 15795,
     "name": "DeAndre Hopkins",
     "position": "WR",
     "team": "Americas Team ",
-    "total_points": 31.3,
-    "avg_points": 6.26,
-    "ros_projection": 52.0
+    "total_points": 34.3,
+    "avg_points": 5.72,
+    "ros_projection": 47.66
+  },
+  {
+    "id": 4372071,
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "Americas Team ",
+    "total_points": 4.8,
+    "avg_points": 0.8,
+    "ros_projection": 4.19
   },
   {
     "id": 4429795,
     "name": "Jahmyr Gibbs",
     "position": "RB",
     "team": "Michael's Managable Team",
-    "total_points": 84.7,
-    "avg_points": 16.94,
-    "ros_projection": 202.67
+    "total_points": 91.7,
+    "avg_points": 15.28,
+    "ros_projection": 185.78
   },
   {
     "id": 4038941,
     "name": "Justin Herbert",
     "position": "QB",
     "team": "Michael's Managable Team",
-    "total_points": 101.96,
-    "avg_points": 20.39,
-    "ros_projection": 227.45
+    "total_points": 130.22,
+    "avg_points": 21.7,
+    "ros_projection": 208.5
   },
   {
     "id": 4431452,
     "name": "Drake Maye",
     "position": "QB",
     "team": "Michael's Managable Team",
-    "total_points": 126.64,
-    "avg_points": 25.33,
-    "ros_projection": 234.03
+    "total_points": 160.88,
+    "avg_points": 26.81,
+    "ros_projection": 214.53
   },
   {
     "id": 16800,
     "name": "Davante Adams",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 64.7,
-    "avg_points": 12.94,
-    "ros_projection": 151.44
+    "total_points": 70.6,
+    "avg_points": 11.77,
+    "ros_projection": 138.82
   },
   {
     "id": 3054850,
     "name": "Alvin Kamara",
     "position": "RB",
     "team": "Michael's Managable Team",
-    "total_points": 48.5,
-    "avg_points": 9.7,
-    "ros_projection": 163.11
+    "total_points": 58.6,
+    "avg_points": 9.77,
+    "ros_projection": 149.52
   },
   {
     "id": 4426354,
     "name": "George Pickens",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 77.2,
-    "avg_points": 15.44,
-    "ros_projection": 130.78
+    "total_points": 104.5,
+    "avg_points": 17.42,
+    "ros_projection": 119.88
   },
   {
     "id": 4036133,
@@ -654,7 +645,7 @@
     "team": "Michael's Managable Team",
     "total_points": 35.55,
     "avg_points": 7.11,
-    "ros_projection": 116.08
+    "ros_projection": 106.4
   },
   {
     "id": 4428209,
@@ -663,52 +654,52 @@
     "team": "Michael's Managable Team",
     "total_points": 42.3,
     "avg_points": 10.58,
-    "ros_projection": 115.74
+    "ros_projection": 106.09
   },
   {
     "id": 4035687,
     "name": "Michael Pittman Jr.",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 64.3,
-    "avg_points": 12.86,
-    "ros_projection": 111.43
+    "total_points": 67.3,
+    "avg_points": 11.22,
+    "ros_projection": 102.14
   },
   {
     "id": 4373678,
     "name": "Khalil Shakir",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 47.0,
-    "avg_points": 9.4,
-    "ros_projection": 110.68
+    "total_points": 51.8,
+    "avg_points": 8.63,
+    "ros_projection": 101.46
   },
   {
     "id": 4882093,
     "name": "Bhayshul Tuten",
     "position": "RB",
     "team": "Michael's Managable Team",
-    "total_points": 27.9,
-    "avg_points": 5.58,
-    "ros_projection": 3.16
+    "total_points": 31.7,
+    "avg_points": 5.28,
+    "ros_projection": 2.89
   },
   {
     "id": 4242355,
     "name": "Jake Ferguson",
     "position": "TE",
     "team": "Michael's Managable Team",
-    "total_points": 75.95,
-    "avg_points": 15.19,
-    "ros_projection": 94.38
+    "total_points": 87.5,
+    "avg_points": 14.58,
+    "ros_projection": 86.52
   },
   {
     "id": 3917792,
     "name": "Daniel Jones",
     "position": "QB",
     "team": "Michael's Managable Team",
-    "total_points": 117.7,
-    "avg_points": 23.54,
-    "ros_projection": 157.62
+    "total_points": 147.18,
+    "avg_points": 24.53,
+    "ros_projection": 144.48
   },
   {
     "id": 4429059,
@@ -717,25 +708,25 @@
     "team": "Michael's Managable Team",
     "total_points": 38.3,
     "avg_points": 7.66,
-    "ros_projection": 43.44
+    "ros_projection": 39.82
   },
   {
     "id": 4686612,
     "name": "Tre' Harris",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 6.0,
-    "avg_points": 1.2,
-    "ros_projection": 15.08
+    "total_points": 10.7,
+    "avg_points": 1.78,
+    "ros_projection": 13.83
   },
   {
     "id": 5083076,
     "name": "Harold Fannin Jr.",
     "position": "TE",
     "team": "Michael's Managable Team",
-    "total_points": 39.45,
-    "avg_points": 7.89,
-    "ros_projection": 33.59
+    "total_points": 52.8,
+    "avg_points": 8.8,
+    "ros_projection": 30.79
   },
   {
     "id": 4262921,
@@ -744,7 +735,7 @@
     "team": "To Infinity and Bijan!",
     "total_points": 65.8,
     "avg_points": 13.16,
-    "ros_projection": 183.33
+    "ros_projection": 168.05
   },
   {
     "id": 3917315,
@@ -753,70 +744,61 @@
     "team": "To Infinity and Bijan!",
     "total_points": 93.78,
     "avg_points": 18.76,
-    "ros_projection": 255.01
+    "ros_projection": 233.76
   },
   {
     "id": 4047365,
     "name": "Josh Jacobs",
     "position": "RB",
     "team": "To Infinity and Bijan!",
-    "total_points": 67.5,
-    "avg_points": 16.88,
-    "ros_projection": 185.08
-  },
-  {
-    "id": 4432710,
-    "name": "TreVeyon Henderson",
-    "position": "RB",
-    "team": "To Infinity and Bijan!",
-    "total_points": 34.6,
-    "avg_points": 6.92,
-    "ros_projection": 142.76
+    "total_points": 97.0,
+    "avg_points": 19.4,
+    "ros_projection": 169.66
   },
   {
     "id": 4362887,
     "name": "Justin Fields",
     "position": "QB",
     "team": "To Infinity and Bijan!",
-    "total_points": 95.06,
-    "avg_points": 23.77,
-    "ros_projection": 215.63
+    "total_points": 96.46,
+    "avg_points": 19.29,
+    "ros_projection": 197.66
   },
   {
     "id": 4685472,
     "name": "Tetairoa McMillan",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 47.1,
-    "avg_points": 9.42,
-    "ros_projection": 136.82
+    "total_points": 63.5,
+    "avg_points": 10.58,
+    "ros_projection": 125.42
   },
   {
     "id": 3116365,
     "name": "Mark Andrews",
     "position": "TE",
     "team": "To Infinity and Bijan!",
-    "total_points": 39.95,
-    "avg_points": 7.99,
-    "ros_projection": 111.56
+    "total_points": 45.55,
+    "avg_points": 7.59,
+    "ros_projection": 102.27
   },
   {
     "id": 4635008,
     "name": "Keon Coleman",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 43.1,
-    "avg_points": 8.62,
-    "ros_projection": 122.01
+    "total_points": 45.7,
+    "avg_points": 7.62,
+    "ros_projection": 111.84
   },
   {
     "id": 4361579,
     "name": "Javonte Williams",
     "position": "RB",
     "team": "To Infinity and Bijan!",
-    "total_points": 95.0,
-    "avg_points": 19.0,
-    "ros_projection": 138.97
+    "total_points": 100.9,
+    "avg_points": 16.82,
+    "ros_projection": 127.39
   },
   {
     "id": 3128720,
@@ -825,7 +807,7 @@
     "team": "To Infinity and Bijan!",
     "total_points": 45.0,
     "avg_points": 9.0,
-    "ros_projection": 80.19
+    "ros_projection": 73.51
   },
   {
     "id": 4040655,
@@ -834,16 +816,16 @@
     "team": "To Infinity and Bijan!",
     "total_points": 11.4,
     "avg_points": 3.8,
-    "ros_projection": 93.18
+    "ros_projection": 85.41
   },
   {
     "id": 4360248,
     "name": "Kyle Pitts Sr.",
     "position": "TE",
     "team": "To Infinity and Bijan!",
-    "total_points": 41.5,
-    "avg_points": 10.38,
-    "ros_projection": 92.2
+    "total_points": 45.55,
+    "avg_points": 9.11,
+    "ros_projection": 84.52
   },
   {
     "id": 4429025,
@@ -852,7 +834,7 @@
     "team": "To Infinity and Bijan!",
     "total_points": 73.4,
     "avg_points": 14.68,
-    "ros_projection": 96.69
+    "ros_projection": 88.63
   },
   {
     "id": 2573079,
@@ -861,61 +843,79 @@
     "team": "To Infinity and Bijan!",
     "total_points": 64.76,
     "avg_points": 21.59,
-    "ros_projection": 2.13
+    "ros_projection": 1.95
   },
   {
-    "id": 4685278,
-    "name": "Luther Burden III",
+    "id": 4429148,
+    "name": "Theo Johnson",
+    "position": "TE",
+    "team": "To Infinity and Bijan!",
+    "total_points": 43.35,
+    "avg_points": 7.23,
+    "ros_projection": 70.76
+  },
+  {
+    "id": 4686472,
+    "name": "Marvin Mims Jr.",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 20.1,
-    "avg_points": 5.02,
-    "ros_projection": 52.77
+    "total_points": 35.2,
+    "avg_points": 5.87,
+    "ros_projection": 82.31
+  },
+  {
+    "id": 3116165,
+    "name": "Chris Godwin Jr.",
+    "position": "WR",
+    "team": "To Infinity and Bijan!",
+    "total_points": 8.2,
+    "avg_points": 4.1,
+    "ros_projection": 98.2
   },
   {
     "id": 4426348,
     "name": "Jayden Daniels",
     "position": "QB",
     "team": "Mcconky Donkeys",
-    "total_points": 53.96,
-    "avg_points": 17.99,
-    "ros_projection": 298.96
+    "total_points": 84.1,
+    "avg_points": 21.02,
+    "ros_projection": 274.04
   },
   {
     "id": 3052587,
     "name": "Baker Mayfield",
     "position": "QB",
     "team": "Mcconky Donkeys",
-    "total_points": 121.72,
-    "avg_points": 24.34,
-    "ros_projection": 276.04
+    "total_points": 147.86,
+    "avg_points": 24.64,
+    "ros_projection": 253.04
   },
   {
     "id": 4432773,
     "name": "Brian Thomas Jr.",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 40.0,
-    "avg_points": 8.0,
-    "ros_projection": 156.97
+    "total_points": 59.0,
+    "avg_points": 9.83,
+    "ros_projection": 143.89
   },
   {
     "id": 4429160,
     "name": "De'Von Achane",
     "position": "RB",
     "team": "Mcconky Donkeys",
-    "total_points": 80.0,
-    "avg_points": 16.0,
-    "ros_projection": 190.82
+    "total_points": 109.0,
+    "avg_points": 18.17,
+    "ros_projection": 174.92
   },
   {
     "id": 4612826,
     "name": "Ladd McConkey",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 37.8,
-    "avg_points": 7.56,
-    "ros_projection": 139.16
+    "total_points": 57.3,
+    "avg_points": 9.55,
+    "ros_projection": 127.57
   },
   {
     "id": 16737,
@@ -924,16 +924,16 @@
     "team": "Mcconky Donkeys",
     "total_points": 27.0,
     "avg_points": 9.0,
-    "ros_projection": 137.88
+    "ros_projection": 126.39
   },
   {
     "id": 4361529,
     "name": "Isiah Pacheco",
     "position": "RB",
     "team": "Mcconky Donkeys",
-    "total_points": 31.4,
-    "avg_points": 6.28,
-    "ros_projection": 135.83
+    "total_points": 37.0,
+    "avg_points": 6.17,
+    "ros_projection": 124.51
   },
   {
     "id": 4428331,
@@ -942,25 +942,25 @@
     "team": "Mcconky Donkeys",
     "total_points": 0.0,
     "avg_points": 0.0,
-    "ros_projection": 92.93
+    "ros_projection": 85.19
   },
   {
     "id": 3123076,
     "name": "David Njoku",
     "position": "TE",
     "team": "Mcconky Donkeys",
-    "total_points": 40.5,
-    "avg_points": 8.1,
-    "ros_projection": 111.76
+    "total_points": 45.55,
+    "avg_points": 7.59,
+    "ros_projection": 102.45
   },
   {
     "id": 3051876,
     "name": "Evan Engram",
     "position": "TE",
     "team": "Mcconky Donkeys",
-    "total_points": 24.5,
-    "avg_points": 6.12,
-    "ros_projection": 104.99
+    "total_points": 33.15,
+    "avg_points": 6.63,
+    "ros_projection": 96.24
   },
   {
     "id": 3116385,
@@ -969,25 +969,25 @@
     "team": "Mcconky Donkeys",
     "total_points": 0.0,
     "avg_points": 0.0,
-    "ros_projection": 76.24
+    "ros_projection": 69.88
   },
   {
     "id": 8439,
     "name": "Aaron Rodgers",
     "position": "QB",
     "team": "Mcconky Donkeys",
-    "total_points": 79.54,
-    "avg_points": 19.89,
-    "ros_projection": 188.87
+    "total_points": 102.54,
+    "avg_points": 20.51,
+    "ros_projection": 173.13
   },
   {
     "id": 4569587,
     "name": "Wan'Dale Robinson",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 44.4,
-    "avg_points": 8.88,
-    "ros_projection": 83.48
+    "total_points": 61.8,
+    "avg_points": 10.3,
+    "ros_projection": 76.52
   },
   {
     "id": 3916945,
@@ -996,151 +996,151 @@
     "team": "Mcconky Donkeys",
     "total_points": 20.6,
     "avg_points": 4.12,
-    "ros_projection": 67.75
+    "ros_projection": 62.1
   },
   {
     "id": 2577327,
     "name": "Tyler Lockett",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 14.7,
-    "avg_points": 2.94,
-    "ros_projection": 56.54
+    "total_points": 15.2,
+    "avg_points": 2.53,
+    "ros_projection": 51.83
   },
   {
     "id": 4431280,
     "name": "Troy Franklin",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 42.7,
-    "avg_points": 8.54,
-    "ros_projection": 47.19
+    "total_points": 44.3,
+    "avg_points": 7.38,
+    "ros_projection": 43.26
   },
   {
     "id": 4373626,
     "name": "Tyler Allgeier",
     "position": "RB",
     "team": "Mcconky Donkeys",
-    "total_points": 28.9,
-    "avg_points": 7.22,
-    "ros_projection": 69.35
+    "total_points": 39.2,
+    "avg_points": 7.84,
+    "ros_projection": 63.57
   },
   {
     "id": 4040715,
     "name": "Jalen Hurts",
     "position": "QB",
     "team": "Mama Daughter Duo",
-    "total_points": 118.26,
-    "avg_points": 23.65,
-    "ros_projection": 289.55
+    "total_points": 143.88,
+    "avg_points": 23.98,
+    "ros_projection": 265.42
   },
   {
     "id": 3117251,
     "name": "Christian McCaffrey",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 104.4,
-    "avg_points": 20.88,
-    "ros_projection": 199.5
+    "total_points": 125.0,
+    "avg_points": 20.83,
+    "ros_projection": 182.88
   },
   {
     "id": 4431611,
     "name": "Caleb Williams",
     "position": "QB",
     "team": "Mama Daughter Duo",
-    "total_points": 89.58,
-    "avg_points": 22.39,
-    "ros_projection": 214.31
+    "total_points": 107.96,
+    "avg_points": 21.59,
+    "ros_projection": 196.45
   },
   {
     "id": 4241478,
     "name": "DeVonta Smith",
     "position": "WR",
     "team": "Mama Daughter Duo",
-    "total_points": 45.7,
-    "avg_points": 9.14,
-    "ros_projection": 126.29
+    "total_points": 52.6,
+    "avg_points": 8.77,
+    "ros_projection": 115.77
   },
   {
     "id": 4259545,
     "name": "D'Andre Swift",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 43.7,
-    "avg_points": 10.93,
-    "ros_projection": 146.96
+    "total_points": 68.2,
+    "avg_points": 13.64,
+    "ros_projection": 134.71
   },
   {
     "id": 4047650,
     "name": "DK Metcalf",
     "position": "WR",
     "team": "Mama Daughter Duo",
-    "total_points": 51.6,
-    "avg_points": 12.9,
-    "ros_projection": 141.01
+    "total_points": 69.1,
+    "avg_points": 13.82,
+    "ros_projection": 129.26
   },
   {
     "id": 15847,
     "name": "Travis Kelce",
     "position": "TE",
     "team": "Mama Daughter Duo",
-    "total_points": 52.8,
-    "avg_points": 10.56,
-    "ros_projection": 114.3
+    "total_points": 65.1,
+    "avg_points": 10.85,
+    "ros_projection": 104.77
   },
   {
     "id": 4431299,
     "name": "Rome Odunze",
     "position": "WR",
     "team": "Mama Daughter Duo",
-    "total_points": 69.6,
-    "avg_points": 17.4,
-    "ros_projection": 127.98
+    "total_points": 73.8,
+    "avg_points": 14.76,
+    "ros_projection": 117.32
   },
   {
     "id": 4361370,
     "name": "Chris Olave",
     "position": "WR",
     "team": "Mama Daughter Duo",
-    "total_points": 43.9,
-    "avg_points": 8.78,
-    "ros_projection": 118.72
+    "total_points": 56.7,
+    "avg_points": 9.45,
+    "ros_projection": 108.82
   },
   {
     "id": 4819231,
     "name": "Kaleb Johnson",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 2.1,
-    "avg_points": 0.7,
-    "ros_projection": 105.06
+    "total_points": 3.6,
+    "avg_points": 0.9,
+    "ros_projection": 96.3
   },
   {
     "id": 4360423,
     "name": "Michael Penix Jr.",
     "position": "QB",
     "team": "Mama Daughter Duo",
-    "total_points": 49.82,
-    "avg_points": 12.46,
-    "ros_projection": 193.01
+    "total_points": 64.42,
+    "avg_points": 12.88,
+    "ros_projection": 176.93
   },
   {
     "id": 3046439,
     "name": "Hunter Henry",
     "position": "TE",
     "team": "Mama Daughter Duo",
-    "total_points": 55.75,
-    "avg_points": 11.15,
-    "ros_projection": 94.72
+    "total_points": 60.7,
+    "avg_points": 10.12,
+    "ros_projection": 86.83
   },
   {
     "id": 4697815,
     "name": "Rachaad White",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 45.3,
-    "avg_points": 9.06,
-    "ros_projection": 79.03
+    "total_points": 61.4,
+    "avg_points": 10.23,
+    "ros_projection": 72.44
   },
   {
     "id": 4431545,
@@ -1148,98 +1148,98 @@
     "position": "RB",
     "team": "Mama Daughter Duo",
     "total_points": 3.5,
-    "avg_points": 1.17,
-    "ros_projection": 37.09
+    "avg_points": 0.88,
+    "ros_projection": 34.0
   },
   {
     "id": 4362478,
     "name": "Emari Demercado",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 15.2,
-    "avg_points": 3.04,
-    "ros_projection": 18.02
+    "total_points": 15.3,
+    "avg_points": 2.55,
+    "ros_projection": 16.52
   },
   {
     "id": 4430807,
     "name": "Bijan Robinson",
     "position": "RB",
     "team": "Abbey's TNT Team ",
-    "total_points": 79.4,
-    "avg_points": 19.85,
-    "ros_projection": 217.5
+    "total_points": 112.2,
+    "avg_points": 22.44,
+    "ros_projection": 199.38
   },
   {
     "id": 4426515,
     "name": "Puka Nacua",
     "position": "WR",
     "team": "Abbey's TNT Team ",
-    "total_points": 108.0,
-    "avg_points": 21.6,
-    "ros_projection": 173.65
+    "total_points": 111.8,
+    "avg_points": 18.63,
+    "ros_projection": 159.18
   },
   {
     "id": 4426338,
     "name": "Bo Nix",
     "position": "QB",
     "team": "Abbey's TNT Team ",
-    "total_points": 95.12,
-    "avg_points": 19.02,
-    "ros_projection": 245.41
+    "total_points": 108.98,
+    "avg_points": 18.16,
+    "ros_projection": 224.96
   },
   {
     "id": 4430737,
     "name": "Kyren Williams",
     "position": "RB",
     "team": "Abbey's TNT Team ",
-    "total_points": 76.6,
-    "avg_points": 15.32,
-    "ros_projection": 187.97
+    "total_points": 92.3,
+    "avg_points": 15.38,
+    "ros_projection": 172.31
   },
   {
     "id": 15864,
     "name": "Geno Smith",
     "position": "QB",
     "team": "Abbey's TNT Team ",
-    "total_points": 70.44,
-    "avg_points": 14.09,
-    "ros_projection": 219.23
+    "total_points": 83.6,
+    "avg_points": 13.93,
+    "ros_projection": 200.96
   },
   {
     "id": 3925357,
     "name": "Calvin Ridley",
     "position": "WR",
     "team": "Abbey's TNT Team ",
-    "total_points": 34.7,
-    "avg_points": 6.94,
-    "ros_projection": 137.18
+    "total_points": 37.0,
+    "avg_points": 6.17,
+    "ros_projection": 125.75
   },
   {
     "id": 4723086,
     "name": "Colston Loveland",
     "position": "TE",
     "team": "Abbey's TNT Team ",
-    "total_points": 6.55,
-    "avg_points": 2.18,
-    "ros_projection": 98.87
+    "total_points": 9.15,
+    "avg_points": 2.29,
+    "ros_projection": 90.63
   },
   {
     "id": 4567750,
     "name": "Emeka Egbuka",
     "position": "WR",
     "team": "Abbey's TNT Team ",
-    "total_points": 89.9,
-    "avg_points": 17.98,
-    "ros_projection": 103.94
+    "total_points": 93.3,
+    "avg_points": 15.55,
+    "ros_projection": 95.28
   },
   {
     "id": 3126486,
     "name": "Deebo Samuel",
     "position": "WR",
     "team": "Abbey's TNT Team ",
-    "total_points": 73.6,
-    "avg_points": 14.72,
-    "ros_projection": 121.04
+    "total_points": 77.0,
+    "avg_points": 12.83,
+    "ros_projection": 110.95
   },
   {
     "id": 4429013,
@@ -1247,8 +1247,8 @@
     "position": "RB",
     "team": "Abbey's TNT Team ",
     "total_points": 1.2,
-    "avg_points": 0.24,
-    "ros_projection": 72.9
+    "avg_points": 0.2,
+    "ros_projection": 66.82
   },
   {
     "id": 4685279,
@@ -1256,35 +1256,35 @@
     "position": "RB",
     "team": "Abbey's TNT Team ",
     "total_points": 0.7,
-    "avg_points": 0.7,
-    "ros_projection": 12.1
+    "avg_points": 0.35,
+    "ros_projection": 11.09
   },
   {
     "id": 4430034,
     "name": "Xavier Legette",
     "position": "WR",
     "team": "Abbey's TNT Team ",
-    "total_points": 12.9,
-    "avg_points": 4.3,
-    "ros_projection": 95.51
+    "total_points": 15.0,
+    "avg_points": 3.75,
+    "ros_projection": 87.55
   },
   {
     "id": 5081397,
     "name": "Dylan Sampson",
     "position": "RB",
     "team": "Abbey's TNT Team ",
-    "total_points": 23.4,
-    "avg_points": 4.68,
-    "ros_projection": 123.99
+    "total_points": 26.8,
+    "avg_points": 4.47,
+    "ros_projection": 113.66
   },
   {
     "id": 4243331,
     "name": "Cade Otton",
     "position": "TE",
     "team": "Abbey's TNT Team ",
-    "total_points": 19.0,
-    "avg_points": 3.8,
-    "ros_projection": 88.47
+    "total_points": 27.85,
+    "avg_points": 4.64,
+    "ros_projection": 81.1
   },
   {
     "id": 2973405,
@@ -1292,152 +1292,170 @@
     "position": "WR",
     "team": "Abbey's TNT Team ",
     "total_points": 14.6,
-    "avg_points": 2.92,
-    "ros_projection": 15.95
+    "avg_points": 2.43,
+    "ros_projection": 14.62
+  },
+  {
+    "id": 4599739,
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "Abbey's TNT Team ",
+    "total_points": 30.1,
+    "avg_points": 5.02,
+    "ros_projection": 48.06
   },
   {
     "id": 3918298,
     "name": "Josh Allen",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 144.38,
-    "avg_points": 28.88,
-    "ros_projection": 285.13
+    "total_points": 160.28,
+    "avg_points": 26.71,
+    "ros_projection": 261.37
   },
   {
     "id": 3043078,
     "name": "Derrick Henry",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 56.3,
-    "avg_points": 11.26,
-    "ros_projection": 192.56
+    "total_points": 69.8,
+    "avg_points": 11.63,
+    "ros_projection": 176.52
   },
   {
     "id": 4374302,
     "name": "Amon-Ra St. Brown",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 94.9,
-    "avg_points": 18.98,
-    "ros_projection": 163.96
+    "total_points": 104.1,
+    "avg_points": 17.35,
+    "ros_projection": 150.29
   },
   {
     "id": 4036378,
     "name": "Jordan Love",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 95.2,
-    "avg_points": 23.8,
-    "ros_projection": 210.66
+    "total_points": 114.66,
+    "avg_points": 22.93,
+    "ros_projection": 193.11
   },
   {
     "id": 4430027,
     "name": "Sam LaPorta",
     "position": "TE",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 48.65,
-    "avg_points": 9.73,
-    "ros_projection": 122.2
+    "total_points": 63.9,
+    "avg_points": 10.65,
+    "ros_projection": 112.02
   },
   {
     "id": 4429615,
     "name": "Zay Flowers",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 58.9,
-    "avg_points": 11.78,
-    "ros_projection": 138.16
+    "total_points": 64.5,
+    "avg_points": 10.75,
+    "ros_projection": 126.64
   },
   {
     "id": 4688380,
     "name": "Cam Ward",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 4.26,
-    "avg_points": 0.85,
-    "ros_projection": 188.92
+    "total_points": 14.14,
+    "avg_points": 2.36,
+    "ros_projection": 173.18
   },
   {
     "id": 4575131,
     "name": "Jacory Croskey-Merritt",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 58.2,
-    "avg_points": 11.64,
-    "ros_projection": 106.78
+    "total_points": 63.5,
+    "avg_points": 10.58,
+    "ros_projection": 97.88
   },
   {
     "id": 4572680,
     "name": "Tucker Kraft",
     "position": "TE",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 46.8,
-    "avg_points": 11.7,
-    "ros_projection": 101.77
+    "total_points": 58.6,
+    "avg_points": 11.72,
+    "ros_projection": 93.29
   },
   {
     "id": 15818,
     "name": "Keenan Allen",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 61.4,
-    "avg_points": 12.28,
-    "ros_projection": 121.47
+    "total_points": 66.1,
+    "avg_points": 11.02,
+    "ros_projection": 111.35
   },
   {
     "id": 3120348,
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 30.8,
-    "avg_points": 6.16,
-    "ros_projection": 39.65
+    "total_points": 38.0,
+    "avg_points": 6.33,
+    "ros_projection": 36.35
   },
   {
     "id": 2976592,
     "name": "Sterling Shepard",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 33.7,
-    "avg_points": 6.74,
-    "ros_projection": 17.12
+    "total_points": 39.8,
+    "avg_points": 6.63,
+    "ros_projection": 15.69
   },
   {
     "id": 4371733,
     "name": "Kenneth Gainwell",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 46.4,
-    "avg_points": 11.6,
-    "ros_projection": 125.0
+    "total_points": 53.0,
+    "avg_points": 10.6,
+    "ros_projection": 114.58
   },
   {
     "id": 3059915,
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 41.8,
-    "avg_points": 8.36,
-    "ros_projection": 62.56
+    "total_points": 45.7,
+    "avg_points": 7.62,
+    "ros_projection": 57.35
   },
   {
     "id": 4429096,
     "name": "Blake Corum",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 21.7,
-    "avg_points": 4.34,
-    "ros_projection": 47.84
+    "total_points": 24.0,
+    "avg_points": 4.0,
+    "ros_projection": 43.85
+  },
+  {
+    "id": 4428718,
+    "name": "Tre Tucker",
+    "position": "WR",
+    "team": "Game of Zones - House Hamlin",
+    "total_points": 74.5,
+    "avg_points": 12.42,
+    "ros_projection": 70.29
   },
   {
     "id": 3929630,
     "name": "Saquon Barkley",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 72.0,
-    "avg_points": 14.4,
-    "ros_projection": 213.31
+    "total_points": 79.7,
+    "avg_points": 13.28,
+    "ros_projection": 195.53
   },
   {
     "id": 4361741,
@@ -1446,106 +1464,106 @@
     "team": "Emma's Excellent Team",
     "total_points": 41.44,
     "avg_points": 20.72,
-    "ros_projection": 254.36
+    "ros_projection": 233.16
   },
   {
     "id": 4426502,
     "name": "Drake London",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 42.9,
-    "avg_points": 10.73,
-    "ros_projection": 154.39
+    "total_points": 69.7,
+    "avg_points": 13.94,
+    "ros_projection": 141.52
   },
   {
     "id": 3916148,
     "name": "Tony Pollard",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 51.9,
-    "avg_points": 10.38,
-    "ros_projection": 140.44
+    "total_points": 57.6,
+    "avg_points": 9.6,
+    "ros_projection": 128.73
   },
   {
     "id": 3128429,
     "name": "Courtland Sutton",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 67.5,
-    "avg_points": 13.5,
-    "ros_projection": 134.13
+    "total_points": 69.7,
+    "avg_points": 11.62,
+    "ros_projection": 122.95
   },
   {
     "id": 3916433,
     "name": "Jakobi Meyers",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 41.5,
-    "avg_points": 8.3,
-    "ros_projection": 124.0
+    "total_points": 47.4,
+    "avg_points": 7.9,
+    "ros_projection": 113.66
   },
   {
     "id": 4032473,
     "name": "Rashid Shaheed",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 52.3,
-    "avg_points": 10.46,
-    "ros_projection": 105.62
+    "total_points": 57.1,
+    "avg_points": 9.52,
+    "ros_projection": 96.82
   },
   {
     "id": 4241372,
     "name": "Hollywood Brown",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 44.7,
-    "avg_points": 8.94,
-    "ros_projection": 101.9
+    "total_points": 63.2,
+    "avg_points": 10.53,
+    "ros_projection": 93.41
   },
   {
     "id": 4242433,
     "name": "Joshua Palmer",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 23.4,
-    "avg_points": 4.68,
-    "ros_projection": 63.79
+    "total_points": 30.4,
+    "avg_points": 5.07,
+    "ros_projection": 58.47
   },
   {
     "id": 4038441,
     "name": "Justice Hill",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 37.3,
-    "avg_points": 7.46,
-    "ros_projection": 62.85
+    "total_points": 44.2,
+    "avg_points": 7.37,
+    "ros_projection": 57.61
   },
   {
     "id": 4360310,
     "name": "Trevor Lawrence",
     "position": "QB",
     "team": "Emma's Excellent Team",
-    "total_points": 71.24,
-    "avg_points": 14.25,
-    "ros_projection": 217.94
+    "total_points": 92.96,
+    "avg_points": 15.49,
+    "ros_projection": 199.78
   },
   {
     "id": 15835,
     "name": "Zach Ertz",
     "position": "TE",
     "team": "Emma's Excellent Team",
-    "total_points": 39.4,
-    "avg_points": 7.88,
-    "ros_projection": 89.92
+    "total_points": 54.2,
+    "avg_points": 9.03,
+    "ros_projection": 82.43
   },
   {
     "id": 4427366,
     "name": "Breece Hall",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 56.6,
-    "avg_points": 11.32,
-    "ros_projection": 143.7
+    "total_points": 62.5,
+    "avg_points": 10.42,
+    "ros_projection": 131.73
   },
   {
     "id": 4432577,
@@ -1554,7 +1572,7 @@
     "team": "Big Titi Energy",
     "total_points": 106.24,
     "avg_points": 21.25,
-    "ros_projection": 217.62
+    "ros_projection": 199.48
   },
   {
     "id": 4433970,
@@ -1563,25 +1581,25 @@
     "team": "Big Titi Energy",
     "total_points": 24.04,
     "avg_points": 12.02,
-    "ros_projection": 230.83
+    "ros_projection": 211.59
   },
   {
     "id": 4239993,
     "name": "Tee Higgins",
     "position": "WR",
     "team": "Big Titi Energy",
-    "total_points": 34.3,
-    "avg_points": 6.86,
-    "ros_projection": 154.04
+    "total_points": 43.0,
+    "avg_points": 7.17,
+    "ros_projection": 141.21
   },
   {
     "id": 4567048,
     "name": "Kenneth Walker III",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 60.3,
-    "avg_points": 12.06,
-    "ros_projection": 152.48
+    "total_points": 64.5,
+    "avg_points": 10.75,
+    "ros_projection": 139.77
   },
   {
     "id": 3121422,
@@ -1590,34 +1608,34 @@
     "team": "Big Titi Energy",
     "total_points": 19.9,
     "avg_points": 6.63,
-    "ros_projection": 144.52
+    "ros_projection": 132.48
   },
   {
     "id": 3915416,
     "name": "DJ Moore",
     "position": "WR",
     "team": "Big Titi Energy",
-    "total_points": 30.8,
-    "avg_points": 7.7,
-    "ros_projection": 136.89
+    "total_points": 37.5,
+    "avg_points": 7.5,
+    "ros_projection": 125.48
   },
   {
     "id": 3121023,
     "name": "Dallas Goedert",
     "position": "TE",
     "team": "Big Titi Energy",
-    "total_points": 48.55,
-    "avg_points": 12.14,
-    "ros_projection": 99.29
+    "total_points": 72.3,
+    "avg_points": 14.46,
+    "ros_projection": 91.02
   },
   {
     "id": 4426385,
     "name": "Zach Charbonnet",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 34.4,
-    "avg_points": 8.6,
-    "ros_projection": 86.15
+    "total_points": 38.6,
+    "avg_points": 7.72,
+    "ros_projection": 78.97
   },
   {
     "id": 3895856,
@@ -1626,69 +1644,60 @@
     "team": "Big Titi Energy",
     "total_points": 15.9,
     "avg_points": 5.3,
-    "ros_projection": 74.23
+    "ros_projection": 68.04
   },
   {
     "id": 4372019,
     "name": "Jerome Ford",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 17.5,
-    "avg_points": 3.5,
-    "ros_projection": 70.14
-  },
-  {
-    "id": 4385690,
-    "name": "Dalton Kincaid",
-    "position": "TE",
-    "team": "Big Titi Energy",
-    "total_points": 61.7,
-    "avg_points": 12.34,
-    "ros_projection": 93.76
-  },
-  {
-    "id": 4427095,
-    "name": "DeMario Douglas",
-    "position": "WR",
-    "team": "Big Titi Energy",
-    "total_points": 12.9,
-    "avg_points": 2.58,
-    "ros_projection": 79.91
+    "total_points": 23.0,
+    "avg_points": 3.83,
+    "ros_projection": 64.3
   },
   {
     "id": 4426386,
     "name": "Roschon Johnson",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 0.0,
-    "avg_points": 0.0,
-    "ros_projection": 51.76
+    "total_points": 0.6,
+    "avg_points": 0.15,
+    "ros_projection": 47.45
   },
   {
     "id": 3929645,
     "name": "Juwan Johnson",
     "position": "TE",
     "team": "Big Titi Energy",
-    "total_points": 46.1,
-    "avg_points": 9.22,
-    "ros_projection": 73.67
-  },
-  {
-    "id": 3886812,
-    "name": "Jake Browning",
-    "position": "QB",
-    "team": "Big Titi Energy",
-    "total_points": 56.18,
-    "avg_points": 14.04,
-    "ros_projection": 2.42
+    "total_points": 47.1,
+    "avg_points": 7.85,
+    "ros_projection": 67.53
   },
   {
     "id": 2972515,
     "name": "Cooper Rush",
     "position": "QB",
     "team": "Big Titi Energy",
-    "total_points": 4.34,
-    "avg_points": 1.45,
-    "ros_projection": 1.83
+    "total_points": 0.72,
+    "avg_points": 0.18,
+    "ros_projection": 1.68
+  },
+  {
+    "id": 11252,
+    "name": "Joe Flacco",
+    "position": "QB",
+    "team": "Big Titi Energy",
+    "total_points": 30.66,
+    "avg_points": 6.13,
+    "ros_projection": 64.6
+  },
+  {
+    "id": 3045523,
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "team": "Big Titi Energy",
+    "total_points": 48.6,
+    "avg_points": 9.72,
+    "ros_projection": 0.0
   }
 ]

@@ -33,7 +33,7 @@ data-url="{{ "/assets/json/transactions/best_fa_2025.json"}}">
 <table
 data-click-to-select="true"
 data-height="930"
-data-search="false"
+data-search="true"
 data-toggle="table"
 data-url="{{ "/assets/json/transactions/all_fa_2025.json"}}">
 <thead>

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.7,
+    "projected": 16.21
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 0.0,
+    "projected": 0.0
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 26.8,
+    "projected": 12.55
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.7,
+    "projected": 11.78
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 2.2,
+    "projected": 11.07
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.9,
+    "projected": 10.78
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.8,
+    "projected": 8.24
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 21.72,
+    "projected": 20.15
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.8,
+    "projected": 7.7
+  }
+]

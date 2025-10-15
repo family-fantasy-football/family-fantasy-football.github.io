@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Josh Allen (144.38 pts) owned by Game of Zones - House Hamlin
+* **QB:** Dak Prescott (166.58 pts) owned by Third Time's the Charm?
 
-* **RB:** Jonathan Taylor (113.3 pts) owned by 90s MonCon
+* **RB:** Jonathan Taylor (135.0 pts) owned by 90s MonCon
 
-* **WR:** Puka Nacua (108.0 pts) owned by Abbey's TNT Team 
+* **WR:** Puka Nacua (111.8 pts) owned by Abbey's TNT Team 
 
-* **TE:** Jake Ferguson (75.95 pts) owned by Michael's Managable Team
+* **TE:** Jake Ferguson (87.5 pts) owned by Michael's Managable Team
 
 
-Below are the top 10 performers at each position through Week 5.
+Below are the top 10 performers at each position through Week 6.
 
 
 

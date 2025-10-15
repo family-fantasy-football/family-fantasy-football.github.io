@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 40.48,
+    "projected": 22.28
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.9,
+    "projected": 11.46
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.6,
+    "projected": 12.91
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.3,
+    "projected": 10.89
+  },
+  {
+    "player_name": "Cam Skattebo",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 30.0,
+    "projected": 12.31
+  },
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 31.84,
+    "projected": 24.0
+  },
+  {
+    "player_name": "Darren Waller",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 8.7,
+    "projected": 8.89
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 31.9,
+    "projected": 16.39
+  },
+  {
+    "player_name": "Mason Taylor",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 0.95,
+    "projected": 8.47
+  }
+]

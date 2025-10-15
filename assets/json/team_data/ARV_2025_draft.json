@@ -4,23 +4,23 @@
     "round": 1,
     "pick": 4,
     "player_name": "Bijan Robinson",
-    "points": "79.4",
-    "before_trade": "79.4",
+    "points": "112.2",
+    "before_trade": "112.2",
     "after_trade": "0.0",
     "draft_position": 4,
-    "value_diff": "-11.2",
-    "grade": "C"
+    "value_diff": "3.4",
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 2,
     "pick": 9,
     "player_name": "Puka Nacua",
-    "points": "108.0",
-    "before_trade": "108.0",
+    "points": "111.8",
+    "before_trade": "111.8",
     "after_trade": "0.0",
     "draft_position": 21,
-    "value_diff": "35.6",
+    "value_diff": "25.0",
     "grade": "A"
   },
   {
@@ -28,20 +28,20 @@
     "round": 3,
     "pick": 4,
     "player_name": "Bo Nix",
-    "points": "95.1",
-    "before_trade": "95.1",
+    "points": "109.0",
+    "before_trade": "109.0",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "-7.1",
-    "grade": "B"
+    "value_diff": "-13.7",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 4,
     "pick": 9,
     "player_name": "Kyren Williams",
-    "points": "76.6",
-    "before_trade": "76.6",
+    "points": "92.3",
+    "before_trade": "92.3",
     "after_trade": "0.0",
     "draft_position": 45,
     "value_diff": "-1.7",
@@ -56,19 +56,19 @@
     "before_trade": "43.0",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "-20.8",
-    "grade": "C"
+    "value_diff": "-33.5",
+    "grade": "D"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
     "round": 6,
     "pick": 9,
     "player_name": "Geno Smith",
-    "points": "70.4",
-    "before_trade": "70.4",
+    "points": "83.6",
+    "before_trade": "83.6",
     "after_trade": "0.0",
     "draft_position": 69,
-    "value_diff": "-20.9",
+    "value_diff": "-26.0",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 4,
     "player_name": "Calvin Ridley",
-    "points": "34.7",
-    "before_trade": "34.7",
+    "points": "37.0",
+    "before_trade": "37.0",
     "after_trade": "0.0",
     "draft_position": 76,
-    "value_diff": "-22.5",
+    "value_diff": "-31.6",
     "grade": "C"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 9,
     "player_name": "Colston Loveland",
-    "points": "6.5",
-    "before_trade": "6.5",
+    "points": "9.2",
+    "before_trade": "9.2",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-34.6",
+    "value_diff": "-40.3",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 4,
     "player_name": "Emeka Egbuka",
-    "points": "89.9",
-    "before_trade": "89.9",
+    "points": "93.3",
+    "before_trade": "93.3",
     "after_trade": "0.0",
     "draft_position": 100,
-    "value_diff": "46.6",
+    "value_diff": "41.3",
     "grade": "A"
   },
   {
@@ -112,12 +112,12 @@
     "round": 10,
     "pick": 9,
     "player_name": "Deebo Samuel",
-    "points": "73.6",
-    "before_trade": "73.6",
+    "points": "77.0",
+    "before_trade": "77.0",
     "after_trade": "0.0",
     "draft_position": 117,
-    "value_diff": "23.2",
-    "grade": "A"
+    "value_diff": "16.5",
+    "grade": "B"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -128,7 +128,7 @@
     "before_trade": "1.2",
     "after_trade": "0.0",
     "draft_position": 124,
-    "value_diff": "-29.2",
+    "value_diff": "-35.2",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "0.7",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-4.3",
+    "value_diff": "-5.3",
     "grade": "B"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 4,
     "player_name": "Xavier Legette",
-    "points": "12.9",
-    "before_trade": "12.9",
+    "points": "15.0",
+    "before_trade": "15.0",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-26.9",
+    "value_diff": "-32.8",
     "grade": "D"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 9,
     "player_name": "Dylan Sampson",
-    "points": "23.4",
-    "before_trade": "23.4",
+    "points": "26.8",
+    "before_trade": "26.8",
     "after_trade": "0.0",
     "draft_position": 165,
-    "value_diff": "-28.3",
+    "value_diff": "-35.2",
     "grade": "D"
   },
   {
@@ -172,11 +172,11 @@
     "round": 15,
     "pick": 4,
     "player_name": "Cade Otton",
-    "points": "19.0",
-    "before_trade": "19.0",
+    "points": "27.9",
+    "before_trade": "27.9",
     "after_trade": "0.0",
     "draft_position": 172,
-    "value_diff": "-17.9",
+    "value_diff": "-16.4",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "14.6",
     "after_trade": "0.0",
     "draft_position": 189,
-    "value_diff": "8.0",
+    "value_diff": "6.6",
     "grade": "B"
   }
 ]

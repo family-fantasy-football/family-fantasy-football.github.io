@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 20.1,
+    "projected": 12.38
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.0,
+    "projected": 11.67
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 19.2,
+    "projected": 12.56
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 26.2,
+    "projected": 14.67
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.1,
+    "projected": 12.02
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 10.84,
+    "projected": 25.23
+  },
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 21.0,
+    "projected": 18.31
+  },
+  {
+    "player_name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 1.8,
+    "projected": 11.89
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.5,
+    "projected": 13.42
+  }
+]

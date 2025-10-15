@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-108.0",
+    "value_diff": "-132.7",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "69.1",
-    "before_trade": "69.1",
+    "points": "84.7",
+    "before_trade": "84.7",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-10.5",
+    "value_diff": "-10.8",
     "grade": "C"
   },
   {
@@ -28,23 +28,23 @@
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "132.9",
-    "before_trade": "132.9",
+    "points": "159.2",
+    "before_trade": "159.2",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "35.6",
+    "value_diff": "42.4",
     "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 4,
     "pick": 6,
-    "player_name": "James Cook",
-    "points": "89.9",
-    "before_trade": "89.9",
+    "player_name": "James Cook III",
+    "points": "98.6",
+    "before_trade": "98.6",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "15.9",
+    "value_diff": "9.8",
     "grade": "B"
   },
   {
@@ -56,43 +56,43 @@
     "before_trade": "67.0",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-3.3",
-    "grade": "B"
+    "value_diff": "-17.4",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
-    "points": "52.6",
-    "before_trade": "52.6",
+    "points": "56.8",
+    "before_trade": "56.8",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "-5.9",
-    "grade": "B"
+    "value_diff": "-13.3",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 7,
     "pick": 7,
     "player_name": "Matthew Golden",
-    "points": "21.0",
-    "before_trade": "21.0",
+    "points": "32.7",
+    "before_trade": "32.7",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-28.8",
-    "grade": "D"
+    "value_diff": "-27.0",
+    "grade": "C"
   },
   {
     "team": "Rookie Mistake",
     "round": 8,
     "pick": 6,
     "player_name": "Travis Hunter",
-    "points": "26.2",
-    "before_trade": "26.2",
+    "points": "29.7",
+    "before_trade": "29.7",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-24.6",
+    "value_diff": "-31.3",
     "grade": "C"
   },
   {
@@ -100,23 +100,23 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "59.5",
-    "before_trade": "59.5",
+    "points": "76.3",
+    "before_trade": "76.3",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "15.5",
-    "grade": "B"
+    "value_diff": "23.5",
+    "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 10,
     "pick": 6,
     "player_name": "J.K. Dobbins",
-    "points": "69.5",
-    "before_trade": "69.5",
+    "points": "73.5",
+    "before_trade": "73.5",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "24.7",
+    "value_diff": "19.7",
     "grade": "A"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-31.6",
+    "value_diff": "-39.5",
     "grade": "D"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 6,
     "player_name": "Ollie Gordon II",
-    "points": "13.2",
-    "before_trade": "13.2",
+    "points": "13.9",
+    "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-9.4",
+    "value_diff": "-13.2",
     "grade": "C"
   },
   {
@@ -148,23 +148,23 @@
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
-    "points": "39.9",
-    "before_trade": "39.9",
+    "points": "66.0",
+    "before_trade": "66.0",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "-0.2",
-    "grade": "B"
+    "value_diff": "17.9",
+    "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
-    "points": "48.4",
-    "before_trade": "48.4",
+    "points": "56.4",
+    "before_trade": "56.4",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "18.1",
+    "value_diff": "20.0",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-32.7",
+    "value_diff": "-39.2",
     "grade": "D"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 6,
     "player_name": "Chig Okonkwo",
-    "points": "29.9",
-    "before_trade": "29.9",
+    "points": "39.0",
+    "before_trade": "39.0",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-5.7",
+    "value_diff": "-3.7",
     "grade": "B"
   }
 ]

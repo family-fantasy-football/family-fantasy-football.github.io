@@ -26,19 +26,19 @@
       "avoidLabelOverlap": false,
       "data": [
         {
-          "value": 45.7,
+          "value": 48.5,
           "name": "QB"
         },
         {
-          "value": 28.6,
+          "value": 26.7,
           "name": "RB"
         },
         {
-          "value": 43.8,
+          "value": 43.3,
           "name": "WR"
         },
         {
-          "value": 13.6,
+          "value": 13.2,
           "name": "TE"
         }
       ]

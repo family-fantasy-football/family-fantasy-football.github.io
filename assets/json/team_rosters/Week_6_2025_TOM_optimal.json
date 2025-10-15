@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 26.32,
+    "projected": 21.71
+  },
+  {
+    "player_name": "Matthew Golden",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.7,
+    "projected": 9.54
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.0,
+    "projected": 9.21
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.6,
+    "projected": 16.76
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.7,
+    "projected": 15.55
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 16.8,
+    "projected": 9.58
+  },
+  {
+    "player_name": "Jake Tonges",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 10.3,
+    "projected": 7.34
+  },
+  {
+    "player_name": "Chig Okonkwo",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 9.1,
+    "projected": 6.11
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 26.1,
+    "projected": 14.19
+  }
+]

@@ -8,19 +8,19 @@
     "before_trade": "120.4",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "-4.4",
-    "grade": "B"
+    "value_diff": "-29.3",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 2,
     "pick": 12,
     "player_name": "Jonathan Taylor",
-    "points": "113.3",
-    "before_trade": "113.3",
+    "points": "135.0",
+    "before_trade": "135.0",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "33.2",
+    "value_diff": "38.8",
     "grade": "A"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "59.0",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "-11.3",
+    "value_diff": "-25.4",
     "grade": "C"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 12,
     "player_name": "Tua Tagovailoa",
-    "points": "104.1",
-    "before_trade": "104.1",
+    "points": "112.2",
+    "before_trade": "112.2",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "1.7",
+    "value_diff": "-10.6",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "38.8",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "-30.3",
+    "value_diff": "-44.1",
     "grade": "D"
   },
   {
@@ -64,23 +64,23 @@
     "round": 6,
     "pick": 12,
     "player_name": "Garrett Wilson",
-    "points": "78.7",
-    "before_trade": "78.7",
+    "points": "81.5",
+    "before_trade": "81.5",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "20.8",
-    "grade": "A"
+    "value_diff": "12.1",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 7,
     "pick": 1,
     "player_name": "Jameson Williams",
-    "points": "33.9",
-    "before_trade": "33.9",
+    "points": "49.5",
+    "before_trade": "49.5",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-20.7",
+    "value_diff": "-16.1",
     "grade": "C"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 12,
     "player_name": "Jaylen Waddle",
-    "points": "59.0",
-    "before_trade": "59.0",
+    "points": "72.3",
+    "before_trade": "72.3",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "5.3",
+    "value_diff": "7.8",
     "grade": "B"
   },
   {
@@ -100,12 +100,12 @@
     "round": 9,
     "pick": 1,
     "player_name": "Jaylen Warren",
-    "points": "38.9",
-    "before_trade": "38.9",
+    "points": "46.2",
+    "before_trade": "46.2",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-25.9",
-    "grade": "D"
+    "value_diff": "-31.5",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
@@ -116,19 +116,19 @@
     "before_trade": "56.2",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "19.0",
-    "grade": "A"
+    "value_diff": "11.6",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 11,
     "pick": 1,
     "player_name": "Jauan Jennings",
-    "points": "25.4",
-    "before_trade": "25.4",
+    "points": "26.6",
+    "before_trade": "26.6",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-21.0",
+    "value_diff": "-29.0",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "26.0",
     "after_trade": "0.0",
     "draft_position": 144,
-    "value_diff": "-14.6",
+    "value_diff": "-22.7",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 1,
     "player_name": "Quinshon Judkins",
-    "points": "57.4",
-    "before_trade": "57.4",
+    "points": "61.0",
+    "before_trade": "61.0",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "44.6",
+    "value_diff": "45.7",
     "grade": "A"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.7",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-36.7",
+    "value_diff": "-44.2",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "18.1",
     "after_trade": "0.0",
     "draft_position": 169,
-    "value_diff": "-11.2",
+    "value_diff": "-17.1",
     "grade": "C"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 12,
     "player_name": "Tyjae Spears",
-    "points": "1.4",
-    "before_trade": "1.4",
+    "points": "8.4",
+    "before_trade": "8.4",
     "after_trade": "0.0",
     "draft_position": 192,
-    "value_diff": "-29.2",
-    "grade": "D"
+    "value_diff": "-28.3",
+    "grade": "C"
   }
 ]

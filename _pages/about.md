@@ -25,17 +25,17 @@ chart:
 </div>
 
 
-The current top scorer is: Connor Dickson and Monika Monko (714.78)
+The current top scorer is: Cathy Dickson and Jordan Dickson (805.74)
 
-The current bottom scorer is: Emma Grau (460.97)
+The current bottom scorer is: Christine Hamlin (550.11)
 
 Highest Scoring Week: Ryan Ratcliff - 178.27 points (Week 5)
 
-Lowest Scoring Week: Emma Grau - 67.94 points (Week 2)
+Lowest Scoring Week: Nick Hill - 65.20 points (Week 6)
 
-Luckiest Team: Kayden Mullins (1.5) Wins Above Expected
+Luckiest Team: Kayden Mullins (1.4) Wins Above Expected
 
-Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
+Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 
 
 
@@ -86,7 +86,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             2,
             3,
             4,
-            5
+            5,
+            6
         ]
     },
     "yAxis": {
@@ -105,17 +106,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#ffbb78"
+                "color": "#8c564b"
             },
             "itemStyle": {
-                "color": "#ffbb78"
+                "color": "#8c564b"
             },
             "data": [
                 7,
                 4,
                 3,
                 1,
-                3
+                3,
+                7
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -131,17 +133,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#d62728"
+                "color": "#98df8a"
             },
             "itemStyle": {
-                "color": "#d62728"
+                "color": "#98df8a"
             },
             "data": [
                 4,
                 8,
                 5,
                 4,
-                5
+                5,
+                4
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -157,17 +160,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#c49c94"
+                "color": "#9467bd"
             },
             "itemStyle": {
-                "color": "#c49c94"
+                "color": "#9467bd"
             },
             "data": [
                 12,
                 10,
                 10,
                 10,
-                8
+                8,
+                6
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -183,17 +187,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#bcbd22"
+                "color": "#17becf"
             },
             "itemStyle": {
-                "color": "#bcbd22"
+                "color": "#17becf"
             },
             "data": [
                 11,
                 12,
                 12,
                 12,
-                11
+                11,
+                12
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -209,17 +214,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#17becf"
+                "color": "#bcbd22"
             },
             "itemStyle": {
-                "color": "#17becf"
+                "color": "#bcbd22"
             },
             "data": [
                 8,
                 11,
                 11,
                 11,
-                12
+                12,
+                11
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -235,17 +241,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#1f77b4"
+                "color": "#ffbb78"
             },
             "itemStyle": {
-                "color": "#1f77b4"
+                "color": "#ffbb78"
             },
             "data": [
                 1,
                 1,
                 1,
                 2,
-                1
+                1,
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -271,6 +278,7 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 5,
                 4,
                 6,
+                9,
                 9
             ],
             "symbol": "circle",
@@ -287,17 +295,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#8c564b"
+                "color": "#d62728"
             },
             "itemStyle": {
-                "color": "#8c564b"
+                "color": "#d62728"
             },
             "data": [
                 10,
                 9,
                 7,
                 9,
-                7
+                7,
+                5
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -313,17 +322,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#98df8a"
+                "color": "#aec7e8"
             },
             "itemStyle": {
-                "color": "#98df8a"
+                "color": "#aec7e8"
             },
             "data": [
                 5,
                 2,
                 2,
                 3,
-                4
+                4,
+                2
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -339,17 +349,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#9467bd"
+                "color": "#c49c94"
             },
             "itemStyle": {
-                "color": "#9467bd"
+                "color": "#c49c94"
             },
             "data": [
                 9,
                 7,
                 9,
                 7,
-                6
+                6,
+                8
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -365,17 +376,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#aec7e8"
+                "color": "#1f77b4"
             },
             "itemStyle": {
-                "color": "#aec7e8"
+                "color": "#1f77b4"
             },
             "data": [
                 6,
                 3,
                 6,
                 5,
-                2
+                2,
+                1
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -401,6 +413,7 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 6,
                 8,
                 8,
+                10,
                 10
             ],
             "symbol": "circle",
@@ -457,16 +470,16 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": 311.0,
-        "max": 865.0
+        "min": 400.0,
+        "max": 997.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": 311.0,
-        "max": 865.0
+        "min": 400.0,
+        "max": 997.0
     },
     "series": [
         {
@@ -475,8 +488,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    625.62,
-                    545.61
+                    791.29,
+                    697.61
                 ]
             ]
         },
@@ -486,8 +499,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    714.78,
-                    591.36
+                    782.49,
+                    680.98
                 ]
             ]
         },
@@ -497,8 +510,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    600.01,
-                    556.04
+                    715.53,
+                    688.19
                 ]
             ]
         },
@@ -508,8 +521,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    663.13,
-                    648.67
+                    787.87,
+                    749.88
                 ]
             ]
         },
@@ -519,8 +532,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    658.45,
-                    599.39
+                    790.6,
+                    714.91
                 ]
             ]
         },
@@ -530,8 +543,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    593.87,
-                    655.36
+                    659.07,
+                    752.63
                 ]
             ]
         },
@@ -541,8 +554,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    505.64,
-                    523.49
+                    659.07,
+                    611.28
                 ]
             ]
         },
@@ -552,8 +565,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    653.74,
-                    656.66
+                    805.74,
+                    822.33
                 ]
             ]
         },
@@ -563,8 +576,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    652.26,
-                    637.64
+                    749.53,
+                    702.84
                 ]
             ]
         },
@@ -574,8 +587,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    669.18,
-                    544.43
+                    770.39,
+                    669.17
                 ]
             ]
         },
@@ -585,8 +598,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    460.97,
-                    607.32
+                    550.59,
+                    675.03
                 ]
             ]
         },
@@ -596,8 +609,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "symbolSize": 15,
             "data": [
                 [
-                    462.32,
-                    694.0
+                    550.11,
+                    847.43
                 ]
             ]
         },
@@ -611,12 +624,12 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "showSymbol": false,
             "data": [
                 [
-                    311.0,
-                    311.0
+                    400.0,
+                    400.0
                 ],
                 [
-                    865.0,
-                    865.0
+                    997.0,
+                    997.0
                 ]
             ],
             "silent": true
@@ -628,14 +641,14 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 605.0,
+                        "xAxis": 717.69,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 605.0,
+                        "yAxis": 717.69,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -669,18 +682,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
         "nameLocation": "middle",
         "nameGap": 30,
         "data": [
-            "HMB",
             "TTC",
-            "90s",
             "MMT",
+            "HMB",
             "ARV",
-            "TOM",
             "KTT",
             "RRT",
+            "90s",
+            "TOM",
             "JST",
             "TIB",
-            "BTE",
-            "EET"
+            "EET",
+            "BTE"
         ]
     },
     "yAxis": {
@@ -695,88 +708,88 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "type": "boxplot",
             "data": [
                 [
-                    114.94,
-                    119.75,
-                    122.87,
-                    135.24,
-                    158.48
-                ],
-                [
                     85.3,
-                    106.14,
-                    111.87,
-                    156.86,
-                    165.45
-                ],
-                [
-                    111.47,
-                    115.91,
-                    157.15,
-                    159.49,
-                    170.76
+                    107.57,
+                    134.36,
+                    163.3,
+                    165.67
                 ],
                 [
                     111.95,
-                    119.91,
-                    136.89,
-                    141.03,
+                    122.97,
+                    134.52,
+                    140.0,
                     148.67
                 ],
                 [
-                    113.09,
-                    115.72,
-                    120.18,
-                    145.7,
+                    101.21,
+                    116.14,
+                    121.31,
+                    132.15,
+                    156.16
+                ],
+                [
+                    97.27,
+                    113.75,
+                    117.95,
+                    139.32,
                     157.57
                 ],
                 [
-                    94.53,
-                    103.67,
-                    120.4,
-                    125.2,
-                    156.21
-                ],
-                [
                     86.76,
-                    88.53,
-                    99.4,
-                    101.15,
-                    120.08
+                    91.25,
+                    100.28,
+                    122.64,
+                    153.43
                 ],
                 [
                     80.1,
-                    111.53,
-                    144.61,
-                    148.62,
+                    114.83,
+                    134.68,
+                    147.62,
                     178.27
                 ],
                 [
-                    120.25,
-                    123.73,
-                    126.22,
-                    126.38,
-                    130.35
+                    67.71,
+                    112.58,
+                    136.53,
+                    158.9,
+                    170.76
                 ],
                 [
-                    78.58,
-                    111.43,
-                    132.22,
-                    134.09,
+                    94.53,
+                    106.63,
+                    117.96,
+                    124.0,
+                    150.05
+                ],
+                [
+                    120.25,
+                    124.35,
+                    126.3,
+                    145.6,
+                    157.16
+                ],
+                [
+                    65.2,
+                    86.79,
+                    121.82,
+                    133.62,
                     137.55
                 ],
                 [
-                    79.37,
-                    81.26,
-                    81.59,
-                    82.52,
-                    84.41
+                    67.94,
+                    77.63,
+                    97.38,
+                    105.83,
+                    108.2
                 ],
                 [
-                    67.94,
-                    73.63,
-                    105.14,
-                    106.06,
-                    108.2
+                    73.65,
+                    81.34,
+                    82.06,
+                    86.47,
+                    94.17
                 ]
             ],
             "itemStyle": {
@@ -789,203 +802,243 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 [
                     0,
-                    176.38,
-                    "HMB"
-                ],
-                [
-                    0,
-                    119.75,
-                    "HMB"
-                ],
-                [
-                    0,
-                    114.94,
-                    "HMB"
-                ],
-                [
-                    0,
-                    135.24,
-                    "HMB"
-                ],
-                [
-                    0,
-                    122.87,
-                    "HMB"
-                ],
-                [
-                    1,
                     106.14,
                     "TTC"
                 ],
                 [
-                    1,
+                    0,
                     111.87,
                     "TTC"
                 ],
                 [
-                    1,
+                    0,
                     85.3,
                     "TTC"
                 ],
                 [
-                    1,
+                    0,
                     156.86,
                     "TTC"
                 ],
                 [
-                    1,
+                    0,
                     165.45,
                     "TTC"
                 ],
                 [
-                    2,
-                    111.47,
-                    "90s"
+                    0,
+                    165.67,
+                    "TTC"
                 ],
                 [
-                    2,
-                    157.15,
-                    "90s"
-                ],
-                [
-                    2,
-                    170.76,
-                    "90s"
-                ],
-                [
-                    2,
-                    115.91,
-                    "90s"
-                ],
-                [
-                    2,
-                    159.49,
-                    "90s"
-                ],
-                [
-                    3,
+                    1,
                     111.95,
                     "MMT"
                 ],
                 [
-                    3,
+                    1,
                     141.03,
                     "MMT"
                 ],
                 [
-                    3,
+                    1,
                     148.67,
                     "MMT"
                 ],
                 [
-                    3,
+                    1,
                     136.89,
                     "MMT"
                 ],
                 [
-                    3,
+                    1,
                     119.91,
                     "MMT"
                 ],
                 [
-                    4,
+                    1,
+                    132.15,
+                    "MMT"
+                ],
+                [
+                    2,
+                    176.38,
+                    "HMB"
+                ],
+                [
+                    2,
+                    119.75,
+                    "HMB"
+                ],
+                [
+                    2,
+                    114.94,
+                    "HMB"
+                ],
+                [
+                    2,
+                    135.24,
+                    "HMB"
+                ],
+                [
+                    2,
+                    122.87,
+                    "HMB"
+                ],
+                [
+                    2,
+                    101.21,
+                    "HMB"
+                ],
+                [
+                    3,
                     115.72,
                     "ARV"
                 ],
                 [
-                    4,
+                    3,
                     113.09,
                     "ARV"
                 ],
                 [
-                    4,
+                    3,
                     120.18,
                     "ARV"
                 ],
                 [
-                    4,
+                    3,
                     157.57,
                     "ARV"
                 ],
                 [
-                    4,
+                    3,
                     145.7,
                     "ARV"
                 ],
                 [
-                    5,
-                    103.67,
-                    "TOM"
+                    3,
+                    97.27,
+                    "ARV"
                 ],
                 [
-                    5,
-                    125.2,
-                    "TOM"
-                ],
-                [
-                    5,
-                    94.53,
-                    "TOM"
-                ],
-                [
-                    5,
-                    156.21,
-                    "TOM"
-                ],
-                [
-                    5,
-                    120.4,
-                    "TOM"
-                ],
-                [
-                    6,
+                    4,
                     101.15,
                     "KTT"
                 ],
                 [
-                    6,
+                    4,
                     99.4,
                     "KTT"
                 ],
                 [
-                    6,
+                    4,
                     88.53,
                     "KTT"
                 ],
                 [
-                    6,
+                    4,
                     86.76,
                     "KTT"
                 ],
                 [
-                    6,
+                    4,
                     129.8,
                     "KTT"
                 ],
                 [
-                    7,
+                    4,
+                    153.43,
+                    "KTT"
+                ],
+                [
+                    5,
                     80.1,
                     "RRT"
                 ],
                 [
-                    7,
+                    5,
                     148.62,
                     "RRT"
                 ],
                 [
-                    7,
+                    5,
                     144.61,
                     "RRT"
                 ],
                 [
-                    7,
+                    5,
                     111.53,
                     "RRT"
                 ],
                 [
-                    7,
+                    5,
                     178.27,
                     "RRT"
+                ],
+                [
+                    5,
+                    124.74,
+                    "RRT"
+                ],
+                [
+                    6,
+                    111.47,
+                    "90s"
+                ],
+                [
+                    6,
+                    157.15,
+                    "90s"
+                ],
+                [
+                    6,
+                    170.76,
+                    "90s"
+                ],
+                [
+                    6,
+                    115.91,
+                    "90s"
+                ],
+                [
+                    6,
+                    159.49,
+                    "90s"
+                ],
+                [
+                    6,
+                    67.71,
+                    "90s"
+                ],
+                [
+                    7,
+                    103.67,
+                    "TOM"
+                ],
+                [
+                    7,
+                    125.2,
+                    "TOM"
+                ],
+                [
+                    7,
+                    94.53,
+                    "TOM"
+                ],
+                [
+                    7,
+                    156.21,
+                    "TOM"
+                ],
+                [
+                    7,
+                    120.4,
+                    "TOM"
+                ],
+                [
+                    7,
+                    115.52,
+                    "TOM"
                 ],
                 [
                     8,
@@ -1010,6 +1063,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     8,
                     120.25,
+                    "JST"
+                ],
+                [
+                    8,
+                    152.0,
                     "JST"
                 ],
                 [
@@ -1038,54 +1096,69 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     "TIB"
                 ],
                 [
+                    9,
+                    65.2,
+                    "TIB"
+                ],
+                [
                     10,
+                    108.2,
+                    "EET"
+                ],
+                [
+                    10,
+                    67.94,
+                    "EET"
+                ],
+                [
+                    10,
+                    73.63,
+                    "EET"
+                ],
+                [
+                    10,
+                    106.06,
+                    "EET"
+                ],
+                [
+                    10,
+                    105.14,
+                    "EET"
+                ],
+                [
+                    10,
+                    89.62,
+                    "EET"
+                ],
+                [
+                    11,
                     81.59,
                     "BTE"
                 ],
                 [
-                    10,
+                    11,
                     69.1,
                     "BTE"
                 ],
                 [
-                    10,
+                    11,
                     81.26,
                     "BTE"
                 ],
                 [
-                    10,
+                    11,
                     82.52,
                     "BTE"
                 ],
                 [
-                    10,
+                    11,
                     147.85,
                     "BTE"
                 ],
                 [
                     11,
-                    108.2,
-                    "EET"
-                ],
-                [
-                    11,
-                    67.94,
-                    "EET"
-                ],
-                [
-                    11,
-                    73.63,
-                    "EET"
-                ],
-                [
-                    11,
-                    106.06,
-                    "EET"
-                ],
-                [
-                    11,
-                    105.14,
-                    "EET"
+                    87.79,
+                    "BTE"
                 ]
             ]
         }
@@ -1131,18 +1204,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     "yAxis": {
         "type": "category",
         "data": [
-            "HMB",
             "TTC",
-            "90s",
             "MMT",
+            "HMB",
             "ARV",
-            "TOM",
             "KTT",
             "RRT",
+            "90s",
+            "TOM",
             "JST",
             "TIB",
-            "BTE",
-            "EET"
+            "EET",
+            "BTE"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1184,107 +1257,107 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     1,
                     0,
-                    9
+                    5
                 ],
                 [
                     2,
                     0,
+                    8
+                ],
+                [
+                    3,
+                    0,
+                    11
+                ],
+                [
+                    0,
+                    1,
                     3
                 ],
                 [
-                    3,
-                    0,
-                    2
-                ],
-                [
-                    0,
-                    1,
-                    2
-                ],
-                [
                     1,
                     1,
-                    6
+                    8
                 ],
                 [
                     2,
                     1,
-                    6
+                    4
                 ],
                 [
                     3,
                     1,
+                    4
+                ],
+                [
+                    0,
+                    2,
+                    2
+                ],
+                [
+                    1,
+                    2,
                     10
                 ],
                 [
-                    0,
+                    2,
                     2,
                     3
                 ],
                 [
-                    1,
+                    3,
                     2,
+                    3
+                ],
+                [
+                    0,
+                    3,
+                    10
+                ],
+                [
+                    1,
+                    3,
                     1
                 ],
                 [
                     2,
-                    2,
-                    5
-                ],
-                [
                     3,
-                    2,
-                    6
-                ],
-                [
-                    0,
-                    3,
-                    6
-                ],
-                [
-                    1,
-                    3,
-                    8
-                ],
-                [
-                    2,
-                    3,
-                    2
-                ],
-                [
-                    3,
-                    3,
-                    3
-                ],
-                [
-                    0,
-                    4,
-                    10
-                ],
-                [
-                    1,
-                    4,
-                    2
-                ],
-                [
-                    2,
-                    4,
                     11
                 ],
                 [
                     3,
-                    4,
+                    3,
                     1
                 ],
                 [
                     0,
-                    5,
+                    4,
+                    5
+                ],
+                [
+                    1,
+                    4,
                     9
+                ],
+                [
+                    2,
+                    4,
+                    9
+                ],
+                [
+                    3,
+                    4,
+                    9
+                ],
+                [
+                    0,
+                    5,
+                    6
                 ],
                 [
                     1,
                     5,
-                    5
+                    7
                 ],
                 [
                     2,
@@ -1294,7 +1367,7 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     3,
                     5,
-                    9
+                    2
                 ],
                 [
                     0,
@@ -1304,117 +1377,117 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     1,
                     6,
-                    10
+                    2
                 ],
                 [
                     2,
                     6,
-                    9
+                    6
                 ],
                 [
                     3,
                     6,
-                    11
+                    6
                 ],
                 [
                     0,
                     7,
-                    4
-                ],
-                [
-                    1,
-                    7,
-                    7
-                ],
-                [
-                    2,
-                    7,
-                    4
-                ],
-                [
-                    3,
-                    7,
-                    4
-                ],
-                [
-                    0,
-                    8,
-                    5
-                ],
-                [
-                    1,
-                    8,
-                    4
-                ],
-                [
-                    2,
-                    8,
-                    7
-                ],
-                [
-                    3,
-                    8,
-                    5
-                ],
-                [
-                    0,
-                    9,
                     8
                 ],
                 [
                     1,
-                    9,
+                    7,
+                    6
+                ],
+                [
+                    2,
+                    7,
+                    2
+                ],
+                [
+                    3,
+                    7,
+                    10
+                ],
+                [
+                    0,
+                    8,
+                    4
+                ],
+                [
+                    1,
+                    8,
                     3
                 ],
                 [
                     2,
-                    9,
-                    12
-                ],
-                [
-                    3,
-                    9,
+                    8,
                     7
                 ],
                 [
+                    3,
+                    8,
+                    5
+                ],
+                [
                     0,
-                    10,
-                    11
+                    9,
+                    9
                 ],
                 [
                     1,
-                    10,
-                    11
+                    9,
+                    4
                 ],
                 [
                     2,
-                    10,
-                    8
+                    9,
+                    12
                 ],
                 [
                     3,
+                    9,
+                    8
+                ],
+                [
+                    0,
                     10,
                     12
                 ],
                 [
-                    0,
-                    11,
-                    12
-                ],
-                [
                     1,
-                    11,
-                    12
+                    10,
+                    11
                 ],
                 [
                     2,
-                    11,
+                    10,
                     10
                 ],
                 [
                     3,
+                    10,
+                    7
+                ],
+                [
+                    0,
                     11,
-                    8
+                    11
+                ],
+                [
+                    1,
+                    11,
+                    12
+                ],
+                [
+                    2,
+                    11,
+                    5
+                ],
+                [
+                    3,
+                    11,
+                    12
                 ]
             ],
             "label": {
@@ -1447,7 +1520,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             2,
             3,
             4,
-            5
+            5,
+            6
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -1462,16 +1536,16 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     "yAxis": {
         "type": "category",
         "data": [
-            "EET",
             "ARV",
+            "EET",
             "BTE",
-            "TOM",
             "90s",
             "JST",
+            "TOM",
+            "TIB",
             "HMB",
             "RRT",
             "MMT",
-            "TIB",
             "KTT",
             "TTC"
         ],
@@ -1510,52 +1584,62 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     0,
                     0,
-                    11
-                ],
-                [
-                    1,
-                    0,
-                    9
-                ],
-                [
-                    2,
-                    0,
-                    12
-                ],
-                [
-                    3,
-                    0,
-                    9
-                ],
-                [
-                    4,
-                    0,
-                    6
-                ],
-                [
-                    0,
-                    1,
                     6
                 ],
                 [
                     1,
-                    1,
+                    0,
                     12
                 ],
                 [
                     2,
-                    1,
+                    0,
                     2
                 ],
                 [
                     3,
-                    1,
+                    0,
                     10
                 ],
                 [
                     4,
+                    0,
+                    12
+                ],
+                [
+                    5,
+                    0,
+                    10
+                ],
+                [
+                    0,
+                    1,
+                    11
+                ],
+                [
+                    1,
+                    1,
+                    9
+                ],
+                [
+                    2,
                     1,
                     12
+                ],
+                [
+                    3,
+                    1,
+                    9
+                ],
+                [
+                    4,
+                    1,
+                    6
+                ],
+                [
+                    5,
+                    1,
+                    5
                 ],
                 [
                     0,
@@ -1583,179 +1667,219 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     8
                 ],
                 [
-                    0,
-                    3,
-                    7
-                ],
-                [
-                    1,
-                    3,
-                    1
-                ],
-                [
+                    5,
                     2,
-                    3,
-                    11
-                ],
-                [
-                    3,
-                    3,
-                    8
-                ],
-                [
-                    4,
-                    3,
-                    10
+                    6
                 ],
                 [
                     0,
-                    4,
+                    3,
                     12
                 ],
                 [
                     1,
-                    4,
+                    3,
                     4
                 ],
                 [
                     2,
-                    4,
+                    3,
                     8
                 ],
                 [
                     3,
-                    4,
+                    3,
                     5
                 ],
                 [
                     4,
-                    4,
+                    3,
                     4
                 ],
                 [
-                    0,
                     5,
+                    3,
+                    12
+                ],
+                [
+                    0,
+                    4,
                     3
                 ],
                 [
                     1,
-                    5,
+                    4,
                     8
                 ],
                 [
                     2,
-                    5,
+                    4,
                     1
                 ],
                 [
                     3,
-                    5,
+                    4,
                     11
                 ],
                 [
                     4,
+                    4,
+                    9
+                ],
+                [
                     5,
+                    4,
                     9
                 ],
                 [
                     0,
+                    5,
+                    7
+                ],
+                [
+                    1,
+                    5,
+                    1
+                ],
+                [
+                    2,
+                    5,
+                    11
+                ],
+                [
+                    3,
+                    5,
+                    8
+                ],
+                [
+                    4,
+                    5,
+                    10
+                ],
+                [
+                    5,
+                    5,
+                    4
+                ],
+                [
+                    0,
                     6,
-                    5
+                    1
                 ],
                 [
                     1,
                     6,
-                    6
+                    11
                 ],
                 [
                     2,
                     6,
-                    9
+                    6
                 ],
                 [
                     3,
                     6,
-                    2
+                    4
                 ],
                 [
                     4,
                     6,
-                    7
+                    5
+                ],
+                [
+                    5,
+                    6,
+                    11
                 ],
                 [
                     0,
                     7,
+                    5
+                ],
+                [
+                    1,
+                    7,
+                    6
+                ],
+                [
+                    2,
+                    7,
+                    9
+                ],
+                [
+                    3,
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    7,
+                    7
+                ],
+                [
+                    5,
+                    7,
+                    8
+                ],
+                [
+                    0,
+                    8,
                     10
                 ],
                 [
                     1,
-                    7,
+                    8,
                     7
                 ],
                 [
                     2,
-                    7,
+                    8,
                     4
                 ],
                 [
                     3,
-                    7,
+                    8,
                     7
                 ],
                 [
                     4,
-                    7,
+                    8,
                     1
                 ],
                 [
-                    0,
+                    5,
                     8,
+                    7
+                ],
+                [
+                    0,
+                    9,
                     8
                 ],
                 [
                     1,
-                    8,
+                    9,
                     2
                 ],
                 [
                     2,
-                    8,
+                    9,
                     3
                 ],
                 [
                     3,
-                    8,
+                    9,
                     3
                 ],
                 [
                     4,
-                    8,
+                    9,
                     11
                 ],
                 [
-                    0,
+                    5,
                     9,
                     1
-                ],
-                [
-                    1,
-                    9,
-                    11
-                ],
-                [
-                    2,
-                    9,
-                    6
-                ],
-                [
-                    3,
-                    9,
-                    4
-                ],
-                [
-                    4,
-                    9,
-                    5
                 ],
                 [
                     0,
@@ -1781,6 +1905,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4,
                     10,
                     2
+                ],
+                [
+                    5,
+                    10,
+                    3
                 ],
                 [
                     0,
@@ -1806,6 +1935,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4,
                     11,
                     3
+                ],
+                [
+                    5,
+                    11,
+                    2
                 ]
             ],
             "label": {
@@ -1834,7 +1968,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             2,
             3,
             4,
-            5
+            5,
+            6
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -1851,13 +1986,13 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
         "data": [
             "EET",
             "HMB",
-            "KTT",
             "BTE",
+            "KTT",
             "MMT",
-            "ARV",
             "TIB",
-            "JST",
             "TOM",
+            "ARV",
+            "JST",
             "RRT",
             "90s",
             "TTC"
@@ -1920,6 +2055,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     12
                 ],
                 [
+                    5,
+                    0,
+                    7
+                ],
+                [
                     0,
                     1,
                     1
@@ -1945,54 +2085,69 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     10
                 ],
                 [
-                    0,
-                    2,
-                    8
-                ],
-                [
+                    5,
                     1,
-                    2,
                     9
                 ],
                 [
-                    2,
-                    2,
-                    12
-                ],
-                [
-                    3,
-                    2,
-                    5
-                ],
-                [
-                    4,
-                    2,
-                    7
-                ],
-                [
                     0,
-                    3,
+                    2,
                     12
                 ],
                 [
                     1,
-                    3,
+                    2,
                     12
                 ],
                 [
                     2,
-                    3,
+                    2,
                     4
                 ],
                 [
                     3,
-                    3,
+                    2,
                     6
                 ],
                 [
                     4,
+                    2,
+                    5
+                ],
+                [
+                    5,
+                    2,
+                    10
+                ],
+                [
+                    0,
+                    3,
+                    8
+                ],
+                [
+                    1,
+                    3,
+                    9
+                ],
+                [
+                    2,
+                    3,
+                    12
+                ],
+                [
+                    3,
                     3,
                     5
+                ],
+                [
+                    4,
+                    3,
+                    7
+                ],
+                [
+                    5,
+                    3,
+                    8
                 ],
                 [
                     0,
@@ -2020,104 +2175,129 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     9
                 ],
                 [
-                    0,
                     5,
-                    3
-                ],
-                [
-                    1,
-                    5,
-                    6
-                ],
-                [
-                    2,
-                    5,
-                    3
-                ],
-                [
-                    3,
-                    5,
-                    9
-                ],
-                [
                     4,
-                    5,
-                    11
-                ],
-                [
-                    0,
-                    6,
-                    5
-                ],
-                [
-                    1,
-                    6,
-                    1
-                ],
-                [
-                    2,
-                    6,
-                    11
-                ],
-                [
-                    3,
-                    6,
-                    11
-                ],
-                [
-                    4,
-                    6,
                     4
                 ],
                 [
                     0,
-                    7,
-                    6
-                ],
-                [
-                    1,
-                    7,
+                    5,
                     5
                 ],
                 [
+                    1,
+                    5,
+                    1
+                ],
+                [
                     2,
-                    7,
-                    8
+                    5,
+                    11
                 ],
                 [
                     3,
-                    7,
-                    3
+                    5,
+                    11
                 ],
                 [
                     4,
-                    7,
-                    8
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5,
+                    6
                 ],
                 [
                     0,
-                    8,
+                    6,
                     9
                 ],
                 [
                     1,
-                    8,
+                    6,
                     3
                 ],
                 [
                     2,
-                    8,
+                    6,
                     5
                 ],
                 [
                     3,
-                    8,
+                    6,
                     7
                 ],
                 [
                     4,
+                    6,
+                    3
+                ],
+                [
+                    5,
+                    6,
+                    11
+                ],
+                [
+                    0,
+                    7,
+                    3
+                ],
+                [
+                    1,
+                    7,
+                    6
+                ],
+                [
+                    2,
+                    7,
+                    3
+                ],
+                [
+                    3,
+                    7,
+                    9
+                ],
+                [
+                    4,
+                    7,
+                    11
+                ],
+                [
+                    5,
+                    7,
+                    3
+                ],
+                [
+                    0,
+                    8,
+                    6
+                ],
+                [
+                    1,
+                    8,
+                    5
+                ],
+                [
+                    2,
+                    8,
+                    8
+                ],
+                [
+                    3,
                     8,
                     3
+                ],
+                [
+                    4,
+                    8,
+                    8
+                ],
+                [
+                    5,
+                    8,
+                    2
                 ],
                 [
                     0,
@@ -2145,6 +2325,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     6
                 ],
                 [
+                    5,
+                    9,
+                    5
+                ],
+                [
                     0,
                     10,
                     4
@@ -2170,6 +2355,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     2
                 ],
                 [
+                    5,
+                    10,
+                    12
+                ],
+                [
                     0,
                     11,
                     1
@@ -2191,6 +2381,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 ],
                 [
                     4,
+                    11,
+                    1
+                ],
+                [
+                    5,
                     11,
                     1
                 ]
@@ -2221,7 +2416,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             2,
             3,
             4,
-            5
+            5,
+            6
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2236,18 +2432,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     "yAxis": {
         "type": "category",
         "data": [
-            "TTC",
             "TOM",
-            "BTE",
+            "TTC",
             "KTT",
+            "BTE",
             "TIB",
+            "90s",
             "EET",
             "JST",
-            "90s",
             "MMT",
+            "ARV",
             "HMB",
-            "RRT",
-            "ARV"
+            "RRT"
         ],
         "name": "",
         "nameLocation": "end",
@@ -2284,102 +2480,122 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 [
                     0,
                     0,
-                    6
+                    10
                 ],
                 [
                     1,
                     0,
-                    10
+                    12
                 ],
                 [
                     2,
                     0,
-                    9
+                    10
                 ],
                 [
                     3,
                     0,
+                    1
+                ],
+                [
+                    4,
+                    0,
+                    12
+                ],
+                [
+                    5,
+                    0,
+                    9
+                ],
+                [
+                    0,
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    1,
+                    10
+                ],
+                [
+                    2,
+                    1,
+                    9
+                ],
+                [
+                    3,
+                    1,
                     11
                 ],
                 [
                     4,
+                    1,
+                    11
+                ],
+                [
+                    5,
+                    1,
+                    7
+                ],
+                [
                     0,
+                    2,
+                    8
+                ],
+                [
+                    1,
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    2,
+                    12
+                ],
+                [
+                    3,
+                    2,
+                    6
+                ],
+                [
+                    4,
+                    2,
+                    8
+                ],
+                [
+                    5,
+                    2,
                     11
                 ],
                 [
                     0,
-                    1,
-                    10
-                ],
-                [
-                    1,
-                    1,
-                    12
-                ],
-                [
-                    2,
-                    1,
-                    10
-                ],
-                [
                     3,
-                    1,
-                    1
-                ],
-                [
-                    4,
-                    1,
-                    12
-                ],
-                [
-                    0,
-                    2,
                     9
                 ],
                 [
                     1,
-                    2,
+                    3,
                     7
                 ],
                 [
                     2,
-                    2,
+                    3,
                     8
                 ],
                 [
                     3,
-                    2,
+                    3,
                     12
                 ],
                 [
                     4,
-                    2,
+                    3,
                     7
                 ],
                 [
-                    0,
+                    5,
                     3,
-                    8
-                ],
-                [
-                    1,
-                    3,
-                    6
-                ],
-                [
-                    2,
-                    3,
-                    12
-                ],
-                [
-                    3,
-                    3,
-                    6
-                ],
-                [
-                    4,
-                    3,
-                    8
+                    2
                 ],
                 [
                     0,
@@ -2407,79 +2623,99 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     10
                 ],
                 [
-                    0,
                     5,
-                    4
-                ],
-                [
-                    1,
-                    5,
-                    9
-                ],
-                [
-                    2,
-                    5,
-                    6
-                ],
-                [
-                    3,
-                    5,
-                    4
-                ],
-                [
                     4,
-                    5,
-                    9
-                ],
-                [
-                    0,
-                    6,
-                    7
-                ],
-                [
-                    1,
-                    6,
-                    5
-                ],
-                [
-                    2,
-                    6,
-                    5
-                ],
-                [
-                    3,
-                    6,
                     8
                 ],
                 [
-                    4,
-                    6,
-                    6
-                ],
-                [
                     0,
-                    7,
+                    5,
                     11
                 ],
                 [
                     1,
-                    7,
+                    5,
                     1
                 ],
                 [
                     2,
-                    7,
+                    5,
                     7
                 ],
                 [
                     3,
-                    7,
+                    5,
                     9
                 ],
                 [
                     4,
-                    7,
+                    5,
                     2
+                ],
+                [
+                    5,
+                    5,
+                    12
+                ],
+                [
+                    0,
+                    6,
+                    4
+                ],
+                [
+                    1,
+                    6,
+                    9
+                ],
+                [
+                    2,
+                    6,
+                    6
+                ],
+                [
+                    3,
+                    6,
+                    4
+                ],
+                [
+                    4,
+                    6,
+                    9
+                ],
+                [
+                    5,
+                    6,
+                    5
+                ],
+                [
+                    0,
+                    7,
+                    7
+                ],
+                [
+                    1,
+                    7,
+                    5
+                ],
+                [
+                    2,
+                    7,
+                    5
+                ],
+                [
+                    3,
+                    7,
+                    8
+                ],
+                [
+                    4,
+                    7,
+                    6
+                ],
+                [
+                    5,
+                    7,
+                    3
                 ],
                 [
                     0,
@@ -2507,79 +2743,99 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4
                 ],
                 [
+                    5,
+                    8,
+                    5
+                ],
+                [
                     0,
                     9,
-                    1
+                    2
                 ],
                 [
                     1,
                     9,
-                    3
+                    4
                 ],
                 [
                     2,
                     9,
-                    3
+                    4
                 ],
                 [
                     3,
+                    9,
+                    3
+                ],
+                [
+                    4,
+                    9,
+                    3
+                ],
+                [
+                    5,
                     9,
                     10
                 ],
                 [
+                    0,
+                    10,
+                    1
+                ],
+                [
+                    1,
+                    10,
+                    3
+                ],
+                [
+                    2,
+                    10,
+                    3
+                ],
+                [
+                    3,
+                    10,
+                    10
+                ],
+                [
                     4,
-                    9,
+                    10,
                     5
                 ],
                 [
-                    0,
+                    5,
                     10,
+                    4
+                ],
+                [
+                    0,
+                    11,
                     12
                 ],
                 [
                     1,
-                    10,
+                    11,
                     2
                 ],
                 [
                     2,
-                    10,
+                    11,
                     1
                 ],
                 [
                     3,
-                    10,
+                    11,
                     5
                 ],
                 [
                     4,
-                    10,
+                    11,
                     1
                 ],
                 [
-                    0,
+                    5,
                     11,
-                    2
-                ],
-                [
-                    1,
-                    11,
-                    4
-                ],
-                [
-                    2,
-                    11,
-                    4
-                ],
-                [
-                    3,
-                    11,
-                    3
-                ],
-                [
-                    4,
-                    11,
-                    3
+                    1
                 ]
             ],
             "label": {
@@ -2608,7 +2864,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             2,
             3,
             4,
-            5
+            5,
+            6
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2627,11 +2884,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "TIB",
             "EET",
             "KTT",
+            "TTC",
             "JST",
             "BTE",
-            "TTC",
-            "MMT",
             "90s",
+            "MMT",
             "TOM",
             "HMB",
             "RRT"
@@ -2694,6 +2951,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     8
                 ],
                 [
+                    5,
+                    0,
+                    9
+                ],
+                [
                     0,
                     1,
                     12
@@ -2719,6 +2981,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     11
                 ],
                 [
+                    5,
+                    1,
+                    10
+                ],
+                [
                     0,
                     2,
                     4
@@ -2742,6 +3009,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4,
                     2,
                     12
+                ],
+                [
+                    5,
+                    2,
+                    3
                 ],
                 [
                     0,
@@ -2769,129 +3041,159 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4
                 ],
                 [
+                    5,
+                    3,
+                    11
+                ],
+                [
                     0,
+                    4,
+                    8
+                ],
+                [
+                    1,
+                    4,
+                    9
+                ],
+                [
+                    2,
                     4,
                     3
                 ],
                 [
-                    1,
+                    3,
                     4,
+                    5
+                ],
+                [
+                    4,
+                    4,
+                    3
+                ],
+                [
+                    5,
+                    4,
+                    12
+                ],
+                [
+                    0,
+                    5,
+                    3
+                ],
+                [
+                    1,
+                    5,
                     4
                 ],
                 [
                     2,
-                    4,
+                    5,
                     11
                 ],
                 [
                     3,
-                    4,
+                    5,
                     6
                 ],
                 [
                     4,
-                    4,
+                    5,
                     10
                 ],
                 [
-                    0,
                     5,
-                    6
-                ],
-                [
-                    1,
-                    5,
-                    7
-                ],
-                [
-                    2,
                     5,
                     4
                 ],
                 [
-                    3,
-                    5,
-                    10
-                ],
-                [
-                    4,
-                    5,
+                    0,
+                    6,
                     6
                 ],
                 [
-                    0,
-                    6,
-                    8
-                ],
-                [
                     1,
                     6,
-                    9
+                    7
                 ],
                 [
                     2,
                     6,
-                    3
+                    4
                 ],
                 [
                     3,
                     6,
-                    5
+                    10
                 ],
                 [
                     4,
                     6,
-                    3
+                    6
                 ],
                 [
-                    0,
-                    7,
-                    10
-                ],
-                [
-                    1,
-                    7,
-                    10
-                ],
-                [
-                    2,
-                    7,
-                    1
-                ],
-                [
-                    3,
-                    7,
-                    2
-                ],
-                [
-                    4,
-                    7,
+                    5,
+                    6,
                     1
                 ],
                 [
                     0,
-                    8,
+                    7,
                     1
                 ],
                 [
                     1,
-                    8,
+                    7,
                     5
                 ],
                 [
                     2,
-                    8,
+                    7,
                     5
                 ],
                 [
                     3,
-                    8,
+                    7,
                     7
                 ],
                 [
                     4,
-                    8,
+                    7,
                     5
+                ],
+                [
+                    5,
+                    7,
+                    8
+                ],
+                [
+                    0,
+                    8,
+                    10
+                ],
+                [
+                    1,
+                    8,
+                    10
+                ],
+                [
+                    2,
+                    8,
+                    1
+                ],
+                [
+                    3,
+                    8,
+                    2
+                ],
+                [
+                    4,
+                    8,
+                    1
+                ],
+                [
+                    5,
+                    8,
+                    6
                 ],
                 [
                     0,
@@ -2915,6 +3217,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 ],
                 [
                     4,
+                    9,
+                    7
+                ],
+                [
+                    5,
                     9,
                     7
                 ],
@@ -2944,6 +3251,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     2
                 ],
                 [
+                    5,
+                    10,
+                    5
+                ],
+                [
                     0,
                     11,
                     5
@@ -2967,6 +3279,11 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                     4,
                     11,
                     9
+                ],
+                [
+                    5,
+                    11,
+                    2
                 ]
             ],
             "label": {
@@ -2997,18 +3314,18 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     },
     "legend": {
         "data": [
-            "HMB",
             "TTC",
-            "90s",
             "MMT",
+            "HMB",
             "ARV",
-            "TOM",
             "KTT",
             "RRT",
+            "90s",
+            "TOM",
             "JST",
             "TIB",
-            "BTE",
-            "EET"
+            "EET",
+            "BTE"
         ],
         "orient": "vertical",
         "right": 0,
@@ -3021,7 +3338,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "Week 2",
             "Week 3",
             "Week 4",
-            "Week 5"
+            "Week 5",
+            "Week 6"
         ]
     },
     "yAxis": {
@@ -3030,17 +3348,6 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     },
     "series": [
         {
-            "name": "HMB",
-            "type": "line",
-            "data": [
-                92.6,
-                85.2,
-                86.9,
-                83.0,
-                87.9
-            ]
-        },
-        {
             "name": "TTC",
             "type": "line",
             "data": [
@@ -3048,18 +3355,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 85.5,
                 91.1,
                 88.4,
-                99.8
-            ]
-        },
-        {
-            "name": "90s",
-            "type": "line",
-            "data": [
-                88.5,
-                88.3,
-                93.2,
-                94.2,
-                91.9
+                99.8,
+                96.5
             ]
         },
         {
@@ -3070,7 +3367,20 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 86.5,
                 92.7,
                 78.0,
-                89.2
+                89.2,
+                91.9
+            ]
+        },
+        {
+            "name": "HMB",
+            "type": "line",
+            "data": [
+                92.6,
+                85.2,
+                86.9,
+                83.0,
+                87.9,
+                93.4
             ]
         },
         {
@@ -3081,18 +3391,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 85.0,
                 96.4,
                 100.0,
-                98.2
-            ]
-        },
-        {
-            "name": "TOM",
-            "type": "line",
-            "data": [
-                89.1,
-                92.5,
-                83.6,
-                83.3,
-                88.2
+                98.2,
+                98.6
             ]
         },
         {
@@ -3103,7 +3403,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 82.6,
                 97.1,
                 84.6,
-                95.1
+                95.1,
+                92.6
             ]
         },
         {
@@ -3114,7 +3415,32 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 85.3,
                 96.9,
                 93.0,
-                97.2
+                97.2,
+                88.9
+            ]
+        },
+        {
+            "name": "90s",
+            "type": "line",
+            "data": [
+                88.5,
+                88.3,
+                93.2,
+                94.2,
+                91.9,
+                72.5
+            ]
+        },
+        {
+            "name": "TOM",
+            "type": "line",
+            "data": [
+                89.1,
+                92.5,
+                83.6,
+                83.3,
+                88.2,
+                87.1
             ]
         },
         {
@@ -3125,7 +3451,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 95.2,
                 88.0,
                 83.4,
-                100.0
+                100.0,
+                98.3
             ]
         },
         {
@@ -3136,18 +3463,8 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 77.4,
                 68.0,
                 77.5,
-                98.9
-            ]
-        },
-        {
-            "name": "BTE",
-            "type": "line",
-            "data": [
-                77.9,
-                74.8,
-                79.9,
-                76.6,
-                100.0
+                98.9,
+                88.8
             ]
         },
         {
@@ -3158,7 +3475,20 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
                 66.4,
                 97.1,
                 78.0,
-                95.8
+                95.8,
+                77.9
+            ]
+        },
+        {
+            "name": "BTE",
+            "type": "line",
+            "data": [
+                77.9,
+                74.8,
+                79.9,
+                76.6,
+                100.0,
+                90.6
             ]
         }
     ],
@@ -3209,47 +3539,17 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
     },
     "series": [
         {
-            "name": "Game of Zones - House Hamlin",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        6.0,
-                        -1.5,
-                        4.8,
-                        2.6
-                    ],
-                    "name": "Game of Zones - House Hamlin"
-                }
-            ]
-        },
-        {
             "name": "Third Time's the Charm?",
             "type": "radar",
             "data": [
                 {
                     "value": [
-                        2.6,
-                        -0.0,
+                        3.9,
+                        0.6,
                         -3.2,
-                        0.0
+                        -0.3
                     ],
                     "name": "Third Time's the Charm?"
-                }
-            ]
-        },
-        {
-            "name": "90s MonCon",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        4.2,
-                        3.8,
-                        0.4,
-                        2.1
-                    ],
-                    "name": "90s MonCon"
                 }
             ]
         },
@@ -3259,12 +3559,27 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        4.3,
-                        -0.2,
+                        4.0,
+                        -0.6,
                         1.6,
-                        0.1
+                        0.6
                     ],
                     "name": "Michael's Managable Team"
+                }
+            ]
+        },
+        {
+            "name": "Game of Zones - House Hamlin",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        5.5,
+                        -1.8,
+                        3.9,
+                        2.5
+                    ],
+                    "name": "Game of Zones - House Hamlin"
                 }
             ]
         },
@@ -3274,27 +3589,12 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -4.4,
-                        3.4,
-                        3.5,
-                        -5.2
+                        -4.5,
+                        3.6,
+                        3.3,
+                        -5.0
                     ],
                     "name": "Abbey's TNT Team "
-                }
-            ]
-        },
-        {
-            "name": "Rookie Mistake",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        -2.6,
-                        1.2,
-                        -2.5,
-                        3.1
-                    ],
-                    "name": "Rookie Mistake"
                 }
             ]
         },
@@ -3304,10 +3604,10 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -0.0,
+                        0.4,
+                        -2.5,
                         -2.8,
-                        -3.2,
-                        -1.6
+                        -1.7
                     ],
                     "name": "Mcconky Donkeys"
                 }
@@ -3319,12 +3619,42 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -0.9,
-                        0.9,
-                        0.1,
+                        -0.3,
+                        0.4,
+                        0.7,
                         3.0
                     ],
                     "name": "Americas Team "
+                }
+            ]
+        },
+        {
+            "name": "90s MonCon",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        3.2,
+                        3.6,
+                        0.3,
+                        1.8
+                    ],
+                    "name": "90s MonCon"
+                }
+            ]
+        },
+        {
+            "name": "Rookie Mistake",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -2.2,
+                        1.0,
+                        -2.5,
+                        3.0
+                    ],
+                    "name": "Rookie Mistake"
                 }
             ]
         },
@@ -3334,10 +3664,10 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        3.2,
-                        2.3,
-                        0.8,
-                        1.2
+                        2.9,
+                        2.5,
+                        0.9,
+                        1.0
                     ],
                     "name": "Mama Daughter Duo"
                 }
@@ -3349,27 +3679,12 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -0.9,
-                        1.2,
-                        1.2,
+                        -1.7,
+                        1.6,
+                        0.8,
                         -5.1
                     ],
                     "name": "To Infinity and Bijan!"
-                }
-            ]
-        },
-        {
-            "name": "Big Titi Energy",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        -6.7,
-                        -3.6,
-                        -3.9,
-                        0.3
-                    ],
-                    "name": "Big Titi Energy"
                 }
             ]
         },
@@ -3379,12 +3694,27 @@ Unluckiest Team: Ryan Ratcliff (-1.3) Wins Below Expected
             "data": [
                 {
                     "value": [
-                        -6.5,
-                        -3.0,
-                        -0.5,
-                        -2.7
+                        -6.6,
+                        -3.1,
+                        -0.4,
+                        -2.9
                     ],
                     "name": "Emma's Excellent Team"
+                }
+            ]
+        },
+        {
+            "name": "Big Titi Energy",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        -6.4,
+                        -3.6,
+                        -3.8,
+                        0.7
+                    ],
+                    "name": "Big Titi Energy"
                 }
             ]
         }
