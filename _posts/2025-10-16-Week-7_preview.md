@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 7 Matchups Preview
-date: 2025-10-16 20:17:12
+date: 2025-10-16 21:13:17
 description: preview of next weeks matchups
 tags: 2025-26, WeeklyPreview, Week7
 categories: league-previews
@@ -52,7 +52,7 @@ toc:
 ### Matchup 1: Emma's Excellent Team @ Michael's Managable Team
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> Emma's Excellent Team 96.40 - 138.16 Michael's Managable Team<br>
+<strong>📊 Projected Score:</strong> Emma's Excellent Team 110.68 - 138.17 Michael's Managable Team<br>
 <strong>📈 Historical Matchup:</strong> Michael's Managable Team leads 0-0
 </div>
 
@@ -231,7 +231,7 @@ Joshua Palmer (Questionable), Jakobi Meyers (Questionable), George Kittle (Injur
 ### Matchup 2: Mama Daughter Duo @ 90s MonCon
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> Mama Daughter Duo 142.09 - 139.09 90s MonCon<br>
+<strong>📊 Projected Score:</strong> Mama Daughter Duo 142.10 - 139.09 90s MonCon<br>
 <strong>📈 Historical Matchup:</strong> 90s MonCon leads 0-0
 </div>
 
@@ -400,7 +400,7 @@ Lamar Jackson (Out), Brock Bowers (Questionable), Garrett Wilson (Doubtful), Jau
 <br>
 
 <strong>Mama Daughter Duo:</strong> 
-Emari Demercado (Questionable), Chris Olave (Questionable)
+Emari Demercado (Questionable), D'Andre Swift (Questionable)
 
 
 
@@ -410,7 +410,7 @@ Emari Demercado (Questionable), Chris Olave (Questionable)
 ### Matchup 3: Americas Team @ Rookie Mistake
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> Americas Team 124.64 - 103.81 Rookie Mistake<br>
+<strong>📊 Projected Score:</strong> Americas Team 127.67 - 112.60 Rookie Mistake<br>
 <strong>📈 Historical Matchup:</strong> Rookie Mistake leads 0-0
 </div>
 
@@ -589,7 +589,7 @@ Chuba Hubbard (Questionable), Josh Downs (Questionable)
 ### Matchup 4: Big Titi Energy @ Third Time's the Charm?
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> Big Titi Energy 82.66 - 137.24 Third Time's the Charm?<br>
+<strong>📊 Projected Score:</strong> Big Titi Energy 106.96 - 139.99 Third Time's the Charm?<br>
 <strong>📈 Historical Matchup:</strong> Third Time's the Charm? leads 0-0
 </div>
 
@@ -768,7 +768,7 @@ DJ Moore (Questionable), J.J. McCarthy (Questionable), Terry McLaurin (Questiona
 ### Matchup 5: To Infinity and Bijan! @ Game of Zones - House Hamlin
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> To Infinity and Bijan! 127.26 - 89.59 Game of Zones - House Hamlin<br>
+<strong>📊 Projected Score:</strong> To Infinity and Bijan! 129.81 - 115.78 Game of Zones - House Hamlin<br>
 <strong>📈 Historical Matchup:</strong> Game of Zones - House Hamlin leads 0-0
 </div>
 
@@ -947,7 +947,7 @@ Kyler Murray (Questionable), Darnell Mooney (Questionable), Josh Jacobs (Questio
 ### Matchup 6: Abbey's TNT Team @ Mcconky Donkeys
 
 <div style='padding: 15px; background-color: #f8f9fa; border-radius: 5px; margin-bottom: 20px;'>
-<strong>📊 Projected Score:</strong> Abbey's TNT Team 104.61 - 137.45 Mcconky Donkeys<br>
+<strong>📊 Projected Score:</strong> Abbey's TNT Team 109.92 - 137.45 Mcconky Donkeys<br>
 <strong>📈 Historical Matchup:</strong> Mcconky Donkeys leads 0-0
 </div>
 
