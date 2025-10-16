@@ -10,7 +10,7 @@
     "player_name": "Jaxson Dart",
     "pos": "QB",
     "slot": "OP",
-    "projected": 14.75,
+    "projected": 14.69,
     "opponent": "DEN"
   },
   {
@@ -23,7 +23,7 @@
   {
     "player_name": "J.K. Dobbins",
     "pos": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "RB",
     "projected": 12.19,
     "opponent": "NYG"
   },
@@ -42,24 +42,24 @@
     "opponent": "GB"
   },
   {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.7,
+    "opponent": "ARI"
+  },
+  {
     "player_name": "Travis Hunter",
     "pos": "WR",
     "slot": "WR",
-    "projected": 6.92,
+    "projected": 7.79,
     "opponent": "LAR"
   },
   {
     "player_name": "Jake Tonges",
     "pos": "TE",
     "slot": "RB/WR/TE",
-    "projected": 1.01,
+    "projected": 1.0,
     "opponent": "ATL"
-  },
-  {
-    "player_name": "James Cook III",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 0.0,
-    "opponent": "None"
   }
 ]

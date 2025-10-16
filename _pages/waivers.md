@@ -6,25 +6,27 @@ nav: false
 nav_order: 4
 description:
 chart:
-echarts: true
+    echarts: true
 pretty_table: True
 ---
 
 ### Best Pickups
 <table
 data-click-to-select="true"
-data-height="340"
 data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/transactions/best_fa_2025.json"}}">
 <thead>
     <tr>
-     <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
-     <th data-field="team" data-halign="center" data-align="center" data-sortable="false">Acquiring Team</th>
-     <th data-field="position" data-halign="center" data-align="center" data-sortable="false">Position</th>
+    <th data-field="player_name" data-halign="left" data-align="left" data-sortable="false">Player</th>
+     <th data-field="team" data-halign="center" data-align="center" data-sortable="false">Team</th>
+     <th data-field="position" data-halign="center" data-align="center" data-sortable="false">Pos</th>
      <th data-field="week" data-halign="center" data-align="center" data-sortable="false">Week</th>
-     <th data-field="points_after" data-halign="center" data-align="center" data-sortable="true">Points Since Acquiring</th>
-     <th data-field="type" data-halign="center" data-align="center" data-sortable="true">FA or Waiver</th>
+     <th data-field="total_points" data-halign="center" data-align="center" data-sortable="true">Total Pts</th>
+     <th data-field="avg_per_week" data-halign="center" data-align="center" data-sortable="true">PPG</th>
+     <!-- <th data-field="points_above_prev" data-halign="center" data-align="center" data-sortable="true">+/- Prev Avg</th> -->
+     <th data-field="weeks_played" data-halign="center" data-align="center" data-sortable="false">Weeks</th>
+     <!-- <th data-field="type" data-halign="center" data-align="center" data-sortable="true">Type</th> -->
     </tr>
 </thead>
 </table>
@@ -33,7 +35,7 @@ data-url="{{ "/assets/json/transactions/best_fa_2025.json"}}">
 <table
 data-click-to-select="true"
 data-height="930"
-data-search="true"
+data-search="false"
 data-toggle="table"
 data-url="{{ "/assets/json/transactions/all_fa_2025.json"}}">
 <thead>

@@ -19,6 +19,9 @@ children:
   - title: divider
   - title: league payments
     permalink: /payments/
+  - title: divider
+  - title: playoff simulator
+    permalink: /playoffs/simulator
   # - title: divider
   # - title: playoffs
   #   permalink: /playoffs/

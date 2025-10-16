@@ -49,17 +49,17 @@
     "opponent": "WSH"
   },
   {
+    "player_name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.86,
+    "opponent": "MIA"
+  },
+  {
     "player_name": "Michael Pittman Jr.",
     "pos": "WR",
     "slot": "RB/WR/TE",
     "projected": 9.26,
     "opponent": "LAC"
-  },
-  {
-    "player_name": "Khalil Shakir",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "projected": 0.0,
-    "opponent": "None"
   }
 ]

@@ -35,11 +35,11 @@
     "opponent": "HOU"
   },
   {
-    "player_name": "Tee Higgins",
+    "player_name": "Kendrick Bourne",
     "pos": "WR",
-    "slot": "WR",
-    "projected": 8.81,
-    "opponent": "PIT"
+    "slot": "RB/WR/TE",
+    "projected": 9.09,
+    "opponent": "ATL"
   },
   {
     "player_name": "DJ Moore",
@@ -49,11 +49,11 @@
     "opponent": "NO"
   },
   {
-    "player_name": "Kendrick Bourne",
+    "player_name": "Tee Higgins",
     "pos": "WR",
-    "slot": "RB/WR/TE",
-    "projected": 6.52,
-    "opponent": "ATL"
+    "slot": "WR",
+    "projected": 8.8,
+    "opponent": "PIT"
   },
   {
     "player_name": "Cooper Rush",

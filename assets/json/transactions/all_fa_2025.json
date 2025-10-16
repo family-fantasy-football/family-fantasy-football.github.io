@@ -584,6 +584,38 @@
   "bid_amount": 0
  },
  {
+  "team": "Rookie Mistake",
+  "week": 6,
+  "player_name": "Elic Ayomanor",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 6,
+  "player_name": "Kayshon Boutte",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 5
+ },
+ {
+  "team": "90s MonCon",
+  "week": 6,
+  "player_name": "Michael Carter",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 6,
+  "player_name": "Kimani Vidal",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 14
+ },
+ {
   "team": "90s MonCon",
   "week": 6,
   "player_name": "AJ Barner",
