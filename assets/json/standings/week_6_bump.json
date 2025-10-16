@@ -13,8 +13,8 @@
     "top": "middle",
     "data": [
       "90s MonCon",
-      "Abbey's TNT Team ",
-      "Americas Team ",
+      "Abbey's TNT Team",
+      "Americas Team",
       "Big Titi Energy",
       "Emma's Excellent Team",
       "Game of Zones - House Hamlin",
@@ -68,7 +68,7 @@
       }
     },
     {
-      "name": "Abbey's TNT Team ",
+      "name": "Abbey's TNT Team",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -89,7 +89,7 @@
       }
     },
     {
-      "name": "Americas Team ",
+      "name": "Americas Team",
       "type": "line",
       "smooth": true,
       "lineStyle": {

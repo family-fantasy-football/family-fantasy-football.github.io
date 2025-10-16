@@ -28,7 +28,7 @@
     },
     {
       "team_id": 4,
-      "team_name": "Americas Team ",
+      "team_name": "Americas Team",
       "wins": 3,
       "losses": 3,
       "points_for": 787.87,
@@ -68,7 +68,7 @@
     },
     {
       "team_id": 9,
-      "team_name": "Abbey's TNT Team ",
+      "team_name": "Abbey's TNT Team",
       "wins": 4,
       "losses": 2,
       "points_for": 749.53,
@@ -116,7 +116,7 @@
     },
     {
       "week": 7,
-      "away_team": "Americas Team ",
+      "away_team": "Americas Team",
       "away_id": 4,
       "home_team": "Rookie Mistake",
       "home_id": 3
@@ -137,14 +137,14 @@
     },
     {
       "week": 7,
-      "away_team": "Abbey's TNT Team ",
+      "away_team": "Abbey's TNT Team",
       "away_id": 9,
       "home_team": "Mcconky Donkeys",
       "home_id": 7
     },
     {
       "week": 8,
-      "away_team": "Abbey's TNT Team ",
+      "away_team": "Abbey's TNT Team",
       "away_id": 9,
       "home_team": "Third Time's the Charm?",
       "home_id": 1
@@ -167,7 +167,7 @@
       "week": 8,
       "away_team": "Michael's Managable Team",
       "away_id": 5,
-      "home_team": "Americas Team ",
+      "home_team": "Americas Team",
       "home_id": 4
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "week": 9,
-      "away_team": "Abbey's TNT Team ",
+      "away_team": "Abbey's TNT Team",
       "away_id": 9,
       "home_team": "90s MonCon",
       "home_id": 2
@@ -209,7 +209,7 @@
       "week": 9,
       "away_team": "Emma's Excellent Team",
       "away_id": 11,
-      "home_team": "Americas Team ",
+      "home_team": "Americas Team",
       "home_id": 4
     },
     {
@@ -244,7 +244,7 @@
       "week": 10,
       "away_team": "To Infinity and Bijan!",
       "away_id": 6,
-      "home_team": "Americas Team ",
+      "home_team": "Americas Team",
       "home_id": 4
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "week": 10,
-      "away_team": "Abbey's TNT Team ",
+      "away_team": "Abbey's TNT Team",
       "away_id": 9,
       "home_team": "Mama Daughter Duo",
       "home_id": 8
@@ -286,7 +286,7 @@
       "week": 11,
       "away_team": "Mcconky Donkeys",
       "away_id": 7,
-      "home_team": "Americas Team ",
+      "home_team": "Americas Team",
       "home_id": 4
     },
     {
@@ -307,12 +307,12 @@
       "week": 11,
       "away_team": "Big Titi Energy",
       "away_id": 12,
-      "home_team": "Abbey's TNT Team ",
+      "home_team": "Abbey's TNT Team",
       "home_id": 9
     },
     {
       "week": 12,
-      "away_team": "Americas Team ",
+      "away_team": "Americas Team",
       "away_id": 4,
       "home_team": "Third Time's the Charm?",
       "home_id": 1
@@ -342,7 +342,7 @@
       "week": 12,
       "away_team": "Emma's Excellent Team",
       "away_id": 11,
-      "home_team": "Abbey's TNT Team ",
+      "home_team": "Abbey's TNT Team",
       "home_id": 9
     },
     {
@@ -361,7 +361,7 @@
     },
     {
       "week": 13,
-      "away_team": "Americas Team ",
+      "away_team": "Americas Team",
       "away_id": 4,
       "home_team": "90s MonCon",
       "home_id": 2
@@ -391,7 +391,7 @@
       "week": 13,
       "away_team": "Game of Zones - House Hamlin",
       "away_id": 10,
-      "home_team": "Abbey's TNT Team ",
+      "home_team": "Abbey's TNT Team",
       "home_id": 9
     },
     {
@@ -412,7 +412,7 @@
       "week": 14,
       "away_team": "Mama Daughter Duo",
       "away_id": 8,
-      "home_team": "Americas Team ",
+      "home_team": "Americas Team",
       "home_id": 4
     },
     {
@@ -433,7 +433,7 @@
       "week": 14,
       "away_team": "Big Titi Energy",
       "away_id": 12,
-      "home_team": "Abbey's TNT Team ",
+      "home_team": "Abbey's TNT Team",
       "home_id": 9
     }
   ],
@@ -442,5 +442,2238 @@
     "bye_teams": 2,
     "playoff_start_week": 15,
     "reseed_after_rounds": true
-  }
+  },
+  "magic_numbers": [
+    {
+      "team": "Third Time's the Charm?",
+      "rank": 1,
+      "current_record": "5-1",
+      "remaining_games": 8,
+      "clinch_number": 2,
+      "elimination_number": 7,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 9 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 10 vs Rookie Mistake"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 11 vs Michael's Managable Team"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 12 vs Americas Team"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 13 vs To Infinity and Bijan!"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Big Titi Energy",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 8 vs Abbey's TNT Team",
+            "Week 10 vs Rookie Mistake"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "wins": [
+            "Week 8 vs Abbey's TNT Team",
+            "Week 11 vs Michael's Managable Team"
+          ],
+          "description": "Win 2 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 8 vs Abbey's TNT Team",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Big Titi Energy",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        },
+        {
+          "losses": [
+            "Week 8 vs Abbey's TNT Team",
+            "Week 9 vs Game of Zones - House Hamlin",
+            "Week 10 vs Rookie Mistake",
+            "Week 11 vs Michael's Managable Team",
+            "Week 12 vs Americas Team",
+            "Week 13 vs To Infinity and Bijan!",
+            "Week 14 vs 90s MonCon"
+          ],
+          "description": "Lose 7 games"
+        }
+      ]
+    },
+    {
+      "team": "Abbey's TNT Team",
+      "rank": 4,
+      "current_record": "4-2",
+      "remaining_games": 8,
+      "clinch_number": 3,
+      "elimination_number": 5,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 10 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 11 vs Big Titi Energy"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 12 vs Emma's Excellent Team"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 9 vs 90s MonCon",
+            "Week 10 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 9 vs 90s MonCon",
+            "Week 11 vs Big Titi Energy"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 9 vs 90s MonCon",
+            "Week 12 vs Emma's Excellent Team"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 9 vs 90s MonCon",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 11 vs Big Titi Energy"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 11 vs Big Titi Energy"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 12 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 11 vs Big Titi Energy",
+            "Week 12 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 11 vs Big Titi Energy",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 9 vs 90s MonCon",
+            "Week 12 vs Emma's Excellent Team",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 11 vs Big Titi Energy",
+            "Week 12 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 11 vs Big Titi Energy",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 10 vs Mama Daughter Duo",
+            "Week 12 vs Emma's Excellent Team",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mcconky Donkeys",
+            "Week 8 vs Third Time's the Charm?",
+            "Week 11 vs Big Titi Energy",
+            "Week 12 vs Emma's Excellent Team",
+            "Week 13 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        }
+      ]
+    },
+    {
+      "team": "Michael's Managable Team",
+      "rank": 2,
+      "current_record": "4-2",
+      "remaining_games": 8,
+      "clinch_number": 3,
+      "elimination_number": 6,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 10 vs Mcconky Donkeys"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 11 vs Third Time's the Charm?"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 12 vs 90s MonCon"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 11 vs Third Time's the Charm?"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 12 vs 90s MonCon"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 12 vs 90s MonCon"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 12 vs 90s MonCon",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 12 vs 90s MonCon",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 8 vs Americas Team",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 12 vs 90s MonCon",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Emma's Excellent Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 12 vs 90s MonCon",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 8 vs Americas Team",
+            "Week 9 vs To Infinity and Bijan!",
+            "Week 10 vs Mcconky Donkeys",
+            "Week 11 vs Third Time's the Charm?",
+            "Week 12 vs 90s MonCon",
+            "Week 13 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        }
+      ]
+    },
+    {
+      "team": "Game of Zones - House Hamlin",
+      "rank": 3,
+      "current_record": "4-2",
+      "remaining_games": 8,
+      "clinch_number": 3,
+      "elimination_number": 6,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 10 vs 90s MonCon"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 11 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 12 vs Big Titi Energy"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 13 vs Abbey's TNT Team"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 11 vs Mama Daughter Duo"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 12 vs Big Titi Energy"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 13 vs Abbey's TNT Team"
+          ],
+          "description": "Win 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 12 vs Big Titi Energy"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 13 vs Abbey's TNT Team"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 12 vs Big Titi Energy",
+            "Week 13 vs Abbey's TNT Team"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 12 vs Big Titi Energy",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 10 vs 90s MonCon",
+            "Week 13 vs Abbey's TNT Team",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 12 vs Big Titi Energy",
+            "Week 13 vs Abbey's TNT Team"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 12 vs Big Titi Energy",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 11 vs Mama Daughter Duo",
+            "Week 13 vs Abbey's TNT Team",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs To Infinity and Bijan!",
+            "Week 8 vs Mcconky Donkeys",
+            "Week 9 vs Third Time's the Charm?",
+            "Week 12 vs Big Titi Energy",
+            "Week 13 vs Abbey's TNT Team",
+            "Week 14 vs Rookie Mistake"
+          ],
+          "description": "Lose 6 games"
+        }
+      ]
+    },
+    {
+      "team": "90s MonCon",
+      "rank": 7,
+      "current_record": "3-3",
+      "remaining_games": 8,
+      "clinch_number": 4,
+      "elimination_number": 4,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 10 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 11 vs Rookie Mistake"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 13 vs Americas Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 14 vs Third Time's the Charm?"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 11 vs Rookie Mistake"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 13 vs Americas Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 14 vs Third Time's the Charm?"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 11 vs Rookie Mistake",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 10 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 11 vs Rookie Mistake"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 13 vs Americas Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 9 vs Abbey's TNT Team",
+            "Week 14 vs Third Time's the Charm?"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 11 vs Rookie Mistake"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 13 vs Americas Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 10 vs Game of Zones - House Hamlin",
+            "Week 14 vs Third Time's the Charm?"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Mama Daughter Duo",
+            "Week 8 vs Big Titi Energy",
+            "Week 11 vs Rookie Mistake",
+            "Week 12 vs Michael's Managable Team"
+          ],
+          "description": "Lose 4 games"
+        }
+      ]
+    },
+    {
+      "team": "Mcconky Donkeys",
+      "rank": 5,
+      "current_record": "4-2",
+      "remaining_games": 8,
+      "clinch_number": 4,
+      "elimination_number": 5,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 10 vs Michael's Managable Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 11 vs Americas Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 11 vs Americas Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 11 vs Americas Team",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 11 vs Americas Team",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 12 vs To Infinity and Bijan!",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Win 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 10 vs Michael's Managable Team",
+            "Week 11 vs Americas Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 10 vs Michael's Managable Team",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 10 vs Michael's Managable Team",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 11 vs Americas Team",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 11 vs Americas Team",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 9 vs Rookie Mistake",
+            "Week 12 vs To Infinity and Bijan!",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 11 vs Americas Team",
+            "Week 12 vs To Infinity and Bijan!"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 11 vs Americas Team",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 10 vs Michael's Managable Team",
+            "Week 12 vs To Infinity and Bijan!",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Abbey's TNT Team",
+            "Week 8 vs Game of Zones - House Hamlin",
+            "Week 11 vs Americas Team",
+            "Week 12 vs To Infinity and Bijan!",
+            "Week 13 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 5 games"
+        }
+      ]
+    },
+    {
+      "team": "Mama Daughter Duo",
+      "rank": 9,
+      "current_record": "2-4",
+      "remaining_games": 8,
+      "clinch_number": 5,
+      "elimination_number": 4,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 11 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 12 vs Rookie Mistake"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 13 vs Michael's Managable Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 11 vs Game of Zones - House Hamlin",
+            "Week 12 vs Rookie Mistake"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 11 vs Game of Zones - House Hamlin",
+            "Week 13 vs Michael's Managable Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 11 vs Game of Zones - House Hamlin",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 12 vs Rookie Mistake",
+            "Week 13 vs Michael's Managable Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 12 vs Rookie Mistake",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 13 vs Michael's Managable Team",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 10 vs Abbey's TNT Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 11 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 12 vs Rookie Mistake"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 13 vs Michael's Managable Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 9 vs Big Titi Energy",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 11 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 12 vs Rookie Mistake"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 13 vs Michael's Managable Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 10 vs Abbey's TNT Team",
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Lose 4 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs 90s MonCon",
+            "Week 8 vs Emma's Excellent Team",
+            "Week 11 vs Game of Zones - House Hamlin",
+            "Week 12 vs Rookie Mistake"
+          ],
+          "description": "Lose 4 games"
+        }
+      ]
+    },
+    {
+      "team": "Rookie Mistake",
+      "rank": 8,
+      "current_record": "3-3",
+      "remaining_games": 8,
+      "clinch_number": 5,
+      "elimination_number": 5,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 11 vs 90s MonCon"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 12 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 12 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 12 vs Mama Daughter Duo",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 12 vs Mama Daughter Duo",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 13 vs Big Titi Energy",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 11 vs 90s MonCon"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 12 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 10 vs Third Time's the Charm?",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 12 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 11 vs 90s MonCon",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 12 vs Mama Daughter Duo",
+            "Week 13 vs Big Titi Energy"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 12 vs Mama Daughter Duo",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Americas Team",
+            "Week 8 vs To Infinity and Bijan!",
+            "Week 9 vs Mcconky Donkeys",
+            "Week 13 vs Big Titi Energy",
+            "Week 14 vs Game of Zones - House Hamlin"
+          ],
+          "description": "Lose 5 games"
+        }
+      ]
+    },
+    {
+      "team": "Americas Team",
+      "rank": 6,
+      "current_record": "3-3",
+      "remaining_games": 8,
+      "clinch_number": 5,
+      "elimination_number": 6,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 11 vs Mcconky Donkeys"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 12 vs Third Time's the Charm?"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 12 vs Third Time's the Charm?"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 13 vs 90s MonCon",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Win 5 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 12 vs Third Time's the Charm?"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 10 vs To Infinity and Bijan!",
+            "Week 13 vs 90s MonCon",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 13 vs 90s MonCon"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 11 vs Mcconky Donkeys",
+            "Week 13 vs 90s MonCon",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Rookie Mistake",
+            "Week 8 vs Michael's Managable Team",
+            "Week 9 vs Emma's Excellent Team",
+            "Week 12 vs Third Time's the Charm?",
+            "Week 13 vs 90s MonCon",
+            "Week 14 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 6 games"
+        }
+      ]
+    },
+    {
+      "team": "To Infinity and Bijan!",
+      "rank": 10,
+      "current_record": "2-4",
+      "remaining_games": 8,
+      "clinch_number": 6,
+      "elimination_number": 3,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 12 vs Mcconky Donkeys"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team",
+            "Week 12 vs Mcconky Donkeys",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 12 vs Mcconky Donkeys",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 12 vs Mcconky Donkeys",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 12 vs Mcconky Donkeys",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "wins": [
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team",
+            "Week 12 vs Mcconky Donkeys",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Win 6 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 9 vs Michael's Managable Team"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 10 vs Americas Team"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 11 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 12 vs Mcconky Donkeys"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 8 vs Rookie Mistake",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 9 vs Michael's Managable Team",
+            "Week 10 vs Americas Team"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 9 vs Michael's Managable Team",
+            "Week 11 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 9 vs Michael's Managable Team",
+            "Week 12 vs Mcconky Donkeys"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 9 vs Michael's Managable Team",
+            "Week 13 vs Third Time's the Charm?"
+          ],
+          "description": "Lose 3 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Game of Zones - House Hamlin",
+            "Week 10 vs Americas Team",
+            "Week 11 vs Emma's Excellent Team"
+          ],
+          "description": "Lose 3 games"
+        }
+      ]
+    },
+    {
+      "team": "Emma's Excellent Team",
+      "rank": 11,
+      "current_record": "1-5",
+      "remaining_games": 8,
+      "clinch_number": 7,
+      "elimination_number": 1,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Michael's Managable Team",
+            "Week 8 vs Mama Daughter Duo",
+            "Week 9 vs Americas Team",
+            "Week 10 vs Big Titi Energy",
+            "Week 11 vs To Infinity and Bijan!",
+            "Week 12 vs Abbey's TNT Team",
+            "Week 13 vs Mcconky Donkeys"
+          ],
+          "description": "Win 7 games"
+        },
+        {
+          "losses": [
+            "Week 7 vs Michael's Managable Team"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 8 vs Mama Daughter Duo"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 9 vs Americas Team"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 10 vs Big Titi Energy"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 11 vs To Infinity and Bijan!"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 12 vs Abbey's TNT Team"
+          ],
+          "description": "Lose 1 games"
+        },
+        {
+          "losses": [
+            "Week 13 vs Mcconky Donkeys"
+          ],
+          "description": "Lose 1 games"
+        }
+      ]
+    },
+    {
+      "team": "Big Titi Energy",
+      "rank": 12,
+      "current_record": "1-5",
+      "remaining_games": 8,
+      "clinch_number": 7,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "wins": [
+            "Week 7 vs Third Time's the Charm?",
+            "Week 8 vs 90s MonCon",
+            "Week 9 vs Mama Daughter Duo",
+            "Week 10 vs Emma's Excellent Team",
+            "Week 11 vs Abbey's TNT Team",
+            "Week 12 vs Game of Zones - House Hamlin",
+            "Week 13 vs Rookie Mistake"
+          ],
+          "description": "Win 7 games"
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "team": "Third Time's the Charm?",
+      "rank": 1,
+      "scenarios": [
+        "\ud83c\udfaf Win 7 of next 8 to clinch",
+        "\u26a0\ufe0f Can afford 1 loss"
+      ],
+      "remaining_opponents": [
+        "Big Titi Energy",
+        "Abbey's TNT Team",
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Americas Team",
+        "To Infinity and Bijan!",
+        "90s MonCon"
+      ]
+    },
+    {
+      "team": "Michael's Managable Team",
+      "rank": 2,
+      "scenarios": [
+        "\ud83c\udfaf Win 8 of next 8 to clinch"
+      ],
+      "remaining_opponents": [
+        "Emma's Excellent Team",
+        "Americas Team",
+        "To Infinity and Bijan!",
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo",
+        "Mcconky Donkeys"
+      ]
+    },
+    {
+      "team": "Game of Zones - House Hamlin",
+      "rank": 3,
+      "scenarios": [
+        "\ud83c\udfaf Win 8 of next 8 to clinch"
+      ],
+      "remaining_opponents": [
+        "To Infinity and Bijan!",
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo",
+        "Big Titi Energy",
+        "Abbey's TNT Team",
+        "Rookie Mistake"
+      ]
+    },
+    {
+      "team": "Abbey's TNT Team",
+      "rank": 4,
+      "scenarios": [
+        "\ud83c\udfaf Win 8 of next 8 to clinch"
+      ],
+      "remaining_opponents": [
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo",
+        "Big Titi Energy",
+        "Emma's Excellent Team",
+        "Game of Zones - House Hamlin",
+        "Big Titi Energy"
+      ]
+    },
+    {
+      "team": "Mcconky Donkeys",
+      "rank": 5,
+      "scenarios": [
+        "\ud83c\udfaf Win 8 of next 8 to clinch"
+      ],
+      "remaining_opponents": [
+        "Abbey's TNT Team",
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Americas Team",
+        "To Infinity and Bijan!",
+        "Emma's Excellent Team",
+        "Michael's Managable Team"
+      ]
+    },
+    {
+      "team": "Americas Team",
+      "rank": 6,
+      "scenarios": [
+        "\ud83c\udfaf Win 9 of next 8 to clinch"
+      ],
+      "remaining_opponents": [
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Emma's Excellent Team",
+        "To Infinity and Bijan!",
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo"
+      ]
+    },
+    {
+      "team": "90s MonCon",
+      "rank": 7,
+      "scenarios": [
+        "\ud83d\udcaa Must win 1 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "Mama Daughter Duo",
+        "Big Titi Energy",
+        "Abbey's TNT Team",
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Americas Team",
+        "Third Time's the Charm?"
+      ]
+    },
+    {
+      "team": "Rookie Mistake",
+      "rank": 8,
+      "scenarios": [
+        "\ud83d\udcaa Must win 1 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "Americas Team",
+        "To Infinity and Bijan!",
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo",
+        "Big Titi Energy",
+        "Game of Zones - House Hamlin"
+      ]
+    },
+    {
+      "team": "Mama Daughter Duo",
+      "rank": 9,
+      "scenarios": [
+        "\ud83d\udcaa Must win 2 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "90s MonCon",
+        "Emma's Excellent Team",
+        "Big Titi Energy",
+        "Abbey's TNT Team",
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Americas Team"
+      ]
+    },
+    {
+      "team": "To Infinity and Bijan!",
+      "rank": 10,
+      "scenarios": [
+        "\ud83d\udcaa Must win 2 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Michael's Managable Team",
+        "Americas Team",
+        "Emma's Excellent Team",
+        "Mcconky Donkeys",
+        "Third Time's the Charm?",
+        "Emma's Excellent Team"
+      ]
+    },
+    {
+      "team": "Emma's Excellent Team",
+      "rank": 11,
+      "scenarios": [
+        "\ud83d\udcaa Must win 3 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "Michael's Managable Team",
+        "Mama Daughter Duo",
+        "Americas Team",
+        "Big Titi Energy",
+        "To Infinity and Bijan!",
+        "Abbey's TNT Team",
+        "Mcconky Donkeys",
+        "To Infinity and Bijan!"
+      ]
+    },
+    {
+      "team": "Big Titi Energy",
+      "rank": 12,
+      "scenarios": [
+        "\ud83d\udcaa Must win 3 of next 8 games",
+        "\ud83d\udcca AND need help from: Americas Team losing"
+      ],
+      "remaining_opponents": [
+        "Third Time's the Charm?",
+        "90s MonCon",
+        "Mama Daughter Duo",
+        "Emma's Excellent Team",
+        "Abbey's TNT Team",
+        "Game of Zones - House Hamlin",
+        "Rookie Mistake",
+        "Abbey's TNT Team"
+      ]
+    }
+  ]
 }

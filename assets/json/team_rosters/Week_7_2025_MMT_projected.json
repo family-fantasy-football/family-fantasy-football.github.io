@@ -2,23 +2,9 @@
   {
     "player_name": "Drake Maye",
     "pos": "QB",
-    "slot": "OP",
+    "slot": "QB",
     "projected": 25.77,
     "opponent": "TEN"
-  },
-  {
-    "player_name": "Justin Herbert",
-    "pos": "QB",
-    "slot": "QB",
-    "projected": 21.35,
-    "opponent": "IND"
-  },
-  {
-    "player_name": "Jahmyr Gibbs",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 16.56,
-    "opponent": "TB"
   },
   {
     "player_name": "Davante Adams",
@@ -33,6 +19,13 @@
     "slot": "WR",
     "projected": 13.54,
     "opponent": "WSH"
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.56,
+    "opponent": "TB"
   },
   {
     "player_name": "Alvin Kamara",
@@ -61,5 +54,12 @@
     "slot": "RB/WR/TE",
     "projected": 9.26,
     "opponent": "LAC"
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 21.35,
+    "opponent": "IND"
   }
 ]

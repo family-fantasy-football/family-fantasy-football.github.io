@@ -7,11 +7,18 @@
     "opponent": "MIN"
   },
   {
-    "player_name": "Caleb Williams",
-    "pos": "QB",
-    "slot": "OP",
-    "projected": 21.25,
-    "opponent": "NO"
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.64,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.5,
+    "opponent": "CHI"
   },
   {
     "player_name": "Christian McCaffrey",
@@ -28,6 +35,13 @@
     "opponent": "DET"
   },
   {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.65,
+    "opponent": "LV"
+  },
+  {
     "player_name": "D'Andre Swift",
     "pos": "RB",
     "slot": "RB/WR/TE",
@@ -35,31 +49,17 @@
     "opponent": "NO"
   },
   {
-    "player_name": "DK Metcalf",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "projected": 13.64,
-    "opponent": "CIN"
-  },
-  {
-    "player_name": "Chris Olave",
-    "pos": "WR",
-    "slot": "WR",
-    "projected": 12.5,
-    "opponent": "CHI"
-  },
-  {
     "player_name": "Rome Odunze",
     "pos": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "projected": 12.08,
     "opponent": "NO"
   },
   {
-    "player_name": "Travis Kelce",
-    "pos": "TE",
-    "slot": "TE",
-    "projected": 9.65,
-    "opponent": "LV"
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 21.25,
+    "opponent": "NO"
   }
 ]

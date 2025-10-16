@@ -312,7 +312,7 @@ jekyll-archives:
     category: "/reports/category/:name/"
 
 display_tags: ["2024-25", "2025-26", "WeeklyRecap", "WeeklyPreview", "RuleChanges", "LeagueNews"] # these tags will be displayed on the front page of your blog
-display_categories: ["league-recaps", "team-reports", "league-preview", "league-announcements"] # these categories will be displayed on the front page of your blog
+display_categories: ["league-recaps", "team-reports", "league-previews", "league-announcements"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

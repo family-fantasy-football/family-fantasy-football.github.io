@@ -1,22 +1,15 @@
 [
   {
-    "player_name": "Trevor Lawrence",
+    "player_name": "Brock Purdy",
     "pos": "QB",
     "slot": "QB",
-    "projected": 14.98,
-    "opponent": "LAR"
-  },
-  {
-    "player_name": "Saquon Barkley",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 14.45,
-    "opponent": "MIN"
+    "projected": 19.72,
+    "opponent": "ATL"
   },
   {
     "player_name": "Drake London",
     "pos": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "projected": 13.69,
     "opponent": "SF"
   },
@@ -28,11 +21,11 @@
     "opponent": "NYG"
   },
   {
-    "player_name": "Jakobi Meyers",
-    "pos": "WR",
-    "slot": "WR",
-    "projected": 10.01,
-    "opponent": "KC"
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.45,
+    "opponent": "MIN"
   },
   {
     "player_name": "Tony Pollard",
@@ -42,13 +35,6 @@
     "opponent": "NE"
   },
   {
-    "player_name": "Rashid Shaheed",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "projected": 9.21,
-    "opponent": "CHI"
-  },
-  {
     "player_name": "Zach Ertz",
     "pos": "TE",
     "slot": "TE",
@@ -56,10 +42,24 @@
     "opponent": "DAL"
   },
   {
-    "player_name": "Hollywood Brown",
+    "player_name": "Jakobi Meyers",
     "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.01,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.21,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
     "slot": "OP",
-    "projected": 5.46,
-    "opponent": "LV"
+    "projected": 14.98,
+    "opponent": "LAR"
   }
 ]

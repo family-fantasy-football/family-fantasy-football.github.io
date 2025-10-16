@@ -383,9 +383,85 @@ description: Simulate playoff scenarios
         margin: 20px 0;
     }
 }
+.magic-numbers-section {
+    margin: 30px 0;
+    padding: 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    color: white;
+}
+
+.magic-table {
+    width: 100%;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 15px;
+    color: #2c3e50;
+}
+
+.magic-table th {
+    background: #34495e;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+.magic-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ecf0f1;
+}
+
+.status-clinched { color: #27ae60; font-weight: bold; }
+.status-eliminated { color: #e74c3c; font-weight: bold; }
+.status-active { color: #f39c12; font-weight: bold; }
+
+.scenarios-section {
+    margin: 30px 0;
+}
+
+.scenario-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.scenario-card h4 {
+    margin: 0 0 10px 0;
+    color: #2c3e50;
+}
+
+.scenario-item {
+    padding: 8px 0;
+    border-left: 3px solid #3498db;
+    padding-left: 15px;
+    margin: 8px 0;
+}
 </style>
 
 <div class="simulator-container" id="playoff-simulator">
+    
+    <!-- Magic Numbers Section -->
+    <div class="magic-numbers-section">
+        <h2>🎯 Magic Numbers</h2>
+        <table class="magic-table" id="magic-numbers-table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Team</th>
+                    <th>Record</th>
+                    <th>Games Left</th>
+                    <th>Clinch #</th>
+                    <th>Elim #</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody id="magic-numbers-body"></tbody>
+        </table>
+    </div>
+
     <div class="controls">
         <button class="btn-sim btn-primary" onclick="resetSimulator()">🔄 Reset All</button>
         <button class="btn-sim btn-secondary" onclick="simulateAllGames('random')">🎲 Simulate Random</button>
@@ -393,6 +469,12 @@ description: Simulate playoff scenarios
     </div>
 
     <div id="game-selections"></div>
+
+    <!-- Playoff Scenarios Section -->
+    <div class="scenarios-section">
+        <h2>📋 Playoff Scenarios</h2>
+        <div id="scenarios-container"></div>
+    </div>
 
     <div class="standings-section" id="current-standings">
         <h2 class="section-title">📊 Projected Final Standings</h2>
@@ -424,6 +506,54 @@ description: Simulate playoff scenarios
             .then(data => {
                 window.simulatorData = data;
                 initializeSimulator(data);
+                loadMagicNumbers(data.magic_numbers);
+                loadScenarios(data.scenarios);
             });
     });
+    
+    function loadMagicNumbers(magicNumbers) {
+        const tbody = document.getElementById('magic-numbers-body');
+        tbody.innerHTML = '';
+        
+        magicNumbers.forEach(item => {
+            const row = document.createElement('tr');
+            const statusClass = `status-${item.status.toLowerCase()}`;
+            
+            row.innerHTML = `
+                <td>${item.rank}</td>
+                <td><strong>${item.team}</strong></td>
+                <td>${item.current_record}</td>
+                <td>${item.remaining_games}</td>
+                <td>${item.clinch_number || '-'}</td>
+                <td>${item.elimination_number || '-'}</td>
+                <td class="${statusClass}">${item.status}</td>
+            `;
+            tbody.appendChild(row);
+        });
+    }
+    
+    function loadScenarios(scenarios) {
+        const container = document.getElementById('scenarios-container');
+        container.innerHTML = '';
+        
+        scenarios.forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'scenario-card';
+            
+            let html = `<h4>${item.rank}. ${item.team}</h4>`;
+            
+            item.scenarios.forEach(scenario => {
+                html += `<div class="scenario-item">${scenario}</div>`;
+            });
+            
+            if (item.remaining_opponents.length > 0) {
+                html += `<div style="margin-top: 10px; font-size: 0.9em; color: #7f8c8d;">
+                    <strong>Remaining opponents:</strong> ${item.remaining_opponents.join(', ')}
+                </div>`;
+            }
+            
+            card.innerHTML = html;
+            container.appendChild(card);
+        });
+    }
 </script>

@@ -1,38 +1,10 @@
 [
   {
-    "player_name": "Jonathan Taylor",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 22.93,
-    "opponent": "LAC"
-  },
-  {
     "player_name": "Tua Tagovailoa",
     "pos": "QB",
     "slot": "QB",
     "projected": 20.9,
     "opponent": "CLE"
-  },
-  {
-    "player_name": "Dillon Gabriel",
-    "pos": "QB",
-    "slot": "OP",
-    "projected": 18.44,
-    "opponent": "MIA"
-  },
-  {
-    "player_name": "Jaylen Warren",
-    "pos": "RB",
-    "slot": "RB/WR/TE",
-    "projected": 15.09,
-    "opponent": "CIN"
-  },
-  {
-    "player_name": "Quinshon Judkins",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 15.01,
-    "opponent": "MIA"
   },
   {
     "player_name": "Nico Collins",
@@ -42,13 +14,6 @@
     "opponent": "SEA"
   },
   {
-    "player_name": "Jordan Mason",
-    "pos": "RB",
-    "slot": "RB/WR/TE",
-    "projected": 12.79,
-    "opponent": "PHI"
-  },
-  {
     "player_name": "Jaylen Waddle",
     "pos": "WR",
     "slot": "WR",
@@ -56,10 +21,45 @@
     "opponent": "CLE"
   },
   {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 22.93,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 15.09,
+    "opponent": "CIN"
+  },
+  {
     "player_name": "AJ Barner",
     "pos": "TE",
     "slot": "TE",
     "projected": 6.94,
     "opponent": "HOU"
+  },
+  {
+    "player_name": "Quinshon Judkins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 15.01,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Jordan Mason",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 12.79,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Dillon Gabriel",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 18.44,
+    "opponent": "MIA"
   }
 ]

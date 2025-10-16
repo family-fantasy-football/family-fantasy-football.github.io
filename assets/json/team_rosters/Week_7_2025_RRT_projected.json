@@ -1,31 +1,17 @@
 [
   {
-    "player_name": "Matthew Stafford",
+    "player_name": "Spencer Rattler",
     "pos": "QB",
     "slot": "QB",
-    "projected": 18.08,
-    "opponent": "JAX"
+    "projected": 18.67,
+    "opponent": "CHI"
   },
   {
     "player_name": "Jaxon Smith-Njigba",
     "pos": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "projected": 16.44,
     "opponent": "HOU"
-  },
-  {
-    "player_name": "Sam Darnold",
-    "pos": "QB",
-    "slot": "OP",
-    "projected": 16.1,
-    "opponent": "HOU"
-  },
-  {
-    "player_name": "Trey McBride",
-    "pos": "TE",
-    "slot": "TE",
-    "projected": 13.84,
-    "opponent": "GB"
   },
   {
     "player_name": "Ja'Marr Chase",
@@ -42,24 +28,38 @@
     "opponent": "TEN"
   },
   {
-    "player_name": "A.J. Brown",
-    "pos": "WR",
-    "slot": "WR",
-    "projected": 12.16,
-    "opponent": "MIN"
-  },
-  {
     "player_name": "Travis Etienne Jr.",
     "pos": "RB",
-    "slot": "RB/WR/TE",
+    "slot": "RB",
     "projected": 11.91,
     "opponent": "LAR"
   },
   {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 13.84,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 12.16,
+    "opponent": "MIN"
+  },
+  {
     "player_name": "David Montgomery",
     "pos": "RB",
-    "slot": "RB",
+    "slot": "RB/WR/TE",
     "projected": 10.99,
     "opponent": "TB"
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 18.08,
+    "opponent": "JAX"
   }
 ]

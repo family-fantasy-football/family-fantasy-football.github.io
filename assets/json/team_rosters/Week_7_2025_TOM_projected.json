@@ -7,11 +7,18 @@
     "opponent": "TB"
   },
   {
-    "player_name": "Jaxson Dart",
-    "pos": "QB",
-    "slot": "OP",
-    "projected": 14.69,
-    "opponent": "DEN"
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 9.99,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 9.7,
+    "opponent": "ARI"
   },
   {
     "player_name": "Ashton Jeanty",
@@ -35,31 +42,24 @@
     "opponent": "LAC"
   },
   {
-    "player_name": "Marvin Harrison Jr.",
-    "pos": "WR",
-    "slot": "WR",
-    "projected": 9.99,
-    "opponent": "GB"
-  },
-  {
-    "player_name": "Romeo Doubs",
+    "player_name": "Matthew Golden",
     "pos": "WR",
     "slot": "RB/WR/TE",
-    "projected": 9.7,
+    "projected": 9.22,
     "opponent": "ARI"
   },
   {
     "player_name": "Travis Hunter",
     "pos": "WR",
-    "slot": "WR",
+    "slot": "RB/WR/TE",
     "projected": 7.79,
     "opponent": "LAR"
   },
   {
-    "player_name": "Jake Tonges",
-    "pos": "TE",
-    "slot": "RB/WR/TE",
-    "projected": 1.0,
-    "opponent": "ATL"
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 14.69,
+    "opponent": "DEN"
   }
 ]

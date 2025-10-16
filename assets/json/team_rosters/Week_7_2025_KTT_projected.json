@@ -7,23 +7,9 @@
     "opponent": "DAL"
   },
   {
-    "player_name": "Baker Mayfield",
-    "pos": "QB",
-    "slot": "OP",
-    "projected": 22.49,
-    "opponent": "DET"
-  },
-  {
-    "player_name": "De'Von Achane",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 18.88,
-    "opponent": "CLE"
-  },
-  {
     "player_name": "Mike Evans",
     "pos": "WR",
-    "slot": "RB/WR/TE",
+    "slot": "WR",
     "projected": 12.45,
     "opponent": "DET"
   },
@@ -35,18 +21,18 @@
     "opponent": "LAR"
   },
   {
-    "player_name": "Rashee Rice",
-    "pos": "WR",
-    "slot": "RB/WR/TE",
-    "projected": 11.26,
-    "opponent": "LV"
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 18.88,
+    "opponent": "CLE"
   },
   {
-    "player_name": "Ladd McConkey",
-    "pos": "WR",
-    "slot": "WR",
-    "projected": 11.19,
-    "opponent": "IND"
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 10.31,
+    "opponent": "LV"
   },
   {
     "player_name": "David Njoku",
@@ -56,10 +42,24 @@
     "opponent": "MIA"
   },
   {
-    "player_name": "Isiah Pacheco",
-    "pos": "RB",
-    "slot": "RB",
-    "projected": 10.31,
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 11.26,
     "opponent": "LV"
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 11.19,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 22.49,
+    "opponent": "DET"
   }
 ]
