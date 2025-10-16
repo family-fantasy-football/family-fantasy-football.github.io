@@ -1,4 +1,730 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://family-fantasy-football.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://family-fantasy-football.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-10-15T00:50:18+00:00</updated><id>https://family-fantasy-football.github.io/feed.xml</id><title type="html">Family Fantasy Football League</title><entry><title type="html">Week 7 Matchups Preview</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-7_preview/" rel="alternate" type="text/html" title="Week 7 Matchups Preview"/><published>2025-10-15T00:44:32+00:00</published><updated>2025-10-15T00:44:32+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-7_preview</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-7_preview/"><![CDATA[<h3 id="emmas-excellent-team--michaels-managable-team">Emma’s Excellent Team @ Michael’s Managable Team</h3> <p><strong>Projected Score:</strong> Emma’s Excellent Team 96.41 - 128.30 Michael’s Managable Team</p> <p><strong>Historical Matchup:</strong> 0-0</p> <h4 id="position-breakdown">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Emma's Excellent Team</th> <th style="width: 10%"></th> <th style="width: 35%">Michael's Managable Team</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>14.2</td><td>➡️</td><td>24.3</td></tr> <tr><td><strong>RB</strong></td><td>9.3</td><td>➡️</td><td>11.4</td></tr> <tr><td><strong>TE</strong></td><td>6.3</td><td>➡️</td><td>11.4</td></tr> <tr><td><strong>WR</strong></td><td>10.5</td><td>➡️</td><td>12.4</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance">Recent Performance</h4> <pre><code class="language-echarts">{
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://family-fantasy-football.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://family-fantasy-football.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-10-16T17:24:42+00:00</updated><id>https://family-fantasy-football.github.io/feed.xml</id><title type="html">Family Fantasy Football League</title><entry><title type="html">Week 6 League Recap</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6_Recap/" rel="alternate" type="text/html" title="Week 6 League Recap"/><published>2025-10-16T17:14:11+00:00</published><updated>2025-10-16T17:14:11+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6_Recap</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6_Recap/"><![CDATA[<h3 id="weekly-matchups">Weekly Matchups</h3> <h4 id="90s-moncon--emmas-excellent-team">90s MonCon @ Emma’s Excellent Team</h4> <p><strong>Final Score:</strong> 90s MonCon 67.71 - 89.62 Emma’s Excellent Team<br/> <strong>Best Performance:</strong> Drake London (Emma’s Excellent Team) - 26.80 pts<br/></p> <h4 id="rookie-mistake--michaels-managable-team">Rookie Mistake @ Michael’s Managable Team</h4> <p><strong>Final Score:</strong> Rookie Mistake 115.52 - 132.15 Michael’s Managable Team<br/> <strong>Best Performance:</strong> Drake Maye (Michael’s Managable Team) - 34.24 pts<br/></p> <h4 id="third-times-the-charm--mama-daughter-duo">Third Time’s the Charm? @ Mama Daughter Duo</h4> <p><strong>Final Score:</strong> Third Time’s the Charm? 165.67 - 152.00 Mama Daughter Duo<br/> <strong>Best Performance:</strong> Patrick Mahomes (Third Time’s the Charm?) - 40.48 pts<br/></p> <h4 id="game-of-zones---house-hamlin--americas-team">Game of Zones - House Hamlin @ Americas Team</h4> <p><strong>Final Score:</strong> Game of Zones - House Hamlin 101.21 - 124.74 Americas Team <br/> <strong>Best Performance:</strong> Jaxon Smith-Njigba (Americas Team ) - 26.20 pts<br/></p> <h4 id="mcconky-donkeys--big-titi-energy">Mcconky Donkeys @ Big Titi Energy</h4> <p><strong>Final Score:</strong> Mcconky Donkeys 153.43 - 87.79 Big Titi Energy<br/> <strong>Best Performance:</strong> Jayden Daniels (Mcconky Donkeys) - 30.14 pts<br/></p> <h4 id="abbeys-tnt-team---to-infinity-and-bijan">Abbey’s TNT Team @ To Infinity and Bijan!</h4> <p><strong>Final Score:</strong> Abbey’s TNT Team 97.27 - 65.20 To Infinity and Bijan!<br/> <strong>Best Performance:</strong> Bijan Robinson (Abbey’s TNT Team ) - 32.80 pts<br/> <br/></p> <h3 id="league-info">League Info</h3> <p><strong>Total Points Scored:</strong> 1352.31 <br/> <strong>Avg. Points Scored:</strong> 112.69<br/> <strong>Biggest Overachiever:</strong> Third Time’s the Charm? exceeded projections by 38.07 points<br/> <strong>Biggest Underachiever:</strong> 90s MonCon fell short of projections by -54.19 points</p> <h3 id="season-highs-set-this-week">Season Highs Set This Week</h3> <p><strong>Lowest Score This Season</strong>: To Infinity and Bijan! scored only 65.20 points <em>(Previous: 67.94)</em> <br/></p> <h3 id="dream-team-of-the-week">Dream Team of the Week</h3> <p>If we could pick any players across all teams this week:</p> <table class="table table-sm"> <thead><tr> <th>Position</th><th>Player</th><th>Team</th><th>Points</th> </tr></thead><tbody> <tr><td><strong>QB</strong></td><td>Patrick Mahomes</td><td>Third Time's the Charm?</td><td>40.48</td></tr> <tr><td><strong>RB</strong></td><td>Bijan Robinson</td><td>Abbey's TNT Team </td><td>32.80</td></tr> <tr><td><strong>RB</strong></td><td>Rico Dowdle</td><td>Third Time's the Charm?</td><td>31.90</td></tr> <tr><td><strong>WR</strong></td><td>George Pickens</td><td>Michael's Managable Team</td><td>27.30</td></tr> <tr><td><strong>WR</strong></td><td>Drake London</td><td>Emma's Excellent Team</td><td>26.80</td></tr> <tr><td><strong>TE</strong></td><td>Dallas Goedert</td><td>Big Titi Energy</td><td>23.75</td></tr> <tr><td><strong>WR</strong></td><td>Jaxon Smith-Njigba</td><td>Americas Team </td><td>26.20</td></tr> <tr><td><strong>RB</strong></td><td>D'Andre Swift</td><td>Mama Daughter Duo</td><td>24.50</td></tr> <tr><td><strong>QB</strong></td><td>Drake Maye</td><td>Michael's Managable Team</td><td>34.24</td></tr> </tbody></table> <p><strong>Total Points</strong>: 267.97<br/></p> <h2 id="current-standings">Current Standings</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/standings/Week_6_2025_standings.json"> <thead> <tr> <th data-field="rank" data-halign="center" data-align="center" data-sortable="true">Rank</th> <th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th> <th data-field="record" data-halign="center" data-align="center" data-sortable="true" data-sort-name="record_sort">Record</th> <th data-field="record_sort" data-sortable="true" data-visible="false">Record Sort</th> <th data-field="points_for" data-halign="center" data-align="center" data-sortable="true">Points For</th> <th data-field="playoff_odds" data-halign="center" data-align="center" data-sortable="true">Playoff Odds</th> </tr> </thead> </table> <p><br/></p> <h2 id="standings-movement">Standings Movement</h2> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Standings Change: Week 5 to Week 6",
+    "left": "center"
+  },
+  "tooltip": {
+    "trigger": "item",
+    "formatter": "{a}&lt;br/&gt;Week {b}: Rank {c}"
+  },
+  "legend": {
+    "orient": "vertical",
+    "right": 0,
+    "top": "middle",
+    "data": [
+      "90s MonCon",
+      "Abbey's TNT Team ",
+      "Americas Team ",
+      "Big Titi Energy",
+      "Emma's Excellent Team",
+      "Game of Zones - House Hamlin",
+      "Mama Daughter Duo",
+      "Mcconky Donkeys",
+      "Michael's Managable Team",
+      "Rookie Mistake",
+      "Third Time's the Charm?",
+      "To Infinity and Bijan!"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "name": "Week",
+    "nameLocation": "middle",
+    "nameGap": 30,
+    "data": [
+      5,
+      6
+    ]
+  },
+  "yAxis": {
+    "type": "value",
+    "name": "Rank",
+    "nameLocation": "middle",
+    "nameGap": 20,
+    "inverse": true,
+    "min": 1,
+    "max": 12
+  },
+  "series": [
+    {
+      "name": "90s MonCon",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#aec7e8"
+      },
+      "itemStyle": {
+        "color": "#aec7e8"
+      },
+      "data": [
+        3,
+        7
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Abbey's TNT Team ",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#f7b6d2"
+      },
+      "itemStyle": {
+        "color": "#f7b6d2"
+      },
+      "data": [
+        5,
+        4
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Americas Team ",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#98df8a"
+      },
+      "itemStyle": {
+        "color": "#98df8a"
+      },
+      "data": [
+        8,
+        6
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Big Titi Energy",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#17becf"
+      },
+      "itemStyle": {
+        "color": "#17becf"
+      },
+      "data": [
+        11,
+        12
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Emma's Excellent Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#bcbd22"
+      },
+      "itemStyle": {
+        "color": "#bcbd22"
+      },
+      "data": [
+        12,
+        11
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Game of Zones - House Hamlin",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#c7c7c7"
+      },
+      "itemStyle": {
+        "color": "#c7c7c7"
+      },
+      "data": [
+        1,
+        3
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Mama Daughter Duo",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#c49c94"
+      },
+      "itemStyle": {
+        "color": "#c49c94"
+      },
+      "data": [
+        9,
+        9
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#8c564b"
+      },
+      "itemStyle": {
+        "color": "#8c564b"
+      },
+      "data": [
+        7,
+        5
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Michael's Managable Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#d62728"
+      },
+      "itemStyle": {
+        "color": "#d62728"
+      },
+      "data": [
+        4,
+        2
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Rookie Mistake",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#ffbb78"
+      },
+      "itemStyle": {
+        "color": "#ffbb78"
+      },
+      "data": [
+        6,
+        8
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Third Time's the Charm?",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#1f77b4"
+      },
+      "itemStyle": {
+        "color": "#1f77b4"
+      },
+      "data": [
+        2,
+        1
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "To Infinity and Bijan!",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#9467bd"
+      },
+      "itemStyle": {
+        "color": "#9467bd"
+      },
+      "data": [
+        10,
+        10
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    }
+  ],
+  "grid": {
+    "left": "5%",
+    "right": "20%",
+    "bottom": "10%",
+    "top": "15%",
+    "containLabel": true
+  }
+}
+</code></pre> <p><br/></p> <h2 id="positional-scoring-this-week">Positional Scoring This Week</h2> <pre><code class="language-echarts">{
+    "grid": {
+        "top": "10%",
+        "bottom": "15%",
+        "left": "5%",
+        "right": "0%",
+        "containLabel": true
+    },
+    "xAxis": {
+        "type": "category",
+        "data": [
+            "QB",
+            "RB",
+            "TE",
+            "WR"
+        ],
+        "name": "Position",
+        "nameLocation": "center",
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "yAxis": {
+        "type": "category",
+        "data": [
+            "TTC",
+            "90s",
+            "TOM",
+            "RRT",
+            "MMT",
+            "TIB",
+            "KTT",
+            "JST",
+            "ARV",
+            "HMB",
+            "EET",
+            "BTE"
+        ],
+        "name": "",
+        "nameLocation": "end",
+        "nameTextStyle": {
+            "fontSize": 16
+        },
+        "axisLabel": {
+            "fontSize": 14
+        }
+    },
+    "visualMap": {
+        "min": 1,
+        "max": 12,
+        "calculable": true,
+        "orient": "vertical",
+        "show": false,
+        "right": "right",
+        "bottom": "30%",
+        "text": [],
+        "inRange": {
+            "color": [
+                "#4575b4",
+                "#91bfdb",
+                "#fee090",
+                "#fc8d59",
+                "#d73027"
+            ]
+        }
+    },
+    "series": [
+        {
+            "type": "heatmap",
+            "data": [
+                [
+                    0,
+                    0,
+                    1
+                ],
+                [
+                    1,
+                    0,
+                    1
+                ],
+                [
+                    2,
+                    0,
+                    12
+                ],
+                [
+                    3,
+                    0,
+                    10
+                ],
+                [
+                    0,
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    1,
+                    2
+                ],
+                [
+                    2,
+                    1,
+                    11
+                ],
+                [
+                    3,
+                    1,
+                    11
+                ],
+                [
+                    0,
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    2,
+                    10
+                ],
+                [
+                    3,
+                    2,
+                    12
+                ],
+                [
+                    0,
+                    3,
+                    4
+                ],
+                [
+                    1,
+                    3,
+                    11
+                ],
+                [
+                    2,
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    3,
+                    4
+                ],
+                [
+                    0,
+                    4,
+                    2
+                ],
+                [
+                    1,
+                    4,
+                    12
+                ],
+                [
+                    2,
+                    4,
+                    2
+                ],
+                [
+                    3,
+                    4,
+                    3
+                ],
+                [
+                    0,
+                    5,
+                    10
+                ],
+                [
+                    1,
+                    5,
+                    10
+                ],
+                [
+                    2,
+                    5,
+                    6
+                ],
+                [
+                    3,
+                    5,
+                    9
+                ],
+                [
+                    0,
+                    6,
+                    6
+                ],
+                [
+                    1,
+                    6,
+                    9
+                ],
+                [
+                    2,
+                    6,
+                    9
+                ],
+                [
+                    3,
+                    6,
+                    2
+                ],
+                [
+                    0,
+                    7,
+                    5
+                ],
+                [
+                    1,
+                    7,
+                    6
+                ],
+                [
+                    2,
+                    7,
+                    7
+                ],
+                [
+                    3,
+                    7,
+                    1
+                ],
+                [
+                    0,
+                    8,
+                    8
+                ],
+                [
+                    1,
+                    8,
+                    3
+                ],
+                [
+                    2,
+                    8,
+                    8
+                ],
+                [
+                    3,
+                    8,
+                    6
+                ],
+                [
+                    0,
+                    9,
+                    9
+                ],
+                [
+                    1,
+                    9,
+                    5
+                ],
+                [
+                    2,
+                    9,
+                    5
+                ],
+                [
+                    3,
+                    9,
+                    8
+                ],
+                [
+                    0,
+                    10,
+                    11
+                ],
+                [
+                    1,
+                    10,
+                    7
+                ],
+                [
+                    2,
+                    10,
+                    4
+                ],
+                [
+                    3,
+                    10,
+                    7
+                ],
+                [
+                    0,
+                    11,
+                    12
+                ],
+                [
+                    1,
+                    11,
+                    8
+                ],
+                [
+                    2,
+                    11,
+                    1
+                ],
+                [
+                    3,
+                    11,
+                    5
+                ]
+            ],
+            "label": {
+                "show": true,
+                "fontSize": 12
+            }
+        }
+    ]
+}
+</code></pre> <h2 id="week-7-preview">Week 7 Preview:</h2> <h4 id="emmas-excellent-team--michaels-managable-team">Emma’s Excellent Team @ Michael’s Managable Team</h4> <p><strong>Projected Score:</strong> Emma’s Excellent Team 96.40 - 138.16 Michael’s Managable Team<br/></p> <h4 id="mama-daughter-duo--90s-moncon">Mama Daughter Duo @ 90s MonCon</h4> <p><strong>Projected Score:</strong> Mama Daughter Duo 142.09 - 139.09 90s MonCon<br/></p> <h4 id="americas-team---rookie-mistake">Americas Team @ Rookie Mistake</h4> <p><strong>Projected Score:</strong> Americas Team 124.64 - 104.43 Rookie Mistake<br/></p> <h4 id="big-titi-energy--third-times-the-charm">Big Titi Energy @ Third Time’s the Charm?</h4> <p><strong>Projected Score:</strong> Big Titi Energy 82.66 - 137.24 Third Time’s the Charm?<br/></p> <h4 id="to-infinity-and-bijan--game-of-zones---house-hamlin">To Infinity and Bijan! @ Game of Zones - House Hamlin</h4> <p><strong>Projected Score:</strong> To Infinity and Bijan! 127.26 - 89.59 Game of Zones - House Hamlin<br/></p> <h4 id="abbeys-tnt-team---mcconky-donkeys">Abbey’s TNT Team @ Mcconky Donkeys</h4> <p><strong>Projected Score:</strong> Abbey’s TNT Team 104.61 - 137.45 Mcconky Donkeys<br/></p>]]></content><author><name></name></author><category term="league-recaps"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[Weekly league recap and standings]]></summary></entry><entry><title type="html">Third Time’s the Charm? Week 6 Report</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6-TTC/" rel="alternate" type="text/html" title="Third Time’s the Charm? Week 6 Report"/><published>2025-10-16T17:14:06+00:00</published><updated>2025-10-16T17:14:06+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6-TTC</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6-TTC/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Third Time’s the Charm? Won against Mama Daughter Duo 165.67-152.00<br/> Current Standing: #1<br/> Playoff Chances: 92.3%<br/> Lineup Efficiency: 92.4%<br/> Best Performer: Patrick Mahomes (40.48 pts)<br/></p> <pre><code class="language-echarts">{
+    "tooltip": {
+        "trigger": "item",
+        "formatter": "{a} &lt;br/&gt;{b}: {d}%"
+    },
+    "legend": {
+        "orient": "vertical",
+        "left": "left",
+        "data": [
+            "QB",
+            "RB",
+            "WR",
+            "TE",
+            "D/ST",
+            "K"
+        ]
+    },
+    "series": [
+        {
+            "name": "Position Points",
+            "type": "pie",
+            "radius": [
+                "50%",
+                "70%"
+            ],
+            "avoidLabelOverlap": false,
+            "data": [
+                {
+                    "value": 72.3,
+                    "name": "QB"
+                },
+                {
+                    "value": 69.8,
+                    "name": "RB"
+                },
+                {
+                    "value": 13.9,
+                    "name": "WR"
+                },
+                {
+                    "value": 9.6,
+                    "name": "TE"
+                }
+            ]
+        }
+    ]
+}
+</code></pre> <h2 id="recent-performance">Recent Performance</h2> <pre><code class="language-echarts">{
+  "title": {
+    "text": "Recent Scoring Trend",
+    "left": "center",
+    "show": false
+  },
+  "tooltip": {
+    "trigger": "axis"
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Week 2",
+      "Week 3",
+      "Week 4",
+      "Week 5",
+      "Week 6"
+    ]
+  },
+  "yAxis": {
+    "type": "value",
+    "name": "Points"
+  },
+  "series": [
+    {
+      "name": "Points Scored",
+      "type": "line",
+      "data": [
+        111.9,
+        85.3,
+        156.9,
+        165.4,
+        165.7
+      ],
+      "smooth": true,
+      "itemStyle": {
+        "color": "#5470c6"
+      },
+      "areaStyle": {
+        "opacity": 0.3
+      }
+    }
+  ],
+  "grid": {
+    "left": "10%",
+    "right": "5%",
+    "bottom": "10%"
+  }
+}
+</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="rico-dowdle-rb">Rico Dowdle (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Chuba Hubbard (calf) returned to practice Wednesday as a limited participant after Dowdle ran for 389 yards over the past two weeks. Hubbard was excellent last season and didn’t do anything this September to warrant a benching, but the massive extent of Dowdle’s recent production nonetheless creates questions about what the Carolina backfield will look like moving forward. The split for Week 7 won’t necessarily be the split for the rest of the season, of course, and there may be room for multiple RBs to put up solid numbers against a subpar Jets defense.</p> <h4 id="bryce-young-qb">Bryce Young (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Young’s yardage total was far from scintillating, but the third-year signal-caller kept his team competitive throughout a back-and-forth affair against Dak Prescott and his high-powered offense. Young did his part with a trio of touchdown tosses, two which went to rookie wideout Tetairoa McMillan from 19 and two yards out, respectively. Young also connected with Rico Dowdle for a 36-yard strike early in the third quarter, tying Young’s single-game high for TD passes this season. The 2023 first overall pick has now been under 200 passing yards in four consecutive contests, but he’ll carry the momentum of a season-best 68.0 percent completion rate into a Week 7 road matchup against the Jets.</p> <h4 id="chase-brown-rb">Chase Brown (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Brown finally showed some efficiency on the ground thanks primarily to a 13-yard run shortly before halftime. However, his day was defined by a shift in touch allocation in the Cincinnati backfield, with Samaje Perine earning eight total touches to Brown’s 11. Game script may have dictated that late in the contest, but Perine drew the Bengals’ first carry and recorded only two of his touches when the team was in a hopeless situation on the scoreboard. There’s no obvious candidate to fully displace Brown in the Cincinnati backfield, but this was the team’s first signal that it may be growing weary of his lack of efficiency.</p> <h4 id="jerry-jeudy-wr">Jerry Jeudy (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Jeudy is listed on Cleveland’s injury report for the first time this year, though the fact that he was able to practice on at least a limited basis provides reason for optimism that he’ll be able to gain clearance for Sunday’s matchup against the Dolphins. Still, Jeudy has struggled notably with efficiency across two appearances with quarterback Dillon Gabriel under center, having totaled seven grabs for 58 yards (on 18 targets) in that span. Even if he’s able to resume practicing in full and avoid an injury designation entirely for Week 7, fantasy managers may be motivated to pursue an option at the wide receiver position that has demonstrated greater upside. Across six regular-season appearances so far Jeudy has yet to score a touchdown, and he hasn’t surpassed 50 receiving yards since Week 2.</p> <h4 id="ceedee-lamb-wr">CeeDee Lamb (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> As expected, Lamb had his reps capped while practicing for the first time since he suffered a left high-ankle sprain in the Cowboys’ Week 3 loss at Chicago. Fellow Cowboys wide receiver KaVontae Turpin (foot) also returned to practice Wednesday, potentially pushing Jalen Tolbert and Ryan Flournoy further down the depth chart. It isn’t clear at this point if the Cowboys expect Lamb and/or Turpin to be ready to play in Sunday’s home game against the Commanders.</p> <h4 id="dak-prescott-qb">Dak Prescott (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Prescott continued his excellent season, throwing for three or more touchdowns in his third straight game while also surpassing 250 passing yards for the fourth time in six contests on the campaign. He showed an ongoing strong connection with George Pickens, connecting with him for three gains of more than 30 yards, including scores from 45 and 34 yards away. Prescott’s outlook could improve further in Week 7 due to the potential return of CeeDee Lamb (ankle), though Prescott has proven plenty capable of producing without one of his star pass catchers.</p> <h4 id="rj-harvey-rb">RJ Harvey (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Harvey once again operated as the clear No. 2 back behind J.K. Dobbins, who significantly outpaced the rookie by 12 carries. However, Harvey continued to enjoy a solid pass-catching role, extending his streak of games with at least three receptions to four contests. Nevertheless, Harvey’s persistently modest role will continue to render him as a deep-league-only option and large-field tournament play in DFS formats unless Dobbins sustains an injury.</p> <h4 id="xavier-worthy-wr">Xavier Worthy (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Worthy endured another limited practice week in order to suit up for the Chiefs on Sunday. The speedy wideout has missed two-plus games of action due to injury, but he has now started three consecutive games as his health gradually returns to full strength. Worthy made his first trip to the end zone this season in the primetime win, salvaging what would have been an otherwise disappointing night at the office. The 2024 first-round selection averaged 86.0 combined yards from scrimmage over his first two games back from injury, so Sunday’s low usage shouldn’t be of concern. The biggest threat to Worthy’s target share in Week 7 is the scheduled return of suspended WR Rashee Rice, who is likely to reclaim his role as Kansas City’s top wideout against Las Vegas next Sunday.</p> <h4 id="patrick-mahomes-qb">Patrick Mahomes (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> It was a masterful performance from Mahomes on the national stage as he methodically dismantled Detroit’s defense to the tune of a 132.2 passer rating. The 29-year-old posted his second four-touchdown game over his last three starts, quickly putting his slow start to the campaign in the rearview mirror. His fourth rushing score this season also tied the regular-season high he set back in 2022. A red-hot Mahomes will set his sights on a division foe when the Chiefs host the Raiders next Sunday.</p> <h4 id="darren-waller-te">Darren Waller (TE)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Waller continues to have his practice reps capped due to a load management plan, though his gameday workload has now increased in three consecutive weeks. The veteran tight end handled a season-high 69 percent of offensive snaps during Miami’s loss to the Chargers in Week 6, securing two of three targets for 12 yards and a touchdown. Waller has scored in all three of his appearances with the Dolphins this season. He’ll face a challenge to keep up that streak on the road against the Browns’ vaunted defense on Sunday, though if Cleveland’s pass rush forces Tua Tagovailoa to rely heavily on short-area passes, it could result in increased target volume for Waller.</p> <h4 id="stefon-diggs-wr">Stefon Diggs (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Diggs was on the field for 59 percent of the Patriots’ snaps on offense in this past Sunday’s 25-19 win over the Saints, catching all three of his targets for 28 yards, which represented a dip in production for him after back-to-back 100-plus yard efforts in Weeks 4 and 5. So far there’s nothing to suggest that Diggs’ availability for this weekend’s game against the Titans is in any danger, but his status should be monitored nonetheless given his ‘limited’ listing Wednesday.</p> <h4 id="treveyon-henderson-rb">TreVeyon Henderson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> The results were meager, but Henderson still out-gained Rhamondre Stevenson by 18 scrimmage yards, although he finished one rushing yard behind quarterback Drake Maye for the team lead. Henderson has yet to reach even 40 rushing yards or 60 scrimmage yards in a game this season, and the rookie will likely remain stuck in a timeshare with Stevenson heading into a Week 7 clash with the Titans.</p> <h4 id="mason-taylor-te">Mason Taylor (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Just one week after posting a career-best 9-67-0 line on 12 targets, Taylor nearly pulled a complete disappearing act in Sunday’s low-scoring loss. However, the rookie tight end was hardly the only Jets pass catcher to experience a forgettable afternoon, considering Justin Fields threw for just 45 yards and was sacked nine times. The Week 7 outlook for the entire offense is much brighter, however, as New York welcomes in the Panthers to MetLife Stadium for a Week 7 matchup next Sunday.</p> <h4 id="brandon-aiyuk-wr">Brandon Aiyuk (WR)</h4> <p><strong>Injury Status:</strong> Out <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> Aiyuk remains in recovery mode from the ACL and MCL tears that he suffered in his right knee Week 7 of last season, instead residing on the reserve/PUP list to this point in the campaign. Per David Lombardi of SFStandard.com, Shanahan added, “I always look around Week 10, but I’m not putting an exact date on it.” As of Week 6, Aiyuk’s only notable on-field work occurred in mid-September, when he was seen running while fellow 49ers wide receivers worked in individual drills, per Wagoner.</p> <h4 id="bucky-irving-rb">Bucky Irving (RB)</h4> <p><strong>Injury Status:</strong> Doubtful <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Buccaneers head coach Todd Bowles suggested earlier in the week that Irving wasn’t on track to play this Monday against the Lions, and the running back’s continued absence from practice due to a shoulder subluxation and a left foot sprain supports that sentiment. Assuming Irving is officially ruled out for the Week 7 contest following Saturday’s practice, Rachaad White would be headed for a third consecutive turn as the Buccaneers’ lead back Monday.</p> <h4 id="elic-ayomanor-wr">Elic Ayomanor (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ayomanor produced his third underwhelming performance in a row as the Titans returned to their losing ways in 2025. The lack of production from the rookie is especially concerning considering that No. 1 wideout Calvin Ridley (hamstring) left the contest early and did not return. Van Jefferson (4-75-0) wound up taking advantage instead and finished as Tennessee’s leading receiver. That said, if Ridley is forced to miss next Sunday’s tilt against the Patriots, Ayomanor may have a prime opportunity to return to the form that made him a hot pickup early in the campaign.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TTC_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TTC_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 137.22<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_TTC_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="remaining-schedule">Remaining Schedule</h2> <p><strong>Average Opponent Strength:</strong> 120.95 PPG</p> <table class="table table-sm"> <thead><tr><th>Opponent</th><th>Record</th><th>Avg Points</th></tr></thead> <tbody> <tr><td>Big Titi Energy</td><td>1-5</td><td>91.68</td></tr> <tr><td>Abbey's TNT Team </td><td>4-2</td><td>124.92</td></tr> <tr><td>Game of Zones - House Hamlin</td><td>4-2</td><td>128.40</td></tr> <tr><td>Rookie Mistake</td><td>3-3</td><td>119.25</td></tr> <tr><td>Michael's Managable Team</td><td>4-2</td><td>131.77</td></tr> <tr><td>Americas Team </td><td>3-3</td><td>131.31</td></tr> <tr><td>To Infinity and Bijan!</td><td>2-4</td><td>109.85</td></tr> <tr><td>90s MonCon</td><td>3-3</td><td>130.41</td></tr> </tbody></table>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Week 6 Links</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6_links/" rel="alternate" type="text/html" title="Week 6 Links"/><published>2025-10-16T15:36:52+00:00</published><updated>2025-10-16T15:36:52+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6_links</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6_links/"><![CDATA[<h2 id="league-overall">League Overall</h2> <ul> <li><a href="/reports/2025/Week-6_Recap/">Week 6 League Recap</a></li> <li><a href="/reports/2025/Week-7_preview/">Week 7 Matchups Preview</a></li> </ul> <h2 id="individual-team-reports">Individual Team Reports</h2> <ul> <li><a href="/reports/2025/Week-6-90s/">90s MonCon Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-ARV/">Abbey’s TNT Team Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-RRT/">Americas Team Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-BTE/">Big Titi Energy Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-EET/">Emma’s Excellent Team Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-HMB/">Game of Zones - House Hamlin Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-JST/">Mama Daughter Duo Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-KTT/">Mcconky Donkeys Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-MMT/">Michael’s Managable Team Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-TOM/">Rookie Mistake Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-TTC/">Third Time’s the Charm? Week 6 Report</a></li> <li><a href="/reports/2025/Week-6-TIB/">To Infinity and Bijan! Week 6 Report</a></li> </ul>]]></content><author><name></name></author><category term="league-reports"/><category term="2025-26,"/><category term="WeeklyLinks,"/><category term="Week6"/><summary type="html"><![CDATA[Quick links to all Week 6 content]]></summary></entry><entry><title type="html">Week 7 Matchups Preview</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-7_preview/" rel="alternate" type="text/html" title="Week 7 Matchups Preview"/><published>2025-10-15T00:44:32+00:00</published><updated>2025-10-15T00:44:32+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-7_preview</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-7_preview/"><![CDATA[<h3 id="emmas-excellent-team--michaels-managable-team">Emma’s Excellent Team @ Michael’s Managable Team</h3> <p><strong>Projected Score:</strong> Emma’s Excellent Team 96.41 - 128.30 Michael’s Managable Team</p> <p><strong>Historical Matchup:</strong> 0-0</p> <h4 id="position-breakdown">Position Breakdown</h4> <table class="table table-bordered"> <thead> <tr> <th style="width: 20%">Position</th> <th style="width: 35%">Emma's Excellent Team</th> <th style="width: 10%"></th> <th style="width: 35%">Michael's Managable Team</th> </tr> </thead> <tbody> <tr><td><strong>QB</strong></td><td>14.2</td><td>➡️</td><td>24.3</td></tr> <tr><td><strong>RB</strong></td><td>9.3</td><td>➡️</td><td>11.4</td></tr> <tr><td><strong>TE</strong></td><td>6.3</td><td>➡️</td><td>11.4</td></tr> <tr><td><strong>WR</strong></td><td>10.5</td><td>➡️</td><td>12.4</td></tr> </tbody></table> <p><br/></p> <h4 id="recent-performance">Recent Performance</h4> <pre><code class="language-echarts">{
   "title": {
     "text": "Scoring Trends",
     "left": "center",
@@ -772,637 +1498,7 @@
     "bottom": "10%"
   }
 }
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="cooper-rush-qb">Cooper Rush (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Rush drew his second straight start in the absence of Lamar Jackson (hamstring). He ran a decent first possession that resulted in a field goal, completing both of his passes for 12 yards while also scrambling for seven. However, he was intercepted on Baltimore’s following drive and the team had several additional miscues before Rush was finally pulled after losing a fumble deep in Rams territory late in the third quarter. Jackson is expected back in Week 8 following Baltimore’s bye, and Rush could be in danger of being demoted to the third-string quarterback.</p> <h4 id="dj-moore-wr">DJ Moore (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The injury didn’t cost Moore any extensive playing time Monday, with the wideout finishing the contest with three catches for 42 yards on five targets to go with two carries for 10 yards. The 28-year-old was nonetheless admitted to a local hospital after the game due to the injury, though he was held overnight merely for precautionary purposes. Johnson said that the Bears will continue to monitor Moore’s status, but for now, the receiver still looks to have a chance at playing in Week 7 against the Saints.</p> <h4 id="roschon-johnson-rb">Roschon Johnson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Though Johnson has now suited up four games this season, Monday marked the first time that he’s touched the ball in 2025. His role is expected to be contained mostly to special teams while rookie Kyle Monangai serves as the Bears’ No. 2 running back behind D’Andre Swift.</p> <h4 id="tee-higgins-wr">Tee Higgins (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> This was far from a standout performance from Higgins, but it did represent his highest reception and yardage totals of the season. He narrowly missed out on a more impressive fantasy showing, as he was dragged down at Green Bay’s one-yard line on a 13-yard reception midway through the third quarter. Higgins was evaluated for a concussion due to the tackle on that same play but was cleared to return without missing a full possession. The Cincinnati offense is still likely to be inconsistent, but Joe Flacco prioritized getting the ball to Higgins and Ja’Marr Chase in his Bengals debut, which has improved the outlook for the star pass catchers.</p> <h4 id="joe-flacco-qb">Joe Flacco (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Flacco had a quick turnaround after being traded to Cincinnati on Tuesday. Given that and a tough road matchup, he performed relatively well. He led three scoring drives in the second half, highlighted by a two-yard touchdown pass to Tanner Hudson and a 19-yard scoring toss to Ja’Marr Chase. This marked Flacco’s first multi-touchdown performance across five starts in 2025, and he should be able to put up respectable numbers with the help of Chase and Tee Higgins.</p> <h4 id="jerome-ford-rb">Jerome Ford (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ford was on the field for 33 offensive snaps – the most since Week 2 – and had seven touches for the second straight week. His playing time has increased the last two games, which is tied to the quarterback change from Joe Flacco to rookie Dillon Gabriel. Ford leads the running back room with 21 targets through six games and could see an uptick in usage as a runner going forward, as the organization seeks to protect the one hopeful thing it has on offense, rookie running back Quinshon Judkins.</p> <h4 id="christian-kirk-wr">Christian Kirk (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Kirk had his best day as a Texan due primarily to a 47-yard catch to start the fourth quarter, narrowly missing a touchdown while being taken down at the three-yard line. Houston has spread its targets relatively evenly between several different pass catchers early this season, leaving Kirk with only four targets in consecutive games. That limited volume will hurt his fantasy outlook, though Sunday’s big play was encouraging.</p> <h4 id="jj-mccarthy-qb">J.J. McCarthy (QB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> While head coach Kevin O’Connell has not named a starting quarterback for Sunday’s game against the Eagles, he previously said McCarthy would need a full week of practice in order to gain clearance to play. Meanwhile Carson Wentz was also able to practice Monday, despite nursing a sore non-throwing shoulder. If McCarthy is able to practice without major limitations all week, he could return to the starting job.</p> <h4 id="juwan-johnson-te">Juwan Johnson (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Johnson suited up after dealing with an ankle issue during practice for the second week in a row. The 29-year-old also logged exactly two catches for the second straight contest, as he recorded season lows in targets and receiving yards. The lowlight of Johnson’s performance came on his second catch when he coughed up a fumble in the fourth quarter. Johnson went from averaging 9.7 targets per game over the first three weeks to averaging 3.0 over the last three weeks. This downturn in opportunities has coincided with the overall decrease in passing attempts for the Saints across the last three games, so it appears his dropoff in production may continue so long as the New Orleans offense eases its reliance on Spencer Rattler’s arm. Johnson will look to grab more passes during the Week 7 contest versus Chicago on Sunday, Sept. 19.</p> <h4 id="breece-hall-rb">Breece Hall (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Hall’s workload was his largest of the season yet, as the Broncos and Jets engaged in a slugfest where pass protection was at a premium for Justin Fields, who was sacked nine times. Turning to Hall didn’t yield particularly encouraging dividends for New York, however, as Denver’s talented defense held the running back to a long run of eight yards. Hall had come in on an encouraging two-game stretch where he’d amassed 194 yards on 28 carries against the suspect defenses of the Dolphins and Cowboys, but the notable increase in the caliber of competition Sunday served to neutralize him. Hall and the Jets get an easier assignment in their return stateside, as the Panthers will pay a visit to MetLife Stadium next Sunday for a Week 7 interconference clash.</p> <h4 id="dallas-goedert-te">Dallas Goedert (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Goedert led the Eagles across the board in receptions, receiving yards and targets with those marks, and his game-best 36-yard catch also qualified as a season-high figure. The veteran tight end has scored all five of his touchdowns this season over the last four games, and that tally ties a career best for Goedert, who also recorded the same number of trips to the end zone in 2019. With 20 targets in his last two games alone, Goedert will remain a highly viable option in all formats during a Week 7 road matchup against the Vikings on Sunday, Oct. 19.</p> <h4 id="kendrick-bourne-wr">Kendrick Bourne (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Fresh off posting a career-best 142 receiving yards against the Rams in Week 5, Bourne likely made his managers double take at the box score after hitting that same mark in consecutive contests. The 29-year-old has shown great chemistry with old teammate Mac Jones, as the former Patriots continue to post video-game numbers filling in for injured 49ers starters in 2025. Bourne continued starting in place of Ricky Pearsall (knee) while Jauan Jennings (ribs) returned in a limited capacity but revealed that he was playing with five broken ribs after the contest. If Pearsall is forced to miss a third consecutive game in Week 7, then Bourne’s stock would remain elevated for next Sunday’s tilt against the Falcons.</p> <h4 id="zach-charbonnet-rb">Zach Charbonnet (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> As made clear by his rushing line, Charbonnet found virtually no running room against a talented Jaguars front seven, and he actually gained 10 fewer rushing yards on two more carries than backfield mate Kenneth Walker. Sunday marked Charbonnet’s fourth game with a sub-4.0-yards-per-carry figure this season, so outside of his occasional rushing touchdowns, the third-year back’s fantasy outlook remains stagnant heading into a tough Week 7 home matchup against the Texans on Monday night, Oct. 20.</p> <h4 id="kenneth-walker-iii-rb">Kenneth Walker III (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Walker logged two fewer carries than Zach Charbonnet, but he outgained his teammate by 10 rushing yards, as neither back was particularly efficient during the defense-centric battle. The fourth-year pro’s yardage total represented quite the downturn after he’d topped the 80-yard mark in each of the previous two games, and Charbonnet’s workload is somewhat of a concern for the moment for Walker’s fantasy managers. It remains to be seen if a similar timeshare will apply moving forward, but neither player has a particularly bright outlook for a Week 7 home matchup against a tough Texans defense on Monday night, Oct. 20.</p> <h4 id="terry-mclaurin-wr">Terry McLaurin (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> questionable</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_BTE_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_BTE_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 80.10<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_BTE_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Week 6 League Recap</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6_Recap/" rel="alternate" type="text/html" title="Week 6 League Recap"/><published>2025-10-15T00:43:47+00:00</published><updated>2025-10-15T00:43:47+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6_Recap</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6_Recap/"><![CDATA[<h3 id="weekly-matchups">Weekly Matchups</h3> <h4 id="90s-moncon--emmas-excellent-team">90s MonCon @ Emma’s Excellent Team</h4> <p><strong>Final Score:</strong> 90s MonCon 67.71 - 89.62 Emma’s Excellent Team<br/> <strong>Best Performance:</strong> Drake London (Emma’s Excellent Team) - 26.80 pts<br/></p> <h4 id="rookie-mistake--michaels-managable-team">Rookie Mistake @ Michael’s Managable Team</h4> <p><strong>Final Score:</strong> Rookie Mistake 115.52 - 132.15 Michael’s Managable Team<br/> <strong>Best Performance:</strong> Drake Maye (Michael’s Managable Team) - 34.24 pts<br/></p> <h4 id="third-times-the-charm--mama-daughter-duo">Third Time’s the Charm? @ Mama Daughter Duo</h4> <p><strong>Final Score:</strong> Third Time’s the Charm? 165.67 - 152.00 Mama Daughter Duo<br/> <strong>Best Performance:</strong> Patrick Mahomes (Third Time’s the Charm?) - 40.48 pts<br/></p> <h4 id="game-of-zones---house-hamlin--americas-team">Game of Zones - House Hamlin @ Americas Team</h4> <p><strong>Final Score:</strong> Game of Zones - House Hamlin 101.21 - 124.74 Americas Team <br/> <strong>Best Performance:</strong> Jaxon Smith-Njigba (Americas Team ) - 26.20 pts<br/></p> <h4 id="mcconky-donkeys--big-titi-energy">Mcconky Donkeys @ Big Titi Energy</h4> <p><strong>Final Score:</strong> Mcconky Donkeys 153.43 - 87.79 Big Titi Energy<br/> <strong>Best Performance:</strong> Jayden Daniels (Mcconky Donkeys) - 30.14 pts<br/></p> <h4 id="abbeys-tnt-team---to-infinity-and-bijan">Abbey’s TNT Team @ To Infinity and Bijan!</h4> <p><strong>Final Score:</strong> Abbey’s TNT Team 97.27 - 65.20 To Infinity and Bijan!<br/> <strong>Best Performance:</strong> Bijan Robinson (Abbey’s TNT Team ) - 32.80 pts<br/> <br/></p> <h3 id="league-info">League Info</h3> <p><strong>Total Points Scored:</strong> 1352.31 <br/> <strong>Avg. Points Scored:</strong> 112.69<br/> <strong>Biggest Overachiever:</strong> Third Time’s the Charm? exceeded projections by 38.07 points<br/> <strong>Biggest Underachiever:</strong> 90s MonCon fell short of projections by -54.19 points</p> <h3 id="season-highs-set-this-week">Season Highs Set This Week</h3> <p><strong>Lowest Score This Season</strong>: To Infinity and Bijan! scored only 65.20 points <em>(Previous: 67.94)</em> <br/></p> <h3 id="dream-team-of-the-week">Dream Team of the Week</h3> <p>If we could pick any players across all teams this week:</p> <table class="table table-sm"> <thead><tr> <th>Position</th><th>Player</th><th>Team</th><th>Points</th> </tr></thead><tbody> <tr><td><strong>QB</strong></td><td>Patrick Mahomes</td><td>Third Time's the Charm?</td><td>40.48</td></tr> <tr><td><strong>RB</strong></td><td>Bijan Robinson</td><td>Abbey's TNT Team </td><td>32.80</td></tr> <tr><td><strong>RB</strong></td><td>Rico Dowdle</td><td>Third Time's the Charm?</td><td>31.90</td></tr> <tr><td><strong>WR</strong></td><td>George Pickens</td><td>Michael's Managable Team</td><td>27.30</td></tr> <tr><td><strong>WR</strong></td><td>Drake London</td><td>Emma's Excellent Team</td><td>26.80</td></tr> <tr><td><strong>TE</strong></td><td>Dallas Goedert</td><td>Big Titi Energy</td><td>23.75</td></tr> <tr><td><strong>WR</strong></td><td>Jaxon Smith-Njigba</td><td>Americas Team </td><td>26.20</td></tr> <tr><td><strong>RB</strong></td><td>D'Andre Swift</td><td>Mama Daughter Duo</td><td>24.50</td></tr> <tr><td><strong>QB</strong></td><td>Drake Maye</td><td>Michael's Managable Team</td><td>34.24</td></tr> </tbody></table> <p><strong>Total Points</strong>: 267.97<br/></p> <h2 id="current-standings">Current Standings</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/standings/Week_6_2025_standings.json"> <thead> <tr> <th data-field="rank" data-halign="center" data-align="center" data-sortable="true">Rank</th> <th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th> <th data-field="record" data-halign="center" data-align="center" data-sortable="true" data-sort-name="record_sort">Record</th> <th data-field="record_sort" data-sortable="true" data-visible="false">Record Sort</th> <th data-field="points_for" data-halign="center" data-align="center" data-sortable="true">Points For</th> <th data-field="playoff_odds" data-halign="center" data-align="center" data-sortable="true">Playoff Odds</th> </tr> </thead> </table> <p><br/></p> <h2 id="standings-movement">Standings Movement</h2> <pre><code class="language-echarts">{
-  "title": {
-    "text": "Standings Change: Week 5 to Week 6",
-    "left": "center"
-  },
-  "tooltip": {
-    "trigger": "item",
-    "formatter": "{a}&lt;br/&gt;Week {b}: Rank {c}"
-  },
-  "legend": {
-    "orient": "vertical",
-    "right": 0,
-    "top": "middle",
-    "data": [
-      "90s MonCon",
-      "Abbey's TNT Team ",
-      "Americas Team ",
-      "Big Titi Energy",
-      "Emma's Excellent Team",
-      "Game of Zones - House Hamlin",
-      "Mama Daughter Duo",
-      "Mcconky Donkeys",
-      "Michael's Managable Team",
-      "Rookie Mistake",
-      "Third Time's the Charm?",
-      "To Infinity and Bijan!"
-    ]
-  },
-  "xAxis": {
-    "type": "category",
-    "name": "Week",
-    "nameLocation": "middle",
-    "nameGap": 30,
-    "data": [
-      5,
-      6
-    ]
-  },
-  "yAxis": {
-    "type": "value",
-    "name": "Rank",
-    "nameLocation": "middle",
-    "nameGap": 20,
-    "inverse": true,
-    "min": 1,
-    "max": 12
-  },
-  "series": [
-    {
-      "name": "90s MonCon",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#aec7e8"
-      },
-      "itemStyle": {
-        "color": "#aec7e8"
-      },
-      "data": [
-        3,
-        7
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Abbey's TNT Team ",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#f7b6d2"
-      },
-      "itemStyle": {
-        "color": "#f7b6d2"
-      },
-      "data": [
-        5,
-        4
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Americas Team ",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#98df8a"
-      },
-      "itemStyle": {
-        "color": "#98df8a"
-      },
-      "data": [
-        8,
-        6
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Big Titi Energy",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#17becf"
-      },
-      "itemStyle": {
-        "color": "#17becf"
-      },
-      "data": [
-        11,
-        12
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Emma's Excellent Team",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#bcbd22"
-      },
-      "itemStyle": {
-        "color": "#bcbd22"
-      },
-      "data": [
-        12,
-        11
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Game of Zones - House Hamlin",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#c7c7c7"
-      },
-      "itemStyle": {
-        "color": "#c7c7c7"
-      },
-      "data": [
-        1,
-        3
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Mama Daughter Duo",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#c49c94"
-      },
-      "itemStyle": {
-        "color": "#c49c94"
-      },
-      "data": [
-        9,
-        9
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Mcconky Donkeys",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#8c564b"
-      },
-      "itemStyle": {
-        "color": "#8c564b"
-      },
-      "data": [
-        7,
-        5
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Michael's Managable Team",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#d62728"
-      },
-      "itemStyle": {
-        "color": "#d62728"
-      },
-      "data": [
-        4,
-        2
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Rookie Mistake",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#ffbb78"
-      },
-      "itemStyle": {
-        "color": "#ffbb78"
-      },
-      "data": [
-        6,
-        8
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "Third Time's the Charm?",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#1f77b4"
-      },
-      "itemStyle": {
-        "color": "#1f77b4"
-      },
-      "data": [
-        2,
-        1
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    },
-    {
-      "name": "To Infinity and Bijan!",
-      "type": "line",
-      "smooth": true,
-      "lineStyle": {
-        "width": 3,
-        "color": "#9467bd"
-      },
-      "itemStyle": {
-        "color": "#9467bd"
-      },
-      "data": [
-        10,
-        10
-      ],
-      "symbol": "circle",
-      "symbolSize": 12,
-      "label": {
-        "show": false
-      }
-    }
-  ],
-  "grid": {
-    "left": "5%",
-    "right": "20%",
-    "bottom": "10%",
-    "top": "15%",
-    "containLabel": true
-  }
-}
-</code></pre> <p><br/></p> <h2 id="positional-scoring-this-week">Positional Scoring This Week</h2> <pre><code class="language-echarts">{
-    "grid": {
-        "top": "10%",
-        "bottom": "15%",
-        "left": "5%",
-        "right": "0%",
-        "containLabel": true
-    },
-    "xAxis": {
-        "type": "category",
-        "data": [
-            "QB",
-            "RB",
-            "TE",
-            "WR"
-        ],
-        "name": "Position",
-        "nameLocation": "center",
-        "nameTextStyle": {
-            "fontSize": 16
-        },
-        "axisLabel": {
-            "fontSize": 14
-        }
-    },
-    "yAxis": {
-        "type": "category",
-        "data": [
-            "TTC",
-            "90s",
-            "TOM",
-            "RRT",
-            "MMT",
-            "TIB",
-            "KTT",
-            "JST",
-            "ARV",
-            "HMB",
-            "EET",
-            "BTE"
-        ],
-        "name": "",
-        "nameLocation": "end",
-        "nameTextStyle": {
-            "fontSize": 16
-        },
-        "axisLabel": {
-            "fontSize": 14
-        }
-    },
-    "visualMap": {
-        "min": 1,
-        "max": 12,
-        "calculable": true,
-        "orient": "vertical",
-        "show": false,
-        "right": "right",
-        "bottom": "30%",
-        "text": [],
-        "inRange": {
-            "color": [
-                "#4575b4",
-                "#91bfdb",
-                "#fee090",
-                "#fc8d59",
-                "#d73027"
-            ]
-        }
-    },
-    "series": [
-        {
-            "type": "heatmap",
-            "data": [
-                [
-                    0,
-                    0,
-                    1
-                ],
-                [
-                    1,
-                    0,
-                    1
-                ],
-                [
-                    2,
-                    0,
-                    12
-                ],
-                [
-                    3,
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    1,
-                    7
-                ],
-                [
-                    1,
-                    1,
-                    2
-                ],
-                [
-                    2,
-                    1,
-                    11
-                ],
-                [
-                    3,
-                    1,
-                    11
-                ],
-                [
-                    0,
-                    2,
-                    3
-                ],
-                [
-                    1,
-                    2,
-                    4
-                ],
-                [
-                    2,
-                    2,
-                    10
-                ],
-                [
-                    3,
-                    2,
-                    12
-                ],
-                [
-                    0,
-                    3,
-                    4
-                ],
-                [
-                    1,
-                    3,
-                    11
-                ],
-                [
-                    2,
-                    3,
-                    3
-                ],
-                [
-                    3,
-                    3,
-                    4
-                ],
-                [
-                    0,
-                    4,
-                    2
-                ],
-                [
-                    1,
-                    4,
-                    12
-                ],
-                [
-                    2,
-                    4,
-                    2
-                ],
-                [
-                    3,
-                    4,
-                    3
-                ],
-                [
-                    0,
-                    5,
-                    10
-                ],
-                [
-                    1,
-                    5,
-                    10
-                ],
-                [
-                    2,
-                    5,
-                    6
-                ],
-                [
-                    3,
-                    5,
-                    9
-                ],
-                [
-                    0,
-                    6,
-                    6
-                ],
-                [
-                    1,
-                    6,
-                    9
-                ],
-                [
-                    2,
-                    6,
-                    9
-                ],
-                [
-                    3,
-                    6,
-                    2
-                ],
-                [
-                    0,
-                    7,
-                    5
-                ],
-                [
-                    1,
-                    7,
-                    6
-                ],
-                [
-                    2,
-                    7,
-                    7
-                ],
-                [
-                    3,
-                    7,
-                    1
-                ],
-                [
-                    0,
-                    8,
-                    8
-                ],
-                [
-                    1,
-                    8,
-                    3
-                ],
-                [
-                    2,
-                    8,
-                    8
-                ],
-                [
-                    3,
-                    8,
-                    6
-                ],
-                [
-                    0,
-                    9,
-                    9
-                ],
-                [
-                    1,
-                    9,
-                    5
-                ],
-                [
-                    2,
-                    9,
-                    5
-                ],
-                [
-                    3,
-                    9,
-                    8
-                ],
-                [
-                    0,
-                    10,
-                    11
-                ],
-                [
-                    1,
-                    10,
-                    7
-                ],
-                [
-                    2,
-                    10,
-                    4
-                ],
-                [
-                    3,
-                    10,
-                    7
-                ],
-                [
-                    0,
-                    11,
-                    12
-                ],
-                [
-                    1,
-                    11,
-                    8
-                ],
-                [
-                    2,
-                    11,
-                    1
-                ],
-                [
-                    3,
-                    11,
-                    5
-                ]
-            ],
-            "label": {
-                "show": true,
-                "fontSize": 12
-            }
-        }
-    ]
-}
-</code></pre> <h2 id="week-7-preview">Week 7 Preview:</h2> <h4 id="emmas-excellent-team--michaels-managable-team">Emma’s Excellent Team @ Michael’s Managable Team</h4> <p><strong>Projected Score:</strong> Emma’s Excellent Team 96.41 - 128.30 Michael’s Managable Team<br/></p> <h4 id="mama-daughter-duo--90s-moncon">Mama Daughter Duo @ 90s MonCon</h4> <p><strong>Projected Score:</strong> Mama Daughter Duo 141.29 - 138.04 90s MonCon<br/></p> <h4 id="americas-team---rookie-mistake">Americas Team @ Rookie Mistake</h4> <p><strong>Projected Score:</strong> Americas Team 124.65 - 93.94 Rookie Mistake<br/></p> <h4 id="big-titi-energy--third-times-the-charm">Big Titi Energy @ Third Time’s the Charm?</h4> <p><strong>Projected Score:</strong> Big Titi Energy 80.09 - 137.24 Third Time’s the Charm?<br/></p> <h4 id="to-infinity-and-bijan--game-of-zones---house-hamlin">To Infinity and Bijan! @ Game of Zones - House Hamlin</h4> <p><strong>Projected Score:</strong> To Infinity and Bijan! 127.26 - 89.60 Game of Zones - House Hamlin<br/></p> <h4 id="abbeys-tnt-team---mcconky-donkeys">Abbey’s TNT Team @ Mcconky Donkeys</h4> <p><strong>Projected Score:</strong> Abbey’s TNT Team 104.64 - 137.37 Mcconky Donkeys<br/></p>]]></content><author><name></name></author><category term="league-recaps"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[Weekly league recap and standings]]></summary></entry><entry><title type="html">Emma’s Excellent Team Week 6 Report</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6-EET/" rel="alternate" type="text/html" title="Emma’s Excellent Team Week 6 Report"/><published>2025-10-15T00:43:46+00:00</published><updated>2025-10-15T00:43:46+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6-EET</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6-EET/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Emma’s Excellent Team Won against 90s MonCon 89.62-67.71<br/> Current Standing: #11<br/> Playoff Chances: 2.2%<br/> Lineup Efficiency: 83.2%<br/> Best Performer: Drake London (26.80 pts)<br/></p> <pre><code class="language-echarts">{
+</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="cooper-rush-qb">Cooper Rush (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Rush drew his second straight start in the absence of Lamar Jackson (hamstring). He ran a decent first possession that resulted in a field goal, completing both of his passes for 12 yards while also scrambling for seven. However, he was intercepted on Baltimore’s following drive and the team had several additional miscues before Rush was finally pulled after losing a fumble deep in Rams territory late in the third quarter. Jackson is expected back in Week 8 following Baltimore’s bye, and Rush could be in danger of being demoted to the third-string quarterback.</p> <h4 id="dj-moore-wr">DJ Moore (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The injury didn’t cost Moore any extensive playing time Monday, with the wideout finishing the contest with three catches for 42 yards on five targets to go with two carries for 10 yards. The 28-year-old was nonetheless admitted to a local hospital after the game due to the injury, though he was held overnight merely for precautionary purposes. Johnson said that the Bears will continue to monitor Moore’s status, but for now, the receiver still looks to have a chance at playing in Week 7 against the Saints.</p> <h4 id="roschon-johnson-rb">Roschon Johnson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Though Johnson has now suited up four games this season, Monday marked the first time that he’s touched the ball in 2025. His role is expected to be contained mostly to special teams while rookie Kyle Monangai serves as the Bears’ No. 2 running back behind D’Andre Swift.</p> <h4 id="tee-higgins-wr">Tee Higgins (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> This was far from a standout performance from Higgins, but it did represent his highest reception and yardage totals of the season. He narrowly missed out on a more impressive fantasy showing, as he was dragged down at Green Bay’s one-yard line on a 13-yard reception midway through the third quarter. Higgins was evaluated for a concussion due to the tackle on that same play but was cleared to return without missing a full possession. The Cincinnati offense is still likely to be inconsistent, but Joe Flacco prioritized getting the ball to Higgins and Ja’Marr Chase in his Bengals debut, which has improved the outlook for the star pass catchers.</p> <h4 id="joe-flacco-qb">Joe Flacco (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Flacco had a quick turnaround after being traded to Cincinnati on Tuesday. Given that and a tough road matchup, he performed relatively well. He led three scoring drives in the second half, highlighted by a two-yard touchdown pass to Tanner Hudson and a 19-yard scoring toss to Ja’Marr Chase. This marked Flacco’s first multi-touchdown performance across five starts in 2025, and he should be able to put up respectable numbers with the help of Chase and Tee Higgins.</p> <h4 id="jerome-ford-rb">Jerome Ford (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ford was on the field for 33 offensive snaps – the most since Week 2 – and had seven touches for the second straight week. His playing time has increased the last two games, which is tied to the quarterback change from Joe Flacco to rookie Dillon Gabriel. Ford leads the running back room with 21 targets through six games and could see an uptick in usage as a runner going forward, as the organization seeks to protect the one hopeful thing it has on offense, rookie running back Quinshon Judkins.</p> <h4 id="christian-kirk-wr">Christian Kirk (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Kirk had his best day as a Texan due primarily to a 47-yard catch to start the fourth quarter, narrowly missing a touchdown while being taken down at the three-yard line. Houston has spread its targets relatively evenly between several different pass catchers early this season, leaving Kirk with only four targets in consecutive games. That limited volume will hurt his fantasy outlook, though Sunday’s big play was encouraging.</p> <h4 id="jj-mccarthy-qb">J.J. McCarthy (QB)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> While head coach Kevin O’Connell has not named a starting quarterback for Sunday’s game against the Eagles, he previously said McCarthy would need a full week of practice in order to gain clearance to play. Meanwhile Carson Wentz was also able to practice Monday, despite nursing a sore non-throwing shoulder. If McCarthy is able to practice without major limitations all week, he could return to the starting job.</p> <h4 id="juwan-johnson-te">Juwan Johnson (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Johnson suited up after dealing with an ankle issue during practice for the second week in a row. The 29-year-old also logged exactly two catches for the second straight contest, as he recorded season lows in targets and receiving yards. The lowlight of Johnson’s performance came on his second catch when he coughed up a fumble in the fourth quarter. Johnson went from averaging 9.7 targets per game over the first three weeks to averaging 3.0 over the last three weeks. This downturn in opportunities has coincided with the overall decrease in passing attempts for the Saints across the last three games, so it appears his dropoff in production may continue so long as the New Orleans offense eases its reliance on Spencer Rattler’s arm. Johnson will look to grab more passes during the Week 7 contest versus Chicago on Sunday, Sept. 19.</p> <h4 id="breece-hall-rb">Breece Hall (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Hall’s workload was his largest of the season yet, as the Broncos and Jets engaged in a slugfest where pass protection was at a premium for Justin Fields, who was sacked nine times. Turning to Hall didn’t yield particularly encouraging dividends for New York, however, as Denver’s talented defense held the running back to a long run of eight yards. Hall had come in on an encouraging two-game stretch where he’d amassed 194 yards on 28 carries against the suspect defenses of the Dolphins and Cowboys, but the notable increase in the caliber of competition Sunday served to neutralize him. Hall and the Jets get an easier assignment in their return stateside, as the Panthers will pay a visit to MetLife Stadium next Sunday for a Week 7 interconference clash.</p> <h4 id="dallas-goedert-te">Dallas Goedert (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Goedert led the Eagles across the board in receptions, receiving yards and targets with those marks, and his game-best 36-yard catch also qualified as a season-high figure. The veteran tight end has scored all five of his touchdowns this season over the last four games, and that tally ties a career best for Goedert, who also recorded the same number of trips to the end zone in 2019. With 20 targets in his last two games alone, Goedert will remain a highly viable option in all formats during a Week 7 road matchup against the Vikings on Sunday, Oct. 19.</p> <h4 id="kendrick-bourne-wr">Kendrick Bourne (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Fresh off posting a career-best 142 receiving yards against the Rams in Week 5, Bourne likely made his managers double take at the box score after hitting that same mark in consecutive contests. The 29-year-old has shown great chemistry with old teammate Mac Jones, as the former Patriots continue to post video-game numbers filling in for injured 49ers starters in 2025. Bourne continued starting in place of Ricky Pearsall (knee) while Jauan Jennings (ribs) returned in a limited capacity but revealed that he was playing with five broken ribs after the contest. If Pearsall is forced to miss a third consecutive game in Week 7, then Bourne’s stock would remain elevated for next Sunday’s tilt against the Falcons.</p> <h4 id="zach-charbonnet-rb">Zach Charbonnet (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> As made clear by his rushing line, Charbonnet found virtually no running room against a talented Jaguars front seven, and he actually gained 10 fewer rushing yards on two more carries than backfield mate Kenneth Walker. Sunday marked Charbonnet’s fourth game with a sub-4.0-yards-per-carry figure this season, so outside of his occasional rushing touchdowns, the third-year back’s fantasy outlook remains stagnant heading into a tough Week 7 home matchup against the Texans on Monday night, Oct. 20.</p> <h4 id="kenneth-walker-iii-rb">Kenneth Walker III (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Walker logged two fewer carries than Zach Charbonnet, but he outgained his teammate by 10 rushing yards, as neither back was particularly efficient during the defense-centric battle. The fourth-year pro’s yardage total represented quite the downturn after he’d topped the 80-yard mark in each of the previous two games, and Charbonnet’s workload is somewhat of a concern for the moment for Walker’s fantasy managers. It remains to be seen if a similar timeshare will apply moving forward, but neither player has a particularly bright outlook for a Week 7 home matchup against a tough Texans defense on Monday night, Oct. 20.</p> <h4 id="terry-mclaurin-wr">Terry McLaurin (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> questionable</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_BTE_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_BTE_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 80.10<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_BTE_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Emma’s Excellent Team Week 6 Report</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6-EET/" rel="alternate" type="text/html" title="Emma’s Excellent Team Week 6 Report"/><published>2025-10-15T00:43:46+00:00</published><updated>2025-10-15T00:43:46+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6-EET</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6-EET/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Emma’s Excellent Team Won against 90s MonCon 89.62-67.71<br/> Current Standing: #11<br/> Playoff Chances: 2.2%<br/> Lineup Efficiency: 83.2%<br/> Best Performer: Drake London (26.80 pts)<br/></p> <pre><code class="language-echarts">{
     "tooltip": {
         "trigger": "item",
         "formatter": "{a} &lt;br/&gt;{b}: {d}%"
@@ -1882,196 +1978,4 @@
     "bottom": "10%"
   }
 }
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="marvin-harrison-jr-wr">Marvin Harrison Jr. (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> questionable</p> <h4 id="james-cook-iii-rb">James Cook III (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Cook enjoyed a solid night on the ground despite game script working against the run as the game unfolded, bouncing back nicely from a 49-yard showing in the Week 5 loss to the Patriots. However, he failed to draw a target for the first time this season after not hauling in the one pass thrown his way Week 5, a relatively rare slump for him as a pass catcher. Cook’s fantasy value remains significantly elevated in all formats, however, and he draws a favorable matchup on the road against the Panthers on Sunday, Oct. 26 following Buffalo’s Week 7 bye.</p> <h4 id="jk-dobbins-rb">J.K. Dobbins (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Denver’s entire backfield struggled to find running lanes Sunday, with no tailbacks finishing with a per-carry average higher than 3.0 yards in the win. Dobbins still comfortably led the Broncos with 14 rushing attempts, 12 more than rookie backup RJ Harvey. This was easily Dobbins’ worst fantasy score of the season after providing managers with five weeks of consistent RB2 production. The veteran starter has an excellent opportunity to get back on track in Week 7 against the Giants, who currently are surrendering 128.8 rushing yards per game thus far this season.</p> <h4 id="jared-goff-qb">Jared Goff (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Goff had an interesting start to the game, as he had a touchdown catch nullified by a penalty on Detroit’s opening possession. He was out-dueled by Patrick Mahomes from there, but he still turned in a decent performance, highlighted by three completions at least 20 yards – including a 22-yard touchdown connection with Jameson Williams. Goff now has multiple scores in each of his last three games.</p> <h4 id="romeo-doubs-wr">Romeo Doubs (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Doubs was Jordan Love’s top target in Sunday’s win, leading the team in targets. He converted that into his third performance of 50 or more receiving yards this season, thanks to long gains of 21 and 15 yards. Doubs isn’t likely to turn in huge fantasy performances often thanks to the emergence of Matthew Golden and Tucker Kraft, but it’s clear he has rapport and the trust of Love, which should be enough to keep Doubs involved in the offense.</p> <h4 id="matthew-golden-wr">Matthew Golden (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Golden continues to get more involved in the Green Bay offense, as he’s now earned at least five targets in each of his last three games. He was impressive with the opportunity, ripping off long gains of 35 and 31 yards, the latter of which all but clinched a win for the Packers. Golden topped 100 yards from scrimmage for the first time in his career while showcasing his ability to work deep down the field and also pick up yards after the catch. He appears to be earning trust from coaches and Jordan Love, which should lead to more consistent usage as the season progresses.</p> <h4 id="tyler-warren-te">Tyler Warren (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Warren tied Josh Downs for the team lead in receptions and led the way in both receiving yards and targets on an afternoon where he also recorded his second touchdown grab of the season. Warren found the end zone from eight yards out to cap off the opening possession of the game, and he tallied his fifth catch of 20-plus yards this season earlier in the drive with a 23-yard reception. The rookie tight end will continue to serve as a focal point of the offense during a Week 7 marquee road matchup against the Chargers.</p> <h4 id="travis-hunter-wr">Travis Hunter (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> After consecutive encouraging performances during which Hunter generated a combined 6-106-0 receiving line on eight targets, the rookie second overall pick was back to a very modest, low-upside role Sunday. All but one yard of Hunter’s tally came on one catch, underscoring how he didn’t have any sort of downfield profile. Although he developed a well-earned college reputation for being an explosive player who can offer plenty at deeper depths of target than what he’s been seeing, Hunter is surprisingly stuck in a limited role despite head coach Liam Coen’s typically creative offensive designs.</p> <h4 id="ashton-jeanty-rb">Ashton Jeanty (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Jeanty ground out a solid fantasy day by scoring his third rushing touchdown of the year on a season-high 23 carries. Veteran backup Raheem Mostert (five carries) was the only other rusher to record a touch in the win, highlighting Jeanty’s stranglehold on the every-down role out of Las Vegas’ backfield. The sixth overall pick from this year’s draft has generated 497 combined yards from scrimmage with five total touchdowns through six starts in 2025. Jeanty’s offensive involvement has increased with an average of 22.3 touches over the Raiders’ last three contests. Fantasy managers can start the Boise State product with confidence for next Sunday’s road tilt against the Chiefs.</p> <h4 id="omarion-hampton-rb">Omarion Hampton (RB)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Chargers head coach Jim Harbaugh didn’t provide many details about the injury Hampton sustained in the Week 5 loss to the Commanders, but the fact that the promising rookie is expected to need more than four weeks to make a full recovery points to him likely nursing a high-ankle sprain. A target date for Hampton’s return has yet to be established, but because the Chargers have a bye coming up in Week 12, the team could be motivated to hold him out through that period to give him ample time to heal. Garafolo notes that Hassan Haskins is likely to serve as the Chargers’ lead back Sunday in Miami while practice-squad signee Kimani Vidal also sees work, but Los Angeles is also expected to be in the market for a running back ahead of the Nov. 4 trade deadline to compensate for the long-term injuries to Hampton and Najee Harris (Achilles).</p> <h4 id="ollie-gordon-ii-rb">Ollie Gordon II (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Gordon once again struggled to display efficiency while operating as the Dolphins’ top reserve backfield option, while starter De’Von Achane gashed Los Angeles with 16 carries for 128 rushing yards (8.0 YPC) and two scores, adding four grabs for 22 yards in the receiving game (six targets). At this stage, Gordon retains fantasy value purely as a handcuff in deeper formats, as his availability has rendered Jaylen Wright a healthy scratch. The rookie sixth-round pick faces a rough matchup on the road against Cleveland in Week 7.</p> <h4 id="jaxson-dart-qb">Jaxson Dart (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Dart recorded the first signature win of his nascent career with a standout, mistake-free performance. The dynamic rookie got off to a blistering start by helping lead two first-quarter touchdown drives, possessions he capped off with a 20-yard scoring run and a 35-yard strike to Wan’Dale Robinson. Dart went on to lead three more scoring drives in the upset, and he navigated a brief third-quarter exit to be checked for a concussion to finish out the upset victory without incident. Dart has already shown considerable promise in his first three starts while recording a pair of victories in the process. but he’ll get quite the test in a Week 7 road matchup against the Broncos on Sunday, Oct. 19.</p> <h4 id="jake-tonges-te">Jake Tonges (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Tonges continued doing his best George Kittle (hamstring) impression in another effective spot-start Sunday. The 25-year-old Tonges has been a pleasant surprise in fantasy during his brief run as the starter, posting a 25-223-3 receiving line through six games. David Lombardi of SFStandard.com reported that Kittle could return from injured reserve in Week 7, which would effectively end Tonges’ run of utility. Managers should wait until Kittle is officially activated before making any rash decisions regarding Tonges in Week 7 and onward.</p> <h4 id="mac-jones-qb">Mac Jones (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Jones toughed out a pair of injuries and another week of limited practices in order to start for a shorthanded 49ers squad Sunday. The veteran backup was unable to earn his fourth win in as many appearances with San Francisco, but he did produce a season-high 347 passing yards for fantasy managers. The Alabama product is averaging a whopping 313.0 yards per game with a 2:1 TD:INT in place of starter Brock Purdy (toe/shoulder) this season. The latter’s status is currently unclear for Week 7, but Jones has certainly played well enough in Purdy’s stead to warrant fantasy consideration if he remains under center against the Falcons for Sunday Night Football.</p> <h4 id="chig-okonkwo-te">Chig Okonkwo (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Okonkwo’s six targets Sunday tied his previous season high, while the six grabs set a new high-water mark through six starts. Aside from a one-catch dud in Week 4, the veteran tight end has carved out a consistent role in the passing game. Okonkwo will carry a 23-218-0 receiving line into next Sunday’s tilt against the Patriots.</p> <h4 id="elic-ayomanor-wr">Elic Ayomanor (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ayomanor produced his third underwhelming performance in a row as the Titans returned to their losing ways in 2025. The lack of production from the rookie is especially concerning considering that No. 1 wideout Calvin Ridley (hamstring) left the contest early and did not return. Van Jefferson (4-75-0) wound up taking advantage instead and finished as Tennessee’s leading receiver. That said, if Ridley is forced to miss next Sunday’s tilt against the Patriots, Ayomanor may have a prime opportunity to return to the form that made him a hot pickup early in the campaign.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TOM_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TOM_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 93.93<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_TOM_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Abbey’s TNT Team Week 6 Report</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6-ARV/" rel="alternate" type="text/html" title="Abbey’s TNT Team Week 6 Report"/><published>2025-10-15T00:43:44+00:00</published><updated>2025-10-15T00:43:44+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6-ARV</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6-ARV/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Abbey’s TNT Team 🧨 Won against To Infinity and Bijan! 97.27-65.20<br/> Current Standing: #4<br/> Playoff Chances: 68.0%<br/> Lineup Efficiency: 93.7%<br/> Best Performer: Bijan Robinson (32.80 pts)<br/></p> <pre><code class="language-echarts">{
-    "tooltip": {
-        "trigger": "item",
-        "formatter": "{a} &lt;br/&gt;{b}: {d}%"
-    },
-    "legend": {
-        "orient": "vertical",
-        "left": "left",
-        "data": [
-            "QB",
-            "RB",
-            "WR",
-            "TE",
-            "D/ST",
-            "K"
-        ]
-    },
-    "series": [
-        {
-            "name": "Position Points",
-            "type": "pie",
-            "radius": [
-                "50%",
-                "70%"
-            ],
-            "avoidLabelOverlap": false,
-            "data": [
-                {
-                    "value": 27.0,
-                    "name": "QB"
-                },
-                {
-                    "value": 48.5,
-                    "name": "RB"
-                },
-                {
-                    "value": 12.9,
-                    "name": "WR"
-                },
-                {
-                    "value": 8.8,
-                    "name": "TE"
-                }
-            ]
-        }
-    ]
-}
-</code></pre> <h2 id="recent-performance">Recent Performance</h2> <pre><code class="language-echarts">{
-  "title": {
-    "text": "Recent Scoring Trend",
-    "left": "center",
-    "show": false
-  },
-  "tooltip": {
-    "trigger": "axis"
-  },
-  "xAxis": {
-    "type": "category",
-    "data": [
-      "Week 2",
-      "Week 3",
-      "Week 4",
-      "Week 5",
-      "Week 6"
-    ]
-  },
-  "yAxis": {
-    "type": "value",
-    "name": "Points"
-  },
-  "series": [
-    {
-      "name": "Points Scored",
-      "type": "line",
-      "data": [
-        113.1,
-        120.2,
-        157.6,
-        145.7,
-        97.3
-      ],
-      "smooth": true,
-      "itemStyle": {
-        "color": "#5470c6"
-      },
-      "areaStyle": {
-        "opacity": 0.3
-      }
-    }
-  ],
-  "grid": {
-    "left": "10%",
-    "right": "5%",
-    "bottom": "10%"
-  }
-}
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="bijan-robinson-rb">Bijan Robinson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Fresh off of recording a new career high in total yardage (181) in the Falcons’ last win, Robinson wasted no time setting a new high-water mark with 238 yards from scrimmage against the Bills. The majority of the fantasy star’s production came on the ground this time around, with Monday’s 170 rushing yards representing another career best. Robinson is providing a whopping 164.4 combined yards per game for his managers this season. To put that into perspective, the Texas product averaged 111.0 total yards per game over the course of his breakout fantasy campaign in 2024. Robinson’s domination of opposing defenses should continue Week 7 against a 49ers defense that will be without star players Fred Warner (ankle) and Nick Bosa (knee).</p> <h4 id="xavier-legette-wr">Xavier Legette (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Since returning from injury in Carolina’s Week 5 win over the Dolphins, Legette has been targeted just five times, catching four passes for 42 yards and a touchdown over the team’s last two games. He was outpaced by rookie wideouts Tetairoa McMillan (3-39-2) and Jimmy Horn (2-36-0), finishing sixth on the team in receiving yards during Sunday’s victory. Although the second-year pro continues to operate as the Panthers’ No. 2 wide receiver, his involvement has been limited, with most of the team’s offensive production coming from McMillan and Rico Dowdle. Legette draws another great matchup in Week 7 against a struggling Jets defense, but he’s still unlikely to make a meaningful fantasy impact.</p> <h4 id="colston-loveland-te">Colston Loveland (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Loveland has five receptions this season, and limited usage keeps him a watch-list tight end until his usage increases.</p> <h4 id="dylan-sampson-rb">Dylan Sampson (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Sampson had his highest usage since Week 1, including a turn as the primary kickoff returner. Once Quinshon Judkins was established as the lead back, Sampson’s role evaporated. He had just four touches over the last three weeks, while getting single-digit snaps in all three contests.</p> <h4 id="jaydon-blue-rb">Jaydon Blue (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> The rookie running back saw only five snaps (nine percent) on offense as Javonte Williams continues to dominate the workload in the Dallas backfield. Blue did gain 40 yards on two kickoff returns, but even that role will disappear once KaVontae Turpin (foot) gets healthy. Blue’s only fantasy value right is as insurance against a Williams injury.</p> <h4 id="bo-nix-qb">Bo Nix (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Nix played the role of game manager for Denver in a gritty defensive victory overseas in London. The 25-year-old did not complete a pass for the entirety of the third quarter, which helped contribute to his second-lowest yardage output as a passer this season. On the bright side, Nix was involved in the only touchdown scored for either side Sunday, delivering a 16-yard strike to TE Nate Adkins in the first quarter. With nine touchdowns thrown to four interceptions through six starts, Nix checks in as a middling fantasy option in Week 7 when the Broncos host the Giants next Sunday.</p> <h4 id="kalif-raymond-wr">Kalif Raymond (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Raymond was cleared to play after suffering a neck injury in Week 5, but he only logged two snaps on offense and one snap with the special-teams unit. The wide receiver will look to be more involved Week 7 versus the Buccaneers after having an additional week to return to form following his injury.</p> <h4 id="geno-smith-qb">Geno Smith (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Smith got the Raiders back in the win column after a recent poor string of play had critics calling for a quarterback change in Las Vegas. The veteran signal-caller appears to have staved off a potential QB controversy with improved play against a struggling Titans squad Sunday. The 34-year-old still couldn’t pitch a clean outing, throwing his 10th interception of campaign early in the fourth quarter. The late turnover didn’t cost his team a chance at victory, meaning Smith should remain under center for a tough road matchup against the Chiefs next Sunday.</p> <h4 id="puka-nacua-wr">Puka Nacua (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> The star wideout suffered a left ankle sprain during Sunday’s 17-3 win at Baltimore, but Nacua being described in such a manner by McVay is a touch more optimistic than a report from Ian Rapoport of NFL Network that suggested he’s set to miss time. Nacua’s status appears uncertain at best for Los Angeles’ matchup against the Jaguars in London in Week 7, and a Week 8 bye could nudge the team in the direction of caution. McVay hasn’t ruled Nacua out yet for this coming Sunday’s game, Dragon confirms, so final clarity on his status likely won’t arrive until the Rams have had a chance to evaluate him at practice. Stu Jackson of the team’s official site reports that scans have indicated Nacua isn’t dealing with a long-term injury.</p> <h4 id="kyren-williams-rb">Kyren Williams (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> The Rams possessed the ball for only 22:05 of game time while averaging only 4.7 yards per play. That led to modest stat lines for the entire skills corps, though Williams was on the better end of things thanks to a three-yard touchdown run early in the third quarter. One play earlier, he made a falling 30-yard reception on fourth down that kept the drive alive. Overall, Williams delivered a well-rounded stat line and also kept the ball secure after losing a fumble in each of his last two games.</p> <h4 id="kendre-miller-rb">Kendre Miller (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> After back-to-back games with double-digit carries, Miller was stonewalled for his second-least efficient rushing performance of the season. The third-year running back has now averaged 7.6 carries per game this season. Over the last three games, he’s averaging 9.6 rushing attempts for 42.3 yards per contest while operating as the No. 2 running back behind Alvin Kamara. Miller will look to remain involved in his backup role during the Week 7 matchup versus the Bears on Sunday, Sept. 19.</p> <h4 id="tank-bigsby-rb">Tank Bigsby (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Bigsby hasn’t played a single offensive snap since being acquired by the Eagles after Week 1. He’s the fourth running back on the Eagles’ depth chart, so even an injury to Saquon Barkley likely wouldn’t be enough for him to move into a meaningful role.</p> <h4 id="emeka-egbuka-wr">Emeka Egbuka (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Egbuka secured two of four targets for 24 yards before being forced out Sunday, a contest in which the Buccaneers were missing Mike Evans (hamstring) and Chris Godwin (fibula), as well as top running back Bucky Irving (shoulder). It would be a significant blow for the offense if Egbuka is unable to return for a road Monday Night Football matchup against the Lions in Week 7, as the rookie phenom has racked up a 25-445-5 line on 38 targets. With Egbuka, Evans and Godwin all uncertain to play, Sterling Shepard, Tez Johnson, Kameron Johnson and tight end Cade Otton could be positioned as Baker Mayfield’s top receiving options versus Detroit.</p> <h4 id="cade-otton-te">Cade Otton (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Otton paced the Buccaneers in targets and receptions while finishing with his second-highest yardage total of the season. Part of the reason the tight end was featured so prominently Sunday was the early departure of star rookie Emeka Egbuka. Otton remained scoreless through six starts, but he is getting involved downfield more often as Tampa Bay deals with injuries at the wideout position. Otton will look to build a hot streak with another strong showing against the Lions next Monday.</p> <h4 id="calvin-ridley-wr">Calvin Ridley (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Ridley thus ends his day with one catch (on one target) for 18 yards, while Elic Ayomanor, Chimere Dike, Tyler Lockett and Van Jefferson will handle the Titans’ WR duties in his absence for the remainder of the contest. Ridley’s next chance to see game action will arrive Oct. 19 against the Patriots.</p> <h4 id="deebo-samuel-wr">Deebo Samuel (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Samuel wasn’t at 100 percent, and although Jayden Daniels kept him involved, the veteran receiver couldn’t do much with his opportunities. Samuel posted his second-lowest receiving yardage total of the season, but his injury seemed to play a role. The seven-year pro will look to get healthier ahead of a key Week 7 road matchup against the Cowboys on Sunday.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_ARV_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_ARV_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 104.64<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_ARV_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry><entry><title type="html">Mcconky Donkeys Week 6 Report</title><link href="https://family-fantasy-football.github.io/reports/2025/Week-6-KTT/" rel="alternate" type="text/html" title="Mcconky Donkeys Week 6 Report"/><published>2025-10-15T00:43:44+00:00</published><updated>2025-10-15T00:43:44+00:00</updated><id>https://family-fantasy-football.github.io/reports/2025/Week-6-KTT</id><content type="html" xml:base="https://family-fantasy-football.github.io/reports/2025/Week-6-KTT/"><![CDATA[<h2 id="week-at-a-glance">Week at a Glance</h2> <p>Mcconky Donkeys Won against Big Titi Energy 153.43-87.79<br/> Current Standing: #5<br/> Playoff Chances: 70.3%<br/> Lineup Efficiency: 89.3%<br/> Best Performer: Jayden Daniels (30.14 pts)<br/></p> <pre><code class="language-echarts">{
-    "tooltip": {
-        "trigger": "item",
-        "formatter": "{a} &lt;br/&gt;{b}: {d}%"
-    },
-    "legend": {
-        "orient": "vertical",
-        "left": "left",
-        "data": [
-            "QB",
-            "RB",
-            "WR",
-            "TE",
-            "D/ST",
-            "K"
-        ]
-    },
-    "series": [
-        {
-            "name": "Position Points",
-            "type": "pie",
-            "radius": [
-                "50%",
-                "70%"
-            ],
-            "avoidLabelOverlap": false,
-            "data": [
-                {
-                    "value": 56.3,
-                    "name": "QB"
-                },
-                {
-                    "value": 34.6,
-                    "name": "RB"
-                },
-                {
-                    "value": 57.5,
-                    "name": "WR"
-                },
-                {
-                    "value": 5.0,
-                    "name": "TE"
-                }
-            ]
-        }
-    ]
-}
-</code></pre> <h2 id="recent-performance">Recent Performance</h2> <pre><code class="language-echarts">{
-  "title": {
-    "text": "Recent Scoring Trend",
-    "left": "center",
-    "show": false
-  },
-  "tooltip": {
-    "trigger": "axis"
-  },
-  "xAxis": {
-    "type": "category",
-    "data": [
-      "Week 2",
-      "Week 3",
-      "Week 4",
-      "Week 5",
-      "Week 6"
-    ]
-  },
-  "yAxis": {
-    "type": "value",
-    "name": "Points"
-  },
-  "series": [
-    {
-      "name": "Points Scored",
-      "type": "line",
-      "data": [
-        99.4,
-        88.5,
-        86.8,
-        129.8,
-        153.4
-      ],
-      "smooth": true,
-      "itemStyle": {
-        "color": "#5470c6"
-      },
-      "areaStyle": {
-        "opacity": 0.3
-      }
-    }
-  ],
-  "grid": {
-    "left": "10%",
-    "right": "5%",
-    "bottom": "10%"
-  }
-}
-</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="tyler-allgeier-rb">Tyler Allgeier (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Allgeier got involved in the box score early with a 21-yard touchdown scamper on Atlanta’s opening possession. The talented backup then took a back seat to starter Bijan Robinson, who ripped apart Buffalo’s defense to the tune of 238 yards and a score of his own. Allgeier has generated some flex appeal after hitting pay dirt thrice over his last four appearances. There is a four-yard dud nestled in between, so fantasy managers should also be aware of Allgeier’s drastic floor ahead of Sunday’s tilt against San Francisco.</p> <h4 id="david-njoku-te">David Njoku (TE)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> The Browns initially reported that Njoku was dealing with a thigh issue. Either way, the tight end’s status will need to be monitored ahead of next weekend’s game against the Dolphins. In the event that Njoku is sidelined further, Harold Fannin would be in line to see added TE targets, with Blake Whiteheart mixing in as well.</p> <h4 id="troy-franklin-wr">Troy Franklin (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Franklin’s day in London got off to a rubbish start when he coughed up the first fumble of his career on his first reception of the contest. The silver lining for fantasy managers was that the wideout remained involved offensively following the turnover, receiving three more touches in the narrow win. Franklin has shown flashes of upside early in his sophomore campaign, but Sunday’s dud is an example of the inconsistency he can exhibit. The 22-year-old’s value is likely limited to deeper formats in next Sunday’s tilt against the Giants.</p> <h4 id="evan-engram-te">Evan Engram (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Engram led Denver in targets, receptions and yardage in an odd victory that saw No. 1 WR Courtland Sutton finish with just one reception. The 30-year-old Engram also recorded his first rushing attempt of the season, something we haven’t seen consistently from the tight end since his early years as a member of the New York Giants. Sunday’s solid showing overseas comes on the heels of the veteran tight end’s first touchdown of the year against the Eagles last week. Managers in need of help at the tight-end position should take a serious look at the ascending Engram in Week 7 when the Broncos host the aforementioned Giants next Sunday.</p> <h4 id="joe-mixon-rb">Joe Mixon (RB)</h4> <p><strong>Injury Status:</strong> Out <br/> <strong>Lineup Slot:</strong> IR <br/> <strong>Details:</strong> Caserio’s comments during his press conference mark the first time that a member of the Houston brass has addressed Mixon’s status since the start of the regular season. The veteran running back was placed on the non-football injury list ahead of training camp after getting hurt during an individual workout in the spring, and the Texans have been non-committal on a timeline for his return ever since. Given that the Texans aren’t yet hinting that Mixon will even resume practicing in the near future, the 29-year-old doesn’t look like he’s on track to be an option in the Houston backfield until late in the season, if at all. The Texans are likely to continue to lean on a timeshare of Nick Chubb and rookie Woody Marks at running back for the foreseeable future.</p> <h4 id="brian-thomas-jr-wr">Brian Thomas Jr. (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> Thomas led the Jaguars’ pass catchers across the board in receptions, receiving yards and targets, one-upping the then season-best 80-yard effort he’d posted against the Chiefs on Monday night. The second-year wideout also scored his long-awaited first touchdown of the campaign via a 21-yard grab late in the first quarter that opened the scoring on the afternoon. Thomas has started to find some equilibrium in his production over the last three games, and he’ll aim to extend the momentum in a Week 7 matchup against the Rams in London.</p> <h4 id="rashee-rice-wr">Rashee Rice (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> While the Chiefs have been granted a roster exemption for Rice that expires Oct. 20 and thus will need to officially activate him by Saturday in order for him to play Week 7, at this time there’s no reason to believe that won’t occur. The looming return of Rice should provide a major boost to the offense of the 3-3 Chiefs, and assuming no issues at practice this week, the 2023 second-rounder should immediately step into a prominent role in a WR corps that also includes Xavier Worthy, Hollywood Brown, JuJu Smith-Schuster and Tyquan Thornton.</p> <h4 id="isiah-pacheco-rb">Isiah Pacheco (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Pacheco finished Sunday’s win as the Chiefs’ leading rusher, garnering six more touches than veteran backup Kareem Hunt (6-23-0). The 26-year-old Pacheco had been mired in an even timeshare for most of the season, so Sunday’s disparity in touches could be something to monitor moving forward. Pacheco would need that hypothetical increase in usage in order to develop into a reliable starting option in fantasy. Until then, treat the physical runner as nothing more than a flex option against the Raiders next Sunday.</p> <h4 id="ladd-mcconkey-wr">Ladd McConkey (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> McConkey’s 42-yard reception on the final possession with under a minute to go was the catalyst for the game-winning field goal just three plays later, but the second-year wideout benefitted significantly in the absence of Quentin Johnston (hamstring) by leading the team in receiving yards, targets and receptions for the first time this season. This kind of workload could be the status quo for the foreseeable future as Los Angeles struggles to deal with a litany of injuries, whether to rookie running back Omarion Hampton (ankle), Johnston or a bevy of injured offensive lineman.</p> <h4 id="devon-achane-rb">De’Von Achane (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Achane had been uncharacteristically bottled up by the Panthers in Week 5, but the electric back set an early tone Sunday with a 49-yard breakaway touchdown run with just over four minutes remaining in the first quarter. He’d go on to add a four-yard scoring scamper with just under eight minutes left in the contest, a score that narrowed a 26-13 deficit. Achane eclipsed the century mark for the first time this season with Sunday’s production, and his carry total was his second highest through the first six contests. The third-year back should play a key role again during a Week 7 road clash against the tough Browns defense.</p> <h4 id="darius-slayton-wr">Darius Slayton (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> questionable</p> <h4 id="wandale-robinson-wr">Wan’Dale Robinson (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Robinson’s catch and yardage totals were both team highs for the Giants on the night, and his target tally was second only to that of Lil’Jordan Humphrey. The highlight of Robinson’s night was his 35-yard touchdown reception in the first quarter, his second score of the campaign. Robinson now has seen seven targets apiece in his first two full games without Malik Nabers (IR, knee), and his involvement should remain elevated during a tough Week 7 road matchup against the Broncos on Sunday, Oct. 19.</p> <h4 id="aaron-rodgers-qb">Aaron Rodgers (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Rodgers had one of his better showings of the season, completing five passes of at least 20 yards. Four of those went to DK Metcalf, including a 25-yard touchdown down the right sideline to begin the fourth quarter. Rodgers has had a mixed start to his tenure with the Steelers, though he’s averaged over 7.5 yards per attempt in three of five games this season, with Sunday also marking his third multi-touchdown performance of the campaign.</p> <h4 id="mike-evans-wr">Mike Evans (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> questionable</p> <h4 id="baker-mayfield-qb">Baker Mayfield (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Mayfield produced a sterling 139.0 passer rating against a 49ers defense that was helpless after losing LB Fred Warner (ankle) early in the contest. The Buccaneers also suffered a key loss early on when WR Emeka Egbuka (hamstring) exited the game after recording just two receptions. This meant that Mayfield had to finish off the win sans his three top weapons, with Mike Evans (hamstring) and Chris Godwin (fibula) in street clothes Sunday. The 30-year-old Mayfield overcame expectations and produced his fifth multi-score game through six starts. With the Buccaneers visiting the Lions on Monday Night Football in Week 7, it will be important for fantasy managers to note which receivers Mayfield will have at his disposal before making roster decisions.</p> <h4 id="tyler-lockett-wr">Tyler Lockett (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Lockett’s snap rate remained depressed for the second straight game, as he was on the field for only 32 percent of offensive snaps. He was still targeted three times, though his lone catch went for no gain. Lockett has posted at least 10 receiving yards in a game only once this season.</p> <h4 id="jayden-daniels-qb">Jayden Daniels (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> As his collection of numbers indicates, it was a mixed bag of a night for Daniels in his second game back from a knee sprain that cost him a pair of contests. The second-year signal-caller threw a season-high three touchdown passes, connecting with Chris Moore (22 yards), Luke McCaffrey (33 yards) and Zach Ertz (six yards) to erase 13-0 and 16-10 deficits. However, Daniels’ first-quarter interception, his first of the season, led to a Bears field goal, and his fumble at Chicago’s 45-yard line on an attempted handoff to Jacory Croskey-Merritt with 3:10 remaining and Washington clinging to a two-point lead would eventually result in a game-winning field goal by opposing kicker Jake Moody. Daniels also took three sacks, and this was his first multi-turnover tally of the season. The star quarterback and his teammates don’t have time to dwell on the last-second defeat, however, as a road date with the arch-rival Cowboys awaits Sunday afternoon.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_KTT_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_KTT_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 137.37<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_KTT_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry></feed>
+</code></pre> <h2 id="player-report">Player Report</h2> <h4 id="marvin-harrison-jr-wr">Marvin Harrison Jr. (WR)</h4> <p><strong>Injury Status:</strong> Questionable <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> questionable</p> <h4 id="james-cook-iii-rb">James Cook III (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Cook enjoyed a solid night on the ground despite game script working against the run as the game unfolded, bouncing back nicely from a 49-yard showing in the Week 5 loss to the Patriots. However, he failed to draw a target for the first time this season after not hauling in the one pass thrown his way Week 5, a relatively rare slump for him as a pass catcher. Cook’s fantasy value remains significantly elevated in all formats, however, and he draws a favorable matchup on the road against the Panthers on Sunday, Oct. 26 following Buffalo’s Week 7 bye.</p> <h4 id="jk-dobbins-rb">J.K. Dobbins (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Denver’s entire backfield struggled to find running lanes Sunday, with no tailbacks finishing with a per-carry average higher than 3.0 yards in the win. Dobbins still comfortably led the Broncos with 14 rushing attempts, 12 more than rookie backup RJ Harvey. This was easily Dobbins’ worst fantasy score of the season after providing managers with five weeks of consistent RB2 production. The veteran starter has an excellent opportunity to get back on track in Week 7 against the Giants, who currently are surrendering 128.8 rushing yards per game thus far this season.</p> <h4 id="jared-goff-qb">Jared Goff (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> QB <br/> <strong>Details:</strong> Goff had an interesting start to the game, as he had a touchdown catch nullified by a penalty on Detroit’s opening possession. He was out-dueled by Patrick Mahomes from there, but he still turned in a decent performance, highlighted by three completions at least 20 yards – including a 22-yard touchdown connection with Jameson Williams. Goff now has multiple scores in each of his last three games.</p> <h4 id="romeo-doubs-wr">Romeo Doubs (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Doubs was Jordan Love’s top target in Sunday’s win, leading the team in targets. He converted that into his third performance of 50 or more receiving yards this season, thanks to long gains of 21 and 15 yards. Doubs isn’t likely to turn in huge fantasy performances often thanks to the emergence of Matthew Golden and Tucker Kraft, but it’s clear he has rapport and the trust of Love, which should be enough to keep Doubs involved in the offense.</p> <h4 id="matthew-golden-wr">Matthew Golden (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Golden continues to get more involved in the Green Bay offense, as he’s now earned at least five targets in each of his last three games. He was impressive with the opportunity, ripping off long gains of 35 and 31 yards, the latter of which all but clinched a win for the Packers. Golden topped 100 yards from scrimmage for the first time in his career while showcasing his ability to work deep down the field and also pick up yards after the catch. He appears to be earning trust from coaches and Jordan Love, which should lead to more consistent usage as the season progresses.</p> <h4 id="tyler-warren-te">Tyler Warren (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> TE <br/> <strong>Details:</strong> Warren tied Josh Downs for the team lead in receptions and led the way in both receiving yards and targets on an afternoon where he also recorded his second touchdown grab of the season. Warren found the end zone from eight yards out to cap off the opening possession of the game, and he tallied his fifth catch of 20-plus yards this season earlier in the drive with a 23-yard reception. The rookie tight end will continue to serve as a focal point of the offense during a Week 7 marquee road matchup against the Chargers.</p> <h4 id="travis-hunter-wr">Travis Hunter (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> WR <br/> <strong>Details:</strong> After consecutive encouraging performances during which Hunter generated a combined 6-106-0 receiving line on eight targets, the rookie second overall pick was back to a very modest, low-upside role Sunday. All but one yard of Hunter’s tally came on one catch, underscoring how he didn’t have any sort of downfield profile. Although he developed a well-earned college reputation for being an explosive player who can offer plenty at deeper depths of target than what he’s been seeing, Hunter is surprisingly stuck in a limited role despite head coach Liam Coen’s typically creative offensive designs.</p> <h4 id="ashton-jeanty-rb">Ashton Jeanty (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB <br/> <strong>Details:</strong> Jeanty ground out a solid fantasy day by scoring his third rushing touchdown of the year on a season-high 23 carries. Veteran backup Raheem Mostert (five carries) was the only other rusher to record a touch in the win, highlighting Jeanty’s stranglehold on the every-down role out of Las Vegas’ backfield. The sixth overall pick from this year’s draft has generated 497 combined yards from scrimmage with five total touchdowns through six starts in 2025. Jeanty’s offensive involvement has increased with an average of 22.3 touches over the Raiders’ last three contests. Fantasy managers can start the Boise State product with confidence for next Sunday’s road tilt against the Chiefs.</p> <h4 id="omarion-hampton-rb">Omarion Hampton (RB)</h4> <p><strong>Injury Status:</strong> Injured Reserve <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Chargers head coach Jim Harbaugh didn’t provide many details about the injury Hampton sustained in the Week 5 loss to the Commanders, but the fact that the promising rookie is expected to need more than four weeks to make a full recovery points to him likely nursing a high-ankle sprain. A target date for Hampton’s return has yet to be established, but because the Chargers have a bye coming up in Week 12, the team could be motivated to hold him out through that period to give him ample time to heal. Garafolo notes that Hassan Haskins is likely to serve as the Chargers’ lead back Sunday in Miami while practice-squad signee Kimani Vidal also sees work, but Los Angeles is also expected to be in the market for a running back ahead of the Nov. 4 trade deadline to compensate for the long-term injuries to Hampton and Najee Harris (Achilles).</p> <h4 id="ollie-gordon-ii-rb">Ollie Gordon II (RB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Gordon once again struggled to display efficiency while operating as the Dolphins’ top reserve backfield option, while starter De’Von Achane gashed Los Angeles with 16 carries for 128 rushing yards (8.0 YPC) and two scores, adding four grabs for 22 yards in the receiving game (six targets). At this stage, Gordon retains fantasy value purely as a handcuff in deeper formats, as his availability has rendered Jaylen Wright a healthy scratch. The rookie sixth-round pick faces a rough matchup on the road against Cleveland in Week 7.</p> <h4 id="jaxson-dart-qb">Jaxson Dart (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> OP <br/> <strong>Details:</strong> Dart recorded the first signature win of his nascent career with a standout, mistake-free performance. The dynamic rookie got off to a blistering start by helping lead two first-quarter touchdown drives, possessions he capped off with a 20-yard scoring run and a 35-yard strike to Wan’Dale Robinson. Dart went on to lead three more scoring drives in the upset, and he navigated a brief third-quarter exit to be checked for a concussion to finish out the upset victory without incident. Dart has already shown considerable promise in his first three starts while recording a pair of victories in the process. but he’ll get quite the test in a Week 7 road matchup against the Broncos on Sunday, Oct. 19.</p> <h4 id="jake-tonges-te">Jake Tonges (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> RB/WR/TE <br/> <strong>Details:</strong> Tonges continued doing his best George Kittle (hamstring) impression in another effective spot-start Sunday. The 25-year-old Tonges has been a pleasant surprise in fantasy during his brief run as the starter, posting a 25-223-3 receiving line through six games. David Lombardi of SFStandard.com reported that Kittle could return from injured reserve in Week 7, which would effectively end Tonges’ run of utility. Managers should wait until Kittle is officially activated before making any rash decisions regarding Tonges in Week 7 and onward.</p> <h4 id="mac-jones-qb">Mac Jones (QB)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Jones toughed out a pair of injuries and another week of limited practices in order to start for a shorthanded 49ers squad Sunday. The veteran backup was unable to earn his fourth win in as many appearances with San Francisco, but he did produce a season-high 347 passing yards for fantasy managers. The Alabama product is averaging a whopping 313.0 yards per game with a 2:1 TD:INT in place of starter Brock Purdy (toe/shoulder) this season. The latter’s status is currently unclear for Week 7, but Jones has certainly played well enough in Purdy’s stead to warrant fantasy consideration if he remains under center against the Falcons for Sunday Night Football.</p> <h4 id="chig-okonkwo-te">Chig Okonkwo (TE)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Okonkwo’s six targets Sunday tied his previous season high, while the six grabs set a new high-water mark through six starts. Aside from a one-catch dud in Week 4, the veteran tight end has carved out a consistent role in the passing game. Okonkwo will carry a 23-218-0 receiving line into next Sunday’s tilt against the Patriots.</p> <h4 id="elic-ayomanor-wr">Elic Ayomanor (WR)</h4> <p><strong>Injury Status:</strong> Active <br/> <strong>Lineup Slot:</strong> BE <br/> <strong>Details:</strong> Ayomanor produced his third underwhelming performance in a row as the Titans returned to their losing ways in 2025. The lack of production from the rookie is especially concerning considering that No. 1 wideout Calvin Ridley (hamstring) left the contest early and did not return. Van Jefferson (4-75-0) wound up taking advantage instead and finished as Tennessee’s leading receiver. That said, if Ridley is forced to miss next Sunday’s tilt against the Patriots, Ayomanor may have a prime opportunity to return to the form that made him a hot pickup early in the campaign.</p> <h2 id="current-lineup">Current Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TOM_roster.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/><br/></p> <h2 id="optimal-lineup">Optimal Lineup</h2> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_6_2025_TOM_optimal.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="points" data-halign="center" data-align="center" data-sortable="true">Points</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> </tr> </thead> </table> <p><br/></p> <h2 id="projected-lineup-for-next-week">Projected Lineup for Next Week</h2> <p><strong>Total Projected Points:</strong> 93.93<br/></p> <table data-click-to-select="true" data-search="false" data-toggle="table" data-url="/assets/json/team_rosters/Week_7_2025_TOM_projected.json"> <thead> <tr> <th data-field="player_name" data-halign="left" data-align="left" data-sortable="true">Player</th> <th data-field="pos" data-halign="center" data-align="center" data-sortable="true">Position</th> <th data-field="slot" data-halign="center" data-align="center" data-sortable="true">Slot</th> <th data-field="projected" data-halign="center" data-align="center" data-sortable="true">Projected</th> <th data-field="opponent" data-halign="center" data-align="center" data-sortable="false">Opponent</th> </tr> </thead> </table> <p><br/><br/></p>]]></content><author><name></name></author><category term="team-reports"/><category term="2025-26,"/><category term="WeeklyRecap,"/><category term="Week6"/><summary type="html"><![CDATA[weekly team status recap]]></summary></entry></feed>
