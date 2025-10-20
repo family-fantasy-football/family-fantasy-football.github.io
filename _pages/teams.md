@@ -9,40 +9,40 @@ display_categories: 2025-26
 horizontal: false
 dropdown: true
 children:
-    - title: 90s
+    - title: 90s MonCon
       permalink: /teams/90s_2025/
     - title: divider
-    - title: ARV
+    - title: Abbey's TNT Team
       permalink: /teams/ARV_2025/
     - title: divider
-    - title: BTE
+    - title: Big Titi Energy
       permalink: /teams/BTE_2025/
     - title: divider
-    - title: EET
+    - title: Emma's Excellent Team
       permalink: /teams/EET_2025/
     - title: divider
-    - title: HMB
+    - title: Game of Zones - House Hamlin
       permalink: /teams/HMB_2025/
     - title: divider
-    - title: JST
+    - title: Mama Daughter Duo
       permalink: /teams/JST_2025/
     - title: divider
-    - title: KTT
+    - title: Mcconky Donkeys
       permalink: /teams/KTT_2025/
     - title: divider
-    - title: MMT
+    - title: Michael's Managable Team
       permalink: /teams/MMT_2025/
     - title: divider
-    - title: RRT
+    - title: Americas Team
       permalink: /teams/RRT_2025/
     - title: divider
-    - title: TIB
+    - title: To Infinity and Bijan!
       permalink: /teams/TIB_2025/
     - title: divider
-    - title: TOM
+    - title: Rookie Mistake
       permalink: /teams/TOM_2025/
     - title: divider
-    - title: TTC
+    - title: Third Time's the Charm?
       permalink: /teams/TTC_2025/
 ---
 

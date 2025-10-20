@@ -78,7 +78,7 @@
       ]
     },
     {
-      "name": "Abbey's TNT Team ",
+      "name": "Abbey's TNT Team",
       "type": "radar",
       "data": [
         {
@@ -88,7 +88,7 @@
             3.3,
             -5.0
           ],
-          "name": "Abbey's TNT Team "
+          "name": "Abbey's TNT Team"
         }
       ]
     },
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Americas Team ",
+      "name": "Americas Team",
       "type": "radar",
       "data": [
         {
@@ -118,7 +118,7 @@
             0.7,
             3.0
           ],
-          "name": "Americas Team "
+          "name": "Americas Team"
         }
       ]
     },

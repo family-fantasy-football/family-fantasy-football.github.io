@@ -1,8 +1,4 @@
 {
-  "title": {
-    "text": "Points For vs Points Against",
-    "left": "center"
-  },
   "tooltip": {
     "trigger": "item",
     "formatter": "{a}"
@@ -15,12 +11,12 @@
       "Third Time's the Charm?",
       "90s MonCon",
       "Rookie Mistake",
-      "Americas Team ",
+      "Americas Team",
       "Michael's Managable Team",
       "To Infinity and Bijan!",
       "Mcconky Donkeys",
       "Mama Daughter Duo",
-      "Abbey's TNT Team ",
+      "Abbey's TNT Team",
       "Game of Zones - House Hamlin",
       "Emma's Excellent Team",
       "Big Titi Energy"
@@ -77,7 +73,7 @@
       ]
     },
     {
-      "name": "Americas Team ",
+      "name": "Americas Team",
       "type": "scatter",
       "symbolSize": 15,
       "data": [
@@ -132,7 +128,7 @@
       ]
     },
     {
-      "name": "Abbey's TNT Team ",
+      "name": "Abbey's TNT Team",
       "type": "scatter",
       "symbolSize": 15,
       "data": [

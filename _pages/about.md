@@ -18,60 +18,105 @@ chart:
   echarts: true
 ---
 
-## Welcome to the site for the Family Fantasy Footbal League! We are currently in the 2025-26 season.
-
-<div style="margin-bottom: 30px;">
-
+<div style="text-align: center; padding: 40px 0 30px 0;">
+  <p style="font-size: 20px; color: #555; font-weight: 500;">2025-26 Season</p>
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
+    <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🏆 Top Scorer</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Cathy Dickson and Jordan Dickson</div>
+    <div style="font-size: 18px; opacity: 0.95;">805.74 points</div>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
+    <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">📉 Bottom Scorer</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Christine Hamlin</div>
+    <div style="font-size: 18px; opacity: 0.95;">550.11 points</div>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
+    <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🔥 Highest Week</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Ryan Ratcliff</div>
+    <div style="font-size: 18px; opacity: 0.95;">178.27 pts (Week 5)</div>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
+    <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">❄️ Lowest Week</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Nick Hill</div>
+    <div style="font-size: 18px; opacity: 0.95;">65.20 pts (Week 6)</div>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: #2c3e50;">
+    <div style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🍀 Luckiest</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Kayden Mullins</div>
+    <div style="font-size: 18px;">+1.4 wins vs expected</div>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: #2c3e50;">
+    <div style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">😢 Unluckiest</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Cathy Dickson and Jordan Dickson</div>
+    <div style="font-size: 18px;">-1.4 wins vs expected</div>
+  </div>
+</div>
 
-The current top scorer is: Cathy Dickson and Jordan Dickson (805.74)
-
-The current bottom scorer is: Christine Hamlin (550.11)
-
-Highest Scoring Week: Ryan Ratcliff - 178.27 points (Week 5)
-
-Lowest Scoring Week: Nick Hill - 65.20 points (Week 6)
-
-Luckiest Team: Kayden Mullins (1.4) Wins Above Expected
-
-Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
-
-
-
-
-### Current Standings:
-
+<div style="background: white; padding: 35px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin: 40px 0;">
+  <h2 style="font-size: 32px; font-weight: 700; color: #2c3e50; margin: 0 0 25px 0; padding-bottom: 15px; border-bottom: 3px solid #667eea;">
+    📊 League Standings
+  </h2>
 <table
     data-click-to-select="true"
     data-pagination="false"
     data-search="false"
     data-toggle="table"
     data-url="{{ "/assets/json/standings.json"}}">
-    <thead>
+    <thead style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
         <tr>
-            <th data-field="team" data-halign="left" data-align="left" data-sortable="true">Team</th>
+            <th data-field="team" 
+                data-halign="left" 
+                data-align="left" 
+                data-sortable="true"
+                style="color: white; font-weight: 600; padding: 15px;">Team</th>
             <th data-field="record" 
                 data-halign="center" 
                 data-align="center" 
                 data-sortable="true"
-                data-sort-name="record_sort">Record</th>
+                data-sort-name="record_sort"
+                style="color: white; font-weight: 600; padding: 15px;">Record</th>
             <th data-field="record_sort" data-sortable="true" data-visible="false">Record Sort</th>
-            <th data-field="last3" data-halign="center" data-align="center" data-sortable="true">Last 3 Games</th>
+            <th data-field="points_for" 
+                data-halign="center" 
+                data-align="center" 
+                data-sortable="true"
+                data-sort-name="points_for_sort"
+                style="color: white; font-weight: 600; padding: 15px;">Points For</th>
+            <th data-field="points_for_sort" data-sortable="true" data-visible="false">PF Sort</th>
+            <th data-field="points_against" 
+                data-halign="center" 
+                data-align="center" 
+                data-sortable="true"
+                data-sort-name="points_against_sort"
+                style="color: white; font-weight: 600; padding: 15px;">Points Against</th>
+            <th data-field="points_against_sort" data-sortable="true" data-visible="false">PA Sort</th>
+                        <th data-field="power_rank" 
+                data-halign="center" 
+                data-align="center" 
+                data-sortable="true"
+                style="color: white; font-weight: 600; padding: 15px;">All-Play Rank</th>
+            <th data-field="last3" 
+                data-halign="center" 
+                data-align="center" 
+                data-sortable="true"
+                style="color: white; font-weight: 600; padding: 15px;">Last 3</th>
         </tr>
     </thead>
 </table>
+</div>
+---
 
-<br><br>
-<br><br>
-
-
+## 📈 Standings Movement
 ```echarts
 {
-    "title": {
-        "text": "Standings Over Time",
-        "left": "center"
-    },
     "tooltip": {
         "trigger": "item",
         "formatter": "{a}<br/>Week {b}: Rank {c}"
@@ -128,7 +173,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             }
         },
         {
-            "name": "Abbey's TNT Team ",
+            "name": "Abbey's TNT Team",
             "type": "line",
             "smooth": true,
             "lineStyle": {
@@ -155,7 +200,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             }
         },
         {
-            "name": "Americas Team ",
+            "name": "Americas Team",
             "type": "line",
             "smooth": true,
             "lineStyle": {
@@ -178,7 +223,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             "label": {
                 "show": false,
                 "position": "right",
-                "formatter": "Americas Team "
+                "formatter": "Americas Team"
             }
         },
         {
@@ -434,14 +479,12 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
     }
 }
 ```
-<br><br>
 
+---
+
+## 🎯 Points For vs Points Against
 ```echarts
 {
-    "title": {
-        "text": "Points For vs Points Against",
-        "left": "center"
-    },
     "tooltip": {
         "trigger": "item",
         "formatter": "{a}"
@@ -454,12 +497,12 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             "Third Time's the Charm?",
             "90s MonCon",
             "Rookie Mistake",
-            "Americas Team ",
+            "Americas Team",
             "Michael's Managable Team",
             "To Infinity and Bijan!",
             "Mcconky Donkeys",
             "Mama Daughter Duo",
-            "Abbey's TNT Team ",
+            "Abbey's TNT Team",
             "Game of Zones - House Hamlin",
             "Emma's Excellent Team",
             "Big Titi Energy"
@@ -516,7 +559,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             ]
         },
         {
-            "name": "Americas Team ",
+            "name": "Americas Team",
             "type": "scatter",
             "symbolSize": 15,
             "data": [
@@ -571,7 +614,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             ]
         },
         {
-            "name": "Abbey's TNT Team ",
+            "name": "Abbey's TNT Team",
             "type": "scatter",
             "symbolSize": 15,
             "data": [
@@ -668,14 +711,12 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
     }
 }
 ```
-<br><br>
 
+---
+
+## 📦 Weekly Score Distribution
 ```echarts
 {
-    "title": {
-        "text": "Weekly Score Distribution by Team",
-        "left": "center"
-    },
     "xAxis": {
         "type": "category",
         "name": "Teams",
@@ -1172,9 +1213,10 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
     }
 }
 ```
-<br><br>
 
-### Average Position Rankings
+---
+
+## 🏈 Average Position Rankings
 ```echarts
 {
     "grid": {
@@ -1497,13 +1539,13 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
         }
     ]
 }
-````
+```
 
+---
 
-### Position Breakdowns By Week
-<br><br>
+## 📊 Position Breakdowns By Week
 
-##### QB
+### QB
 ```echarts
 {
     "grid": {
@@ -1951,7 +1993,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 }
 ```
 
-##### RB
+### RB
 ```echarts
 {
     "grid": {
@@ -2399,7 +2441,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 }
 ```
 
-##### WR
+### WR
 ```echarts
 {
     "grid": {
@@ -2847,7 +2889,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 }
 ```
 
-##### TE
+### TE
 ```echarts
 {
     "grid": {
@@ -3295,13 +3337,11 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 }
 ```
 
+---
 
-## Advanced Analytics
-
-<br>
+## 🔬 Advanced Analytics
 
 ### Lineup Efficiency Over Time
-
 ```echarts
 {
     "title": {
@@ -3499,10 +3539,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
 }
 ```
 
-<br>
-
 ### Positional Advantages
-
 ```echarts
 {
     "tooltip": {
@@ -3584,7 +3621,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             ]
         },
         {
-            "name": "Abbey's TNT Team ",
+            "name": "Abbey's TNT Team",
             "type": "radar",
             "data": [
                 {
@@ -3594,7 +3631,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
                         3.3,
                         -5.0
                     ],
-                    "name": "Abbey's TNT Team "
+                    "name": "Abbey's TNT Team"
                 }
             ]
         },
@@ -3614,7 +3651,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
             ]
         },
         {
-            "name": "Americas Team ",
+            "name": "Americas Team",
             "type": "radar",
             "data": [
                 {
@@ -3624,7 +3661,7 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
                         0.7,
                         3.0
                     ],
-                    "name": "Americas Team "
+                    "name": "Americas Team"
                 }
             ]
         },
@@ -3721,4 +3758,3 @@ Unluckiest Team: Cathy Dickson and Jordan Dickson (-1.4) Wins Below Expected
     ]
 }
 ```
-

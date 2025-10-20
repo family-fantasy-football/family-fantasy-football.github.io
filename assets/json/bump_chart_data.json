@@ -1,8 +1,4 @@
 {
-  "title": {
-    "text": "Standings Over Time",
-    "left": "center"
-  },
   "tooltip": {
     "trigger": "item",
     "formatter": "{a}<br/>Week {b}: Rank {c}"
@@ -59,7 +55,7 @@
       }
     },
     {
-      "name": "Abbey's TNT Team ",
+      "name": "Abbey's TNT Team",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -86,7 +82,7 @@
       }
     },
     {
-      "name": "Americas Team ",
+      "name": "Americas Team",
       "type": "line",
       "smooth": true,
       "lineStyle": {
@@ -109,7 +105,7 @@
       "label": {
         "show": false,
         "position": "right",
-        "formatter": "Americas Team "
+        "formatter": "Americas Team"
       }
     },
     {

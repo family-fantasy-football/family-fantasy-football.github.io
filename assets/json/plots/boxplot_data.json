@@ -1,8 +1,4 @@
 {
-  "title": {
-    "text": "Weekly Score Distribution by Team",
-    "left": "center"
-  },
   "xAxis": {
     "type": "category",
     "name": "Teams",
