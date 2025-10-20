@@ -470,12 +470,6 @@ description: Simulate playoff scenarios
 
     <div id="game-selections"></div>
 
-    <!-- Playoff Scenarios Section -->
-    <div class="scenarios-section">
-        <h2>📋 Playoff Scenarios</h2>
-        <div id="scenarios-container"></div>
-    </div>
-
     <div class="standings-section" id="current-standings">
         <h2 class="section-title">📊 Projected Final Standings</h2>
         <table class="standings-table">
