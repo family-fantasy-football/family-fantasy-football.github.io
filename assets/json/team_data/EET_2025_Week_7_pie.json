@@ -1,0 +1,1 @@
+{"tooltip":{"trigger":"item","formatter":"{a} <br/>{b}: {d}%"},"legend":{"orient":"vertical","left":"left","data":["QB","RB","WR","TE","D/ST","K"]},"series":[{"name":"Position Points","type":"pie","radius":["50%","70%"],"avoidLabelOverlap":false,"data":[{"value":6.1,"name":"QB"},{"value":13.8,"name":"RB"},{"value":34.3,"name":"WR"},{"value":11.9,"name":"TE"}]}]}
