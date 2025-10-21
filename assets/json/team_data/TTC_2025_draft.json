@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 12,
     "player_name": "Patrick Mahomes",
-    "points": "162.8",
-    "before_trade": "162.8",
+    "points": "199.0",
+    "before_trade": "199.0",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "25.1",
+    "value_diff": "38.4",
     "grade": "A"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 1,
     "player_name": "CeeDee Lamb",
-    "points": "30.2",
-    "before_trade": "30.2",
+    "points": "49.7",
+    "before_trade": "49.7",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-61.1",
+    "value_diff": "-56.8",
     "grade": "D"
   },
   {
@@ -32,19 +32,19 @@
     "before_trade": "62.5",
     "after_trade": "0.0",
     "draft_position": 36,
-    "value_diff": "-28.1",
-    "grade": "C"
+    "value_diff": "-43.2",
+    "grade": "D"
   },
   {
     "team": "Third Time's the Charm?",
     "round": 4,
     "pick": 1,
     "player_name": "Chase Brown",
-    "points": "48.4",
-    "before_trade": "48.4",
+    "points": "59.4",
+    "before_trade": "59.4",
     "after_trade": "0.0",
     "draft_position": 37,
-    "value_diff": "-39.5",
+    "value_diff": "-43.1",
     "grade": "D"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 12,
     "player_name": "Xavier Worthy",
-    "points": "32.3",
-    "before_trade": "32.3",
+    "points": "38.6",
+    "before_trade": "38.6",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-17.4",
+    "value_diff": "-19.3",
     "grade": "C"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 1,
     "player_name": "Trevor Lawrence",
-    "points": "93.0",
+    "points": "99.1",
     "before_trade": "0.0",
-    "after_trade": "93.0",
+    "after_trade": "99.1",
     "draft_position": 61,
-    "value_diff": "-16.0",
+    "value_diff": "-28.0",
     "grade": "C"
   },
   {
@@ -76,12 +76,12 @@
     "round": 7,
     "pick": 12,
     "player_name": "Jerry Jeudy",
-    "points": "34.0",
-    "before_trade": "34.0",
+    "points": "36.7",
+    "before_trade": "36.7",
     "after_trade": "0.0",
     "draft_position": 84,
-    "value_diff": "-31.8",
-    "grade": "C"
+    "value_diff": "-40.0",
+    "grade": "D"
   },
   {
     "team": "Third Time's the Charm?",
@@ -92,7 +92,7 @@
     "before_trade": "0.0",
     "after_trade": "16.5",
     "draft_position": 85,
-    "value_diff": "-50.8",
+    "value_diff": "-62.1",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 12,
     "player_name": "Stefon Diggs",
-    "points": "54.7",
-    "before_trade": "54.7",
+    "points": "65.1",
+    "before_trade": "65.1",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "9.6",
+    "value_diff": "12.5",
     "grade": "B"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 1,
     "player_name": "Cam Skattebo",
-    "points": "89.3",
-    "before_trade": "89.3",
+    "points": "106.2",
+    "before_trade": "106.2",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "45.1",
+    "value_diff": "54.6",
     "grade": "A"
   },
   {
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 12,
     "player_name": "Bryce Young",
-    "points": "87.4",
-    "before_trade": "87.4",
+    "points": "97.4",
+    "before_trade": "97.4",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-10.3",
-    "grade": "B"
+    "value_diff": "-16.6",
+    "grade": "C"
   },
   {
     "team": "Third Time's the Charm?",
@@ -140,7 +140,7 @@
     "before_trade": "4.1",
     "after_trade": "4.1",
     "draft_position": 133,
-    "value_diff": "-45.4",
+    "value_diff": "-54.3",
     "grade": "D"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 12,
     "player_name": "Zach Ertz",
-    "points": "54.2",
+    "points": "66.1",
     "before_trade": "0.0",
-    "after_trade": "54.2",
+    "after_trade": "66.1",
     "draft_position": 156,
-    "value_diff": "9.2",
+    "value_diff": "13.7",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "14.3",
     "after_trade": "0.0",
     "draft_position": 157,
-    "value_diff": "-15.9",
+    "value_diff": "-20.9",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "32.5",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "-11.4",
+    "value_diff": "-18.7",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 181,
-    "value_diff": "-33.2",
-    "grade": "D"
+    "value_diff": "-38.7",
+    "grade": "C"
   }
 ]

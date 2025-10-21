@@ -5,7 +5,7 @@
     "points": "111.5-112.0"
   },
   {
-    "opponent": "Americas Team ",
+    "opponent": "Americas Team",
     "record": "1-0",
     "points": "157.2-148.6"
   },
@@ -28,5 +28,10 @@
     "opponent": "Emma's Excellent Team",
     "record": "0-1",
     "points": "67.7-89.6"
+  },
+  {
+    "opponent": "Mama Daughter Duo",
+    "record": "0-1",
+    "points": "97.9-141.6"
   }
 ]

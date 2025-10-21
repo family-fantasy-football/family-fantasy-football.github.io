@@ -14,16 +14,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Dak Prescott (166.58 pts) owned by Third Time's the Charm?
+* **QB:** Patrick Mahomes (199.0 pts) owned by Third Time's the Charm?
 
-* **RB:** Jonathan Taylor (135.0 pts) owned by 90s MonCon
+* **RB:** Jonathan Taylor (167.7 pts) owned by 90s MonCon
 
-* **WR:** Puka Nacua (111.8 pts) owned by Abbey's TNT Team 
+* **WR:** Jaxon Smith-Njigba (130.0 pts) owned by Americas Team
 
-* **TE:** Jake Ferguson (87.5 pts) owned by Michael's Managable Team
+* **TE:** Jake Ferguson (107.65 pts) owned by Michael's Managable Team
 
 
-Below are the top 10 performers at each position through Week 6.
+Below are the top 10 performers at each position through Week 7.
 
 
 

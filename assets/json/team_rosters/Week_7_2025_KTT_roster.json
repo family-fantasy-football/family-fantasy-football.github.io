@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jayden Daniels",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.74,
+    "projected": 27.83
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 5.12,
+    "projected": 22.68
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.6,
+    "projected": 11.39
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.3,
+    "projected": 19.11
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.2,
+    "projected": 11.19
+  },
+  {
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 0.0,
+    "projected": 11.76
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.9,
+    "projected": 10.31
+  },
+  {
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 19.7,
+    "projected": 11.26
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 7.95,
+    "projected": 8.2
+  }
+]

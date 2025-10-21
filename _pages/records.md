@@ -30,9 +30,9 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Highest Single Game Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">180.62</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 6: Hamlin My Business  vs Hit and Ruggs</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">187.93</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 7: Michael's Managable Team vs Emma's Excellent Team</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Combined Score</div>
@@ -42,8 +42,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Largest Margin of Victory</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">94.79</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 1: Game of Zones - House Hamlin over Big Titi Energy</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">121.74</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 7: Michael's Managable Team over Emma's Excellent Team</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -131,9 +131,9 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best TE Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">25.2</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 13: Brock Bowers</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Who Killed Charbonnet Ramsey?</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">26.9</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 7: Trey McBride</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Americas Team</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
 </div>

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Cam Ward",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.7,
+    "projected": 13.66
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 23.4,
+    "projected": 10.75
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.6,
+    "projected": 16.17
+  },
+  {
+    "player_name": "Blake Corum",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 4.8,
+    "projected": 4.89
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 3.7,
+    "projected": 15.22
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 15.55,
+    "projected": 8.47
+  },
+  {
+    "player_name": "Tre Tucker",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.8,
+    "projected": 9.96
+  },
+  {
+    "player_name": "JuJu Smith-Schuster",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.0,
+    "projected": 1.84
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 14.86,
+    "projected": 19.67
+  }
+]

@@ -10,7 +10,7 @@
     "points": "126.2-141.0"
   },
   {
-    "opponent": "Americas Team ",
+    "opponent": "Americas Team",
     "record": "1-0",
     "points": "157.2-144.6"
   },
@@ -28,5 +28,10 @@
     "opponent": "Third Time's the Charm?",
     "record": "0-1",
     "points": "152.0-165.7"
+  },
+  {
+    "opponent": "90s MonCon",
+    "record": "1-0",
+    "points": "141.6-97.9"
   }
 ]

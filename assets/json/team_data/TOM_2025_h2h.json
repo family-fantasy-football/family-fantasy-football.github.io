@@ -10,7 +10,7 @@
     "points": "125.2-69.1"
   },
   {
-    "opponent": "Abbey's TNT Team ",
+    "opponent": "Abbey's TNT Team",
     "record": "0-1",
     "points": "94.5-120.2"
   },
@@ -28,5 +28,10 @@
     "opponent": "Michael's Managable Team",
     "record": "0-1",
     "points": "115.5-132.2"
+  },
+  {
+    "opponent": "Americas Team",
+    "record": "0-1",
+    "points": "103.0-173.1"
   }
 ]

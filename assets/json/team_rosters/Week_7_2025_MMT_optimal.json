@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 35.58,
+    "projected": 25.79
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 24.0,
+    "projected": 16.39
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.3,
+    "projected": 9.96
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 35.3,
+    "projected": 16.56
+  },
+  {
+    "player_name": "Woody Marks",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.0,
+    "projected": 8.07
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 20.15,
+    "projected": 12.32
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.2,
+    "projected": 13.4
+  },
+  {
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 8.8,
+    "projected": 8.43
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 34.4,
+    "projected": 21.37
+  }
+]

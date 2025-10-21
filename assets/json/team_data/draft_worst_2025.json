@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-132.7",
+    "value_diff": "-157.3",
     "grade": "D"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "24.0",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-91.4",
+    "value_diff": "-110.6",
     "grade": "D"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "41.4",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-85.7",
+    "value_diff": "-106.9",
     "grade": "D"
   },
   {
@@ -40,11 +40,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "14.1",
-    "before_trade": "14.1",
+    "points": "29.8",
+    "before_trade": "29.8",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-80.3",
+    "value_diff": "-80.4",
     "grade": "D"
   },
   {
@@ -52,11 +52,11 @@
     "round": 1,
     "pick": 11,
     "player_name": "Jayden Daniels",
-    "points": "84.1",
-    "before_trade": "84.1",
+    "points": "99.8",
+    "before_trade": "99.8",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-65.4",
+    "value_diff": "-74.6",
     "grade": "D"
   }
 ]

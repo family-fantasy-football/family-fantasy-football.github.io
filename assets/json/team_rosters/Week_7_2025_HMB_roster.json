@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.6,
+    "projected": 16.17
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.86,
+    "projected": 19.67
+  },
+  {
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.75,
+    "projected": 11.69
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 3.7,
+    "projected": 15.22
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 15.55,
+    "projected": 8.47
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 23.4,
+    "projected": 10.75
+  },
+  {
+    "player_name": "Sterling Shepard",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.0,
+    "projected": 6.68
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 2.5,
+    "projected": 11.4
+  },
+  {
+    "player_name": "Tre Tucker",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 5.8,
+    "projected": 9.96
+  }
+]

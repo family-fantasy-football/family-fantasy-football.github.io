@@ -64,7 +64,7 @@
   "bid_amount": 12
  },
  {
-  "team": "Americas Team ",
+  "team": "Americas Team",
   "week": 1,
   "player_name": "Hunter Renfrow",
   "position": "WR",
@@ -184,7 +184,7 @@
   "bid_amount": 40
  },
  {
-  "team": "Americas Team ",
+  "team": "Americas Team",
   "week": 2,
   "player_name": "DeAndre Hopkins",
   "position": "WR",
@@ -192,7 +192,7 @@
   "bid_amount": 0
  },
  {
-  "team": "Americas Team ",
+  "team": "Americas Team",
   "week": 2,
   "player_name": "Hunter Renfrow",
   "position": "WR",
@@ -440,7 +440,7 @@
   "bid_amount": 3
  },
  {
-  "team": "Abbey's TNT Team ",
+  "team": "Abbey's TNT Team",
   "week": 5,
   "player_name": "Kendre Miller",
   "position": "RB",
@@ -640,7 +640,7 @@
   "bid_amount": 5
  },
  {
-  "team": "Americas Team ",
+  "team": "Americas Team",
   "week": 6,
   "player_name": "Hassan Haskins",
   "position": "RB",
@@ -648,7 +648,7 @@
   "bid_amount": 0
  },
  {
-  "team": "Americas Team ",
+  "team": "Americas Team",
   "week": 6,
   "player_name": "Brian Robinson Jr.",
   "position": "RB",
@@ -670,5 +670,77 @@
   "position": "QB",
   "type": "FA",
   "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 7,
+  "player_name": "Chris Moore",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 7,
+  "player_name": "Cooper Rush",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 7,
+  "player_name": "Jacoby Brissett",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "To Infinity and Bijan!",
+  "week": 7,
+  "player_name": "Jaylin Lane",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 6
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 7,
+  "player_name": "Dalton Kincaid",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 7,
+  "player_name": "Bam Knight",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 7,
+  "player_name": "Ollie Gordon II",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 7,
+  "player_name": "Tyrone Tracy Jr.",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 7,
+  "player_name": "Elic Ayomanor",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 6
  }
 ]

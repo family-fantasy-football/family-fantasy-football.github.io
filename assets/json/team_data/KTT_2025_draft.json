@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 11,
     "player_name": "Jayden Daniels",
-    "points": "84.1",
-    "before_trade": "84.1",
+    "points": "99.8",
+    "before_trade": "99.8",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-65.4",
+    "value_diff": "-74.6",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 2,
     "player_name": "Baker Mayfield",
-    "points": "147.9",
-    "before_trade": "147.9",
+    "points": "153.0",
+    "before_trade": "153.0",
     "after_trade": "0.0",
     "draft_position": 14,
-    "value_diff": "9.8",
+    "value_diff": "-8.0",
     "grade": "B"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 11,
     "player_name": "Brian Thomas Jr.",
-    "points": "59.0",
-    "before_trade": "59.0",
+    "points": "63.6",
+    "before_trade": "63.6",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-19.5",
+    "value_diff": "-28.0",
     "grade": "C"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 2,
     "player_name": "De'Von Achane",
-    "points": "109.0",
-    "before_trade": "109.0",
+    "points": "120.3",
+    "before_trade": "120.3",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "13.6",
+    "value_diff": "9.0",
     "grade": "B"
   },
   {
@@ -52,12 +52,12 @@
     "round": 5,
     "pick": 11,
     "player_name": "Ladd McConkey",
-    "points": "57.3",
-    "before_trade": "57.3",
+    "points": "68.5",
+    "before_trade": "68.5",
     "after_trade": "0.0",
     "draft_position": 59,
-    "value_diff": "-12.3",
-    "grade": "C"
+    "value_diff": "-12.7",
+    "grade": "B"
   },
   {
     "team": "Mcconky Donkeys",
@@ -68,7 +68,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 62,
-    "value_diff": "-41.9",
+    "value_diff": "-53.4",
     "grade": "D"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 11,
     "player_name": "Isiah Pacheco",
-    "points": "37.0",
-    "before_trade": "37.0",
+    "points": "48.9",
+    "before_trade": "48.9",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "-30.9",
+    "value_diff": "-30.3",
     "grade": "C"
   },
   {
@@ -88,12 +88,12 @@
     "round": 8,
     "pick": 2,
     "player_name": "Rashee Rice",
-    "points": "0.0",
-    "before_trade": "0.0",
+    "points": "19.7",
+    "before_trade": "19.7",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "-46.5",
-    "grade": "D"
+    "value_diff": "-34.5",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
@@ -104,8 +104,8 @@
     "before_trade": "45.5",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-10.3",
-    "grade": "B"
+    "value_diff": "-19.6",
+    "grade": "C"
   },
   {
     "team": "Mcconky Donkeys",
@@ -116,7 +116,7 @@
     "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-56.8",
+    "value_diff": "-67.5",
     "grade": "D"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 11,
     "player_name": "Evan Engram",
-    "points": "33.1",
-    "before_trade": "33.1",
+    "points": "41.1",
+    "before_trade": "41.1",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-19.3",
+    "value_diff": "-20.1",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 134,
-    "value_diff": "-38.1",
+    "value_diff": "-44.5",
     "grade": "D"
   },
   {
@@ -148,23 +148,23 @@
     "round": 13,
     "pick": 11,
     "player_name": "Aaron Rodgers",
-    "points": "102.5",
-    "before_trade": "102.5",
+    "points": "133.6",
+    "before_trade": "133.6",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "8.1",
-    "grade": "B"
+    "value_diff": "23.4",
+    "grade": "A"
   },
   {
     "team": "Mcconky Donkeys",
     "round": 14,
     "pick": 2,
     "player_name": "Wan'Dale Robinson",
-    "points": "61.8",
-    "before_trade": "61.8",
+    "points": "74.3",
+    "before_trade": "74.3",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "20.1",
+    "value_diff": "25.6",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 179,
-    "value_diff": "-23.8",
+    "value_diff": "-28.2",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "20.6",
     "after_trade": "0.0",
     "draft_position": 182,
-    "value_diff": "-13.3",
+    "value_diff": "-18.9",
     "grade": "C"
   }
 ]

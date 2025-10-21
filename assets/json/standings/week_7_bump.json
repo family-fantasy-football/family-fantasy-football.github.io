@@ -1,0 +1,309 @@
+{
+  "title": {
+    "text": "Standings Change: Week 6 to Week 7",
+    "left": "center"
+  },
+  "tooltip": {
+    "trigger": "item",
+    "formatter": "{a}<br/>Week {b}: Rank {c}"
+  },
+  "legend": {
+    "orient": "vertical",
+    "right": 0,
+    "top": "middle",
+    "data": [
+      "90s MonCon",
+      "Abbey's TNT Team",
+      "Americas Team",
+      "Big Titi Energy",
+      "Emma's Excellent Team",
+      "Game of Zones - House Hamlin",
+      "Mama Daughter Duo",
+      "Mcconky Donkeys",
+      "Michael's Managable Team",
+      "Rookie Mistake",
+      "Third Time's the Charm?",
+      "To Infinity and Bijan!"
+    ]
+  },
+  "xAxis": {
+    "type": "category",
+    "name": "Week",
+    "nameLocation": "middle",
+    "nameGap": 30,
+    "data": [
+      6,
+      7
+    ]
+  },
+  "yAxis": {
+    "type": "value",
+    "name": "Rank",
+    "nameLocation": "middle",
+    "nameGap": 20,
+    "inverse": true,
+    "min": 1,
+    "max": 12
+  },
+  "series": [
+    {
+      "name": "90s MonCon",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#aec7e8"
+      },
+      "itemStyle": {
+        "color": "#aec7e8"
+      },
+      "data": [
+        7,
+        8
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Abbey's TNT Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#f7b6d2"
+      },
+      "itemStyle": {
+        "color": "#f7b6d2"
+      },
+      "data": [
+        4,
+        3
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Americas Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#98df8a"
+      },
+      "itemStyle": {
+        "color": "#98df8a"
+      },
+      "data": [
+        6,
+        4
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Big Titi Energy",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#17becf"
+      },
+      "itemStyle": {
+        "color": "#17becf"
+      },
+      "data": [
+        12,
+        11
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Emma's Excellent Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#bcbd22"
+      },
+      "itemStyle": {
+        "color": "#bcbd22"
+      },
+      "data": [
+        11,
+        12
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Game of Zones - House Hamlin",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#c7c7c7"
+      },
+      "itemStyle": {
+        "color": "#c7c7c7"
+      },
+      "data": [
+        3,
+        5
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Mama Daughter Duo",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#c49c94"
+      },
+      "itemStyle": {
+        "color": "#c49c94"
+      },
+      "data": [
+        9,
+        7
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#8c564b"
+      },
+      "itemStyle": {
+        "color": "#8c564b"
+      },
+      "data": [
+        5,
+        6
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Michael's Managable Team",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#d62728"
+      },
+      "itemStyle": {
+        "color": "#d62728"
+      },
+      "data": [
+        2,
+        2
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Rookie Mistake",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#ffbb78"
+      },
+      "itemStyle": {
+        "color": "#ffbb78"
+      },
+      "data": [
+        8,
+        9
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "Third Time's the Charm?",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#1f77b4"
+      },
+      "itemStyle": {
+        "color": "#1f77b4"
+      },
+      "data": [
+        1,
+        1
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    },
+    {
+      "name": "To Infinity and Bijan!",
+      "type": "line",
+      "smooth": true,
+      "lineStyle": {
+        "width": 3,
+        "color": "#9467bd"
+      },
+      "itemStyle": {
+        "color": "#9467bd"
+      },
+      "data": [
+        10,
+        10
+      ],
+      "symbol": "circle",
+      "symbolSize": 12,
+      "label": {
+        "show": false
+      }
+    }
+  ],
+  "grid": {
+    "left": "5%",
+    "right": "20%",
+    "bottom": "10%",
+    "top": "15%",
+    "containLabel": true
+  }
+}

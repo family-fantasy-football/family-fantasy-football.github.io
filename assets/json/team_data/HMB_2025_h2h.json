@@ -5,7 +5,7 @@
     "points": "176.4-81.6"
   },
   {
-    "opponent": "Abbey's TNT Team ",
+    "opponent": "Abbey's TNT Team",
     "record": "1-0",
     "points": "119.8-113.1"
   },
@@ -25,8 +25,13 @@
     "points": "122.9-119.9"
   },
   {
-    "opponent": "Americas Team ",
+    "opponent": "Americas Team",
     "record": "0-1",
     "points": "101.2-124.7"
+  },
+  {
+    "opponent": "To Infinity and Bijan!",
+    "record": "0-1",
+    "points": "91.2-95.4"
   }
 ]

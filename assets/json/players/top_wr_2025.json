@@ -1,82 +1,82 @@
 [
   {
-    "player_name": "Puka Nacua",
-    "team": "Abbey's TNT Team ",
-    "draft": "2.9",
-    "overall_pick": 21,
-    "points": 111.8,
-    "projected": 86.83
-  },
-  {
     "player_name": "Jaxon Smith-Njigba",
-    "team": "Americas Team ",
+    "team": "Americas Team",
     "draft": "4.8",
     "overall_pick": 44,
-    "points": 107.7,
-    "projected": 69.41
-  },
-  {
-    "player_name": "George Pickens",
-    "team": "Michael's Managable Team",
-    "draft": "6.7",
-    "overall_pick": 67,
-    "points": 104.5,
-    "projected": 65.39
+    "points": 130.0,
+    "projected": 80.98
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "team": "Game of Zones - House Hamlin",
     "draft": "3.2",
     "overall_pick": 26,
-    "points": 104.1,
-    "projected": 81.98
-  },
-  {
-    "player_name": "Emeka Egbuka",
-    "team": "Abbey's TNT Team ",
-    "draft": "9.4",
-    "overall_pick": 100,
-    "points": 93.3,
-    "projected": 51.97
+    "points": 121.7,
+    "projected": 95.64
   },
   {
     "player_name": "Ja'Marr Chase",
-    "team": "Americas Team ",
+    "team": "Americas Team",
     "draft": "1.5",
     "overall_pick": 5,
-    "points": 90.4,
-    "projected": 99.42
+    "points": 120.5,
+    "projected": 115.99
   },
   {
-    "player_name": "Garrett Wilson",
-    "team": "90s MonCon",
-    "draft": "6.12",
-    "overall_pick": 72,
-    "points": 81.5,
-    "projected": 69.42
+    "player_name": "George Pickens",
+    "team": "Michael's Managable Team",
+    "draft": "6.7",
+    "overall_pick": 67,
+    "points": 114.7,
+    "projected": 76.29
   },
   {
-    "player_name": "Deebo Samuel",
-    "team": "Abbey's TNT Team ",
-    "draft": "10.9",
-    "overall_pick": 117,
-    "points": 77.0,
-    "projected": 60.52
+    "player_name": "Puka Nacua",
+    "team": "Abbey's TNT Team",
+    "draft": "2.9",
+    "overall_pick": 21,
+    "points": 111.8,
+    "projected": 101.3
   },
   {
-    "player_name": "Tre Tucker",
+    "player_name": "Emeka Egbuka",
+    "team": "Abbey's TNT Team",
+    "draft": "9.4",
+    "overall_pick": 100,
+    "points": 101.1,
+    "projected": 60.63
+  },
+  {
+    "player_name": "Davante Adams",
+    "team": "Michael's Managable Team",
+    "draft": "4.7",
+    "overall_pick": 43,
+    "points": 94.6,
+    "projected": 88.34
+  },
+  {
+    "player_name": "Keenan Allen",
     "team": "Game of Zones - House Hamlin",
-    "draft": "FA",
-    "overall_pick": 999,
-    "points": 74.5,
-    "projected": 38.34
+    "draft": "11.2",
+    "overall_pick": 122,
+    "points": 89.5,
+    "projected": 70.86
   },
   {
-    "player_name": "Rome Odunze",
-    "team": "Mama Daughter Duo",
-    "draft": "8.3",
-    "overall_pick": 87,
-    "points": 73.8,
-    "projected": 63.99
+    "player_name": "Michael Pittman Jr.",
+    "team": "Michael's Managable Team",
+    "draft": "10.7",
+    "overall_pick": 115,
+    "points": 84.6,
+    "projected": 65.0
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "team": "To Infinity and Bijan!",
+    "draft": "16.4",
+    "overall_pick": 184,
+    "points": 83.4,
+    "projected": 56.4
   }
 ]

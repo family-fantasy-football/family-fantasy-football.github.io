@@ -3,7 +3,7 @@ layout: page
 permalink: /playoffs/
 title: playoffs
 description: 
-nav: false
+nav: true
 nav_order: 7
 chart:
   echarts: true
@@ -17,25 +17,18 @@ chart:
       "type": "tree",
       "data": [
         {
-          "name": "Champion",
+          "name": "Finals",
           "symbol": "rect",
           "symbolSize": [250, 50],
           "children": [
             {
-              "name": "Pink Pony Club",
-              "value": "0.0",
-              "itemStyle": {
-                "color": "#7EC8B6"
-              },
+              "name": "Winner of Semifinal 1",
               "symbol": "rect",
               "symbolSize": [250, 50],
-              "label": {
-                "formatter": "{b}\n{c}"
-              },
               "children": [
                 {
-                  "name": "Pink Pony Club",
-                  "value": "366.24",
+                  "name": "Third Time's the Charm?",
+                  "value": "141.2",
                   "itemStyle": {
                     "color": "#7EC8B6"
                   },
@@ -46,8 +39,8 @@ chart:
                   }
                 },
                 {
-                  "name": "Tom and Jerry",
-                  "value": "307.18",
+                  "name": "Americas Team",
+                  "value": "173.1",
                   "itemStyle": {
                     "color": "#FF6347"
                   },
@@ -60,19 +53,13 @@ chart:
               ]
             },
             {
-              "name": "Who Killed Charbonnet Ramsey?",
-              "value": "0.0",
-              "itemStyle": {
-                "color": "#1E90FF"
-              },
+              "name": "Winner of Semifinal 2",
               "symbol": "rect",
               "symbolSize": [250, 50],
-              "label": {
-                "formatter": "{b}\n{c}" },
               "children": [
                 {
-                  "name": "Hamlin My Business ",
-                  "value": "244.28",
+                  "name": "Michael's Managable Team",
+                  "value": "187.93",
                   "itemStyle": {
                     "color": "#FFD700"
                   },
@@ -83,8 +70,8 @@ chart:
                   }
                 },
                 {
-                  "name": "Who Killed Charbonnet Ramsey?",
-                  "value": "273.34",
+                  "name": "Abbey's TNT Team",
+                  "value": "101.89",
                   "itemStyle": {
                     "color": "#1E90FF"
                   },

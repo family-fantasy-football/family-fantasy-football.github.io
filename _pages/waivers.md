@@ -24,9 +24,9 @@ data-url="{{ "/assets/json/transactions/best_fa_2025.json"}}">
      <th data-field="week" data-halign="center" data-align="center" data-sortable="false">Week</th>
      <th data-field="total_points" data-halign="center" data-align="center" data-sortable="true">Total Pts</th>
      <th data-field="avg_per_week" data-halign="center" data-align="center" data-sortable="true">PPG</th>
-     <!-- <th data-field="points_above_prev" data-halign="center" data-align="center" data-sortable="true">+/- Prev Avg</th> -->
+     <th data-field="points_above_prev" data-halign="center" data-align="center" data-sortable="true">+/- Prev Avg</th>
      <th data-field="weeks_played" data-halign="center" data-align="center" data-sortable="false">Weeks</th>
-     <!-- <th data-field="type" data-halign="center" data-align="center" data-sortable="true">Type</th> -->
+     <th data-field="type" data-halign="center" data-align="center" data-sortable="true">Type</th>
     </tr>
 </thead>
 </table>

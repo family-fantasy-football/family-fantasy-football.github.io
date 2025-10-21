@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 34.46,
+    "projected": 19.37
+  },
+  {
+    "player_name": "Xavier Legette",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.7,
+    "projected": 4.54
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.8,
+    "projected": 10.77
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.2,
+    "projected": 20.41
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.5,
+    "projected": 15.02
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 11.75,
+    "projected": 7.84
+  },
+  {
+    "player_name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 4.65,
+    "projected": 4.64
+  },
+  {
+    "player_name": "Jaydon Blue",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 3.9,
+    "projected": 3.77
+  },
+  {
+    "player_name": "Kalif Raymond",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 3.2,
+    "projected": 1.13
+  }
+]

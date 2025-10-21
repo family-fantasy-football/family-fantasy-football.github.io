@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Carson Wentz",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 8.32,
+    "projected": 18.31
+  },
+  {
+    "player_name": "Marvin Mims Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.8,
+    "projected": 6.02
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.4,
+    "projected": 14.86
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.3,
+    "projected": 17.82
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.3,
+    "projected": 15.92
+  },
+  {
+    "player_name": "Theo Johnson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.85,
+    "projected": 7.58
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 11.45,
+    "projected": 7.89
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.0,
+    "projected": 12.44
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 8.3,
+    "projected": 8.45
+  }
+]

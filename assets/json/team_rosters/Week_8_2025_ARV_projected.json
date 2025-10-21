@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 24.42,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.26,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Deebo Samuel",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.68,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 22.91,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Kendre Miller",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 5.48,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.86,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Calvin Ridley",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.03,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Xavier Legette",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 7.0,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "OP",
+    "projected": 5.19,
+    "opponent": "BAL"
+  }
+]

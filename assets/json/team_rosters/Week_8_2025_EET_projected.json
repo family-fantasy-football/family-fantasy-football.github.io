@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 16.72,
+    "opponent": "HOU"
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.05,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.4,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.98,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 8.07,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.92,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.04,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Justice Hill",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 6.77,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Hollywood Brown",
+    "pos": "WR",
+    "slot": "OP",
+    "projected": 5.62,
+    "opponent": "WSH"
+  }
+]

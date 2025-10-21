@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Daniel Jones",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 26.22,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.99,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.87,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 11.86,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Woody Marks",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 8.83,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 11.63,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.37,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.06,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 25.42,
+    "opponent": "MIN"
+  }
+]

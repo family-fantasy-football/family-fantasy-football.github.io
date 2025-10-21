@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 30.48,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.7,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Xavier Worthy",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.96,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Cam Skattebo",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.84,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 11.81,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Mason Taylor",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 8.64,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.93,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.19,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 23.48,
+    "opponent": "DEN"
+  }
+]

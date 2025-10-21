@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.2,
+    "projected": 14.82
+  },
+  {
+    "player_name": "C.J. Stroud",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 1.16,
+    "projected": 21.65
+  },
+  {
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 18.6,
+    "projected": 8.8
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.6,
+    "projected": 10.22
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 4.05,
+    "projected": 10.4
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 18.5,
+    "projected": 9.14
+  },
+  {
+    "player_name": "Joe Flacco",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 31.48,
+    "projected": 11.4
+  },
+  {
+    "player_name": "Kendrick Bourne",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 2.4,
+    "projected": 8.05
+  },
+  {
+    "player_name": "Chris Moore",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.9,
+    "projected": 9.41
+  }
+]

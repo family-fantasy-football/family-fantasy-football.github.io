@@ -89,8 +89,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 },
                 {
-                    "id": "Americas Team ",
-                    "name": "Americas Team ",
+                    "id": "Americas Team",
+                    "name": "Americas Team",
                     "itemStyle": {
                         "color": "hsl(98.18181818181819, 70%, 50%)"
                     }
@@ -124,8 +124,8 @@ data-url="{{ "/assets/json/transactions/trades_2025.json"}}">
                     }
                 },
                 {
-                    "id": "Abbey's TNT Team ",
-                    "name": "Abbey's TNT Team ",
+                    "id": "Abbey's TNT Team",
+                    "name": "Abbey's TNT Team",
                     "itemStyle": {
                         "color": "hsl(261.8181818181818, 70%, 50%)"
                     }
