@@ -64,6 +64,12 @@ chart:
   <h2 style="font-size: 32px; font-weight: 700; color: #2c3e50; margin: 0 0 25px 0; padding-bottom: 15px; border-bottom: 3px solid #667eea;">
     📊 League Standings
   </h2>
+  <style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
+
 <table
     data-click-to-select="true"
     data-pagination="false"
