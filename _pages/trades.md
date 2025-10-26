@@ -9,7 +9,11 @@ chart:
     echarts: true
 pretty_table: True
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 <center>
 <div class="row mb-3">
     <div class="col-12">

@@ -11,6 +11,11 @@ chart:
     echarts: true
 pretty_table: True
 ---
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 <script src="/assets/js/player-comparison.js"></script>
 <div class="container mt-4">
     <div class="row">

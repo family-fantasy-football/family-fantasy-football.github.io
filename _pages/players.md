@@ -9,7 +9,11 @@ chart:
 echarts: true
 pretty_table: True
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 ### Season Overview
 
 Leading the way this season:

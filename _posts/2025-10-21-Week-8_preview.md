@@ -13,7 +13,11 @@ toc:
   sidebar: left
   max_level: 2
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 ## 🔮 Week 8 Matchups Preview
 
 ---

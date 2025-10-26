@@ -7,7 +7,11 @@ nav_order: 7
 description: League payment tracking and prize distribution
 pretty_table: True
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 ## League Payment Tracker
 
 

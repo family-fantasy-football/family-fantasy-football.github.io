@@ -9,7 +9,11 @@ chart:
 echarts: true
 pretty_table: True
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 <div style="text-align: center; padding: 40px 0 30px 0;">
   <h1 style="font-size: 42px; font-weight: 700; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px;">
     League Records

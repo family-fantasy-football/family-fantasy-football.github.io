@@ -11,6 +11,11 @@ chart:
     echarts: true
 pretty_table: True
 ---
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 <script src="/assets/js/trade-suggestions.js"></script>
 
 This only displays trades that have a net benefit to both trade partners. I think that is is working correctly. 
