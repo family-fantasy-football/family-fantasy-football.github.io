@@ -76,7 +76,7 @@ chart:
                 data-halign="left" 
                 data-align="left" 
                 data-sortable="true"
-                style="color: white; font-weight: 600; padding: 15px;">Team</th>
+                style="color: #2c3e50; font-weight: 600; padding: 15px;">Team</th>
             <th data-field="record" 
                 data-halign="center" 
                 data-align="center" 
