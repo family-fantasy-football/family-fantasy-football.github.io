@@ -18,6 +18,15 @@
     "net": "$5"
   },
   {
+    "team": "Game of Zones - House Hamlin",
+    "manager": "Kyle Hamlin",
+    "paid": "Yes",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
+    "penalties": "$0",
+    "net": "$5"
+  },
+  {
     "team": "Abbey's TNT Team",
     "manager": "Abbey Hamlin",
     "paid": "Yes",
@@ -25,6 +34,15 @@
     "winnings": "$5",
     "penalties": "$0",
     "net": "$5"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "manager": "Cathy Dickson and Jordan Dickson",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
   },
   {
     "team": "Americas Team",
@@ -36,17 +54,8 @@
     "net": "$5"
   },
   {
-    "team": "Game of Zones - House Hamlin",
-    "manager": "Kyle Hamlin",
-    "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
-    "penalties": "$0",
-    "net": "$5"
-  },
-  {
-    "team": "Mcconky Donkeys",
-    "manager": "Kayden Mullins",
+    "team": "Rookie Mistake",
+    "manager": "Tom Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
@@ -54,8 +63,8 @@
     "net": "$0"
   },
   {
-    "team": "Mama Daughter Duo",
-    "manager": "Cathy Dickson and Jordan Dickson",
+    "team": "Mcconky Donkeys",
+    "manager": "Kayden Mullins",
     "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
@@ -72,15 +81,6 @@
     "net": "$10"
   },
   {
-    "team": "Rookie Mistake",
-    "manager": "Tom Ratcliff",
-    "paid": "Yes",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
     "team": "To Infinity and Bijan!",
     "manager": "Nick Hill",
     "paid": "Yes",
@@ -93,10 +93,10 @@
     "team": "Big Titi Energy",
     "manager": "Christine Hamlin",
     "paid": "Yes",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
     "penalties": "$0",
-    "net": "$0"
+    "net": "$5"
   },
   {
     "team": "Emma's Excellent Team",

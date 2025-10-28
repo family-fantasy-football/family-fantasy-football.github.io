@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 9,
     "player_name": "Justin Jefferson",
-    "points": "76.2",
-    "before_trade": "76.2",
+    "points": "87.1",
+    "before_trade": "87.1",
     "after_trade": "0.0",
     "draft_position": 9,
-    "value_diff": "-30.7",
+    "value_diff": "-35.1",
     "grade": "C"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "93.8",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "-55.0",
+    "value_diff": "-76.2",
     "grade": "D"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "48.1",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-53.9",
+    "value_diff": "-68.5",
     "grade": "D"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 4,
     "player_name": "Josh Jacobs",
-    "points": "115.3",
-    "before_trade": "115.3",
+    "points": "127.3",
+    "before_trade": "127.3",
     "after_trade": "0.0",
     "draft_position": 40,
-    "value_diff": "7.3",
+    "value_diff": "3.9",
     "grade": "B"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 9,
     "player_name": "TreVeyon Henderson",
-    "points": "39.2",
+    "points": "44.7",
     "before_trade": "30.9",
-    "after_trade": "8.3",
+    "after_trade": "13.8",
     "draft_position": 57,
-    "value_diff": "-44.1",
+    "value_diff": "-50.5",
     "grade": "D"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 4,
     "player_name": "Justin Fields",
-    "points": "97.5",
-    "before_trade": "97.5",
+    "points": "119.9",
+    "before_trade": "119.9",
     "after_trade": "0.0",
     "draft_position": 64,
-    "value_diff": "-28.3",
+    "value_diff": "-23.9",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 9,
     "player_name": "Tetairoa McMillan",
-    "points": "68.3",
-    "before_trade": "68.3",
+    "points": "81.7",
+    "before_trade": "81.7",
     "after_trade": "0.0",
     "draft_position": 81,
-    "value_diff": "-11.5",
+    "value_diff": "-9.5",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 4,
     "player_name": "Mark Andrews",
-    "points": "45.5",
-    "before_trade": "45.5",
+    "points": "51.2",
+    "before_trade": "51.2",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "-19.5",
+    "value_diff": "-23.2",
     "grade": "C"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 9,
     "player_name": "Keon Coleman",
-    "points": "45.7",
-    "before_trade": "45.7",
+    "points": "50.2",
+    "before_trade": "50.2",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-25.5",
+    "value_diff": "-31.1",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 4,
     "player_name": "Javonte Williams",
-    "points": "119.2",
-    "before_trade": "119.2",
+    "points": "136.6",
+    "before_trade": "136.6",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "38.1",
+    "value_diff": "44.0",
     "grade": "A"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 9,
     "player_name": "Nick Chubb",
-    "points": "46.6",
-    "before_trade": "46.6",
+    "points": "54.5",
+    "before_trade": "54.5",
     "after_trade": "0.0",
     "draft_position": 129,
-    "value_diff": "-0.2",
+    "value_diff": "1.0",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 4,
     "player_name": "Darnell Mooney",
-    "points": "19.7",
-    "before_trade": "19.7",
+    "points": "21.3",
+    "before_trade": "21.3",
     "after_trade": "0.0",
     "draft_position": 136,
-    "value_diff": "-34.7",
+    "value_diff": "-40.8",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 9,
     "player_name": "Kyle Pitts Sr.",
-    "points": "57.0",
-    "before_trade": "57.0",
+    "points": "69.7",
+    "before_trade": "69.7",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "3.2",
+    "value_diff": "8.2",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.2",
     "after_trade": "0.0",
     "draft_position": 160,
-    "value_diff": "-30.6",
+    "value_diff": "-35.0",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "11.2",
     "after_trade": "0.0",
     "draft_position": 177,
-    "value_diff": "-7.8",
+    "value_diff": "-10.5",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "83.4",
     "after_trade": "0.0",
     "draft_position": 184,
-    "value_diff": "27.0",
-    "grade": "A"
+    "value_diff": "18.9",
+    "grade": "B"
   }
 ]

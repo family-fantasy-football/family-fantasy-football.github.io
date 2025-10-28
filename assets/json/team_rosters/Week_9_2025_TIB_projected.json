@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 25.9,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.32,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.46,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 17.48,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.73,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.66,
+    "opponent": "NE"
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.35,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Theo Johnson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.11,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "OP",
+    "projected": 8.97,
+    "opponent": "MIA"
+  }
+]

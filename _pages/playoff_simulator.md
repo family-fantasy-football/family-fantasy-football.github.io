@@ -7,6 +7,7 @@ nav_order: 7
 description: Simulate playoff scenarios
 ---
 
+
 <style>
 .simulator-container {
     max-width: 1400px;
@@ -224,6 +225,7 @@ description: Simulate playoff scenarios
 .standings-table td {
     padding: 15px;
     border-bottom: 1px solid #ecf0f1;
+    color: #2c3e50;
 }
 
 .standings-table tbody tr {
@@ -410,6 +412,7 @@ description: Simulate playoff scenarios
 .magic-table td {
     padding: 12px;
     border-bottom: 1px solid #ecf0f1;
+    color: #2c3e50;
 }
 
 .status-clinched { color: #27ae60; font-weight: bold; }
@@ -443,7 +446,7 @@ description: Simulate playoff scenarios
 
 <div class="simulator-container" id="playoff-simulator">
     
-    <!-- Magic Numbers Section -->
+    <!-- Magic Numbers Section
     <div class="magic-numbers-section">
         <h2>🎯 Magic Numbers</h2>
         <table class="magic-table" id="magic-numbers-table">
@@ -460,7 +463,7 @@ description: Simulate playoff scenarios
             </thead>
             <tbody id="magic-numbers-body"></tbody>
         </table>
-    </div>
+    </div> -->
 
     <div class="controls">
         <button class="btn-sim btn-primary" onclick="resetSimulator()">🔄 Reset All</button>

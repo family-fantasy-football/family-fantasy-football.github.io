@@ -672,6 +672,70 @@
   "bid_amount": 0
  },
  {
+  "team": "Game of Zones - House Hamlin",
+  "week": 7,
+  "player_name": "Luke McCaffrey",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 7,
+  "player_name": "JuJu Smith-Schuster",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 7,
+  "player_name": "Elic Ayomanor",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 7,
+  "player_name": "Tez Johnson",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 6
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 7,
+  "player_name": "Mac Jones",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 7,
+  "player_name": "Tyrod Taylor",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 8
+ },
+ {
+  "team": "90s MonCon",
+  "week": 7,
+  "player_name": "AJ Barner",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 7,
+  "player_name": "Oronde Gadsden II",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 11
+ },
+ {
   "team": "Big Titi Energy",
   "week": 7,
   "player_name": "Chris Moore",
@@ -742,5 +806,181 @@
   "position": "WR",
   "type": "WAIVER",
   "bid_amount": 6
+ },
+ {
+  "team": "90s MonCon",
+  "week": 8,
+  "player_name": "Dillon Gabriel",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "90s MonCon",
+  "week": 8,
+  "player_name": "Kirk Cousins",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 8,
+  "player_name": "Tyrone Tracy Jr.",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 8,
+  "player_name": "Noah Fant",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 4
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "Jaylin Noel",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "Tyquan Thornton",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 8,
+  "player_name": "Devin Neal",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 8,
+  "player_name": "Christian Kirk",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "Tyquan Thornton",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "DeAndre Hopkins",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 8,
+  "player_name": "Darren Waller",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Third Time's the Charm?",
+  "week": 8,
+  "player_name": "Tyrone Tracy Jr.",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Pat Freiermuth",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Jake Tonges",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Tyrod Taylor",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Marcus Mariota",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Chig Okonkwo",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 8,
+  "player_name": "Alec Pierce",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "Hassan Haskins",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Americas Team",
+  "week": 8,
+  "player_name": "Kyle Monangai",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 1
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 8,
+  "player_name": "Josh Reynolds",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 5
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 8,
+  "player_name": "Jerome Ford",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
  }
 ]

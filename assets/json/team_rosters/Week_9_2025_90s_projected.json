@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 29.17,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Nico Collins",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.66,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.37,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 21.78,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Kimani Vidal",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.48,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Oronde Gadsden II",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.2,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 14.06,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.75,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 22.19,
+    "opponent": "BAL"
+  }
+]

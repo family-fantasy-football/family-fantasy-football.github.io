@@ -38,10 +38,10 @@
       "data": [
         {
           "value": [
-            5.0,
-            0.9,
-            -3.0,
-            -0.8
+            5.5,
+            1.1,
+            -2.9,
+            -1.0
           ],
           "name": "Third Time's the Charm?"
         }
@@ -53,42 +53,12 @@
       "data": [
         {
           "value": [
-            4.4,
+            4.9,
             -0.5,
-            1.8,
-            1.0
+            2.0,
+            0.9
           ],
           "name": "Michael's Managable Team"
-        }
-      ]
-    },
-    {
-      "name": "Abbey's TNT Team",
-      "type": "radar",
-      "data": [
-        {
-          "value": [
-            -4.3,
-            3.3,
-            3.0,
-            -4.6
-          ],
-          "name": "Abbey's TNT Team"
-        }
-      ]
-    },
-    {
-      "name": "Americas Team",
-      "type": "radar",
-      "data": [
-        {
-          "value": [
-            0.2,
-            -0.1,
-            1.5,
-            3.4
-          ],
-          "name": "Americas Team"
         }
       ]
     },
@@ -99,26 +69,26 @@
         {
           "value": [
             5.1,
-            -2.2,
-            3.3,
-            2.3
+            -2.5,
+            2.8,
+            2.5
           ],
           "name": "Game of Zones - House Hamlin"
         }
       ]
     },
     {
-      "name": "Mcconky Donkeys",
+      "name": "Abbey's TNT Team",
       "type": "radar",
       "data": [
         {
           "value": [
-            0.4,
-            -2.3,
-            -2.6,
-            -1.8
+            -4.0,
+            2.7,
+            2.6,
+            -4.4
           ],
-          "name": "Mcconky Donkeys"
+          "name": "Abbey's TNT Team"
         }
       ]
     },
@@ -128,27 +98,27 @@
       "data": [
         {
           "value": [
-            2.7,
+            2.6,
             2.9,
             0.9,
-            0.8
+            0.9
           ],
           "name": "Mama Daughter Duo"
         }
       ]
     },
     {
-      "name": "90s MonCon",
+      "name": "Americas Team",
       "type": "radar",
       "data": [
         {
           "value": [
+            0.2,
+            -0.5,
             1.9,
-            3.8,
-            0.1,
-            1.2
+            3.4
           ],
-          "name": "90s MonCon"
+          "name": "Americas Team"
         }
       ]
     },
@@ -158,12 +128,42 @@
       "data": [
         {
           "value": [
-            -1.8,
+            -1.6,
             0.6,
-            -2.4,
-            3.1
+            -2.3,
+            2.7
           ],
           "name": "Rookie Mistake"
+        }
+      ]
+    },
+    {
+      "name": "Mcconky Donkeys",
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            0.2,
+            -2.2,
+            -2.2,
+            -1.9
+          ],
+          "name": "Mcconky Donkeys"
+        }
+      ]
+    },
+    {
+      "name": "90s MonCon",
+      "type": "radar",
+      "data": [
+        {
+          "value": [
+            1.0,
+            3.9,
+            0.0,
+            1.1
+          ],
+          "name": "90s MonCon"
         }
       ]
     },
@@ -173,10 +173,10 @@
       "data": [
         {
           "value": [
-            -2.6,
-            1.9,
-            0.4,
-            -4.9
+            -3.2,
+            2.1,
+            0.1,
+            -4.5
           ],
           "name": "To Infinity and Bijan!"
         }
@@ -188,10 +188,10 @@
       "data": [
         {
           "value": [
-            -6.0,
-            -3.6,
-            -3.6,
-            0.7
+            -5.4,
+            -3.4,
+            -3.4,
+            0.8
           ],
           "name": "Big Titi Energy"
         }
@@ -203,9 +203,9 @@
       "data": [
         {
           "value": [
-            -6.7,
+            -7.0,
             -3.3,
-            -0.5,
+            -0.7,
             -2.8
           ],
           "name": "Emma's Excellent Team"

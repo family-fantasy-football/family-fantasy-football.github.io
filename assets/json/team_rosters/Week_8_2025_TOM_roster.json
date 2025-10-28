@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 33.6,
+    "projected": 14.31
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 8.3,
+    "projected": 11.77
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.1,
+    "projected": 12.75
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 18.42,
+    "projected": 18.72
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.9,
+    "projected": 10.09
+  },
+  {
+    "player_name": "Kayshon Boutte",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.0,
+    "projected": 6.34
+  },
+  {
+    "player_name": "Dalton Kincaid",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 3.05,
+    "projected": 8.82
+  },
+  {
+    "player_name": "Alec Pierce",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.9,
+    "projected": 6.43
+  },
+  {
+    "player_name": "Marcus Mariota",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 14.82,
+    "projected": 19.04
+  }
+]

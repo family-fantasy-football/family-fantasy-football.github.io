@@ -14,7 +14,7 @@ pretty_table: True
     color: #2c3e50 !important;
   }
 </style>
-### Best Pickups
+
 <table
 data-click-to-select="true"
 data-search="false"

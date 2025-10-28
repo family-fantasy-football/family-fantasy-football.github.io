@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "C.J. Stroud",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 31.72,
+    "projected": 19.27
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.9,
+    "projected": 9.63
+  },
+  {
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.9,
+    "projected": 10.27
+  },
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 34.36,
+    "projected": 16.76
+  },
+  {
+    "player_name": "Devin Neal",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 2.6,
+    "projected": 4.27
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 17.05,
+    "projected": 11.1
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.6,
+    "projected": 8.68
+  },
+  {
+    "player_name": "Juwan Johnson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 9.05,
+    "projected": 8.58
+  },
+  {
+    "player_name": "Joe Flacco",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 25.82,
+    "projected": 16.83
+  }
+]

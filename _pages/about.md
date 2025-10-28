@@ -26,13 +26,13 @@ chart:
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🏆 Top Scorer</div>
     <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Michael Ratcliff</div>
-    <div style="font-size: 18px; opacity: 0.95;">978.53 points</div>
+    <div style="font-size: 18px; opacity: 0.95;">1118.39 points</div>
   </div>
   
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">📉 Bottom Scorer</div>
     <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Emma Grau</div>
-    <div style="font-size: 18px; opacity: 0.95;">616.78 points</div>
+    <div style="font-size: 18px; opacity: 0.95;">677.48 points</div>
   </div>
   
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -43,33 +43,31 @@ chart:
   
   <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">❄️ Lowest Week</div>
-    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Nick Hill</div>
-    <div style="font-size: 18px; opacity: 0.95;">65.20 pts (Week 6)</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Ryan Ratcliff</div>
+    <div style="font-size: 18px; opacity: 0.95;">60.54 pts (Week 8)</div>
   </div>
   
   <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: #2c3e50;">
     <div style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🍀 Luckiest</div>
-    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Kayden Mullins</div>
-    <div style="font-size: 18px;">+1.4 wins vs expected</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Christian Ratcliff</div>
+    <div style="font-size: 18px;">+1.5 wins vs expected</div>
   </div>
   
   <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: #2c3e50;">
     <div style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">😢 Unluckiest</div>
-    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Cathy Dickson and Jordan Dickson</div>
-    <div style="font-size: 18px;">-1.4 wins vs expected</div>
+    <div style="font-size: 24px; font-weight: 700; margin-bottom: 4px;">Connor Dickson and Monika Monko</div>
+    <div style="font-size: 18px;">-1.9 wins vs expected</div>
   </div>
 </div>
-
-<div style="background: white; padding: 35px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin: 40px 0;">
-  <h2 style="font-size: 32px; font-weight: 700; color: #2c3e50; margin: 0 0 25px 0; padding-bottom: 15px; border-bottom: 3px solid #667eea;">
-    📊 League Standings
-  </h2>
   <style>
   table[data-toggle="table"] tbody td {
     color: #2c3e50 !important;
   }
 </style>
-
+<div style="background: white; padding: 35px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin: 40px 0;">
+  <h2 style="font-size: 32px; font-weight: 700; color: #2c3e50; margin: 0 0 25px 0; padding-bottom: 15px; border-bottom: 3px solid #667eea;">
+    📊 League Standings
+  </h2>
 <table
     data-click-to-select="true"
     data-pagination="false"
@@ -82,7 +80,7 @@ chart:
                 data-halign="left" 
                 data-align="left" 
                 data-sortable="true"
-                style="color: #2c3e50; font-weight: 600; padding: 15px;">Team</th>
+                style="color: white; font-weight: 600; padding: 15px;">Team</th>
             <th data-field="record" 
                 data-halign="center" 
                 data-align="center" 
@@ -139,7 +137,8 @@ chart:
             4,
             5,
             6,
-            7
+            7,
+            8
         ]
     },
     "yAxis": {
@@ -158,10 +157,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#c49c94"
+                "color": "#f7b6d2"
             },
             "itemStyle": {
-                "color": "#c49c94"
+                "color": "#f7b6d2"
             },
             "data": [
                 7,
@@ -170,7 +169,8 @@ chart:
                 1,
                 3,
                 7,
-                8
+                8,
+                9
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -186,10 +186,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#ffbb78"
+                "color": "#98df8a"
             },
             "itemStyle": {
-                "color": "#ffbb78"
+                "color": "#98df8a"
             },
             "data": [
                 4,
@@ -198,7 +198,8 @@ chart:
                 4,
                 5,
                 4,
-                3
+                3,
+                4
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -214,10 +215,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#98df8a"
+                "color": "#9467bd"
             },
             "itemStyle": {
-                "color": "#98df8a"
+                "color": "#9467bd"
             },
             "data": [
                 12,
@@ -226,7 +227,8 @@ chart:
                 10,
                 8,
                 6,
-                4
+                4,
+                6
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -254,6 +256,7 @@ chart:
                 12,
                 11,
                 12,
+                11,
                 11
             ],
             "symbol": "circle",
@@ -282,6 +285,7 @@ chart:
                 11,
                 12,
                 11,
+                12,
                 12
             ],
             "symbol": "circle",
@@ -298,10 +302,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#d62728"
+                "color": "#ffbb78"
             },
             "itemStyle": {
-                "color": "#d62728"
+                "color": "#ffbb78"
             },
             "data": [
                 1,
@@ -310,7 +314,8 @@ chart:
                 2,
                 1,
                 3,
-                5
+                5,
+                3
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -326,10 +331,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#8c564b"
+                "color": "#d62728"
             },
             "itemStyle": {
-                "color": "#8c564b"
+                "color": "#d62728"
             },
             "data": [
                 3,
@@ -338,7 +343,8 @@ chart:
                 6,
                 9,
                 9,
-                7
+                7,
+                5
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -354,10 +360,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#9467bd"
+                "color": "#c49c94"
             },
             "itemStyle": {
-                "color": "#9467bd"
+                "color": "#c49c94"
             },
             "data": [
                 10,
@@ -366,7 +372,8 @@ chart:
                 9,
                 7,
                 5,
-                6
+                6,
+                8
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -394,6 +401,7 @@ chart:
                 3,
                 4,
                 2,
+                2,
                 2
             ],
             "symbol": "circle",
@@ -410,10 +418,10 @@ chart:
             "smooth": true,
             "lineStyle": {
                 "width": 3,
-                "color": "#f7b6d2"
+                "color": "#8c564b"
             },
             "itemStyle": {
-                "color": "#f7b6d2"
+                "color": "#8c564b"
             },
             "data": [
                 9,
@@ -422,7 +430,8 @@ chart:
                 7,
                 6,
                 8,
-                9
+                9,
+                7
             ],
             "symbol": "circle",
             "symbolSize": 12,
@@ -450,6 +459,7 @@ chart:
                 5,
                 2,
                 1,
+                1,
                 1
             ],
             "symbol": "circle",
@@ -476,6 +486,7 @@ chart:
                 6,
                 8,
                 8,
+                10,
                 10,
                 10,
                 10
@@ -532,16 +543,16 @@ chart:
         "name": "Points For",
         "nameLocation": "middle",
         "nameGap": 30,
-        "min": 467.0,
-        "max": 1139.0
+        "min": 527.0,
+        "max": 1283.0
     },
     "yAxis": {
         "type": "value",
         "name": "Points Against",
         "nameLocation": "middle",
         "nameGap": 40,
-        "min": 467.0,
-        "max": 1139.0
+        "min": 527.0,
+        "max": 1283.0
     },
     "series": [
         {
@@ -550,8 +561,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    932.49,
-                    793.5
+                    1048.92,
+                    860.83
                 ]
             ]
         },
@@ -561,8 +572,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    880.38,
-                    822.55
+                    1024.55,
+                    976.55
                 ]
             ]
         },
@@ -572,8 +583,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    818.49,
-                    861.29
+                    940.58,
+                    957.06
                 ]
             ]
         },
@@ -583,8 +594,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    960.97,
-                    852.84
+                    1021.51,
+                    992.7
                 ]
             ]
         },
@@ -594,8 +605,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    978.53,
-                    781.1
+                    1118.39,
+                    841.64
                 ]
             ]
         },
@@ -605,8 +616,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    754.48,
-                    843.79
+                    850.25,
+                    965.88
                 ]
             ]
         },
@@ -616,8 +627,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    746.58,
-                    713.17
+                    868.92,
+                    852.14
                 ]
             ]
         },
@@ -627,8 +638,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    947.31,
-                    920.22
+                    1080.57,
+                    980.92
                 ]
             ]
         },
@@ -638,8 +649,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    851.42,
-                    790.35
+                    918.75,
+                    906.78
                 ]
             ]
         },
@@ -649,8 +660,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    861.55,
-                    764.58
+                    1000.52,
+                    886.92
                 ]
             ]
         },
@@ -660,8 +671,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    616.78,
-                    862.96
+                    677.48,
+                    996.22
                 ]
             ]
         },
@@ -671,8 +682,8 @@ chart:
             "symbolSize": 15,
             "data": [
                 [
-                    646.0,
-                    988.63
+                    800.0,
+                    1132.8
                 ]
             ]
         },
@@ -686,12 +697,12 @@ chart:
             "showSymbol": false,
             "data": [
                 [
-                    467.0,
-                    467.0
+                    527.0,
+                    527.0
                 ],
                 [
-                    1139.0,
-                    1139.0
+                    1283.0,
+                    1283.0
                 ]
             ],
             "silent": true
@@ -703,14 +714,14 @@ chart:
                 "silent": true,
                 "data": [
                     {
-                        "xAxis": 832.92,
+                        "xAxis": 945.87,
                         "lineStyle": {
                             "color": "blue",
                             "opacity": 0.5
                         }
                     },
                     {
-                        "yAxis": 832.92,
+                        "yAxis": 945.87,
                         "lineStyle": {
                             "color": "red",
                             "opacity": 0.5
@@ -744,13 +755,13 @@ chart:
         "data": [
             "TTC",
             "MMT",
-            "ARV",
-            "RRT",
             "HMB",
-            "KTT",
+            "ARV",
             "JST",
-            "90s",
+            "RRT",
             "TOM",
+            "KTT",
+            "90s",
             "TIB",
             "BTE",
             "EET"
@@ -769,86 +780,86 @@ chart:
             "data": [
                 [
                     85.3,
-                    109.0,
-                    141.2,
-                    161.16,
+                    110.44,
+                    128.82,
+                    159.01,
                     165.67
                 ],
                 [
                     111.95,
-                    126.03,
-                    136.89,
-                    144.85,
-                    173.08
-                ],
-                [
-                    97.27,
-                    107.49,
-                    115.72,
-                    132.94,
-                    157.57
-                ],
-                [
-                    80.1,
-                    118.14,
-                    144.61,
-                    160.86,
-                    178.27
+                    129.09,
+                    138.38,
+                    142.94,
+                    163.71
                 ],
                 [
                     91.16,
-                    108.07,
-                    119.75,
-                    129.06,
-                    160.53
+                    111.51,
+                    121.31,
+                    136.17,
+                    173.17
                 ],
                 [
-                    86.76,
-                    88.02,
-                    99.4,
-                    115.48,
-                    153.43
+                    67.33,
+                    100.74,
+                    114.4,
+                    126.56,
+                    157.57
                 ],
                 [
                     120.25,
-                    124.98,
-                    126.38,
-                    146.78,
+                    125.6,
+                    129.82,
+                    144.18,
                     157.16
                 ],
                 [
-                    67.71,
-                    104.68,
-                    115.91,
-                    158.32,
-                    170.76
+                    60.54,
+                    103.67,
+                    134.68,
+                    154.74,
+                    178.27
                 ],
                 [
                     94.53,
-                    103.32,
-                    115.52,
-                    122.8,
-                    152.03
+                    103.49,
+                    117.96,
+                    122.87,
+                    151.93
+                ],
+                [
+                    86.76,
+                    88.28,
+                    100.28,
+                    124.21,
+                    153.43
+                ],
+                [
+                    67.71,
+                    108.08,
+                    130.04,
+                    157.74,
+                    170.76
                 ],
                 [
                     65.2,
-                    87.0,
-                    111.43,
-                    133.16,
+                    91.2,
+                    103.6,
+                    132.69,
                     137.55
                 ],
                 [
                     69.1,
-                    81.43,
-                    82.52,
-                    91.84,
-                    107.46
+                    81.51,
+                    85.16,
+                    108.88,
+                    149.94
                 ],
                 [
-                    66.19,
-                    70.78,
-                    89.62,
-                    105.6,
+                    60.7,
+                    67.5,
+                    81.62,
+                    105.37,
                     108.2
                 ]
             ],
@@ -896,6 +907,11 @@ chart:
                     "TTC"
                 ],
                 [
+                    0,
+                    116.43,
+                    "TTC"
+                ],
+                [
                     1,
                     111.95,
                     "MMT"
@@ -931,249 +947,289 @@ chart:
                     "MMT"
                 ],
                 [
+                    1,
+                    139.86,
+                    "MMT"
+                ],
+                [
                     2,
+                    176.38,
+                    "HMB"
+                ],
+                [
+                    2,
+                    119.75,
+                    "HMB"
+                ],
+                [
+                    2,
+                    114.94,
+                    "HMB"
+                ],
+                [
+                    2,
+                    135.24,
+                    "HMB"
+                ],
+                [
+                    2,
+                    122.87,
+                    "HMB"
+                ],
+                [
+                    2,
+                    101.21,
+                    "HMB"
+                ],
+                [
+                    2,
+                    91.16,
+                    "HMB"
+                ],
+                [
+                    2,
+                    138.97,
+                    "HMB"
+                ],
+                [
+                    3,
                     115.72,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     113.09,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     120.18,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     157.57,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     145.7,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     97.27,
                     "ARV"
                 ],
                 [
-                    2,
+                    3,
                     101.89,
                     "ARV"
                 ],
                 [
                     3,
-                    80.1,
-                    "RRT"
-                ],
-                [
-                    3,
-                    148.62,
-                    "RRT"
-                ],
-                [
-                    3,
-                    144.61,
-                    "RRT"
-                ],
-                [
-                    3,
-                    111.53,
-                    "RRT"
-                ],
-                [
-                    3,
-                    178.27,
-                    "RRT"
-                ],
-                [
-                    3,
-                    124.74,
-                    "RRT"
-                ],
-                [
-                    3,
-                    173.1,
-                    "RRT"
+                    67.33,
+                    "ARV"
                 ],
                 [
                     4,
-                    176.38,
-                    "HMB"
-                ],
-                [
-                    4,
-                    119.75,
-                    "HMB"
-                ],
-                [
-                    4,
-                    114.94,
-                    "HMB"
-                ],
-                [
-                    4,
-                    135.24,
-                    "HMB"
-                ],
-                [
-                    4,
-                    122.87,
-                    "HMB"
-                ],
-                [
-                    4,
-                    101.21,
-                    "HMB"
-                ],
-                [
-                    4,
-                    91.16,
-                    "HMB"
-                ],
-                [
-                    5,
-                    101.15,
-                    "KTT"
-                ],
-                [
-                    5,
-                    99.4,
-                    "KTT"
-                ],
-                [
-                    5,
-                    88.53,
-                    "KTT"
-                ],
-                [
-                    5,
-                    86.76,
-                    "KTT"
-                ],
-                [
-                    5,
-                    129.8,
-                    "KTT"
-                ],
-                [
-                    5,
-                    153.43,
-                    "KTT"
-                ],
-                [
-                    5,
-                    87.51,
-                    "KTT"
-                ],
-                [
-                    6,
                     126.38,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     126.22,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     157.16,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     123.73,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     120.25,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     152.0,
                     "JST"
                 ],
                 [
-                    6,
+                    4,
                     141.57,
                     "JST"
                 ],
                 [
+                    4,
+                    133.26,
+                    "JST"
+                ],
+                [
+                    5,
+                    80.1,
+                    "RRT"
+                ],
+                [
+                    5,
+                    148.62,
+                    "RRT"
+                ],
+                [
+                    5,
+                    144.61,
+                    "RRT"
+                ],
+                [
+                    5,
+                    111.53,
+                    "RRT"
+                ],
+                [
+                    5,
+                    178.27,
+                    "RRT"
+                ],
+                [
+                    5,
+                    124.74,
+                    "RRT"
+                ],
+                [
+                    5,
+                    173.1,
+                    "RRT"
+                ],
+                [
+                    5,
+                    60.54,
+                    "RRT"
+                ],
+                [
+                    6,
+                    103.67,
+                    "TOM"
+                ],
+                [
+                    6,
+                    125.2,
+                    "TOM"
+                ],
+                [
+                    6,
+                    94.53,
+                    "TOM"
+                ],
+                [
+                    6,
+                    156.21,
+                    "TOM"
+                ],
+                [
+                    6,
+                    120.4,
+                    "TOM"
+                ],
+                [
+                    6,
+                    115.52,
+                    "TOM"
+                ],
+                [
+                    6,
+                    102.96,
+                    "TOM"
+                ],
+                [
+                    6,
+                    122.09,
+                    "TOM"
+                ],
+                [
                     7,
+                    101.15,
+                    "KTT"
+                ],
+                [
+                    7,
+                    99.4,
+                    "KTT"
+                ],
+                [
+                    7,
+                    88.53,
+                    "KTT"
+                ],
+                [
+                    7,
+                    86.76,
+                    "KTT"
+                ],
+                [
+                    7,
+                    129.8,
+                    "KTT"
+                ],
+                [
+                    7,
+                    153.43,
+                    "KTT"
+                ],
+                [
+                    7,
+                    87.51,
+                    "KTT"
+                ],
+                [
+                    7,
+                    122.34,
+                    "KTT"
+                ],
+                [
+                    8,
                     111.47,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     157.15,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     170.76,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     115.91,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     159.49,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     67.71,
                     "90s"
                 ],
                 [
-                    7,
+                    8,
                     97.89,
                     "90s"
                 ],
                 [
                     8,
-                    103.67,
-                    "TOM"
-                ],
-                [
-                    8,
-                    125.2,
-                    "TOM"
-                ],
-                [
-                    8,
-                    94.53,
-                    "TOM"
-                ],
-                [
-                    8,
-                    156.21,
-                    "TOM"
-                ],
-                [
-                    8,
-                    120.4,
-                    "TOM"
-                ],
-                [
-                    8,
-                    115.52,
-                    "TOM"
-                ],
-                [
-                    8,
-                    102.96,
-                    "TOM"
+                    144.17,
+                    "90s"
                 ],
                 [
                     9,
@@ -1208,6 +1264,11 @@ chart:
                 [
                     9,
                     95.41,
+                    "TIB"
+                ],
+                [
+                    9,
+                    95.77,
                     "TIB"
                 ],
                 [
@@ -1246,6 +1307,11 @@ chart:
                     "BTE"
                 ],
                 [
+                    10,
+                    154.0,
+                    "BTE"
+                ],
+                [
                     11,
                     108.2,
                     "EET"
@@ -1278,6 +1344,11 @@ chart:
                 [
                     11,
                     66.19,
+                    "EET"
+                ],
+                [
+                    11,
+                    60.7,
                     "EET"
                 ]
             ]
@@ -1327,13 +1398,13 @@ chart:
         "data": [
             "TTC",
             "MMT",
-            "ARV",
-            "RRT",
             "HMB",
-            "KTT",
+            "ARV",
             "JST",
-            "90s",
+            "RRT",
             "TOM",
+            "KTT",
+            "90s",
             "TIB",
             "BTE",
             "EET"
@@ -1378,177 +1449,177 @@ chart:
                 [
                     1,
                     0,
-                    5
-                ],
-                [
-                    2,
-                    0,
-                    9
-                ],
-                [
-                    3,
-                    0,
-                    11
-                ],
-                [
-                    0,
-                    1,
-                    2
-                ],
-                [
-                    1,
-                    1,
-                    6
-                ],
-                [
-                    2,
-                    1,
-                    3
-                ],
-                [
-                    3,
-                    1,
-                    2
-                ],
-                [
-                    0,
-                    2,
-                    9
-                ],
-                [
-                    1,
-                    2,
                     4
                 ],
                 [
                     2,
-                    2,
-                    11
+                    0,
+                    8
                 ],
                 [
                     3,
+                    0,
+                    11
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    1,
+                    7
+                ],
+                [
+                    2,
+                    1,
+                    7
+                ],
+                [
+                    3,
+                    1,
+                    2
+                ],
+                [
+                    0,
                     2,
                     3
                 ],
                 [
+                    1,
+                    2,
+                    12
+                ],
+                [
+                    2,
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    2,
+                    4
+                ],
+                [
                     0,
                     3,
-                    5
+                    9
                 ],
                 [
                     1,
                     3,
-                    8
+                    5
                 ],
                 [
                     2,
                     3,
+                    12
+                ],
+                [
+                    3,
+                    3,
+                    3
+                ],
+                [
+                    0,
+                    4,
+                    4
+                ],
+                [
+                    1,
+                    4,
+                    2
+                ],
+                [
+                    2,
+                    4,
+                    4
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ],
+                [
+                    0,
+                    5,
+                    5
+                ],
+                [
+                    1,
+                    5,
+                    9
+                ],
+                [
+                    2,
+                    5,
                     1
                 ],
                 [
                     3,
-                    3,
+                    5,
                     1
                 ],
                 [
                     0,
-                    4,
+                    6,
+                    7
+                ],
+                [
+                    1,
+                    6,
+                    6
+                ],
+                [
+                    2,
+                    6,
                     3
                 ],
                 [
-                    1,
-                    4,
+                    3,
+                    6,
                     10
                 ],
                 [
-                    2,
-                    4,
-                    4
-                ],
-                [
-                    3,
-                    4,
-                    4
-                ],
-                [
                     0,
-                    5,
+                    7,
                     6
                 ],
                 [
                     1,
-                    5,
-                    9
-                ],
-                [
-                    2,
-                    5,
-                    8
-                ],
-                [
-                    3,
-                    5,
-                    9
-                ],
-                [
-                    0,
-                    6,
-                    4
-                ],
-                [
-                    1,
-                    6,
-                    2
-                ],
-                [
-                    2,
-                    6,
-                    6
-                ],
-                [
-                    3,
-                    6,
-                    5
-                ],
-                [
-                    0,
                     7,
                     8
                 ],
                 [
-                    1,
+                    2,
                     7,
+                    9
+                ],
+                [
+                    3,
+                    7,
+                    7
+                ],
+                [
+                    0,
+                    8,
+                    8
+                ],
+                [
+                    1,
+                    8,
                     1
                 ],
                 [
                     2,
-                    7,
-                    7
-                ],
-                [
-                    3,
-                    7,
-                    7
-                ],
-                [
-                    0,
                     8,
-                    7
-                ],
-                [
-                    1,
-                    8,
-                    7
-                ],
-                [
-                    2,
-                    8,
-                    2
+                    6
                 ],
                 [
                     3,
                     8,
-                    10
+                    6
                 ],
                 [
                     0,
@@ -1563,12 +1634,12 @@ chart:
                 [
                     2,
                     9,
-                    12
+                    11
                 ],
                 [
                     3,
                     9,
-                    6
+                    8
                 ],
                 [
                     0,
@@ -1578,7 +1649,7 @@ chart:
                 [
                     1,
                     10,
-                    11
+                    10
                 ],
                 [
                     2,
@@ -1598,7 +1669,7 @@ chart:
                 [
                     1,
                     11,
-                    12
+                    11
                 ],
                 [
                     2,
@@ -1608,7 +1679,7 @@ chart:
                 [
                     3,
                     11,
-                    8
+                    9
                 ]
             ],
             "label": {
@@ -1643,7 +1714,8 @@ chart:
             4,
             5,
             6,
-            7
+            7,
+            8
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -1658,18 +1730,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "ARV",
             "EET",
-            "JST",
+            "ARV",
             "90s",
-            "BTE",
+            "JST",
             "RRT",
-            "TOM",
+            "BTE",
             "TIB",
+            "TOM",
             "HMB",
             "KTT",
-            "MMT",
-            "TTC"
+            "TTC",
+            "MMT"
         ],
         "name": "",
         "nameLocation": "end",
@@ -1706,280 +1778,320 @@ chart:
                 [
                     0,
                     0,
-                    6
+                    11
                 ],
                 [
                     1,
                     0,
-                    12
+                    9
                 ],
                 [
                     2,
                     0,
-                    2
+                    12
                 ],
                 [
                     3,
                     0,
+                    9
+                ],
+                [
+                    4,
+                    0,
+                    6
+                ],
+                [
+                    5,
+                    0,
+                    5
+                ],
+                [
+                    6,
+                    0,
+                    8
+                ],
+                [
+                    7,
+                    0,
+                    12
+                ],
+                [
+                    0,
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    1,
+                    12
+                ],
+                [
+                    2,
+                    1,
+                    2
+                ],
+                [
+                    3,
+                    1,
                     10
                 ],
                 [
                     4,
-                    0,
+                    1,
                     12
                 ],
                 [
                     5,
-                    0,
+                    1,
                     10
                 ],
                 [
                     6,
-                    0,
-                    11
-                ],
-                [
-                    0,
                     1,
                     11
                 ],
                 [
+                    7,
                     1,
-                    1,
-                    9
+                    3
                 ],
                 [
+                    0,
                     2,
-                    1,
                     12
                 ],
                 [
+                    1,
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    2,
+                    8
+                ],
+                [
                     3,
-                    1,
-                    9
-                ],
-                [
-                    4,
-                    1,
-                    6
-                ],
-                [
-                    5,
-                    1,
+                    2,
                     5
                 ],
                 [
+                    4,
+                    2,
+                    4
+                ],
+                [
+                    5,
+                    2,
+                    12
+                ],
+                [
                     6,
-                    1,
+                    2,
+                    7
+                ],
+                [
+                    7,
+                    2,
                     8
                 ],
                 [
                     0,
-                    2,
+                    3,
                     3
                 ],
                 [
                     1,
-                    2,
+                    3,
                     8
                 ],
                 [
                     2,
-                    2,
+                    3,
                     1
                 ],
                 [
                     3,
-                    2,
+                    3,
                     11
                 ],
                 [
                     4,
-                    2,
+                    3,
                     9
                 ],
                 [
                     5,
-                    2,
+                    3,
                     9
                 ],
                 [
                     6,
-                    2,
-                    12
-                ],
-                [
-                    0,
                     3,
                     12
                 ],
                 [
-                    1,
-                    3,
-                    4
-                ],
-                [
-                    2,
-                    3,
-                    8
-                ],
-                [
-                    3,
-                    3,
-                    5
-                ],
-                [
-                    4,
-                    3,
-                    4
-                ],
-                [
-                    5,
-                    3,
-                    12
-                ],
-                [
-                    6,
+                    7,
                     3,
                     7
                 ],
                 [
                     0,
-                    4,
-                    2
-                ],
-                [
-                    1,
                     4,
                     10
                 ],
                 [
+                    1,
+                    4,
+                    7
+                ],
+                [
                     2,
                     4,
-                    10
+                    4
                 ],
                 [
                     3,
                     4,
+                    7
+                ],
+                [
+                    4,
+                    4,
+                    1
+                ],
+                [
+                    5,
+                    4,
+                    7
+                ],
+                [
+                    6,
+                    4,
+                    9
+                ],
+                [
+                    7,
+                    4,
+                    10
+                ],
+                [
+                    0,
+                    5,
+                    2
+                ],
+                [
+                    1,
+                    5,
+                    10
+                ],
+                [
+                    2,
+                    5,
+                    10
+                ],
+                [
+                    3,
+                    5,
                     12
                 ],
                 [
                     4,
-                    4,
+                    5,
                     8
                 ],
                 [
                     5,
-                    4,
+                    5,
                     6
                 ],
                 [
                     6,
-                    4,
+                    5,
                     2
                 ],
                 [
-                    0,
+                    7,
                     5,
+                    4
+                ],
+                [
+                    0,
+                    6,
+                    1
+                ],
+                [
+                    1,
+                    6,
+                    11
+                ],
+                [
+                    2,
+                    6,
+                    6
+                ],
+                [
+                    3,
+                    6,
+                    4
+                ],
+                [
+                    4,
+                    6,
+                    5
+                ],
+                [
+                    5,
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    6,
+                    6
+                ],
+                [
+                    7,
+                    6,
+                    9
+                ],
+                [
+                    0,
+                    7,
+                    7
+                ],
+                [
+                    1,
+                    7,
+                    1
+                ],
+                [
+                    2,
+                    7,
+                    11
+                ],
+                [
+                    3,
+                    7,
+                    8
+                ],
+                [
+                    4,
+                    7,
                     10
                 ],
                 [
-                    1,
                     5,
-                    7
-                ],
-                [
-                    2,
-                    5,
-                    4
-                ],
-                [
-                    3,
-                    5,
-                    7
-                ],
-                [
-                    4,
-                    5,
-                    1
-                ],
-                [
-                    5,
-                    5,
-                    7
-                ],
-                [
-                    6,
-                    5,
-                    9
-                ],
-                [
-                    0,
-                    6,
-                    7
-                ],
-                [
-                    1,
-                    6,
-                    1
-                ],
-                [
-                    2,
-                    6,
-                    11
-                ],
-                [
-                    3,
-                    6,
-                    8
-                ],
-                [
-                    4,
-                    6,
-                    10
-                ],
-                [
-                    5,
-                    6,
+                    7,
                     4
                 ],
                 [
                     6,
-                    6,
-                    4
-                ],
-                [
-                    0,
-                    7,
-                    1
-                ],
-                [
-                    1,
-                    7,
-                    11
-                ],
-                [
-                    2,
-                    7,
-                    6
-                ],
-                [
-                    3,
                     7,
                     4
                 ],
                 [
-                    4,
                     7,
-                    5
-                ],
-                [
-                    5,
-                    7,
-                    11
-                ],
-                [
-                    6,
                     7,
                     6
                 ],
@@ -2019,6 +2131,11 @@ chart:
                     5
                 ],
                 [
+                    7,
+                    8,
+                    1
+                ],
+                [
                     0,
                     9,
                     4
@@ -2054,74 +2171,89 @@ chart:
                     9
                 ],
                 [
-                    0,
-                    10,
-                    8
-                ],
-                [
-                    1,
-                    10,
-                    2
-                ],
-                [
-                    2,
-                    10,
-                    3
-                ],
-                [
-                    3,
-                    10,
-                    3
-                ],
-                [
-                    4,
-                    10,
-                    11
-                ],
-                [
-                    5,
-                    10,
-                    1
-                ],
-                [
-                    6,
-                    10,
-                    1
+                    7,
+                    9,
+                    5
                 ],
                 [
                     0,
-                    11,
+                    10,
                     9
                 ],
                 [
                     1,
-                    11,
+                    10,
                     3
                 ],
                 [
                     2,
-                    11,
+                    10,
                     5
                 ],
                 [
                     3,
-                    11,
+                    10,
                     1
                 ],
                 [
                     4,
-                    11,
+                    10,
                     3
                 ],
                 [
                     5,
-                    11,
+                    10,
                     2
                 ],
                 [
                     6,
+                    10,
+                    3
+                ],
+                [
+                    7,
+                    10,
+                    11
+                ],
+                [
+                    0,
+                    11,
+                    8
+                ],
+                [
+                    1,
+                    11,
+                    2
+                ],
+                [
+                    2,
                     11,
                     3
+                ],
+                [
+                    3,
+                    11,
+                    3
+                ],
+                [
+                    4,
+                    11,
+                    11
+                ],
+                [
+                    5,
+                    11,
+                    1
+                ],
+                [
+                    6,
+                    11,
+                    1
+                ],
+                [
+                    7,
+                    11,
+                    2
                 ]
             ],
             "label": {
@@ -2152,7 +2284,8 @@ chart:
             4,
             5,
             6,
-            7
+            7,
+            8
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2169,14 +2302,14 @@ chart:
         "data": [
             "EET",
             "HMB",
+            "BTE",
             "KTT",
             "MMT",
-            "BTE",
             "ARV",
-            "TOM",
-            "TIB",
-            "JST",
             "RRT",
+            "TOM",
+            "JST",
+            "TIB",
             "90s",
             "TTC"
         ],
@@ -2248,6 +2381,11 @@ chart:
                     6
                 ],
                 [
+                    7,
+                    0,
+                    12
+                ],
+                [
                     0,
                     1,
                     1
@@ -2283,107 +2421,127 @@ chart:
                     11
                 ],
                 [
-                    0,
-                    2,
-                    8
-                ],
-                [
+                    7,
                     1,
-                    2,
-                    9
-                ],
-                [
-                    2,
-                    2,
-                    12
-                ],
-                [
-                    3,
-                    2,
-                    5
-                ],
-                [
-                    4,
-                    2,
-                    7
-                ],
-                [
-                    5,
-                    2,
-                    8
-                ],
-                [
-                    6,
-                    2,
-                    4
-                ],
-                [
-                    0,
-                    3,
-                    7
-                ],
-                [
-                    1,
-                    3,
-                    4
-                ],
-                [
-                    2,
-                    3,
-                    10
-                ],
-                [
-                    3,
-                    3,
-                    8
-                ],
-                [
-                    4,
-                    3,
-                    9
-                ],
-                [
-                    5,
-                    3,
-                    4
-                ],
-                [
-                    6,
-                    3,
                     10
                 ],
                 [
                     0,
-                    4,
+                    2,
                     12
                 ],
                 [
                     1,
-                    4,
+                    2,
                     12
                 ],
                 [
                     2,
-                    4,
+                    2,
                     4
                 ],
                 [
                     3,
-                    4,
+                    2,
                     6
                 ],
                 [
                     4,
-                    4,
+                    2,
                     5
                 ],
                 [
                     5,
-                    4,
+                    2,
                     10
                 ],
                 [
                     6,
+                    2,
+                    2
+                ],
+                [
+                    7,
+                    2,
+                    9
+                ],
+                [
+                    0,
+                    3,
+                    8
+                ],
+                [
+                    1,
+                    3,
+                    9
+                ],
+                [
+                    2,
+                    3,
+                    12
+                ],
+                [
+                    3,
+                    3,
+                    5
+                ],
+                [
+                    4,
+                    3,
+                    7
+                ],
+                [
+                    5,
+                    3,
+                    8
+                ],
+                [
+                    6,
+                    3,
+                    4
+                ],
+                [
+                    7,
+                    3,
+                    5
+                ],
+                [
+                    0,
+                    4,
+                    7
+                ],
+                [
+                    1,
+                    4,
+                    4
+                ],
+                [
+                    2,
+                    4,
+                    10
+                ],
+                [
+                    3,
+                    4,
+                    8
+                ],
+                [
+                    4,
+                    4,
+                    9
+                ],
+                [
+                    5,
+                    4,
+                    4
+                ],
+                [
+                    6,
+                    4,
+                    10
+                ],
+                [
+                    7,
                     4,
                     2
                 ],
@@ -2423,144 +2581,169 @@ chart:
                     12
                 ],
                 [
-                    0,
-                    6,
-                    9
-                ],
-                [
-                    1,
-                    6,
-                    3
-                ],
-                [
-                    2,
-                    6,
-                    5
-                ],
-                [
-                    3,
-                    6,
-                    7
-                ],
-                [
-                    4,
-                    6,
-                    3
-                ],
-                [
+                    7,
                     5,
-                    6,
-                    11
-                ],
-                [
-                    6,
-                    6,
-                    7
-                ],
-                [
-                    0,
-                    7,
-                    5
-                ],
-                [
-                    1,
-                    7,
-                    1
-                ],
-                [
-                    2,
-                    7,
-                    11
-                ],
-                [
-                    3,
-                    7,
-                    11
-                ],
-                [
-                    4,
-                    7,
-                    4
-                ],
-                [
-                    5,
-                    7,
                     6
                 ],
                 [
-                    6,
-                    7,
-                    3
-                ],
-                [
                     0,
-                    8,
-                    6
-                ],
-                [
-                    1,
-                    8,
-                    5
-                ],
-                [
-                    2,
-                    8,
-                    8
-                ],
-                [
-                    3,
-                    8,
-                    3
-                ],
-                [
-                    4,
-                    8,
-                    8
-                ],
-                [
-                    5,
-                    8,
-                    2
-                ],
-                [
                     6,
-                    8,
-                    8
-                ],
-                [
-                    0,
-                    9,
                     10
                 ],
                 [
                     1,
-                    9,
+                    6,
                     2
                 ],
                 [
                     2,
-                    9,
+                    6,
                     6
                 ],
                 [
                     3,
-                    9,
+                    6,
                     2
                 ],
                 [
                     4,
-                    9,
+                    6,
                     6
                 ],
                 [
                     5,
-                    9,
+                    6,
                     5
                 ],
                 [
                     6,
-                    9,
+                    6,
                     9
+                ],
+                [
+                    7,
+                    6,
+                    11
+                ],
+                [
+                    0,
+                    7,
+                    9
+                ],
+                [
+                    1,
+                    7,
+                    3
+                ],
+                [
+                    2,
+                    7,
+                    5
+                ],
+                [
+                    3,
+                    7,
+                    7
+                ],
+                [
+                    4,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    7,
+                    11
+                ],
+                [
+                    6,
+                    7,
+                    7
+                ],
+                [
+                    7,
+                    7,
+                    2
+                ],
+                [
+                    0,
+                    8,
+                    6
+                ],
+                [
+                    1,
+                    8,
+                    5
+                ],
+                [
+                    2,
+                    8,
+                    8
+                ],
+                [
+                    3,
+                    8,
+                    3
+                ],
+                [
+                    4,
+                    8,
+                    8
+                ],
+                [
+                    5,
+                    8,
+                    2
+                ],
+                [
+                    6,
+                    8,
+                    8
+                ],
+                [
+                    7,
+                    8,
+                    4
+                ],
+                [
+                    0,
+                    9,
+                    5
+                ],
+                [
+                    1,
+                    9,
+                    1
+                ],
+                [
+                    2,
+                    9,
+                    11
+                ],
+                [
+                    3,
+                    9,
+                    11
+                ],
+                [
+                    4,
+                    9,
+                    4
+                ],
+                [
+                    5,
+                    9,
+                    6
+                ],
+                [
+                    6,
+                    9,
+                    3
+                ],
+                [
+                    7,
+                    9,
+                    1
                 ],
                 [
                     0,
@@ -2598,6 +2781,11 @@ chart:
                     1
                 ],
                 [
+                    7,
+                    10,
+                    8
+                ],
+                [
                     0,
                     11,
                     1
@@ -2631,6 +2819,11 @@ chart:
                     6,
                     11,
                     5
+                ],
+                [
+                    7,
+                    11,
+                    6
                 ]
             ],
             "label": {
@@ -2661,7 +2854,8 @@ chart:
             4,
             5,
             6,
-            7
+            7,
+            8
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -2676,17 +2870,17 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "TTC",
             "TOM",
-            "BTE",
-            "KTT",
-            "90s",
+            "TTC",
             "TIB",
+            "BTE",
             "EET",
+            "90s",
+            "KTT",
             "HMB",
-            "MMT",
             "JST",
             "ARV",
+            "MMT",
             "RRT"
         ],
         "name": "",
@@ -2724,247 +2918,282 @@ chart:
                 [
                     0,
                     0,
+                    10
+                ],
+                [
+                    1,
+                    0,
+                    12
+                ],
+                [
+                    2,
+                    0,
+                    10
+                ],
+                [
+                    3,
+                    0,
+                    1
+                ],
+                [
+                    4,
+                    0,
+                    12
+                ],
+                [
+                    5,
+                    0,
+                    9
+                ],
+                [
+                    6,
+                    0,
+                    7
+                ],
+                [
+                    7,
+                    0,
+                    8
+                ],
+                [
+                    0,
+                    1,
                     6
                 ],
                 [
                     1,
-                    0,
+                    1,
                     10
                 ],
                 [
                     2,
-                    0,
+                    1,
                     9
                 ],
                 [
                     3,
-                    0,
+                    1,
                     11
                 ],
                 [
                     4,
-                    0,
+                    1,
                     11
                 ],
                 [
                     5,
-                    0,
-                    7
-                ],
-                [
-                    6,
-                    0,
-                    8
-                ],
-                [
-                    0,
-                    1,
-                    10
-                ],
-                [
-                    1,
-                    1,
-                    12
-                ],
-                [
-                    2,
-                    1,
-                    10
-                ],
-                [
-                    3,
-                    1,
-                    1
-                ],
-                [
-                    4,
-                    1,
-                    12
-                ],
-                [
-                    5,
-                    1,
-                    9
-                ],
-                [
-                    6,
                     1,
                     7
                 ],
                 [
-                    0,
-                    2,
-                    9
-                ],
-                [
+                    6,
                     1,
-                    2,
-                    7
-                ],
-                [
-                    2,
-                    2,
                     8
                 ],
                 [
-                    3,
-                    2,
-                    12
-                ],
-                [
-                    4,
-                    2,
-                    7
-                ],
-                [
-                    5,
-                    2,
-                    2
-                ],
-                [
-                    6,
-                    2,
-                    10
-                ],
-                [
-                    0,
-                    3,
-                    8
-                ],
-                [
+                    7,
                     1,
-                    3,
-                    6
-                ],
-                [
-                    2,
-                    3,
-                    12
-                ],
-                [
-                    3,
-                    3,
-                    6
-                ],
-                [
-                    4,
-                    3,
-                    8
-                ],
-                [
-                    5,
-                    3,
-                    11
-                ],
-                [
-                    6,
-                    3,
-                    3
-                ],
-                [
-                    0,
-                    4,
-                    11
-                ],
-                [
-                    1,
-                    4,
-                    1
-                ],
-                [
-                    2,
-                    4,
-                    7
-                ],
-                [
-                    3,
-                    4,
-                    9
-                ],
-                [
-                    4,
-                    4,
-                    2
-                ],
-                [
-                    5,
-                    4,
-                    12
-                ],
-                [
-                    6,
-                    4,
-                    12
-                ],
-                [
-                    0,
-                    5,
-                    3
-                ],
-                [
-                    1,
-                    5,
-                    11
-                ],
-                [
-                    2,
-                    5,
-                    10
-                ],
-                [
-                    3,
-                    5,
-                    2
-                ],
-                [
-                    4,
-                    5,
-                    10
-                ],
-                [
-                    5,
-                    5,
-                    8
-                ],
-                [
-                    6,
-                    5,
                     6
                 ],
                 [
                     0,
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    2,
+                    11
+                ],
+                [
+                    2,
+                    2,
+                    10
+                ],
+                [
+                    3,
+                    2,
+                    2
+                ],
+                [
+                    4,
+                    2,
+                    10
+                ],
+                [
+                    5,
+                    2,
+                    8
+                ],
+                [
                     6,
+                    2,
+                    6
+                ],
+                [
+                    7,
+                    2,
+                    10
+                ],
+                [
+                    0,
+                    3,
+                    9
+                ],
+                [
+                    1,
+                    3,
+                    7
+                ],
+                [
+                    2,
+                    3,
+                    8
+                ],
+                [
+                    3,
+                    3,
+                    12
+                ],
+                [
+                    4,
+                    3,
+                    7
+                ],
+                [
+                    5,
+                    3,
+                    2
+                ],
+                [
+                    6,
+                    3,
+                    10
+                ],
+                [
+                    7,
+                    3,
+                    5
+                ],
+                [
+                    0,
+                    4,
                     4
                 ],
                 [
                     1,
-                    6,
+                    4,
                     9
                 ],
                 [
                     2,
-                    6,
+                    4,
                     6
                 ],
                 [
                     3,
-                    6,
+                    4,
                     4
                 ],
                 [
                     4,
-                    6,
+                    4,
                     9
                 ],
                 [
                     5,
-                    6,
+                    4,
                     5
                 ],
                 [
                     6,
-                    6,
+                    4,
                     9
+                ],
+                [
+                    7,
+                    4,
+                    12
+                ],
+                [
+                    0,
+                    5,
+                    11
+                ],
+                [
+                    1,
+                    5,
+                    1
+                ],
+                [
+                    2,
+                    5,
+                    7
+                ],
+                [
+                    3,
+                    5,
+                    9
+                ],
+                [
+                    4,
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    5,
+                    12
+                ],
+                [
+                    6,
+                    5,
+                    12
+                ],
+                [
+                    7,
+                    5,
+                    3
+                ],
+                [
+                    0,
+                    6,
+                    8
+                ],
+                [
+                    1,
+                    6,
+                    6
+                ],
+                [
+                    2,
+                    6,
+                    12
+                ],
+                [
+                    3,
+                    6,
+                    6
+                ],
+                [
+                    4,
+                    6,
+                    8
+                ],
+                [
+                    5,
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    6,
+                    3
+                ],
+                [
+                    7,
+                    6,
+                    1
                 ],
                 [
                     0,
@@ -3002,109 +3231,129 @@ chart:
                     11
                 ],
                 [
+                    7,
+                    7,
+                    11
+                ],
+                [
                     0,
-                    8,
-                    5
-                ],
-                [
-                    1,
-                    8,
-                    8
-                ],
-                [
-                    2,
-                    8,
-                    2
-                ],
-                [
-                    3,
                     8,
                     7
                 ],
                 [
-                    4,
-                    8,
-                    4
-                ],
-                [
-                    5,
-                    8,
-                    5
-                ],
-                [
-                    6,
-                    8,
-                    5
-                ],
-                [
-                    0,
-                    9,
-                    7
-                ],
-                [
                     1,
-                    9,
+                    8,
                     5
                 ],
                 [
                     2,
-                    9,
+                    8,
                     5
                 ],
                 [
                     3,
-                    9,
+                    8,
                     8
                 ],
                 [
                     4,
-                    9,
+                    8,
                     6
                 ],
                 [
                     5,
-                    9,
+                    8,
                     3
                 ],
                 [
                     6,
-                    9,
+                    8,
                     1
                 ],
                 [
+                    7,
+                    8,
+                    4
+                ],
+                [
                     0,
-                    10,
+                    9,
                     2
                 ],
                 [
                     1,
-                    10,
+                    9,
                     4
                 ],
                 [
                     2,
-                    10,
+                    9,
                     4
                 ],
                 [
                     3,
-                    10,
+                    9,
                     3
                 ],
                 [
                     4,
-                    10,
+                    9,
                     3
                 ],
                 [
                     5,
-                    10,
+                    9,
                     10
                 ],
                 [
                     6,
-                    10,
+                    9,
                     3
+                ],
+                [
+                    7,
+                    9,
+                    9
+                ],
+                [
+                    0,
+                    10,
+                    5
+                ],
+                [
+                    1,
+                    10,
+                    8
+                ],
+                [
+                    2,
+                    10,
+                    2
+                ],
+                [
+                    3,
+                    10,
+                    7
+                ],
+                [
+                    4,
+                    10,
+                    4
+                ],
+                [
+                    5,
+                    10,
+                    5
+                ],
+                [
+                    6,
+                    10,
+                    5
+                ],
+                [
+                    7,
+                    10,
+                    2
                 ],
                 [
                     0,
@@ -3140,6 +3389,11 @@ chart:
                     6,
                     11,
                     2
+                ],
+                [
+                    7,
+                    11,
+                    7
                 ]
             ],
             "label": {
@@ -3170,7 +3424,8 @@ chart:
             4,
             5,
             6,
-            7
+            7,
+            8
         ],
         "name": "Week",
         "nameLocation": "center",
@@ -3185,18 +3440,18 @@ chart:
     "yAxis": {
         "type": "category",
         "data": [
-            "TIB",
             "ARV",
+            "TIB",
             "KTT",
             "EET",
             "TTC",
-            "JST",
-            "BTE",
-            "90s",
             "MMT",
+            "BTE",
+            "JST",
+            "90s",
             "TOM",
-            "HMB",
-            "RRT"
+            "RRT",
+            "HMB"
         ],
         "name": "",
         "nameLocation": "end",
@@ -3233,70 +3488,80 @@ chart:
                 [
                     0,
                     0,
-                    12
-                ],
-                [
-                    1,
-                    0,
-                    11
-                ],
-                [
-                    2,
-                    0,
-                    7
-                ],
-                [
-                    3,
-                    0,
-                    8
-                ],
-                [
-                    4,
-                    0,
-                    11
-                ],
-                [
-                    5,
-                    0,
-                    10
-                ],
-                [
-                    6,
-                    0,
-                    6
-                ],
-                [
-                    0,
-                    1,
                     11
                 ],
                 [
                     1,
-                    1,
+                    0,
                     8
                 ],
                 [
                     2,
-                    1,
+                    0,
                     12
                 ],
                 [
                     3,
-                    1,
+                    0,
                     11
                 ],
                 [
                     4,
-                    1,
+                    0,
                     8
                 ],
                 [
                     5,
-                    1,
+                    0,
                     9
                 ],
                 [
                     6,
+                    0,
+                    5
+                ],
+                [
+                    7,
+                    0,
+                    7
+                ],
+                [
+                    0,
+                    1,
+                    12
+                ],
+                [
+                    1,
+                    1,
+                    11
+                ],
+                [
+                    2,
+                    1,
+                    7
+                ],
+                [
+                    3,
+                    1,
+                    8
+                ],
+                [
+                    4,
+                    1,
+                    11
+                ],
+                [
+                    5,
+                    1,
+                    10
+                ],
+                [
+                    6,
+                    1,
+                    6
+                ],
+                [
+                    7,
                     1,
                     5
                 ],
@@ -3336,6 +3601,11 @@ chart:
                     7
                 ],
                 [
+                    7,
+                    2,
+                    8
+                ],
+                [
                     0,
                     3,
                     4
@@ -3369,6 +3639,11 @@ chart:
                     6,
                     3,
                     4
+                ],
+                [
+                    7,
+                    3,
+                    9
                 ],
                 [
                     0,
@@ -3406,39 +3681,49 @@ chart:
                     12
                 ],
                 [
-                    0,
-                    5,
-                    3
-                ],
-                [
-                    1,
-                    5,
+                    7,
+                    4,
                     4
                 ],
                 [
-                    2,
-                    5,
-                    11
-                ],
-                [
-                    3,
-                    5,
-                    6
-                ],
-                [
-                    4,
+                    0,
                     5,
                     10
                 ],
                 [
+                    1,
+                    5,
+                    10
+                ],
+                [
+                    2,
+                    5,
+                    1
+                ],
+                [
+                    3,
+                    5,
+                    2
+                ],
+                [
+                    4,
+                    5,
+                    1
+                ],
+                [
                     5,
                     5,
-                    4
+                    6
                 ],
                 [
                     6,
                     5,
-                    8
+                    9
+                ],
+                [
+                    7,
+                    5,
+                    12
                 ],
                 [
                     0,
@@ -3476,74 +3761,89 @@ chart:
                     10
                 ],
                 [
+                    7,
+                    6,
+                    6
+                ],
+                [
                     0,
                     7,
-                    1
+                    3
                 ],
                 [
                     1,
                     7,
-                    5
+                    4
                 ],
                 [
                     2,
-                    7,
-                    5
-                ],
-                [
-                    3,
-                    7,
-                    7
-                ],
-                [
-                    4,
-                    7,
-                    5
-                ],
-                [
-                    5,
-                    7,
-                    8
-                ],
-                [
-                    6,
                     7,
                     11
                 ],
                 [
+                    3,
+                    7,
+                    6
+                ],
+                [
+                    4,
+                    7,
+                    10
+                ],
+                [
+                    5,
+                    7,
+                    4
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ],
+                [
+                    7,
+                    7,
+                    2
+                ],
+                [
                     0,
                     8,
-                    10
+                    1
                 ],
                 [
                     1,
                     8,
-                    10
+                    5
                 ],
                 [
                     2,
                     8,
-                    1
+                    5
                 ],
                 [
                     3,
                     8,
-                    2
+                    7
                 ],
                 [
                     4,
                     8,
-                    1
+                    5
                 ],
                 [
                     5,
                     8,
-                    6
+                    8
                 ],
                 [
                     6,
                     8,
-                    9
+                    11
+                ],
+                [
+                    7,
+                    8,
+                    3
                 ],
                 [
                     0,
@@ -3581,72 +3881,87 @@ chart:
                     2
                 ],
                 [
+                    7,
+                    9,
+                    11
+                ],
+                [
                     0,
                     10,
-                    7
+                    5
                 ],
                 [
                     1,
                     10,
-                    1
+                    2
                 ],
                 [
                     2,
                     10,
+                    2
+                ],
+                [
+                    3,
+                    10,
+                    3
+                ],
+                [
+                    4,
+                    10,
+                    9
+                ],
+                [
+                    5,
+                    10,
+                    2
+                ],
+                [
+                    6,
+                    10,
+                    1
+                ],
+                [
+                    7,
+                    10,
+                    10
+                ],
+                [
+                    0,
+                    11,
+                    7
+                ],
+                [
+                    1,
+                    11,
+                    1
+                ],
+                [
+                    2,
+                    11,
                     8
                 ],
                 [
                     3,
-                    10,
+                    11,
                     4
                 ],
                 [
                     4,
-                    10,
+                    11,
                     2
                 ],
                 [
                     5,
-                    10,
-                    5
-                ],
-                [
-                    6,
-                    10,
-                    3
-                ],
-                [
-                    0,
                     11,
                     5
                 ],
                 [
-                    1,
-                    11,
-                    2
-                ],
-                [
-                    2,
-                    11,
-                    2
-                ],
-                [
-                    3,
+                    6,
                     11,
                     3
                 ],
                 [
-                    4,
-                    11,
-                    9
-                ],
-                [
-                    5,
-                    11,
-                    2
-                ],
-                [
-                    6,
+                    7,
                     11,
                     1
                 ]
@@ -3679,13 +3994,13 @@ chart:
         "data": [
             "TTC",
             "MMT",
-            "ARV",
-            "RRT",
             "HMB",
-            "KTT",
+            "ARV",
             "JST",
-            "90s",
+            "RRT",
             "TOM",
+            "KTT",
+            "90s",
             "TIB",
             "BTE",
             "EET"
@@ -3703,7 +4018,8 @@ chart:
             "Week 4",
             "Week 5",
             "Week 6",
-            "Week 7"
+            "Week 7",
+            "Week 8"
         ]
     },
     "yAxis": {
@@ -3721,7 +4037,8 @@ chart:
                 88.4,
                 99.8,
                 96.5,
-                96.1
+                96.1,
+                84.8
             ]
         },
         {
@@ -3734,33 +4051,8 @@ chart:
                 78.0,
                 89.2,
                 91.9,
-                95.5
-            ]
-        },
-        {
-            "name": "ARV",
-            "type": "line",
-            "data": [
-                84.2,
-                85.0,
-                96.4,
-                100.0,
-                98.2,
-                98.6,
-                91.7
-            ]
-        },
-        {
-            "name": "RRT",
-            "type": "line",
-            "data": [
-                81.4,
-                85.3,
-                96.9,
-                93.0,
-                97.2,
-                88.9,
-                89.9
+                95.5,
+                87.2
             ]
         },
         {
@@ -3773,20 +4065,22 @@ chart:
                 83.0,
                 87.9,
                 93.4,
-                85.7
+                85.7,
+                89.2
             ]
         },
         {
-            "name": "KTT",
+            "name": "ARV",
             "type": "line",
             "data": [
-                83.0,
-                82.6,
-                97.1,
-                84.6,
-                95.1,
-                92.6,
-                65.9
+                84.2,
+                85.0,
+                96.4,
+                100.0,
+                98.2,
+                98.6,
+                91.7,
+                89.7
             ]
         },
         {
@@ -3799,20 +4093,22 @@ chart:
                 83.4,
                 100.0,
                 98.3,
-                81.9
+                81.9,
+                95.0
             ]
         },
         {
-            "name": "90s",
+            "name": "RRT",
             "type": "line",
             "data": [
-                88.5,
-                88.3,
-                93.2,
-                94.2,
-                91.9,
-                72.5,
-                78.0
+                81.4,
+                85.3,
+                96.9,
+                93.0,
+                97.2,
+                88.9,
+                89.9,
+                100.0
             ]
         },
         {
@@ -3825,7 +4121,36 @@ chart:
                 83.3,
                 88.2,
                 87.1,
-                86.4
+                86.4,
+                99.6
+            ]
+        },
+        {
+            "name": "KTT",
+            "type": "line",
+            "data": [
+                83.0,
+                82.6,
+                97.1,
+                84.6,
+                95.1,
+                92.6,
+                65.9,
+                90.6
+            ]
+        },
+        {
+            "name": "90s",
+            "type": "line",
+            "data": [
+                88.5,
+                88.3,
+                93.2,
+                94.2,
+                91.9,
+                72.5,
+                78.0,
+                85.1
             ]
         },
         {
@@ -3838,7 +4163,8 @@ chart:
                 77.5,
                 98.9,
                 88.8,
-                84.6
+                84.6,
+                89.1
             ]
         },
         {
@@ -3851,7 +4177,8 @@ chart:
                 76.6,
                 100.0,
                 90.6,
-                72.7
+                72.7,
+                100.0
             ]
         },
         {
@@ -3864,7 +4191,8 @@ chart:
                 78.0,
                 95.8,
                 77.9,
-                100.0
+                100.0,
+                77.8
             ]
         }
     ],
@@ -3917,10 +4245,10 @@ chart:
             "data": [
                 {
                     "value": [
-                        5.0,
-                        0.9,
-                        -3.0,
-                        -0.8
+                        5.5,
+                        1.1,
+                        -2.9,
+                        -1.0
                     ],
                     "name": "Third Time's the Charm?"
                 }
@@ -3932,42 +4260,12 @@ chart:
             "data": [
                 {
                     "value": [
-                        4.4,
+                        4.9,
                         -0.5,
-                        1.8,
-                        1.0
+                        2.0,
+                        0.9
                     ],
                     "name": "Michael's Managable Team"
-                }
-            ]
-        },
-        {
-            "name": "Abbey's TNT Team",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        -4.3,
-                        3.3,
-                        3.0,
-                        -4.6
-                    ],
-                    "name": "Abbey's TNT Team"
-                }
-            ]
-        },
-        {
-            "name": "Americas Team",
-            "type": "radar",
-            "data": [
-                {
-                    "value": [
-                        0.2,
-                        -0.1,
-                        1.5,
-                        3.4
-                    ],
-                    "name": "Americas Team"
                 }
             ]
         },
@@ -3978,26 +4276,26 @@ chart:
                 {
                     "value": [
                         5.1,
-                        -2.2,
-                        3.3,
-                        2.3
+                        -2.5,
+                        2.8,
+                        2.5
                     ],
                     "name": "Game of Zones - House Hamlin"
                 }
             ]
         },
         {
-            "name": "Mcconky Donkeys",
+            "name": "Abbey's TNT Team",
             "type": "radar",
             "data": [
                 {
                     "value": [
-                        0.4,
-                        -2.3,
-                        -2.6,
-                        -1.8
+                        -4.0,
+                        2.7,
+                        2.6,
+                        -4.4
                     ],
-                    "name": "Mcconky Donkeys"
+                    "name": "Abbey's TNT Team"
                 }
             ]
         },
@@ -4007,27 +4305,27 @@ chart:
             "data": [
                 {
                     "value": [
-                        2.7,
+                        2.6,
                         2.9,
                         0.9,
-                        0.8
+                        0.9
                     ],
                     "name": "Mama Daughter Duo"
                 }
             ]
         },
         {
-            "name": "90s MonCon",
+            "name": "Americas Team",
             "type": "radar",
             "data": [
                 {
                     "value": [
+                        0.2,
+                        -0.5,
                         1.9,
-                        3.8,
-                        0.1,
-                        1.2
+                        3.4
                     ],
-                    "name": "90s MonCon"
+                    "name": "Americas Team"
                 }
             ]
         },
@@ -4037,12 +4335,42 @@ chart:
             "data": [
                 {
                     "value": [
-                        -1.8,
+                        -1.6,
                         0.6,
-                        -2.4,
-                        3.1
+                        -2.3,
+                        2.7
                     ],
                     "name": "Rookie Mistake"
+                }
+            ]
+        },
+        {
+            "name": "Mcconky Donkeys",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        0.2,
+                        -2.2,
+                        -2.2,
+                        -1.9
+                    ],
+                    "name": "Mcconky Donkeys"
+                }
+            ]
+        },
+        {
+            "name": "90s MonCon",
+            "type": "radar",
+            "data": [
+                {
+                    "value": [
+                        1.0,
+                        3.9,
+                        0.0,
+                        1.1
+                    ],
+                    "name": "90s MonCon"
                 }
             ]
         },
@@ -4052,10 +4380,10 @@ chart:
             "data": [
                 {
                     "value": [
-                        -2.6,
-                        1.9,
-                        0.4,
-                        -4.9
+                        -3.2,
+                        2.1,
+                        0.1,
+                        -4.5
                     ],
                     "name": "To Infinity and Bijan!"
                 }
@@ -4067,10 +4395,10 @@ chart:
             "data": [
                 {
                     "value": [
-                        -6.0,
-                        -3.6,
-                        -3.6,
-                        0.7
+                        -5.4,
+                        -3.4,
+                        -3.4,
+                        0.8
                     ],
                     "name": "Big Titi Energy"
                 }
@@ -4082,9 +4410,9 @@ chart:
             "data": [
                 {
                     "value": [
-                        -6.7,
+                        -7.0,
                         -3.3,
-                        -0.5,
+                        -0.7,
                         -2.8
                     ],
                     "name": "Emma's Excellent Team"

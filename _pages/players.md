@@ -18,16 +18,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Patrick Mahomes (199.0 pts) owned by Third Time's the Charm?
+* **QB:** Drake Maye (231.74 pts) owned by Michael's Managable Team
 
-* **RB:** Jonathan Taylor (167.7 pts) owned by 90s MonCon
+* **RB:** Jonathan Taylor (204.1 pts) owned by 90s MonCon
 
-* **WR:** Jaxon Smith-Njigba (130.0 pts) owned by Americas Team
+* **WR:** Ja'Marr Chase (135.6 pts) owned by Americas Team
 
 * **TE:** Jake Ferguson (107.65 pts) owned by Michael's Managable Team
 
 
-Below are the top 10 performers at each position through Week 7.
+Below are the top 10 performers at each position through Week 8.
 
 
 

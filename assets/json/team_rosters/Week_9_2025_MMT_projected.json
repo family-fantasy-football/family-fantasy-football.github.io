@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 29.0,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.84,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.02,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 17.77,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 9.78,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.16,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 12.1,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.99,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 26.44,
+    "opponent": "ATL"
+  }
+]

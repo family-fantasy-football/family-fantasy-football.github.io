@@ -5,7 +5,15 @@
     "draft": "13.6",
     "overall_pick": 150,
     "points": 107.65,
-    "projected": 55.06
+    "projected": 62.92
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "team": "Game of Zones - House Hamlin",
+    "draft": "10.11",
+    "overall_pick": 119,
+    "points": 105.7,
+    "projected": 67.85
   },
   {
     "player_name": "Trey McBride",
@@ -13,70 +21,62 @@
     "draft": "3.5",
     "overall_pick": 29,
     "points": 101.35,
-    "projected": 95.09
+    "projected": 108.68
   },
   {
     "player_name": "Tyler Warren",
     "team": "Rookie Mistake",
     "draft": "9.7",
     "overall_pick": 103,
-    "points": 92.25,
-    "projected": 61.72
+    "points": 100.55,
+    "projected": 70.53
   },
   {
     "player_name": "Dallas Goedert",
     "team": "Big Titi Energy",
     "draft": "8.5",
     "overall_pick": 89,
-    "points": 76.35,
-    "projected": 57.92
-  },
-  {
-    "player_name": "Tucker Kraft",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "10.11",
-    "overall_pick": 119,
-    "points": 74.15,
-    "projected": 59.37
+    "points": 93.4,
+    "projected": 66.19
   },
   {
     "player_name": "Travis Kelce",
     "team": "Mama Daughter Duo",
     "draft": "7.10",
     "overall_pick": 82,
-    "points": 72.75,
-    "projected": 66.67
+    "points": 93.15,
+    "projected": 76.2
   },
   {
-    "player_name": "Sam LaPorta",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "6.11",
-    "overall_pick": 71,
-    "points": 67.65,
-    "projected": 71.28
+    "player_name": "Harold Fannin Jr.",
+    "team": "Michael's Managable Team",
+    "draft": "FA",
+    "overall_pick": 999,
+    "points": 76.3,
+    "projected": 22.39
   },
   {
     "player_name": "Hunter Henry",
     "team": "Mama Daughter Duo",
     "draft": "13.10",
     "overall_pick": 154,
-    "points": 67.0,
-    "projected": 55.25
+    "points": 74.45,
+    "projected": 63.15
   },
   {
     "player_name": "Zach Ertz",
     "team": "Emma's Excellent Team",
     "draft": "13.12",
     "overall_pick": 156,
-    "points": 66.15,
-    "projected": 52.45
+    "points": 70.75,
+    "projected": 59.95
   },
   {
-    "player_name": "Dalton Kincaid",
-    "team": "Rookie Mistake",
-    "draft": "13.8",
-    "overall_pick": 152,
-    "points": 61.7,
-    "projected": 54.69
+    "player_name": "Kyle Pitts Sr.",
+    "team": "To Infinity and Bijan!",
+    "draft": "13.9",
+    "overall_pick": 153,
+    "points": 69.65,
+    "projected": 61.47
   }
 ]

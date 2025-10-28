@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 2.58,
+    "projected": 21.37
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.6,
+    "projected": 17.08
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.8,
+    "projected": 11.99
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.8,
+    "projected": 10.4
+  },
+  {
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 21.0,
+    "projected": 14.31
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.6,
+    "projected": 8.76
+  },
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 20.76,
+    "projected": 20.74
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.3,
+    "projected": 10.44
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 23.9,
+    "projected": 9.15
+  }
+]

@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-157.3",
+    "value_diff": "-182.0",
     "grade": "D"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "24.0",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-110.6",
+    "value_diff": "-129.8",
     "grade": "D"
   },
   {
@@ -32,19 +32,7 @@
     "before_trade": "41.4",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-106.9",
-    "grade": "D"
-  },
-  {
-    "team": "Game of Zones: House Hamlin",
-    "round": 8,
-    "pick": 11,
-    "player_name": "Cam Ward",
-    "points": "29.8",
-    "before_trade": "29.8",
-    "after_trade": "0.0",
-    "draft_position": 95,
-    "value_diff": "-80.4",
+    "value_diff": "-128.1",
     "grade": "D"
   },
   {
@@ -56,7 +44,19 @@
     "before_trade": "99.8",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-74.6",
+    "value_diff": "-99.5",
+    "grade": "D"
+  },
+  {
+    "team": "Game of Zones: House Hamlin",
+    "round": 8,
+    "pick": 11,
+    "player_name": "Cam Ward",
+    "points": "39.6",
+    "before_trade": "39.6",
+    "after_trade": "0.0",
+    "draft_position": 95,
+    "value_diff": "-86.3",
     "grade": "D"
   }
 ]

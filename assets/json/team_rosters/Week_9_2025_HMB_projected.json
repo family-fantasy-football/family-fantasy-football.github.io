@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 24.65,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 15.7,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.25,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 15.29,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 10.54,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Sam LaPorta",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.66,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 11.31,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Tucker Kraft",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 10.23,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 21.12,
+    "opponent": "CAR"
+  }
+]

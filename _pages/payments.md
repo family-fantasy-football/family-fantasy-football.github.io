@@ -12,6 +12,7 @@ pretty_table: True
     color: #2c3e50 !important;
   }
 </style>
+
 ## League Payment Tracker
 
 

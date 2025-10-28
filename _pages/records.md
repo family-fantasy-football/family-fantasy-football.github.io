@@ -9,6 +9,7 @@ chart:
 echarts: true
 pretty_table: True
 ---
+
 <style>
   table[data-toggle="table"] tbody td {
     color: #2c3e50 !important;
@@ -52,8 +53,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Single Game Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">65.2</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 6: To Infinity and Bijan! vs Abbey's TNT Team </div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">60.54</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 8: Americas Team vs Michael's Managable Team</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -135,9 +136,9 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best TE Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">26.9</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 7: Trey McBride</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Americas Team</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">31.55</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 8: Tucker Kraft</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Game of Zones - House Hamlin</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
 </div>

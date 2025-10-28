@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 36.2,
+    "projected": 13.73
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.4,
+    "projected": 10.46
+  },
+  {
+    "player_name": "Jordan Addison",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.1,
+    "projected": 10.5
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 36.4,
+    "projected": 24.21
+  },
+  {
+    "player_name": "Kimani Vidal",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.2,
+    "projected": 11.57
+  },
+  {
+    "player_name": "Oronde Gadsden II",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 17.45,
+    "projected": 9.96
+  },
+  {
+    "player_name": "Tyjae Spears",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 15.7,
+    "projected": 7.92
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.3,
+    "projected": 14.5
+  },
+  {
+    "player_name": "Kirk Cousins",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 7.62,
+    "projected": 18.77
+  }
+]

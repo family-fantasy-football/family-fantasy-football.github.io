@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 23.8,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.87,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 9.72,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.0,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.81,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 12.39,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Bam Knight",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.79,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.6,
+    "opponent": "HOU"
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 23.26,
+    "opponent": "SF"
+  }
+]

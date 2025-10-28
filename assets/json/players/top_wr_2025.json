@@ -1,11 +1,27 @@
 [
   {
+    "player_name": "Ja'Marr Chase",
+    "team": "Americas Team",
+    "draft": "1.5",
+    "overall_pick": 5,
+    "points": 135.6,
+    "projected": 132.56
+  },
+  {
     "player_name": "Jaxon Smith-Njigba",
     "team": "Americas Team",
     "draft": "4.8",
     "overall_pick": 44,
     "points": 130.0,
-    "projected": 80.98
+    "projected": 92.55
+  },
+  {
+    "player_name": "George Pickens",
+    "team": "Michael's Managable Team",
+    "draft": "6.7",
+    "overall_pick": 67,
+    "points": 126.0,
+    "projected": 87.19
   },
   {
     "player_name": "Amon-Ra St. Brown",
@@ -13,23 +29,7 @@
     "draft": "3.2",
     "overall_pick": 26,
     "points": 121.7,
-    "projected": 95.64
-  },
-  {
-    "player_name": "Ja'Marr Chase",
-    "team": "Americas Team",
-    "draft": "1.5",
-    "overall_pick": 5,
-    "points": 120.5,
-    "projected": 115.99
-  },
-  {
-    "player_name": "George Pickens",
-    "team": "Michael's Managable Team",
-    "draft": "6.7",
-    "overall_pick": 67,
-    "points": 114.7,
-    "projected": 76.29
+    "projected": 109.3
   },
   {
     "player_name": "Puka Nacua",
@@ -37,15 +37,31 @@
     "draft": "2.9",
     "overall_pick": 21,
     "points": 111.8,
-    "projected": 101.3
+    "projected": 115.77
   },
   {
     "player_name": "Emeka Egbuka",
     "team": "Abbey's TNT Team",
     "draft": "9.4",
     "overall_pick": 100,
-    "points": 101.1,
-    "projected": 60.63
+    "points": 106.1,
+    "projected": 69.29
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "team": "Michael's Managable Team",
+    "draft": "10.7",
+    "overall_pick": 115,
+    "points": 104.1,
+    "projected": 74.29
+  },
+  {
+    "player_name": "Keenan Allen",
+    "team": "Game of Zones - House Hamlin",
+    "draft": "11.2",
+    "overall_pick": 122,
+    "points": 95.9,
+    "projected": 80.98
   },
   {
     "player_name": "Davante Adams",
@@ -53,30 +69,14 @@
     "draft": "4.7",
     "overall_pick": 43,
     "points": 94.6,
-    "projected": 88.34
+    "projected": 100.96
   },
   {
-    "player_name": "Keenan Allen",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "11.2",
-    "overall_pick": 122,
-    "points": 89.5,
-    "projected": 70.86
-  },
-  {
-    "player_name": "Michael Pittman Jr.",
-    "team": "Michael's Managable Team",
-    "draft": "10.7",
-    "overall_pick": 115,
-    "points": 84.6,
-    "projected": 65.0
-  },
-  {
-    "player_name": "Quentin Johnston",
-    "team": "To Infinity and Bijan!",
-    "draft": "16.4",
-    "overall_pick": 184,
-    "points": 83.4,
-    "projected": 56.4
+    "player_name": "DeVonta Smith",
+    "team": "Mama Daughter Duo",
+    "draft": "4.3",
+    "overall_pick": 39,
+    "points": 92.8,
+    "projected": 84.19
   }
 ]
