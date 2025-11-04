@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 5,
     "player_name": "Ja'Marr Chase",
-    "points": "135.6",
-    "before_trade": "135.6",
+    "points": "149.7",
+    "before_trade": "149.7",
     "after_trade": "0.0",
     "draft_position": 5,
-    "value_diff": "3.0",
+    "value_diff": "0.6",
     "grade": "B"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "72.0",
     "after_trade": "0.0",
     "draft_position": 20,
-    "value_diff": "-36.3",
+    "value_diff": "-49.8",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 5,
     "player_name": "Trey McBride",
-    "points": "101.3",
-    "before_trade": "101.3",
+    "points": "116.6",
+    "before_trade": "116.6",
     "after_trade": "0.0",
     "draft_position": 29,
-    "value_diff": "-7.3",
+    "value_diff": "-5.7",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 8,
     "player_name": "Jaxon Smith-Njigba",
-    "points": "130.0",
-    "before_trade": "130.0",
+    "points": "148.0",
+    "before_trade": "148.0",
     "after_trade": "0.0",
     "draft_position": 44,
-    "value_diff": "37.4",
+    "value_diff": "43.9",
     "grade": "A"
   },
   {
@@ -52,23 +52,23 @@
     "round": 5,
     "pick": 5,
     "player_name": "Chuba Hubbard",
-    "points": "65.5",
-    "before_trade": "65.5",
+    "points": "67.2",
+    "before_trade": "67.2",
     "after_trade": "0.0",
     "draft_position": 53,
-    "value_diff": "-44.7",
-    "grade": "C"
+    "value_diff": "-56.8",
+    "grade": "D"
   },
   {
     "team": "Americas Team ",
     "round": 6,
     "pick": 8,
     "player_name": "David Montgomery",
-    "points": "81.2",
-    "before_trade": "81.2",
+    "points": "91.2",
+    "before_trade": "91.2",
     "after_trade": "0.0",
     "draft_position": 68,
-    "value_diff": "-10.7",
+    "value_diff": "-12.2",
     "grade": "B"
   },
   {
@@ -76,24 +76,24 @@
     "round": 7,
     "pick": 5,
     "player_name": "Matthew Stafford",
-    "points": "166.4",
-    "before_trade": "166.4",
+    "points": "205.3",
+    "before_trade": "205.3",
     "after_trade": "0.0",
     "draft_position": 77,
-    "value_diff": "14.7",
-    "grade": "B"
+    "value_diff": "34.5",
+    "grade": "A"
   },
   {
     "team": "Americas Team ",
     "round": 8,
     "pick": 8,
     "player_name": "Sam Darnold",
-    "points": "138.8",
-    "before_trade": "138.8",
+    "points": "181.5",
+    "before_trade": "181.5",
     "after_trade": "0.0",
     "draft_position": 92,
-    "value_diff": "9.7",
-    "grade": "B"
+    "value_diff": "36.2",
+    "grade": "A"
   },
   {
     "team": "Americas Team ",
@@ -104,7 +104,7 @@
     "before_trade": "44.3",
     "after_trade": "0.0",
     "draft_position": 101,
-    "value_diff": "-32.9",
+    "value_diff": "-42.6",
     "grade": "C"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "66.8",
     "after_trade": "0.0",
     "draft_position": 116,
-    "value_diff": "-7.7",
+    "value_diff": "-17.1",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 5,
     "player_name": "Travis Etienne Jr.",
-    "points": "84.4",
-    "before_trade": "84.4",
+    "points": "98.4",
+    "before_trade": "98.4",
     "after_trade": "0.0",
     "draft_position": 125,
-    "value_diff": "7.2",
+    "value_diff": "11.5",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 8,
     "player_name": "Josh Downs",
-    "points": "52.1",
-    "before_trade": "52.1",
+    "points": "64.8",
+    "before_trade": "64.8",
     "after_trade": "0.0",
     "draft_position": 140,
-    "value_diff": "-14.6",
+    "value_diff": "-10.2",
     "grade": "B"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 5,
     "player_name": "Dalton Schultz",
-    "points": "54.8",
-    "before_trade": "54.8",
+    "points": "67.0",
+    "before_trade": "67.0",
     "after_trade": "0.0",
     "draft_position": 149,
-    "value_diff": "1.7",
+    "value_diff": "7.2",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "119.6",
     "after_trade": "0.0",
     "draft_position": 164,
-    "value_diff": "50.3",
+    "value_diff": "41.6",
     "grade": "A"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "12.1",
     "after_trade": "0.0",
     "draft_position": 188,
-    "value_diff": "-22.4",
+    "value_diff": "-26.7",
     "grade": "C"
   }
 ]

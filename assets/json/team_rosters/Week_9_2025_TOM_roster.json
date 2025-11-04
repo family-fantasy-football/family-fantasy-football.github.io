@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.4,
+    "projected": 13.8
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.86,
+    "projected": 23.8
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.0,
+    "projected": 14.69
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.1,
+    "projected": 11.12
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.35,
+    "projected": 12.39
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 6.4,
+    "projected": 10.76
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 34.24,
+    "projected": 23.18
+  },
+  {
+    "player_name": "Kayshon Boutte",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 0.0,
+    "projected": 8.24
+  },
+  {
+    "player_name": "Bam Knight",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.7,
+    "projected": 10.87
+  }
+]

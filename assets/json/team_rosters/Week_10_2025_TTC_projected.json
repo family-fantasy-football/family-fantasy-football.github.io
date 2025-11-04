@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 14.67,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.24,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 7.91,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 17.09,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.13,
+    "opponent": "NE"
+  },
+  {
+    "player_name": "Mason Taylor",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.41,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 11.39,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 6.82,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "RJ Harvey",
+    "pos": "RB",
+    "slot": "OP",
+    "projected": 6.1,
+    "opponent": "LV"
+  }
+]

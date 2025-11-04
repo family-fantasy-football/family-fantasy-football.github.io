@@ -9,7 +9,11 @@ mermaid:
   enabled: true
   zoomable: false
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 ```mermaid
 %%{init: {"flowchart": { "wrap": true }}}%%
 flowchart LR

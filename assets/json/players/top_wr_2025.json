@@ -4,40 +4,64 @@
     "team": "Americas Team",
     "draft": "1.5",
     "overall_pick": 5,
-    "points": 135.6,
-    "projected": 132.56
+    "points": 149.7,
+    "projected": 149.12
   },
   {
     "player_name": "Jaxon Smith-Njigba",
     "team": "Americas Team",
     "draft": "4.8",
     "overall_pick": 44,
-    "points": 130.0,
-    "projected": 92.55
+    "points": 148.0,
+    "projected": 104.12
   },
   {
     "player_name": "George Pickens",
     "team": "Michael's Managable Team",
     "draft": "6.7",
     "overall_pick": 67,
-    "points": 126.0,
-    "projected": 87.19
+    "points": 136.9,
+    "projected": 98.08
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "team": "Game of Zones - House Hamlin",
     "draft": "3.2",
     "overall_pick": 26,
-    "points": 121.7,
-    "projected": 109.3
+    "points": 135.9,
+    "projected": 122.97
   },
   {
     "player_name": "Puka Nacua",
     "team": "Abbey's TNT Team",
     "draft": "2.9",
     "overall_pick": 21,
-    "points": 111.8,
-    "projected": 115.77
+    "points": 131.1,
+    "projected": 130.24
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "team": "Michael's Managable Team",
+    "draft": "10.7",
+    "overall_pick": 115,
+    "points": 120.1,
+    "projected": 83.57
+  },
+  {
+    "player_name": "Davante Adams",
+    "team": "Michael's Managable Team",
+    "draft": "4.7",
+    "overall_pick": 43,
+    "points": 115.1,
+    "projected": 113.58
+  },
+  {
+    "player_name": "Drake London",
+    "team": "Emma's Excellent Team",
+    "draft": "4.10",
+    "overall_pick": 46,
+    "points": 110.2,
+    "projected": 115.79
   },
   {
     "player_name": "Emeka Egbuka",
@@ -45,38 +69,14 @@
     "draft": "9.4",
     "overall_pick": 100,
     "points": 106.1,
-    "projected": 69.29
+    "projected": 77.96
   },
   {
-    "player_name": "Michael Pittman Jr.",
-    "team": "Michael's Managable Team",
-    "draft": "10.7",
-    "overall_pick": 115,
-    "points": 104.1,
-    "projected": 74.29
-  },
-  {
-    "player_name": "Keenan Allen",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "11.2",
-    "overall_pick": 122,
-    "points": 95.9,
-    "projected": 80.98
-  },
-  {
-    "player_name": "Davante Adams",
-    "team": "Michael's Managable Team",
-    "draft": "4.7",
-    "overall_pick": 43,
-    "points": 94.6,
-    "projected": 100.96
-  },
-  {
-    "player_name": "DeVonta Smith",
-    "team": "Mama Daughter Duo",
-    "draft": "4.3",
-    "overall_pick": 39,
-    "points": 92.8,
-    "projected": 84.19
+    "player_name": "Jaylen Waddle",
+    "team": "90s MonCon",
+    "draft": "8.12",
+    "overall_pick": 96,
+    "points": 103.92,
+    "projected": 96.74
   }
 ]

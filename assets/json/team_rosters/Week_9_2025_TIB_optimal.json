@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Mac Jones",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 24.3,
+    "projected": 20.52
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.7,
+    "projected": 14.29
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.3,
+    "projected": 10.49
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.0,
+    "projected": 17.47
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.8,
+    "projected": 14.79
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 16.1,
+    "projected": 8.97
+  },
+  {
+    "player_name": "Theo Johnson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 10.95,
+    "projected": 9.1
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 6.8,
+    "projected": 9.66
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 6.6,
+    "projected": 10.35
+  }
+]

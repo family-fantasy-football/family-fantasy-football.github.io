@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 34.24,
+    "projected": 23.18
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.1,
+    "projected": 11.12
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.6,
+    "projected": 9.73
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.4,
+    "projected": 13.8
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.0,
+    "projected": 14.69
+  },
+  {
+    "player_name": "Dalton Kincaid",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 20.6,
+    "projected": 8.03
+  },
+  {
+    "player_name": "AJ Barner",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 10.75,
+    "projected": 8.16
+  },
+  {
+    "player_name": "Chimere Dike",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 7.0,
+    "projected": 8.87
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 23.86,
+    "projected": 23.8
+  }
+]

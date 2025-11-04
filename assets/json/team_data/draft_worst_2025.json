@@ -8,19 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-182.0",
-    "grade": "D"
-  },
-  {
-    "team": "Big Titi Energy",
-    "round": 3,
-    "pick": 8,
-    "player_name": "J.J. McCarthy",
-    "points": "24.0",
-    "before_trade": "24.0",
-    "after_trade": "0.0",
-    "draft_position": 32,
-    "value_diff": "-129.8",
+    "value_diff": "-206.7",
     "grade": "D"
   },
   {
@@ -32,7 +20,19 @@
     "before_trade": "41.4",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-128.1",
+    "value_diff": "-149.3",
+    "grade": "D"
+  },
+  {
+    "team": "Big Titi Energy",
+    "round": 3,
+    "pick": 8,
+    "player_name": "J.J. McCarthy",
+    "points": "43.0",
+    "before_trade": "43.0",
+    "after_trade": "0.0",
+    "draft_position": 32,
+    "value_diff": "-130.2",
     "grade": "D"
   },
   {
@@ -40,11 +40,11 @@
     "round": 1,
     "pick": 11,
     "player_name": "Jayden Daniels",
-    "points": "99.8",
-    "before_trade": "99.8",
+    "points": "117.1",
+    "before_trade": "117.1",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-99.5",
+    "value_diff": "-107.2",
     "grade": "D"
   },
   {
@@ -52,11 +52,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "39.6",
-    "before_trade": "39.6",
+    "points": "43.0",
+    "before_trade": "43.0",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-86.3",
+    "value_diff": "-98.7",
     "grade": "D"
   }
 ]

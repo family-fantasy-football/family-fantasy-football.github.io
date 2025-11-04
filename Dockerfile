@@ -53,15 +53,16 @@ ENV EXECJS_RUNTIME=Node \
     JEKYLL_ENV=production \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
-    LC_ALL=en_US.UTF-8
-    CHROMIUM_BIN=/usr/bin/chromium
+    LC_ALL=en_US.UTF-8 \
+    CHROMIUM_BIN=/usr/bin/chromium \
     CHROMEDRIVER_PATH=/usr/bin/chromium-driver
+
 
 # create a directory for the jekyll site
 RUN mkdir /srv/jekyll
 
 # copy the Gemfile and Gemfile.lock to the image
-ADD Gemfile.lock /srv/jekyll
+#ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 # set the working directory
@@ -70,6 +71,8 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install --no-document jekyll bundler
 RUN bundle install --no-cache
+
+
 
 EXPOSE 8080
 

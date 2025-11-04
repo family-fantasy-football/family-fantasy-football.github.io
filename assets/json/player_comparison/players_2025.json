@@ -4,8 +4,8 @@
     "name": "Patrick Mahomes",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 231.46,
-    "avg_points": 28.93,
+    "total_points": 230.46,
+    "avg_points": 25.61,
     "projected_points": 389.98,
     "weekly_points": [
       25.0,
@@ -15,9 +15,11 @@
       31.2,
       40.5,
       36.2,
-      32.5
+      32.5,
+      -1.0
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -27,24 +29,24 @@
       0,
       0
     ],
-    "percent_owned": 99.34,
-    "percent_started": 95.26,
+    "percent_owned": 99.43,
+    "percent_started": 78.07,
     "std_dev": 9.22,
     "floor": 11.16,
     "ceiling": 40.48,
     "consistency": 62.5,
     "games_played": 8,
-    "team_share": 22.1,
-    "pos_avg_diff": "+ 6.37",
-    "points_per_game": 28.93
+    "team_share": 20.1,
+    "pos_avg_diff": "+ 3.51",
+    "points_per_game": 28.81
   },
   {
     "id": 4241389,
     "name": "CeeDee Lamb",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 60.8,
-    "avg_points": 12.16,
+    "total_points": 72.8,
+    "avg_points": 12.13,
     "projected_points": 258.55,
     "weekly_points": [
       14.5,
@@ -54,9 +56,11 @@
       0.0,
       0.0,
       19.5,
-      11.1
+      11.1,
+      12.0
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -67,15 +71,15 @@
       0
     ],
     "percent_owned": 99.91,
-    "percent_started": 93.44,
-    "std_dev": 3.0,
+    "percent_started": 69.77,
+    "std_dev": 2.97,
     "floor": 11.1,
     "ceiling": 19.5,
-    "consistency": 50.0,
-    "games_played": 4,
-    "team_share": 5.8,
-    "pos_avg_diff": "-3.8",
-    "points_per_game": 15.2
+    "consistency": 40.0,
+    "games_played": 5,
+    "team_share": 6.3,
+    "pos_avg_diff": "-3.2",
+    "points_per_game": 14.56
   },
   {
     "id": 4596448,
@@ -93,7 +97,8 @@
       0.0,
       0.0,
       0.0,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -103,17 +108,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.45,
-    "percent_started": 11.68,
+    "percent_owned": 95.93,
+    "percent_started": 25.11,
     "std_dev": 4.42,
     "floor": 11.9,
     "ceiling": 23.0,
     "consistency": 25.0,
     "games_played": 4,
-    "team_share": 6.0,
-    "pos_avg_diff": "-4.62",
+    "team_share": 5.4,
+    "pos_avg_diff": "-4.95",
     "points_per_game": 15.62
   },
   {
@@ -121,8 +127,8 @@
     "name": "Chase Brown",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 83.4,
-    "avg_points": 10.43,
+    "total_points": 98.6,
+    "avg_points": 10.96,
     "projected_points": 249.03,
     "weekly_points": [
       12.1,
@@ -132,7 +138,8 @@
       8.3,
       7.9,
       11.0,
-      24.0
+      24.0,
+      15.2
     ],
     "weekly_projected": [
       0,
@@ -142,26 +149,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 95.1,
-    "percent_started": 73.27,
-    "std_dev": 5.61,
+    "percent_owned": 95.96,
+    "percent_started": 59.18,
+    "std_dev": 5.49,
     "floor": 4.0,
     "ceiling": 24.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 8.0,
-    "pos_avg_diff": "-2.01",
-    "points_per_game": 10.43
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 8.6,
+    "pos_avg_diff": "-0.94",
+    "points_per_game": 10.96
   },
   {
     "id": 4683062,
     "name": "Xavier Worthy",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 46.4,
-    "avg_points": 7.73,
+    "total_points": 50.9,
+    "avg_points": 7.27,
     "projected_points": 140.73,
     "weekly_points": [
       0.0,
@@ -171,7 +179,8 @@
       8.1,
       9.6,
       6.3,
-      7.8
+      7.8,
+      4.5
     ],
     "weekly_projected": [
       0,
@@ -181,18 +190,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 94.84,
-    "percent_started": 66.28,
-    "std_dev": 2.86,
-    "floor": 6.3,
+    "percent_owned": 93.66,
+    "percent_started": 41.51,
+    "std_dev": 3.16,
+    "floor": 4.5,
     "ceiling": 14.6,
-    "consistency": 40.0,
-    "games_played": 5,
+    "consistency": 33.3,
+    "games_played": 6,
     "team_share": 4.4,
-    "pos_avg_diff": "-5.6",
-    "points_per_game": 9.28
+    "pos_avg_diff": "-5.64",
+    "points_per_game": 8.48
   },
   {
     "id": 4241463,
@@ -210,7 +220,8 @@
       2.5,
       6.8,
       2.7,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -220,17 +231,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 74.21,
-    "percent_started": 24.4,
+    "percent_owned": 63.33,
+    "percent_started": 7.4,
     "std_dev": 2.54,
     "floor": 2.2,
     "ceiling": 9.1,
     "consistency": 57.1,
     "games_played": 7,
-    "team_share": 3.5,
-    "pos_avg_diff": "-6.81",
+    "team_share": 3.2,
+    "pos_avg_diff": "-7.21",
     "points_per_game": 5.24
   },
   {
@@ -238,8 +250,8 @@
     "name": "Stefon Diggs",
     "position": "WR",
     "team": "Third Time's the Charm?",
-    "total_points": 74.0,
-    "avg_points": 9.25,
+    "total_points": 85.3,
+    "avg_points": 9.48,
     "projected_points": 127.81,
     "weekly_points": [
       8.7,
@@ -249,7 +261,8 @@
       19.6,
       4.3,
       10.4,
-      8.9
+      8.9,
+      11.3
     ],
     "weekly_projected": [
       0,
@@ -259,65 +272,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 88.86,
-    "percent_started": 51.7,
-    "std_dev": 4.93,
+    "percent_owned": 88.72,
+    "percent_started": 50.05,
+    "std_dev": 4.69,
     "floor": 3.8,
     "ceiling": 19.6,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 7.1,
-    "pos_avg_diff": "-2.15",
-    "points_per_game": 9.25
-  },
-  {
-    "id": 4696981,
-    "name": "Cam Skattebo",
-    "position": "RB",
-    "team": "Third Time's the Charm?",
-    "total_points": 115.7,
-    "avg_points": 14.46,
-    "projected_points": 125.35,
-    "weekly_points": [
-      1.9,
-      12.9,
-      21.1,
-      12.0,
-      11.4,
-      30.0,
-      16.9,
-      9.5
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 95.38,
-    "percent_started": 68.19,
-    "std_dev": 7.84,
-    "floor": 1.9,
-    "ceiling": 30.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 11.0,
-    "pos_avg_diff": "+ 2.03",
-    "points_per_game": 14.46
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 7.4,
+    "pos_avg_diff": "-1.81",
+    "points_per_game": 9.48
   },
   {
     "id": 4685720,
     "name": "Bryce Young",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 97.42,
-    "avg_points": 13.92,
+    "total_points": 96.9,
+    "avg_points": 12.11,
     "projected_points": 276.88,
     "weekly_points": [
       2.2,
@@ -327,7 +302,8 @@
       14.5,
       25.0,
       10.0,
-      0.0
+      0.0,
+      -0.5
     ],
     "weekly_projected": [
       0,
@@ -337,18 +313,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 10.18,
-    "percent_started": 1.13,
+    "percent_owned": 8.85,
+    "percent_started": 1.98,
     "std_dev": 7.76,
     "floor": 2.16,
     "ceiling": 24.96,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 9.3,
-    "pos_avg_diff": "-10.39",
-    "points_per_game": 13.92
+    "team_share": 8.4,
+    "pos_avg_diff": "-11.33",
+    "points_per_game": 13.84
   },
   {
     "id": 4360438,
@@ -366,6 +343,7 @@
       0.0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -376,17 +354,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 32.08,
-    "percent_started": 0.09,
+    "percent_owned": 31.38,
+    "percent_started": 0.08,
     "std_dev": 0,
     "floor": 0,
     "ceiling": 0,
     "consistency": 0,
     "games_played": 0,
     "team_share": 0.0,
-    "pos_avg_diff": "-11.4",
+    "pos_avg_diff": "-11.29",
     "points_per_game": 0
   },
   {
@@ -394,8 +373,8 @@
     "name": "Dak Prescott",
     "position": "QB",
     "team": "Third Time's the Charm?",
-    "total_points": 201.46,
-    "avg_points": 25.18,
+    "total_points": 215.86,
+    "avg_points": 23.98,
     "projected_points": 336.86,
     "weekly_points": [
       5.3,
@@ -405,7 +384,8 @@
       34.3,
       31.8,
       30.8,
-      4.1
+      4.1,
+      14.4
     ],
     "weekly_projected": [
       0,
@@ -415,26 +395,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 93.12,
-    "percent_started": 59.47,
-    "std_dev": 13.17,
+    "percent_owned": 91.98,
+    "percent_started": 42.5,
+    "std_dev": 12.87,
     "floor": 4.12,
     "ceiling": 43.46,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 19.2,
-    "pos_avg_diff": "+ 2.62",
-    "points_per_game": 25.18
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 18.8,
+    "pos_avg_diff": "+ 1.89",
+    "points_per_game": 23.98
   },
   {
     "id": 4568490,
     "name": "RJ Harvey",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 70.5,
-    "avg_points": 8.81,
+    "total_points": 84.6,
+    "avg_points": 9.4,
     "projected_points": 184.27,
     "weekly_points": [
       7.4,
@@ -444,7 +425,8 @@
       4.5,
       4.5,
       6.7,
-      23.6
+      23.6,
+      14.1
     ],
     "weekly_projected": [
       0,
@@ -454,26 +436,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 65.18,
-    "percent_started": 17.83,
-    "std_dev": 7.16,
+    "percent_owned": 67.58,
+    "percent_started": 18.13,
+    "std_dev": 6.96,
     "floor": 2.9,
     "ceiling": 23.6,
-    "consistency": 25.0,
-    "games_played": 8,
-    "team_share": 6.7,
-    "pos_avg_diff": "-3.62",
-    "points_per_game": 8.81
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 7.4,
+    "pos_avg_diff": "-2.5",
+    "points_per_game": 9.4
   },
   {
     "id": 4038815,
     "name": "Rico Dowdle",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 97.1,
-    "avg_points": 12.14,
+    "total_points": 124.2,
+    "avg_points": 13.8,
     "projected_points": 73.19,
     "weekly_points": [
       2.6,
@@ -483,7 +466,8 @@
       30.9,
       31.9,
       10.1,
-      5.4
+      5.4,
+      27.1
     ],
     "weekly_projected": [
       0,
@@ -493,18 +477,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 89.27,
-    "percent_started": 62.64,
-    "std_dev": 11.49,
+    "percent_owned": 87.22,
+    "percent_started": 62.68,
+    "std_dev": 11.81,
     "floor": 2.4,
     "ceiling": 31.9,
-    "consistency": 25.0,
-    "games_played": 8,
-    "team_share": 9.3,
-    "pos_avg_diff": "-0.3",
-    "points_per_game": 12.14
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 10.8,
+    "pos_avg_diff": "+ 1.9",
+    "points_per_game": 13.8
   },
   {
     "id": 4808766,
@@ -522,7 +507,8 @@
       15.4,
       0.9,
       5.3,
-      13.2
+      13.2,
+      0
     ],
     "weekly_projected": [
       0,
@@ -532,17 +518,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 20.03,
-    "percent_started": 7.69,
+    "percent_owned": 14.53,
+    "percent_started": 1.6,
     "std_dev": 5.18,
     "floor": 0.95,
     "ceiling": 15.45,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 5.1,
-    "pos_avg_diff": "-3.28",
+    "team_share": 4.7,
+    "pos_avg_diff": "-4.03",
     "points_per_game": 6.74
   },
   {
@@ -550,8 +537,8 @@
     "name": "TreVeyon Henderson",
     "position": "RB",
     "team": "Third Time's the Charm?",
-    "total_points": 44.7,
-    "avg_points": 5.59,
+    "total_points": 55.4,
+    "avg_points": 6.16,
     "projected_points": 202.25,
     "weekly_points": [
       8.1,
@@ -561,7 +548,8 @@
       3.7,
       4.1,
       0.5,
-      5.5
+      5.5,
+      10.7
     ],
     "weekly_projected": [
       0,
@@ -571,18 +559,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 78.6,
-    "percent_started": 26.97,
-    "std_dev": 3.06,
+    "percent_owned": 81.92,
+    "percent_started": 37.63,
+    "std_dev": 3.3,
     "floor": 0.5,
     "ceiling": 11.6,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 4.3,
-    "pos_avg_diff": "-6.85",
-    "points_per_game": 5.59
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 4.8,
+    "pos_avg_diff": "-5.74",
+    "points_per_game": 6.16
   },
   {
     "id": 4608810,
@@ -600,7 +589,8 @@
       7.9,
       11.0,
       13.8,
-      6.8
+      6.8,
+      0
     ],
     "weekly_projected": [
       0,
@@ -610,17 +600,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 42.98,
-    "percent_started": 17.62,
+    "percent_owned": 30.21,
+    "percent_started": 1.64,
     "std_dev": 4.05,
     "floor": 1.8,
     "ceiling": 13.8,
     "consistency": 40.0,
     "games_played": 5,
-    "team_share": 3.9,
-    "pos_avg_diff": "-6.24",
+    "team_share": 3.6,
+    "pos_avg_diff": "-6.7",
     "points_per_game": 8.26
   },
   {
@@ -628,8 +619,8 @@
     "name": "Noah Fant",
     "position": "TE",
     "team": "Third Time's the Charm?",
-    "total_points": 46.45,
-    "avg_points": 6.64,
+    "total_points": 56.75,
+    "avg_points": 7.09,
     "projected_points": 76.31,
     "weekly_points": [
       11.6,
@@ -639,7 +630,8 @@
       0.0,
       5.7,
       13.4,
-      6.3
+      6.3,
+      10.3
     ],
     "weekly_projected": [
       0,
@@ -649,26 +641,68 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 4.54,
-    "percent_started": 2.44,
-    "std_dev": 3.46,
+    "percent_owned": 4.3,
+    "percent_started": 1.37,
+    "std_dev": 3.32,
     "floor": 4.35,
     "ceiling": 13.4,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 4.4,
-    "pos_avg_diff": "-4.21",
-    "points_per_game": 7.74
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 4.9,
+    "pos_avg_diff": "-3.72",
+    "points_per_game": 8.11
+  },
+  {
+    "id": 4360516,
+    "name": "Tyrone Tracy Jr.",
+    "position": "RB",
+    "team": "Third Time's the Charm?",
+    "total_points": 38.9,
+    "avg_points": 5.56,
+    "projected_points": 187.15,
+    "weekly_points": [
+      4.5,
+      7.1,
+      4.6,
+      0.0,
+      0.0,
+      0.6,
+      10.6,
+      6.3,
+      5.2
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 86.1,
+    "percent_started": 50.96,
+    "std_dev": 2.81,
+    "floor": 0.6,
+    "ceiling": 10.6,
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 3.4,
+    "pos_avg_diff": "-7.57",
+    "points_per_game": 5.56
   },
   {
     "id": 3916387,
     "name": "Lamar Jackson",
     "position": "QB",
     "team": "90s MonCon",
-    "total_points": 120.36,
-    "avg_points": 30.09,
+    "total_points": 157.92,
+    "avg_points": 31.58,
     "projected_points": 424.15,
     "weekly_points": [
       35.4,
@@ -678,9 +712,11 @@
       0.0,
       0.0,
       0,
-      0.0
+      0.0,
+      37.6
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -690,24 +726,24 @@
       0,
       0
     ],
-    "percent_owned": 99.81,
-    "percent_started": 29.1,
-    "std_dev": 9.57,
+    "percent_owned": 99.86,
+    "percent_started": 79.51,
+    "std_dev": 9.06,
     "floor": 13.68,
-    "ceiling": 37.52,
-    "consistency": 75.0,
-    "games_played": 4,
-    "team_share": 11.7,
-    "pos_avg_diff": "-7.52",
-    "points_per_game": 30.09
+    "ceiling": 37.56,
+    "consistency": 80.0,
+    "games_played": 5,
+    "team_share": 13.6,
+    "pos_avg_diff": "-4.55",
+    "points_per_game": 31.58
   },
   {
     "id": 4242335,
     "name": "Jonathan Taylor",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 204.1,
-    "avg_points": 25.51,
+    "total_points": 210.8,
+    "avg_points": 23.42,
     "projected_points": 272.45,
     "weekly_points": [
       11.3,
@@ -717,9 +753,11 @@
       30.1,
       21.7,
       32.7,
-      36.4
+      36.4,
+      6.7
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -730,23 +768,23 @@
       0
     ],
     "percent_owned": 99.9,
-    "percent_started": 99.37,
-    "std_dev": 8.87,
-    "floor": 11.3,
+    "percent_started": 99.39,
+    "std_dev": 10.25,
+    "floor": 6.7,
     "ceiling": 36.4,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 19.9,
-    "pos_avg_diff": "+ 13.08",
-    "points_per_game": 25.51
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 18.1,
+    "pos_avg_diff": "+ 11.53",
+    "points_per_game": 23.42
   },
   {
     "id": 4258173,
     "name": "Nico Collins",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 63.7,
-    "avg_points": 10.62,
+    "total_points": 74.7,
+    "avg_points": 10.67,
     "projected_points": 239.0,
     "weekly_points": [
       4.0,
@@ -756,7 +794,8 @@
       14.0,
       0,
       4.7,
-      0.0
+      0.0,
+      11.0
     ],
     "weekly_projected": [
       0,
@@ -766,26 +805,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.69,
-    "percent_started": 30.82,
-    "std_dev": 5.09,
+    "percent_owned": 99.33,
+    "percent_started": 80.69,
+    "std_dev": 4.72,
     "floor": 4.0,
     "ceiling": 18.4,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 6.2,
-    "pos_avg_diff": "-3.44",
-    "points_per_game": 10.62
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 6.4,
+    "pos_avg_diff": "-2.99",
+    "points_per_game": 10.67
   },
   {
     "id": 4241479,
     "name": "Tua Tagovailoa",
     "position": "QB",
     "team": "90s MonCon",
-    "total_points": 142.02,
-    "avg_points": 17.75,
+    "total_points": 148.06,
+    "avg_points": 16.45,
     "projected_points": 348.11,
     "weekly_points": [
       5.3,
@@ -795,7 +835,8 @@
       33.2,
       8.1,
       -6.4,
-      36.2
+      36.2,
+      6.0
     ],
     "weekly_projected": [
       0,
@@ -805,26 +846,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 14.19,
-    "percent_started": 3.66,
-    "std_dev": 11.31,
+    "percent_owned": 16.82,
+    "percent_started": 5.76,
+    "std_dev": 11.71,
     "floor": 5.26,
     "ceiling": 36.2,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 13.9,
-    "pos_avg_diff": "-4.81",
-    "points_per_game": 20.29
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 12.7,
+    "pos_avg_diff": "-5.64",
+    "points_per_game": 18.51
   },
   {
     "id": 4432665,
     "name": "Brock Bowers",
     "position": "TE",
     "team": "90s MonCon",
-    "total_points": 38.75,
-    "avg_points": 9.69,
+    "total_points": 79.05,
+    "avg_points": 15.81,
     "projected_points": 234.76,
     "weekly_points": [
       14.1,
@@ -834,7 +876,8 @@
       0.0,
       0.0,
       0.0,
-      0
+      0,
+      40.3
     ],
     "weekly_projected": [
       0,
@@ -844,18 +887,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 95.29,
-    "percent_started": 21.5,
-    "std_dev": 2.56,
+    "percent_owned": 96.86,
+    "percent_started": 78.25,
+    "std_dev": 12.46,
     "floor": 7.55,
-    "ceiling": 14.05,
-    "consistency": 25.0,
-    "games_played": 4,
-    "team_share": 3.8,
-    "pos_avg_diff": "-5.18",
-    "points_per_game": 9.69
+    "ceiling": 40.3,
+    "consistency": 20.0,
+    "games_played": 5,
+    "team_share": 6.8,
+    "pos_avg_diff": "-1.24",
+    "points_per_game": 15.81
   },
   {
     "id": 4569618,
@@ -873,7 +917,8 @@
       16.1,
       2.8,
       0.0,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -883,17 +928,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 95.17,
-    "percent_started": 14.64,
+    "percent_owned": 94.11,
+    "percent_started": 21.74,
     "std_dev": 6.35,
     "floor": 2.8,
     "ceiling": 19.4,
     "consistency": 66.7,
     "games_played": 6,
-    "team_share": 8.0,
-    "pos_avg_diff": "-1.21",
+    "team_share": 7.0,
+    "pos_avg_diff": "-2.24",
     "points_per_game": 13.58
   },
   {
@@ -901,8 +947,8 @@
     "name": "Jameson Williams",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 49.5,
-    "avg_points": 7.07,
+    "total_points": 64.1,
+    "avg_points": 8.01,
     "projected_points": 185.78,
     "weekly_points": [
       4.6,
@@ -912,7 +958,8 @@
       1.5,
       15.6,
       0.0,
-      0
+      0,
+      14.6
     ],
     "weekly_projected": [
       0,
@@ -922,26 +969,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 82.63,
-    "percent_started": 9.22,
-    "std_dev": 6.13,
+    "percent_owned": 82.56,
+    "percent_started": 28.02,
+    "std_dev": 6.09,
     "floor": 1.5,
     "ceiling": 17.8,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 4.8,
-    "pos_avg_diff": "-5.21",
-    "points_per_game": 8.25
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 5.5,
+    "pos_avg_diff": "-4.17",
+    "points_per_game": 9.16
   },
   {
     "id": 4372016,
     "name": "Jaylen Waddle",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 92.72,
-    "avg_points": 11.59,
+    "total_points": 103.92,
+    "avg_points": 11.55,
     "projected_points": 182.74,
     "weekly_points": [
       5.0,
@@ -951,7 +999,8 @@
       20.0,
       13.3,
       2.0,
-      18.4
+      18.4,
+      11.2
     ],
     "weekly_projected": [
       0,
@@ -961,26 +1010,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.9,
-    "percent_started": 63.01,
-    "std_dev": 6.1,
+    "percent_owned": 93.72,
+    "percent_started": 71.8,
+    "std_dev": 5.75,
     "floor": 2.0,
     "ceiling": 20.0,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 9.0,
-    "pos_avg_diff": "+ 0.19",
-    "points_per_game": 11.59
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 8.9,
+    "pos_avg_diff": "+ 0.26",
+    "points_per_game": 11.55
   },
   {
     "id": 4569987,
     "name": "Jaylen Warren",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 72.3,
-    "avg_points": 12.05,
+    "total_points": 88.2,
+    "avg_points": 12.6,
     "projected_points": 220.23,
     "weekly_points": [
       12.9,
@@ -990,7 +1040,8 @@
       0,
       7.3,
       17.8,
-      8.3
+      8.3,
+      15.9
     ],
     "weekly_projected": [
       0,
@@ -1000,26 +1051,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.75,
-    "percent_started": 74.2,
-    "std_dev": 3.74,
+    "percent_owned": 93.55,
+    "percent_started": 74.9,
+    "std_dev": 3.71,
     "floor": 7.3,
     "ceiling": 17.8,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 7.1,
-    "pos_avg_diff": "-3.4",
-    "points_per_game": 12.05
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 7.6,
+    "pos_avg_diff": "-2.1",
+    "points_per_game": 12.6
   },
   {
     "id": 4360569,
     "name": "Jordan Mason",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 69.0,
-    "avg_points": 9.86,
+    "total_points": 73.2,
+    "avg_points": 9.15,
     "projected_points": 126.38,
     "weekly_points": [
       8.0,
@@ -1029,7 +1081,8 @@
       11.1,
       0,
       11.7,
-      1.1
+      1.1,
+      4.2
     ],
     "weekly_projected": [
       0,
@@ -1039,26 +1092,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 86.59,
-    "percent_started": 47.97,
-    "std_dev": 6.56,
+    "percent_owned": 70.93,
+    "percent_started": 13.86,
+    "std_dev": 6.41,
     "floor": 1.1,
     "ceiling": 23.6,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 6.7,
-    "pos_avg_diff": "-3.81",
-    "points_per_game": 9.86
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 6.3,
+    "pos_avg_diff": "-3.76",
+    "points_per_game": 9.15
   },
   {
     "id": 3886598,
     "name": "Jauan Jennings",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 38.2,
-    "avg_points": 6.37,
+    "total_points": 50.3,
+    "avg_points": 7.19,
     "projected_points": 157.65,
     "weekly_points": [
       2.6,
@@ -1068,7 +1122,8 @@
       0.0,
       1.2,
       5.1,
-      6.5
+      6.5,
+      12.1
     ],
     "weekly_projected": [
       0,
@@ -1078,26 +1133,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 64.19,
-    "percent_started": 17.92,
-    "std_dev": 5.25,
+    "percent_owned": 71.35,
+    "percent_started": 28.77,
+    "std_dev": 5.26,
     "floor": 1.2,
     "ceiling": 17.4,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 3.7,
-    "pos_avg_diff": "-6.63",
-    "points_per_game": 6.37
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 4.3,
+    "pos_avg_diff": "-5.7",
+    "points_per_game": 7.19
   },
   {
     "id": 4429205,
     "name": "Jordan Addison",
     "position": "WR",
     "team": "90s MonCon",
-    "total_points": 53.4,
-    "avg_points": 13.35,
+    "total_points": 60.8,
+    "avg_points": 12.16,
     "projected_points": 137.95,
     "weekly_points": [
       0.0,
@@ -1107,7 +1163,8 @@
       12.6,
       0,
       17.3,
-      10.1
+      10.1,
+      7.4
     ],
     "weekly_projected": [
       0,
@@ -1117,18 +1174,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 86.45,
-    "percent_started": 49.71,
-    "std_dev": 2.59,
-    "floor": 10.1,
+    "percent_owned": 86.76,
+    "percent_started": 45.27,
+    "std_dev": 3.32,
+    "floor": 7.4,
     "ceiling": 17.3,
-    "consistency": 50.0,
-    "games_played": 4,
+    "consistency": 60.0,
+    "games_played": 5,
     "team_share": 5.2,
-    "pos_avg_diff": "-4.73",
-    "points_per_game": 13.35
+    "pos_avg_diff": "-4.54",
+    "points_per_game": 12.16
   },
   {
     "id": 4685702,
@@ -1146,7 +1204,8 @@
       13.3,
       3.6,
       26.4,
-      3.2
+      3.2,
+      0
     ],
     "weekly_projected": [
       0,
@@ -1156,17 +1215,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 91.51,
-    "percent_started": 54.92,
+    "percent_owned": 90.17,
+    "percent_started": 28.71,
     "std_dev": 7.88,
     "floor": 3.2,
     "ceiling": 26.4,
     "consistency": 57.1,
     "games_played": 7,
-    "team_share": 8.8,
-    "pos_avg_diff": "-1.11",
+    "team_share": 7.8,
+    "pos_avg_diff": "-1.83",
     "points_per_game": 12.94
   },
   {
@@ -1174,8 +1234,8 @@
     "name": "Tyjae Spears",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 29.6,
-    "avg_points": 7.4,
+    "total_points": 37.3,
+    "avg_points": 7.46,
     "projected_points": 103.95,
     "weekly_points": [
       0.0,
@@ -1185,7 +1245,8 @@
       1.4,
       7.0,
       5.5,
-      15.7
+      15.7,
+      7.7
     ],
     "weekly_projected": [
       0,
@@ -1195,26 +1256,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 36.36,
-    "percent_started": 13.07,
-    "std_dev": 5.21,
+    "percent_owned": 43.69,
+    "percent_started": 9.23,
+    "std_dev": 4.66,
     "floor": 1.4,
     "ceiling": 15.7,
-    "consistency": 25.0,
-    "games_played": 4,
-    "team_share": 2.9,
-    "pos_avg_diff": "-8.73",
-    "points_per_game": 7.4
+    "consistency": 40.0,
+    "games_played": 5,
+    "team_share": 3.2,
+    "pos_avg_diff": "-7.75",
+    "points_per_game": 7.46
   },
   {
     "id": 4430968,
     "name": "Kimani Vidal",
     "position": "RB",
     "team": "90s MonCon",
-    "total_points": 48.4,
-    "avg_points": 9.68,
+    "total_points": 51.4,
+    "avg_points": 8.57,
     "projected_points": 0.0,
     "weekly_points": [
       0,
@@ -1224,7 +1286,8 @@
       2.4,
       21.3,
       5.5,
-      19.2
+      19.2,
+      3.0
     ],
     "weekly_projected": [
       0,
@@ -1234,26 +1297,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 72.67,
-    "percent_started": 53.04,
-    "std_dev": 8.26,
+    "percent_owned": 88.17,
+    "percent_started": 67.26,
+    "std_dev": 8.23,
     "floor": 2.4,
     "ceiling": 21.3,
-    "consistency": 50.0,
-    "games_played": 4,
-    "team_share": 4.7,
-    "pos_avg_diff": "-6.38",
-    "points_per_game": 12.1
+    "consistency": 40.0,
+    "games_played": 5,
+    "team_share": 4.4,
+    "pos_avg_diff": "-6.19",
+    "points_per_game": 10.28
   },
   {
     "id": 4595342,
     "name": "Oronde Gadsden II",
     "position": "TE",
     "team": "90s MonCon",
-    "total_points": 68.75,
-    "avg_points": 11.46,
+    "total_points": 79.3,
+    "avg_points": 11.33,
     "projected_points": 0.0,
     "weekly_points": [
       0.0,
@@ -1263,6 +1327,89 @@
       2.1,
       10.1,
       27.6,
+      17.4,
+      10.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 81.07,
+    "percent_started": 55.06,
+    "std_dev": 8.17,
+    "floor": 2.15,
+    "ceiling": 27.65,
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 6.8,
+    "pos_avg_diff": "-1.21",
+    "points_per_game": 11.33
+  },
+  {
+    "id": 4427238,
+    "name": "Dillon Gabriel",
+    "position": "QB",
+    "team": "90s MonCon",
+    "total_points": 42.58,
+    "avg_points": 7.1,
+    "projected_points": 69.63,
+    "weekly_points": [
+      0.0,
+      8.3,
+      0.0,
+      -1.0,
+      15.6,
+      0.3,
+      7.3,
+      12.0,
+      0
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 1.47,
+    "percent_started": 0.22,
+    "std_dev": 5.11,
+    "floor": 0.34,
+    "ceiling": 15.6,
+    "consistency": 40.0,
+    "games_played": 5,
+    "team_share": 3.7,
+    "pos_avg_diff": "-17.36",
+    "points_per_game": 8.52
+  },
+  {
+    "id": 4890973,
+    "name": "Ashton Jeanty",
+    "position": "RB",
+    "team": "Rookie Mistake",
+    "total_points": 106.0,
+    "avg_points": 13.25,
+    "projected_points": 270.68,
+    "weekly_points": [
+      11.0,
+      5.9,
+      6.3,
+      32.5,
+      13.4,
+      15.6,
+      3.9,
+      0,
       17.4
     ],
     "weekly_projected": [
@@ -1273,104 +1420,27 @@
       0,
       0,
       0,
-      0
-    ],
-    "percent_owned": 68.08,
-    "percent_started": 52.51,
-    "std_dev": 8.81,
-    "floor": 2.15,
-    "ceiling": 27.65,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 6.7,
-    "pos_avg_diff": "-1.43",
-    "points_per_game": 11.46
-  },
-  {
-    "id": 14880,
-    "name": "Kirk Cousins",
-    "position": "QB",
-    "team": "90s MonCon",
-    "total_points": 9.28,
-    "avg_points": 4.64,
-    "projected_points": 2.89,
-    "weekly_points": [
-      0.0,
-      0.0,
-      1.7,
-      0.0,
-      0,
-      0.0,
-      0.0,
-      7.6
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0
     ],
-    "percent_owned": 7.71,
-    "percent_started": 5.37,
-    "std_dev": 2.98,
-    "floor": 1.66,
-    "ceiling": 7.62,
-    "consistency": 50.0,
-    "games_played": 2,
-    "team_share": 0.9,
-    "pos_avg_diff": "-21.4",
-    "points_per_game": 4.64
-  },
-  {
-    "id": 4890973,
-    "name": "Ashton Jeanty",
-    "position": "RB",
-    "team": "Rookie Mistake",
-    "total_points": 88.6,
-    "avg_points": 12.66,
-    "projected_points": 270.68,
-    "weekly_points": [
-      11.0,
-      5.9,
-      6.3,
-      32.5,
-      13.4,
-      15.6,
-      3.9,
-      0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 98.82,
-    "percent_started": 33.89,
-    "std_dev": 9.01,
+    "percent_owned": 99.1,
+    "percent_started": 86.2,
+    "std_dev": 8.57,
     "floor": 3.9,
     "ceiling": 32.5,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 9.4,
-    "pos_avg_diff": "-1.36",
-    "points_per_game": 12.66
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 9.9,
+    "pos_avg_diff": "-0.12",
+    "points_per_game": 13.25
   },
   {
     "id": 3046779,
     "name": "Jared Goff",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 172.54,
-    "avg_points": 24.65,
+    "total_points": 196.4,
+    "avg_points": 24.55,
     "projected_points": 330.83,
     "weekly_points": [
       20.4,
@@ -1380,7 +1450,8 @@
       31.6,
       26.3,
       13.3,
-      0
+      0,
+      23.9
     ],
     "weekly_projected": [
       0,
@@ -1390,26 +1461,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 71.55,
-    "percent_started": 8.19,
-    "std_dev": 12.23,
+    "percent_owned": 71.05,
+    "percent_started": 27.85,
+    "std_dev": 11.44,
     "floor": 13.34,
     "ceiling": 50.46,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 18.3,
-    "pos_avg_diff": "-1.0",
-    "points_per_game": 24.65
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 18.4,
+    "pos_avg_diff": "-0.27",
+    "points_per_game": 24.55
   },
   {
     "id": 4379399,
     "name": "James Cook III",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 132.2,
-    "avg_points": 18.89,
+    "total_points": 145.2,
+    "avg_points": 18.15,
     "projected_points": 251.61,
     "weekly_points": [
       18.7,
@@ -1419,7 +1491,8 @@
       4.9,
       8.7,
       0,
-      33.6
+      33.6,
+      13.0
     ],
     "weekly_projected": [
       0,
@@ -1429,18 +1502,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.77,
-    "percent_started": 89.85,
-    "std_dev": 9.03,
+    "percent_owned": 99.8,
+    "percent_started": 94.5,
+    "std_dev": 8.67,
     "floor": 4.9,
     "ceiling": 33.6,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 14.1,
-    "pos_avg_diff": "+ 4.09",
-    "points_per_game": 18.89
+    "consistency": 62.5,
+    "games_played": 8,
+    "team_share": 13.6,
+    "pos_avg_diff": "+ 4.24",
+    "points_per_game": 18.15
   },
   {
     "id": 4685382,
@@ -1458,6 +1532,7 @@
       10.0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -1468,17 +1543,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 91.66,
-    "percent_started": 12.45,
+    "percent_owned": 90.35,
+    "percent_started": 11.76,
     "std_dev": 8.56,
     "floor": 3.0,
     "ceiling": 25.0,
     "consistency": 40.0,
     "games_played": 5,
-    "team_share": 7.1,
-    "pos_avg_diff": "-4.06",
+    "team_share": 6.3,
+    "pos_avg_diff": "-4.45",
     "points_per_game": 13.4
   },
   {
@@ -1486,8 +1562,8 @@
     "name": "Marvin Harrison Jr.",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 63.6,
-    "avg_points": 9.09,
+    "total_points": 82.7,
+    "avg_points": 10.34,
     "projected_points": 198.75,
     "weekly_points": [
       15.6,
@@ -1497,7 +1573,8 @@
       11.8,
       4.2,
       6.8,
-      0
+      0,
+      19.1
     ],
     "weekly_projected": [
       0,
@@ -1507,26 +1584,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.81,
-    "percent_started": 20.62,
-    "std_dev": 4.79,
+    "percent_owned": 93.6,
+    "percent_started": 58.51,
+    "std_dev": 5.57,
     "floor": 3.7,
-    "ceiling": 15.6,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 6.8,
-    "pos_avg_diff": "-3.45",
-    "points_per_game": 9.09
+    "ceiling": 19.1,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 7.8,
+    "pos_avg_diff": "-2.1",
+    "points_per_game": 10.34
   },
   {
     "id": 4701936,
     "name": "Matthew Golden",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 40.3,
-    "avg_points": 5.76,
+    "total_points": 42.2,
+    "avg_points": 5.28,
     "projected_points": 169.25,
     "weekly_points": [
       2.6,
@@ -1536,6 +1614,7 @@
       0,
       11.7,
       5.7,
+      1.9,
       1.9
     ],
     "weekly_projected": [
@@ -1546,18 +1625,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 76.75,
-    "percent_started": 23.59,
-    "std_dev": 3.65,
+    "percent_owned": 67.61,
+    "percent_started": 10.8,
+    "std_dev": 3.64,
     "floor": 1.5,
     "ceiling": 11.7,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 4.3,
-    "pos_avg_diff": "-6.36",
-    "points_per_game": 5.76
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 4.0,
+    "pos_avg_diff": "-6.6",
+    "points_per_game": 5.28
   },
   {
     "id": 4685415,
@@ -1575,7 +1655,8 @@
       7.9,
       3.5,
       20.1,
-      0
+      0,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -1585,17 +1666,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 75.02,
-    "percent_started": 10.66,
+    "percent_owned": 72.87,
+    "percent_started": 7.64,
     "std_dev": 5.57,
     "floor": 2.6,
     "ceiling": 20.1,
     "consistency": 28.6,
     "games_played": 7,
-    "team_share": 5.3,
-    "pos_avg_diff": "-5.18",
+    "team_share": 4.7,
+    "pos_avg_diff": "-5.76",
     "points_per_game": 7.11
   },
   {
@@ -1603,8 +1685,8 @@
     "name": "Tyler Warren",
     "position": "TE",
     "team": "Rookie Mistake",
-    "total_points": 100.55,
-    "avg_points": 12.57,
+    "total_points": 106.9,
+    "avg_points": 11.88,
     "projected_points": 149.88,
     "weekly_points": [
       13.2,
@@ -1614,7 +1696,8 @@
       12.4,
       16.8,
       15.9,
-      8.3
+      8.3,
+      6.3
     ],
     "weekly_projected": [
       0,
@@ -1624,26 +1707,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.39,
-    "percent_started": 90.16,
-    "std_dev": 3.76,
+    "percent_owned": 97.53,
+    "percent_started": 87.55,
+    "std_dev": 4.05,
     "floor": 6.05,
     "ceiling": 17.05,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 10.7,
-    "pos_avg_diff": "+ 2.55",
-    "points_per_game": 12.57
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 10.0,
+    "pos_avg_diff": "+ 1.86",
+    "points_per_game": 11.88
   },
   {
     "id": 4241985,
     "name": "J.K. Dobbins",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 95.1,
-    "avg_points": 11.89,
+    "total_points": 101.5,
+    "avg_points": 11.28,
     "projected_points": 152.37,
     "weekly_points": [
       13.8,
@@ -1653,7 +1737,8 @@
       14.9,
       4.0,
       8.5,
-      13.1
+      13.1,
+      6.4
     ],
     "weekly_projected": [
       0,
@@ -1663,26 +1748,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 90.63,
-    "percent_started": 64.87,
-    "std_dev": 3.65,
+    "percent_owned": 90.33,
+    "percent_started": 56.26,
+    "std_dev": 3.85,
     "floor": 4.0,
     "ceiling": 15.0,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 10.1,
-    "pos_avg_diff": "-0.55",
-    "points_per_game": 11.89
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 9.5,
+    "pos_avg_diff": "-0.62",
+    "points_per_game": 11.28
   },
   {
     "id": 4689114,
     "name": "Jaxson Dart",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 108.36,
-    "avg_points": 15.48,
+    "total_points": 142.6,
+    "avg_points": 17.82,
     "projected_points": 136.29,
     "weekly_points": [
       0.0,
@@ -1692,7 +1778,8 @@
       18.6,
       26.1,
       23.9,
-      18.4
+      18.4,
+      34.2
     ],
     "weekly_projected": [
       0,
@@ -1702,26 +1789,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 69.35,
-    "percent_started": 40.32,
-    "std_dev": 8.42,
+    "percent_owned": 76.96,
+    "percent_started": 50.76,
+    "std_dev": 9.63,
     "floor": 0.3,
-    "ceiling": 26.1,
-    "consistency": 83.3,
-    "games_played": 6,
-    "team_share": 11.5,
-    "pos_avg_diff": "-9.02",
-    "points_per_game": 18.06
+    "ceiling": 34.24,
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 13.4,
+    "pos_avg_diff": "-6.25",
+    "points_per_game": 20.37
   },
   {
     "id": 4361432,
     "name": "Romeo Doubs",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 74.5,
-    "avg_points": 10.64,
+    "total_points": 87.1,
+    "avg_points": 10.89,
     "projected_points": 103.18,
     "weekly_points": [
       7.8,
@@ -1731,7 +1819,8 @@
       0,
       8.0,
       10.2,
-      7.9
+      7.9,
+      12.6
     ],
     "weekly_projected": [
       0,
@@ -1741,18 +1830,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 75.17,
-    "percent_started": 47.5,
-    "std_dev": 6.92,
+    "percent_owned": 72.56,
+    "percent_started": 36.66,
+    "std_dev": 6.5,
     "floor": 3.5,
     "ceiling": 26.8,
-    "consistency": 14.3,
-    "games_played": 7,
-    "team_share": 7.9,
-    "pos_avg_diff": "-2.09",
-    "points_per_game": 10.64
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 8.2,
+    "pos_avg_diff": "-1.61",
+    "points_per_game": 10.89
   },
   {
     "id": 4429022,
@@ -1760,7 +1850,7 @@
     "position": "WR",
     "team": "Rookie Mistake",
     "total_points": 84.6,
-    "avg_points": 10.57,
+    "avg_points": 9.4,
     "projected_points": 89.88,
     "weekly_points": [
       13.3,
@@ -1770,7 +1860,8 @@
       5.8,
       23.8,
       12.5,
-      15.0
+      15.0,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -1780,17 +1871,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 30.11,
-    "percent_started": 12.33,
+    "percent_owned": 41.78,
+    "percent_started": 11.0,
     "std_dev": 6.6,
     "floor": 2.3,
     "ceiling": 23.8,
     "consistency": 50.0,
     "games_played": 8,
-    "team_share": 9.0,
-    "pos_avg_diff": "-0.83",
+    "team_share": 7.9,
+    "pos_avg_diff": "-1.89",
     "points_per_game": 10.57
   },
   {
@@ -1798,8 +1890,8 @@
     "name": "Bam Knight",
     "position": "RB",
     "team": "Rookie Mistake",
-    "total_points": 28.7,
-    "avg_points": 5.74,
+    "total_points": 34.4,
+    "avg_points": 5.73,
     "projected_points": 5.58,
     "weekly_points": [
       0.0,
@@ -1809,7 +1901,8 @@
       8.9,
       11.9,
       7.9,
-      0
+      0,
+      5.7
     ],
     "weekly_projected": [
       0,
@@ -1819,26 +1912,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 18.69,
-    "percent_started": 3.66,
-    "std_dev": 1.7,
-    "floor": 7.9,
+    "percent_owned": 58.5,
+    "percent_started": 30.13,
+    "std_dev": 2.23,
+    "floor": 5.7,
     "ceiling": 11.9,
-    "consistency": 33.3,
-    "games_played": 3,
-    "team_share": 3.1,
-    "pos_avg_diff": "-8.85",
-    "points_per_game": 9.57
+    "consistency": 50.0,
+    "games_played": 4,
+    "team_share": 3.2,
+    "pos_avg_diff": "-8.07",
+    "points_per_game": 8.6
   },
   {
     "id": 4385690,
     "name": "Dalton Kincaid",
     "position": "TE",
     "team": "Rookie Mistake",
-    "total_points": 64.75,
-    "avg_points": 10.79,
+    "total_points": 85.35,
+    "avg_points": 12.19,
     "projected_points": 132.83,
     "weekly_points": [
       13.8,
@@ -1848,7 +1942,8 @@
       15.3,
       0.0,
       0,
-      3.0
+      3.0,
+      20.6
     ],
     "weekly_projected": [
       0,
@@ -1858,36 +1953,38 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 72.89,
-    "percent_started": 25.41,
-    "std_dev": 4.8,
+    "percent_owned": 70.93,
+    "percent_started": 30.53,
+    "std_dev": 5.62,
     "floor": 3.05,
-    "ceiling": 16.35,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 6.9,
-    "pos_avg_diff": "-1.93",
-    "points_per_game": 10.79
+    "ceiling": 20.6,
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 8.0,
+    "pos_avg_diff": "-0.54",
+    "points_per_game": 12.19
   },
   {
-    "id": 4360078,
-    "name": "Alec Pierce",
+    "id": 4431268,
+    "name": "Chimere Dike",
     "position": "WR",
     "team": "Rookie Mistake",
-    "total_points": 47.6,
-    "avg_points": 7.93,
-    "projected_points": 58.74,
+    "total_points": 43.6,
+    "avg_points": 4.84,
+    "projected_points": 30.97,
     "weekly_points": [
-      4.1,
-      8.8,
-      8.7,
-      0.0,
-      0.0,
-      5.8,
-      12.3,
-      7.9
+      0.9,
+      1.8,
+      2.0,
+      -0.4,
+      2.7,
+      1.8,
+      14.9,
+      12.9,
+      7.0
     ],
     "weekly_projected": [
       0,
@@ -1897,36 +1994,38 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 10.24,
-    "percent_started": 4.52,
-    "std_dev": 2.57,
-    "floor": 4.1,
-    "ceiling": 12.3,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 5.1,
-    "pos_avg_diff": "-5.45",
-    "points_per_game": 7.93
+    "percent_owned": 22.64,
+    "percent_started": 6.43,
+    "std_dev": 5.17,
+    "floor": 0.9,
+    "ceiling": 14.9,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 4.1,
+    "pos_avg_diff": "-6.45",
+    "points_per_game": 5.45
   },
   {
-    "id": 2576980,
-    "name": "Marcus Mariota",
+    "id": 4360689,
+    "name": "Tyler Shough",
     "position": "QB",
     "team": "Rookie Mistake",
-    "total_points": 55.76,
-    "avg_points": 13.94,
-    "projected_points": 2.8,
+    "total_points": 7.56,
+    "avg_points": 2.52,
+    "projected_points": 101.91,
     "weekly_points": [
       0.0,
       0.0,
-      23.8,
-      17.2,
+      -2.0,
       0.0,
       0.0,
-      -0.1,
-      14.8
+      0.0,
+      0.0,
+      -0.2,
+      9.7
     ],
     "weekly_projected": [
       0,
@@ -1936,36 +2035,38 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 11.76,
-    "percent_started": 8.85,
-    "std_dev": 3.78,
-    "floor": 14.82,
-    "ceiling": 23.78,
-    "consistency": 33.3,
-    "games_played": 3,
-    "team_share": 5.9,
-    "pos_avg_diff": "-15.59",
-    "points_per_game": 18.59
+    "percent_owned": 1.25,
+    "percent_started": 0.46,
+    "std_dev": 0,
+    "floor": 9.74,
+    "ceiling": 9.74,
+    "consistency": 0.0,
+    "games_played": 1,
+    "team_share": 0.7,
+    "pos_avg_diff": "-21.25",
+    "points_per_game": 7.56
   },
   {
-    "id": 4361411,
-    "name": "Pat Freiermuth",
+    "id": 4576297,
+    "name": "AJ Barner",
     "position": "TE",
     "team": "Rookie Mistake",
-    "total_points": 44.0,
-    "avg_points": 6.29,
-    "projected_points": 118.36,
+    "total_points": 70.05,
+    "avg_points": 8.76,
+    "projected_points": 73.49,
     "weekly_points": [
-      5.0,
-      5.3,
-      1.4,
-      0.0,
+      0.9,
+      10.3,
+      3.0,
+      11.4,
+      22.6,
+      9.3,
+      1.6,
       0,
-      1.9,
-      26.9,
-      3.5
+      10.8
     ],
     "weekly_projected": [
       0,
@@ -1975,26 +2076,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 6.76,
-    "percent_started": 2.62,
-    "std_dev": 8.85,
-    "floor": 1.35,
-    "ceiling": 26.85,
-    "consistency": 16.7,
-    "games_played": 6,
-    "team_share": 4.7,
-    "pos_avg_diff": "-4.52",
-    "points_per_game": 7.33
+    "percent_owned": 11.83,
+    "percent_started": 6.17,
+    "std_dev": 6.6,
+    "floor": 0.95,
+    "ceiling": 22.55,
+    "consistency": 62.5,
+    "games_played": 8,
+    "team_share": 6.6,
+    "pos_avg_diff": "-2.24",
+    "points_per_game": 8.76
   },
   {
     "id": 4362628,
     "name": "Ja'Marr Chase",
     "position": "WR",
     "team": "Americas Team",
-    "total_points": 135.6,
-    "avg_points": 16.95,
+    "total_points": 149.7,
+    "avg_points": 16.63,
     "projected_points": 281.68,
     "weekly_points": [
       3.6,
@@ -2004,9 +2106,11 @@
       26.0,
       20.1,
       30.1,
-      15.1
+      15.1,
+      14.1
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -2017,15 +2121,15 @@
       0
     ],
     "percent_owned": 99.94,
-    "percent_started": 99.28,
-    "std_dev": 10.39,
+    "percent_started": 74.4,
+    "std_dev": 9.83,
     "floor": 3.6,
     "ceiling": 30.1,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 13.3,
-    "pos_avg_diff": "+ 5.55",
-    "points_per_game": 16.95
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 12.5,
+    "pos_avg_diff": "+ 5.34",
+    "points_per_game": 16.63
   },
   {
     "id": 4047646,
@@ -2043,7 +2147,8 @@
       6.8,
       11.0,
       26.1,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -2053,17 +2158,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 98.49,
-    "percent_started": 34.65,
+    "percent_owned": 97.74,
+    "percent_started": 32.27,
     "std_dev": 8.75,
     "floor": 1.3,
     "ceiling": 26.1,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 7.0,
-    "pos_avg_diff": "-2.4",
+    "team_share": 6.0,
+    "pos_avg_diff": "-3.29",
     "points_per_game": 10.29
   },
   {
@@ -2071,8 +2177,8 @@
     "name": "Trey McBride",
     "position": "TE",
     "team": "Americas Team",
-    "total_points": 101.35,
-    "avg_points": 14.48,
+    "total_points": 116.6,
+    "avg_points": 14.57,
     "projected_points": 230.94,
     "weekly_points": [
       10.6,
@@ -2082,7 +2188,8 @@
       7.8,
       19.2,
       26.9,
-      0
+      0,
+      15.2
     ],
     "weekly_projected": [
       0,
@@ -2092,26 +2199,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.82,
-    "percent_started": 40.4,
-    "std_dev": 6.06,
+    "percent_owned": 99.87,
+    "percent_started": 93.69,
+    "std_dev": 5.67,
     "floor": 7.85,
     "ceiling": 26.9,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 9.9,
-    "pos_avg_diff": "+ 2.65",
-    "points_per_game": 14.48
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 9.7,
+    "pos_avg_diff": "+ 2.93",
+    "points_per_game": 14.57
   },
   {
     "id": 4430878,
     "name": "Jaxon Smith-Njigba",
     "position": "WR",
     "team": "Americas Team",
-    "total_points": 130.0,
-    "avg_points": 18.57,
+    "total_points": 148.0,
+    "avg_points": 18.5,
     "projected_points": 196.67,
     "weekly_points": [
       14.9,
@@ -2121,7 +2229,8 @@
       23.2,
       26.2,
       22.3,
-      0
+      0,
+      18.0
     ],
     "weekly_projected": [
       0,
@@ -2131,26 +2240,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.68,
-    "percent_started": 35.19,
-    "std_dev": 5.11,
+    "percent_owned": 99.77,
+    "percent_started": 93.25,
+    "std_dev": 4.78,
     "floor": 11.0,
     "ceiling": 26.2,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 12.7,
-    "pos_avg_diff": "+ 4.85",
-    "points_per_game": 18.57
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 12.4,
+    "pos_avg_diff": "+ 5.15",
+    "points_per_game": 18.5
   },
   {
     "id": 4241416,
     "name": "Chuba Hubbard",
     "position": "RB",
     "team": "Americas Team",
-    "total_points": 65.5,
-    "avg_points": 10.92,
+    "total_points": 67.2,
+    "avg_points": 9.6,
     "projected_points": 234.16,
     "weekly_points": [
       16.4,
@@ -2160,7 +2270,8 @@
       0.0,
       0.0,
       6.5,
-      9.4
+      9.4,
+      1.7
     ],
     "weekly_projected": [
       0,
@@ -2170,26 +2281,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.51,
-    "percent_started": 47.14,
-    "std_dev": 3.9,
-    "floor": 6.5,
+    "percent_owned": 87.58,
+    "percent_started": 29.72,
+    "std_dev": 4.84,
+    "floor": 1.7,
     "ceiling": 16.4,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 6.4,
-    "pos_avg_diff": "-4.25",
-    "points_per_game": 10.92
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 5.6,
+    "pos_avg_diff": "-4.43",
+    "points_per_game": 9.6
   },
   {
     "id": 4035538,
     "name": "David Montgomery",
     "position": "RB",
     "team": "Americas Team",
-    "total_points": 81.22,
-    "avg_points": 11.6,
+    "total_points": 91.22,
+    "avg_points": 11.4,
     "projected_points": 195.38,
     "weekly_points": [
       6.3,
@@ -2199,7 +2311,8 @@
       20.2,
       7.1,
       4.9,
-      0
+      0,
+      10.0
     ],
     "weekly_projected": [
       0,
@@ -2209,26 +2322,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 91.92,
-    "percent_started": 19.96,
-    "std_dev": 9.07,
+    "percent_owned": 92.59,
+    "percent_started": 60.85,
+    "std_dev": 8.5,
     "floor": 1.2,
     "ceiling": 28.9,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.0,
-    "pos_avg_diff": "-2.28",
-    "points_per_game": 11.6
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 7.6,
+    "pos_avg_diff": "-1.76",
+    "points_per_game": 11.4
   },
   {
     "id": 12483,
     "name": "Matthew Stafford",
     "position": "QB",
     "team": "Americas Team",
-    "total_points": 166.44,
-    "avg_points": 23.78,
+    "total_points": 205.28,
+    "avg_points": 25.66,
     "projected_points": 322.52,
     "weekly_points": [
       18.1,
@@ -2238,7 +2352,8 @@
       29.6,
       10.8,
       35.9,
-      0
+      0,
+      38.8
     ],
     "weekly_projected": [
       0,
@@ -2248,26 +2363,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 68.22,
-    "percent_started": 9.92,
-    "std_dev": 9.53,
+    "percent_owned": 74.38,
+    "percent_started": 39.35,
+    "std_dev": 10.22,
     "floor": 10.84,
-    "ceiling": 35.9,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 16.3,
-    "pos_avg_diff": "-1.76",
-    "points_per_game": 23.78
+    "ceiling": 38.84,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 17.1,
+    "pos_avg_diff": "+ 0.71",
+    "points_per_game": 25.66
   },
   {
     "id": 3912547,
     "name": "Sam Darnold",
     "position": "QB",
     "team": "Americas Team",
-    "total_points": 138.76,
-    "avg_points": 19.82,
+    "total_points": 181.46,
+    "avg_points": 22.68,
     "projected_points": 274.35,
     "weekly_points": [
       6.4,
@@ -2277,7 +2393,8 @@
       43.6,
       21.0,
       5.1,
-      0
+      0,
+      42.7
     ],
     "weekly_projected": [
       0,
@@ -2287,18 +2404,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 20.93,
-    "percent_started": 2.85,
-    "std_dev": 11.84,
+    "percent_owned": 41.79,
+    "percent_started": 24.35,
+    "std_dev": 13.41,
     "floor": 5.12,
     "ceiling": 43.64,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 13.6,
-    "pos_avg_diff": "-5.22",
-    "points_per_game": 19.82
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 15.2,
+    "pos_avg_diff": "-1.93",
+    "points_per_game": 22.68
   },
   {
     "id": 2977187,
@@ -2316,7 +2434,8 @@
       8.9,
       11.0,
       0.7,
-      0
+      0,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -2326,17 +2445,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 70.47,
-    "percent_started": 5.48,
+    "percent_owned": 67.31,
+    "percent_started": 7.14,
     "std_dev": 4.15,
     "floor": 0.7,
     "ceiling": 12.5,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 4.3,
-    "pos_avg_diff": "-5.86",
+    "team_share": 3.7,
+    "pos_avg_diff": "-6.37",
     "points_per_game": 6.33
   },
   {
@@ -2355,7 +2475,8 @@
       13.7,
       1.8,
       15.8,
-      5.4
+      5.4,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -2365,17 +2486,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 83.52,
-    "percent_started": 47.69,
+    "percent_owned": 80.67,
+    "percent_started": 17.23,
     "std_dev": 6.19,
     "floor": 1.8,
     "ceiling": 18.7,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 6.5,
-    "pos_avg_diff": "-4.08",
+    "team_share": 5.6,
+    "pos_avg_diff": "-4.47",
     "points_per_game": 8.35
   },
   {
@@ -2383,8 +2505,8 @@
     "name": "Travis Etienne Jr.",
     "position": "RB",
     "team": "Americas Team",
-    "total_points": 84.4,
-    "avg_points": 12.06,
+    "total_points": 98.4,
+    "avg_points": 12.3,
     "projected_points": 164.06,
     "weekly_points": [
       17.1,
@@ -2394,7 +2516,8 @@
       7.3,
       7.5,
       6.0,
-      0
+      0,
+      14.0
     ],
     "weekly_projected": [
       0,
@@ -2404,26 +2527,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 87.48,
-    "percent_started": 16.24,
-    "std_dev": 4.91,
+    "percent_owned": 88.81,
+    "percent_started": 56.52,
+    "std_dev": 4.64,
     "floor": 6.0,
     "ceiling": 19.0,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.3,
-    "pos_avg_diff": "-1.88",
-    "points_per_game": 12.06
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 8.2,
+    "pos_avg_diff": "-0.96",
+    "points_per_game": 12.3
   },
   {
     "id": 4688813,
     "name": "Josh Downs",
     "position": "WR",
     "team": "Americas Team",
-    "total_points": 52.1,
-    "avg_points": 7.44,
+    "total_points": 64.8,
+    "avg_points": 8.1,
     "projected_points": 141.75,
     "weekly_points": [
       2.2,
@@ -2433,7 +2557,8 @@
       8.4,
       13.2,
       0.0,
-      11.4
+      11.4,
+      12.7
     ],
     "weekly_projected": [
       0,
@@ -2443,26 +2568,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 53.49,
-    "percent_started": 18.42,
-    "std_dev": 3.71,
+    "percent_owned": 58.56,
+    "percent_started": 18.66,
+    "std_dev": 3.88,
     "floor": 2.2,
     "ceiling": 13.2,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 5.1,
-    "pos_avg_diff": "-4.89",
-    "points_per_game": 7.44
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 5.4,
+    "pos_avg_diff": "-4.09",
+    "points_per_game": 8.1
   },
   {
     "id": 3117256,
     "name": "Dalton Schultz",
     "position": "TE",
     "team": "Americas Team",
-    "total_points": 54.8,
-    "avg_points": 7.83,
+    "total_points": 67.0,
+    "avg_points": 8.38,
     "projected_points": 112.92,
     "weekly_points": [
       5.0,
@@ -2472,7 +2598,8 @@
       9.8,
       0,
       16.6,
-      3.9
+      3.9,
+      12.2
     ],
     "weekly_projected": [
       0,
@@ -2482,18 +2609,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 28.03,
-    "percent_started": 15.08,
-    "std_dev": 3.99,
+    "percent_owned": 20.69,
+    "percent_started": 6.9,
+    "std_dev": 4.0,
     "floor": 3.9,
     "ceiling": 16.55,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 5.4,
-    "pos_avg_diff": "-3.17",
-    "points_per_game": 7.83
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 5.6,
+    "pos_avg_diff": "-2.58",
+    "points_per_game": 8.38
   },
   {
     "id": 4426339,
@@ -2511,7 +2639,8 @@
       18.1,
       15.1,
       12.5,
-      4.1
+      4.1,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -2521,17 +2650,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 5.0,
-    "percent_started": 2.96,
+    "percent_owned": 1.99,
+    "percent_started": 0.28,
     "std_dev": 7.75,
     "floor": 4.14,
     "ceiling": 31.18,
     "consistency": 62.5,
     "games_played": 8,
-    "team_share": 11.7,
-    "pos_avg_diff": "-7.61",
+    "team_share": 10.0,
+    "pos_avg_diff": "-8.8",
     "points_per_game": 14.96
   },
   {
@@ -2539,8 +2669,8 @@
     "name": "Kyle Monangai",
     "position": "RB",
     "team": "Americas Team",
-    "total_points": 33.7,
-    "avg_points": 4.81,
+    "total_points": 55.0,
+    "avg_points": 6.88,
     "projected_points": 47.46,
     "weekly_points": [
       1.6,
@@ -2550,7 +2680,8 @@
       0,
       4.9,
       16.4,
-      2.4
+      2.4,
+      21.3
     ],
     "weekly_projected": [
       0,
@@ -2560,26 +2691,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 38.42,
-    "percent_started": 16.75,
-    "std_dev": 4.86,
+    "percent_owned": 66.79,
+    "percent_started": 46.41,
+    "std_dev": 7.1,
     "floor": 1.6,
-    "ceiling": 16.4,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 3.3,
-    "pos_avg_diff": "-8.22",
-    "points_per_game": 4.81
+    "ceiling": 21.3,
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 4.6,
+    "pos_avg_diff": "-5.79",
+    "points_per_game": 6.88
   },
   {
     "id": 4586312,
     "name": "Jaylin Noel",
     "position": "WR",
     "team": "Americas Team",
-    "total_points": 29.9,
-    "avg_points": 4.27,
+    "total_points": 29.6,
+    "avg_points": 3.7,
     "projected_points": 30.59,
     "weekly_points": [
       1.2,
@@ -2589,7 +2721,8 @@
       8.8,
       0,
       9.7,
-      8.8
+      8.8,
+      -0.3
     ],
     "weekly_projected": [
       0,
@@ -2599,26 +2732,68 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 12.54,
-    "percent_started": 6.67,
+    "percent_owned": 6.34,
+    "percent_started": 0.75,
     "std_dev": 4.13,
     "floor": 0.5,
     "ceiling": 9.7,
     "consistency": 50.0,
     "games_played": 6,
-    "team_share": 2.9,
-    "pos_avg_diff": "-7.66",
-    "points_per_game": 4.98
+    "team_share": 2.5,
+    "pos_avg_diff": "-8.0",
+    "points_per_game": 4.93
+  },
+  {
+    "id": 4248528,
+    "name": "Christian Watson",
+    "position": "WR",
+    "team": "Americas Team",
+    "total_points": 17.3,
+    "avg_points": 8.65,
+    "projected_points": 43.12,
+    "weekly_points": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      10.5,
+      6.8
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 25.53,
+    "percent_started": 6.47,
+    "std_dev": 1.85,
+    "floor": 6.8,
+    "ceiling": 10.5,
+    "consistency": 50.0,
+    "games_played": 2,
+    "team_share": 1.4,
+    "pos_avg_diff": "-9.37",
+    "points_per_game": 8.65
   },
   {
     "id": 4429795,
     "name": "Jahmyr Gibbs",
     "position": "RB",
     "team": "Michael's Managable Team",
-    "total_points": 127.0,
-    "avg_points": 18.14,
+    "total_points": 131.3,
+    "avg_points": 16.41,
     "projected_points": 287.11,
     "weekly_points": [
       10.0,
@@ -2628,7 +2803,8 @@
       15.7,
       7.0,
       35.3,
-      0
+      0,
+      4.3
     ],
     "weekly_projected": [
       0,
@@ -2638,26 +2814,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.92,
-    "percent_started": 37.15,
-    "std_dev": 8.72,
-    "floor": 7.0,
+    "percent_owned": 99.93,
+    "percent_started": 95.03,
+    "std_dev": 9.35,
+    "floor": 4.3,
     "ceiling": 35.3,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 11.4,
-    "pos_avg_diff": "+ 3.44",
-    "points_per_game": 18.14
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 10.6,
+    "pos_avg_diff": "+ 2.69",
+    "points_per_game": 16.41
   },
   {
     "id": 4038941,
     "name": "Justin Herbert",
     "position": "QB",
     "team": "Michael's Managable Team",
-    "total_points": 197.9,
-    "avg_points": 24.74,
+    "total_points": 229.1,
+    "avg_points": 25.46,
     "projected_points": 322.22,
     "weekly_points": [
       37.4,
@@ -2667,7 +2844,8 @@
       20.6,
       28.3,
       34.4,
-      33.3
+      33.3,
+      31.2
     ],
     "weekly_projected": [
       0,
@@ -2677,26 +2855,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 94.16,
-    "percent_started": 63.33,
-    "std_dev": 10.05,
+    "percent_owned": 95.81,
+    "percent_started": 72.86,
+    "std_dev": 9.69,
     "floor": 8.02,
     "ceiling": 37.42,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 17.7,
-    "pos_avg_diff": "+ 2.17",
-    "points_per_game": 24.74
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 18.5,
+    "pos_avg_diff": "+ 3.36",
+    "points_per_game": 25.46
   },
   {
     "id": 4431452,
     "name": "Drake Maye",
     "position": "QB",
     "team": "Michael's Managable Team",
-    "total_points": 231.74,
-    "avg_points": 28.97,
+    "total_points": 251.6,
+    "avg_points": 27.96,
     "projected_points": 331.54,
     "weekly_points": [
       16.3,
@@ -2706,7 +2885,8 @@
       15.1,
       34.2,
       35.6,
-      35.3
+      35.3,
+      19.9
     ],
     "weekly_projected": [
       0,
@@ -2716,26 +2896,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 90.24,
-    "percent_started": 54.41,
-    "std_dev": 8.03,
+    "percent_owned": 92.2,
+    "percent_started": 62.49,
+    "std_dev": 8.1,
     "floor": 15.12,
     "ceiling": 35.8,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 20.7,
-    "pos_avg_diff": "+ 6.4",
-    "points_per_game": 28.97
+    "consistency": 66.7,
+    "games_played": 9,
+    "team_share": 20.3,
+    "pos_avg_diff": "+ 5.86",
+    "points_per_game": 27.96
   },
   {
     "id": 16800,
     "name": "Davante Adams",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 94.6,
-    "avg_points": 13.51,
+    "total_points": 115.1,
+    "avg_points": 14.39,
     "projected_points": 214.54,
     "weekly_points": [
       7.1,
@@ -2745,7 +2926,8 @@
       11.3,
       5.9,
       24.0,
-      0
+      0,
+      20.5
     ],
     "weekly_projected": [
       0,
@@ -2755,26 +2937,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.13,
-    "percent_started": 32.22,
-    "std_dev": 5.99,
+    "percent_owned": 99.31,
+    "percent_started": 87.09,
+    "std_dev": 6.06,
     "floor": 5.9,
     "ceiling": 24.0,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.5,
-    "pos_avg_diff": "+ 0.42",
-    "points_per_game": 13.51
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 9.3,
+    "pos_avg_diff": "+ 1.5",
+    "points_per_game": 14.39
   },
   {
     "id": 3054850,
     "name": "Alvin Kamara",
     "position": "RB",
     "team": "Michael's Managable Team",
-    "total_points": 68.5,
-    "avg_points": 8.56,
+    "total_points": 68.7,
+    "avg_points": 7.63,
     "projected_points": 231.07,
     "weekly_points": [
       12.7,
@@ -2784,7 +2967,8 @@
       7.5,
       10.1,
       4.4,
-      5.5
+      5.5,
+      0.2
     ],
     "weekly_projected": [
       0,
@@ -2794,26 +2978,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.2,
-    "percent_started": 74.2,
-    "std_dev": 3.03,
-    "floor": 4.4,
+    "percent_owned": 94.5,
+    "percent_started": 52.1,
+    "std_dev": 3.88,
+    "floor": 0.2,
     "ceiling": 13.0,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 6.1,
-    "pos_avg_diff": "-3.87",
-    "points_per_game": 8.56
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 5.5,
+    "pos_avg_diff": "-4.26",
+    "points_per_game": 7.63
   },
   {
     "id": 4426354,
     "name": "George Pickens",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 126.0,
-    "avg_points": 15.75,
+    "total_points": 136.9,
+    "avg_points": 15.21,
     "projected_points": 185.27,
     "weekly_points": [
       4.5,
@@ -2823,7 +3008,8 @@
       12.7,
       27.3,
       10.2,
-      11.3
+      11.3,
+      10.9
     ],
     "weekly_projected": [
       0,
@@ -2833,26 +3019,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.85,
-    "percent_started": 83.96,
-    "std_dev": 7.96,
+    "percent_owned": 97.89,
+    "percent_started": 58.86,
+    "std_dev": 7.66,
     "floor": 4.5,
     "ceiling": 29.4,
-    "consistency": 25.0,
-    "games_played": 8,
-    "team_share": 11.3,
-    "pos_avg_diff": "+ 4.35",
-    "points_per_game": 15.75
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 11.1,
+    "pos_avg_diff": "+ 3.92",
+    "points_per_game": 15.21
   },
   {
     "id": 4036133,
     "name": "T.J. Hockenson",
     "position": "TE",
     "team": "Michael's Managable Team",
-    "total_points": 48.45,
-    "avg_points": 6.92,
+    "total_points": 57.05,
+    "avg_points": 7.13,
     "projected_points": 164.44,
     "weekly_points": [
       3.8,
@@ -2862,7 +3049,8 @@
       8.3,
       0,
       8.8,
-      4.1
+      4.1,
+      8.6
     ],
     "weekly_projected": [
       0,
@@ -2872,18 +3060,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 86.38,
-    "percent_started": 52.99,
-    "std_dev": 3.93,
+    "percent_owned": 83.12,
+    "percent_started": 50.21,
+    "std_dev": 3.71,
     "floor": 1.95,
     "ceiling": 14.65,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 4.3,
-    "pos_avg_diff": "-3.96",
-    "points_per_game": 6.92
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 4.6,
+    "pos_avg_diff": "-3.68",
+    "points_per_game": 7.13
   },
   {
     "id": 4428209,
@@ -2901,6 +3090,7 @@
       0.0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -2911,17 +3101,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 73.1,
-    "percent_started": 3.26,
+    "percent_owned": 69.47,
+    "percent_started": 2.24,
     "std_dev": 3.82,
     "floor": 6.6,
     "ceiling": 15.7,
     "consistency": 50.0,
     "games_played": 4,
-    "team_share": 3.8,
-    "pos_avg_diff": "-6.11",
+    "team_share": 3.4,
+    "pos_avg_diff": "-6.59",
     "points_per_game": 10.57
   },
   {
@@ -2929,8 +3120,8 @@
     "name": "Michael Pittman Jr.",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 104.1,
-    "avg_points": 13.01,
+    "total_points": 120.1,
+    "avg_points": 13.34,
     "projected_points": 157.86,
     "weekly_points": [
       17.0,
@@ -2940,7 +3131,8 @@
       12.4,
       3.0,
       17.3,
-      19.5
+      19.5,
+      16.0
     ],
     "weekly_projected": [
       0,
@@ -2950,26 +3142,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 90.76,
-    "percent_started": 67.74,
-    "std_dev": 5.44,
+    "percent_owned": 94.0,
+    "percent_started": 75.78,
+    "std_dev": 5.22,
     "floor": 3.0,
     "ceiling": 19.5,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 9.3,
-    "pos_avg_diff": "+ 1.61",
-    "points_per_game": 13.01
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 9.7,
+    "pos_avg_diff": "+ 2.05",
+    "points_per_game": 13.34
   },
   {
     "id": 4373678,
     "name": "Khalil Shakir",
     "position": "WR",
     "team": "Michael's Managable Team",
-    "total_points": 69.6,
-    "avg_points": 9.94,
+    "total_points": 77.4,
+    "avg_points": 9.68,
     "projected_points": 156.8,
     "weekly_points": [
       9.4,
@@ -2979,201 +3172,7 @@
       8.0,
       4.8,
       0,
-      17.8
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 76.21,
-    "percent_started": 33.06,
-    "std_dev": 5.3,
-    "floor": 1.7,
-    "ceiling": 17.8,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 6.2,
-    "pos_avg_diff": "-2.7",
-    "points_per_game": 9.94
-  },
-  {
-    "id": 4882093,
-    "name": "Bhayshul Tuten",
-    "position": "RB",
-    "team": "Michael's Managable Team",
-    "total_points": 33.9,
-    "avg_points": 4.84,
-    "projected_points": 4.47,
-    "weekly_points": [
-      1.1,
-      14.4,
-      8.1,
-      2.7,
-      1.6,
-      3.8,
-      2.2,
-      0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 21.96,
-    "percent_started": 0.57,
-    "std_dev": 4.46,
-    "floor": 1.1,
-    "ceiling": 14.4,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 3.0,
-    "pos_avg_diff": "-8.2",
-    "points_per_game": 4.84
-  },
-  {
-    "id": 4242355,
-    "name": "Jake Ferguson",
-    "position": "TE",
-    "team": "Michael's Managable Team",
-    "total_points": 107.65,
-    "avg_points": 13.46,
-    "projected_points": 133.71,
-    "weekly_points": [
-      6.0,
-      14.6,
-      17.9,
-      15.2,
-      22.1,
-      11.6,
-      20.1,
-      0.0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 97.83,
-    "percent_started": 88.03,
-    "std_dev": 5.04,
-    "floor": 6.05,
-    "ceiling": 22.15,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 9.6,
-    "pos_avg_diff": "+ 3.44",
-    "points_per_game": 15.38
-  },
-  {
-    "id": 3917792,
-    "name": "Daniel Jones",
-    "position": "QB",
-    "team": "Michael's Managable Team",
-    "total_points": 205.58,
-    "avg_points": 25.7,
-    "projected_points": 223.29,
-    "weekly_points": [
-      35.5,
-      25.3,
-      19.8,
-      15.4,
-      21.7,
-      29.5,
-      26.7,
-      31.7
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 89.19,
-    "percent_started": 68.27,
-    "std_dev": 6.17,
-    "floor": 15.38,
-    "ceiling": 35.48,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 18.4,
-    "pos_avg_diff": "+ 3.13",
-    "points_per_game": 25.7
-  },
-  {
-    "id": 4429059,
-    "name": "Woody Marks",
-    "position": "RB",
-    "team": "Michael's Managable Team",
-    "total_points": 62.4,
-    "avg_points": 8.91,
-    "projected_points": 61.54,
-    "weekly_points": [
-      0.3,
-      5.6,
-      4.1,
-      25.9,
-      2.4,
-      0,
-      11.0,
-      13.1
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 62.75,
-    "percent_started": 28.56,
-    "std_dev": 8.12,
-    "floor": 0.3,
-    "ceiling": 25.9,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 5.6,
-    "pos_avg_diff": "-4.63",
-    "points_per_game": 8.91
-  },
-  {
-    "id": 4686612,
-    "name": "Tre' Harris",
-    "position": "WR",
-    "team": "Michael's Managable Team",
-    "total_points": 21.8,
-    "avg_points": 2.73,
-    "projected_points": 21.37,
-    "weekly_points": [
-      1.6,
-      4.4,
-      0.0,
-      0.0,
-      0.0,
-      4.7,
-      3.3,
+      17.8,
       7.8
     ],
     "weekly_projected": [
@@ -3184,18 +3183,224 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 3.66,
+    "percent_owned": 79.92,
+    "percent_started": 37.3,
+    "std_dev": 5.01,
+    "floor": 1.7,
+    "ceiling": 17.8,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 6.2,
+    "pos_avg_diff": "-2.69",
+    "points_per_game": 9.68
+  },
+  {
+    "id": 4882093,
+    "name": "Bhayshul Tuten",
+    "position": "RB",
+    "team": "Michael's Managable Team",
+    "total_points": 43.0,
+    "avg_points": 5.38,
+    "projected_points": 4.47,
+    "weekly_points": [
+      1.1,
+      14.4,
+      8.1,
+      2.7,
+      1.6,
+      3.8,
+      2.2,
+      0,
+      9.1
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 20.67,
+    "percent_started": 1.48,
+    "std_dev": 4.4,
+    "floor": 1.1,
+    "ceiling": 14.4,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 3.5,
+    "pos_avg_diff": "-7.12",
+    "points_per_game": 5.38
+  },
+  {
+    "id": 4242355,
+    "name": "Jake Ferguson",
+    "position": "TE",
+    "team": "Michael's Managable Team",
+    "total_points": 114.4,
+    "avg_points": 12.71,
+    "projected_points": 133.71,
+    "weekly_points": [
+      6.0,
+      14.6,
+      17.9,
+      15.2,
+      22.1,
+      11.6,
+      20.1,
+      0.0,
+      6.8
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 97.86,
+    "percent_started": 58.85,
+    "std_dev": 5.51,
+    "floor": 6.05,
+    "ceiling": 22.15,
+    "consistency": 62.5,
+    "games_played": 8,
+    "team_share": 9.2,
+    "pos_avg_diff": "+ 2.69",
+    "points_per_game": 14.3
+  },
+  {
+    "id": 3917792,
+    "name": "Daniel Jones",
+    "position": "QB",
+    "team": "Michael's Managable Team",
+    "total_points": 218.16,
+    "avg_points": 24.24,
+    "projected_points": 223.29,
+    "weekly_points": [
+      35.5,
+      25.3,
+      19.8,
+      15.4,
+      21.7,
+      29.5,
+      26.7,
+      31.7,
+      12.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 92.91,
+    "percent_started": 70.2,
+    "std_dev": 7.13,
+    "floor": 12.58,
+    "ceiling": 35.48,
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 17.6,
+    "pos_avg_diff": "+ 2.15",
+    "points_per_game": 24.24
+  },
+  {
+    "id": 4429059,
+    "name": "Woody Marks",
+    "position": "RB",
+    "team": "Michael's Managable Team",
+    "total_points": 65.1,
+    "avg_points": 8.14,
+    "projected_points": 61.54,
+    "weekly_points": [
+      0.3,
+      5.6,
+      4.1,
+      25.9,
+      2.4,
+      0,
+      11.0,
+      13.1,
+      2.7
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 61.88,
+    "percent_started": 18.43,
+    "std_dev": 7.87,
+    "floor": 0.3,
+    "ceiling": 25.9,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 5.3,
+    "pos_avg_diff": "-4.66",
+    "points_per_game": 8.14
+  },
+  {
+    "id": 4686612,
+    "name": "Tre' Harris",
+    "position": "WR",
+    "team": "Michael's Managable Team",
+    "total_points": 24.6,
+    "avg_points": 2.73,
+    "projected_points": 21.37,
+    "weekly_points": [
+      1.6,
+      4.4,
+      0.0,
+      0.0,
+      0.0,
+      4.7,
+      3.3,
+      7.8,
+      2.8
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 3.47,
     "percent_started": 0.22,
-    "std_dev": 2.03,
+    "std_dev": 1.95,
     "floor": 1.6,
     "ceiling": 7.8,
-    "consistency": 60.0,
-    "games_played": 5,
-    "team_share": 1.9,
-    "pos_avg_diff": "-8.68",
-    "points_per_game": 4.36
+    "consistency": 50.0,
+    "games_played": 6,
+    "team_share": 2.0,
+    "pos_avg_diff": "-8.56",
+    "points_per_game": 4.1
   },
   {
     "id": 5083076,
@@ -3213,9 +3418,11 @@
       10.3,
       13.3,
       6.6,
-      16.9
+      16.9,
+      0
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -3225,15 +3432,15 @@
       0,
       0
     ],
-    "percent_owned": 54.75,
-    "percent_started": 26.95,
+    "percent_owned": 50.46,
+    "percent_started": 8.75,
     "std_dev": 4.15,
     "floor": 4.0,
     "ceiling": 16.9,
     "consistency": 50.0,
     "games_played": 8,
-    "team_share": 6.8,
-    "pos_avg_diff": "-0.48",
+    "team_share": 6.2,
+    "pos_avg_diff": "-1.54",
     "points_per_game": 9.54
   },
   {
@@ -3241,8 +3448,8 @@
     "name": "Justin Jefferson",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 87.1,
-    "avg_points": 12.44,
+    "total_points": 100.8,
+    "avg_points": 12.6,
     "projected_points": 259.72,
     "weekly_points": [
       12.8,
@@ -3252,9 +3459,11 @@
       15.8,
       0,
       10.4,
-      10.9
+      10.9,
+      13.7
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -3265,15 +3474,15 @@
       0
     ],
     "percent_owned": 99.92,
-    "percent_started": 95.38,
-    "std_dev": 2.89,
+    "percent_started": 96.76,
+    "std_dev": 2.74,
     "floor": 9.6,
     "ceiling": 17.6,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 10.2,
-    "pos_avg_diff": "-0.51",
-    "points_per_game": 12.44
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 10.5,
+    "pos_avg_diff": "-0.09",
+    "points_per_game": 12.6
   },
   {
     "id": 3917315,
@@ -3291,7 +3500,8 @@
       18.8,
       0.0,
       0.0,
-      0
+      0,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -3301,17 +3511,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 60.92,
-    "percent_started": 13.02,
+    "percent_owned": 60.74,
+    "percent_started": 15.09,
     "std_dev": 3.6,
     "floor": 14.06,
     "ceiling": 24.82,
     "consistency": 60.0,
     "games_played": 5,
-    "team_share": 11.0,
-    "pos_avg_diff": "-10.84",
+    "team_share": 9.8,
+    "pos_avg_diff": "-11.67",
     "points_per_game": 18.76
   },
   {
@@ -3319,8 +3530,8 @@
     "name": "Josh Jacobs",
     "position": "RB",
     "team": "To Infinity and Bijan!",
-    "total_points": 127.3,
-    "avg_points": 18.19,
+    "total_points": 145.3,
+    "avg_points": 18.16,
     "projected_points": 262.2,
     "weekly_points": [
       13.5,
@@ -3330,9 +3541,11 @@
       0,
       29.5,
       18.3,
-      12.0
+      12.0,
+      18.0
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -3343,15 +3556,15 @@
       0
     ],
     "percent_owned": 99.88,
-    "percent_started": 95.72,
-    "std_dev": 7.6,
+    "percent_started": 96.04,
+    "std_dev": 7.1,
     "floor": 9.9,
     "ceiling": 29.7,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 15.0,
-    "pos_avg_diff": "+ 3.48",
-    "points_per_game": 18.19
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 15.1,
+    "pos_avg_diff": "+ 4.25",
+    "points_per_game": 18.16
   },
   {
     "id": 4362887,
@@ -3369,7 +3582,8 @@
       31.9,
       1.4,
       1.0,
-      22.4
+      22.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -3379,17 +3593,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 49.94,
-    "percent_started": 12.76,
+    "percent_owned": 41.79,
+    "percent_started": 5.37,
     "std_dev": 14.04,
     "floor": 1.04,
     "ceiling": 33.52,
     "consistency": 66.7,
     "games_played": 6,
-    "team_share": 14.1,
-    "pos_avg_diff": "-7.58",
+    "team_share": 12.5,
+    "pos_avg_diff": "-8.78",
     "points_per_game": 19.98
   },
   {
@@ -3397,8 +3612,8 @@
     "name": "Tetairoa McMillan",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 81.7,
-    "avg_points": 10.21,
+    "total_points": 88.3,
+    "avg_points": 9.81,
     "projected_points": 193.83,
     "weekly_points": [
       9.3,
@@ -3408,7 +3623,8 @@
       10.3,
       16.4,
       4.8,
-      13.4
+      13.4,
+      6.6
     ],
     "weekly_projected": [
       0,
@@ -3418,26 +3634,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.55,
-    "percent_started": 64.67,
-    "std_dev": 3.64,
+    "percent_owned": 92.46,
+    "percent_started": 56.81,
+    "std_dev": 3.61,
     "floor": 4.8,
     "ceiling": 16.4,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 9.6,
-    "pos_avg_diff": "-1.19",
-    "points_per_game": 10.21
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 9.2,
+    "pos_avg_diff": "-1.48",
+    "points_per_game": 9.81
   },
   {
     "id": 3116365,
     "name": "Mark Andrews",
     "position": "TE",
     "team": "To Infinity and Bijan!",
-    "total_points": 51.2,
-    "avg_points": 7.31,
+    "total_points": 67.3,
+    "avg_points": 8.41,
     "projected_points": 158.05,
     "weekly_points": [
       1.2,
@@ -3447,7 +3664,8 @@
       3.7,
       5.6,
       0,
-      5.7
+      5.7,
+      16.1
     ],
     "weekly_projected": [
       0,
@@ -3457,26 +3675,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 79.15,
-    "percent_started": 40.71,
-    "std_dev": 7.83,
+    "percent_owned": 78.94,
+    "percent_started": 45.81,
+    "std_dev": 7.88,
     "floor": 1.15,
     "ceiling": 25.6,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 6.0,
-    "pos_avg_diff": "-3.62",
-    "points_per_game": 7.31
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 7.0,
+    "pos_avg_diff": "-2.54",
+    "points_per_game": 8.41
   },
   {
     "id": 4635008,
     "name": "Keon Coleman",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 50.2,
-    "avg_points": 7.17,
+    "total_points": 52.9,
+    "avg_points": 6.61,
     "projected_points": 172.85,
     "weekly_points": [
       21.2,
@@ -3486,7 +3705,8 @@
       8.3,
       2.6,
       0,
-      4.5
+      4.5,
+      2.7
     ],
     "weekly_projected": [
       0,
@@ -3496,26 +3716,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 67.72,
-    "percent_started": 20.66,
-    "std_dev": 5.98,
+    "percent_owned": 62.85,
+    "percent_started": 12.8,
+    "std_dev": 5.79,
     "floor": 2.6,
     "ceiling": 21.2,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 5.9,
-    "pos_avg_diff": "-5.13",
-    "points_per_game": 7.17
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 5.5,
+    "pos_avg_diff": "-5.41",
+    "points_per_game": 6.61
   },
   {
     "id": 4361579,
     "name": "Javonte Williams",
     "position": "RB",
     "team": "To Infinity and Bijan!",
-    "total_points": 136.6,
-    "avg_points": 17.07,
+    "total_points": 143.4,
+    "avg_points": 15.93,
     "projected_points": 196.87,
     "weekly_points": [
       19.4,
@@ -3525,7 +3746,8 @@
       26.4,
       5.9,
       18.3,
-      17.4
+      17.4,
+      6.8
     ],
     "weekly_projected": [
       0,
@@ -3535,26 +3757,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.79,
-    "percent_started": 84.0,
-    "std_dev": 6.1,
+    "percent_owned": 97.61,
+    "percent_started": 61.55,
+    "std_dev": 6.6,
     "floor": 5.9,
     "ceiling": 26.4,
-    "consistency": 75.0,
-    "games_played": 8,
-    "team_share": 16.1,
-    "pos_avg_diff": "+ 4.64",
-    "points_per_game": 17.07
+    "consistency": 66.7,
+    "games_played": 9,
+    "team_share": 14.9,
+    "pos_avg_diff": "+ 4.04",
+    "points_per_game": 15.93
   },
   {
     "id": 3128720,
     "name": "Nick Chubb",
     "position": "RB",
     "team": "To Infinity and Bijan!",
-    "total_points": 54.5,
-    "avg_points": 7.79,
+    "total_points": 57.9,
+    "avg_points": 7.24,
     "projected_points": 113.6,
     "weekly_points": [
       6.0,
@@ -3564,7 +3787,8 @@
       12.1,
       0,
       1.6,
-      7.9
+      7.9,
+      3.4
     ],
     "weekly_projected": [
       0,
@@ -3574,26 +3798,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 64.57,
-    "percent_started": 21.44,
-    "std_dev": 3.91,
+    "percent_owned": 60.02,
+    "percent_started": 15.74,
+    "std_dev": 3.93,
     "floor": 1.6,
     "ceiling": 14.2,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 6.4,
-    "pos_avg_diff": "-5.62",
-    "points_per_game": 7.79
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 6.0,
+    "pos_avg_diff": "-5.46",
+    "points_per_game": 7.24
   },
   {
     "id": 4040655,
     "name": "Darnell Mooney",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 21.3,
-    "avg_points": 4.26,
+    "total_points": 23.3,
+    "avg_points": 3.88,
     "projected_points": 132.0,
     "weekly_points": [
       0.0,
@@ -3603,7 +3828,8 @@
       0,
       0.0,
       8.3,
-      1.6
+      1.6,
+      2.0
     ],
     "weekly_projected": [
       0,
@@ -3613,26 +3839,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 52.51,
-    "percent_started": 16.77,
-    "std_dev": 2.63,
+    "percent_owned": 43.2,
+    "percent_started": 6.0,
+    "std_dev": 2.55,
     "floor": 1.6,
     "ceiling": 8.3,
-    "consistency": 40.0,
-    "games_played": 5,
-    "team_share": 2.5,
-    "pos_avg_diff": "-8.74",
-    "points_per_game": 4.26
+    "consistency": 33.3,
+    "games_played": 6,
+    "team_share": 2.4,
+    "pos_avg_diff": "-8.7",
+    "points_per_game": 3.88
   },
   {
     "id": 4360248,
     "name": "Kyle Pitts Sr.",
     "position": "TE",
     "team": "To Infinity and Bijan!",
-    "total_points": 69.65,
-    "avg_points": 9.95,
+    "total_points": 76.45,
+    "avg_points": 9.56,
     "projected_points": 130.62,
     "weekly_points": [
       11.2,
@@ -3642,7 +3869,8 @@
       0,
       4.0,
       11.4,
-      12.7
+      12.7,
+      6.8
     ],
     "weekly_projected": [
       0,
@@ -3652,26 +3880,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 68.84,
-    "percent_started": 42.53,
-    "std_dev": 4.0,
+    "percent_owned": 72.86,
+    "percent_started": 39.75,
+    "std_dev": 3.88,
     "floor": 4.05,
     "ceiling": 16.75,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 8.2,
-    "pos_avg_diff": "-1.31",
-    "points_per_game": 9.95
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 8.0,
+    "pos_avg_diff": "-1.53",
+    "points_per_game": 9.56
   },
   {
     "id": 4429025,
     "name": "Quentin Johnston",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 83.4,
-    "avg_points": 11.91,
+    "total_points": 96.7,
+    "avg_points": 12.09,
     "projected_points": 136.98,
     "weekly_points": [
       22.4,
@@ -3681,7 +3910,8 @@
       4.9,
       0.0,
       10.0,
-      0.0
+      0.0,
+      13.3
     ],
     "weekly_projected": [
       0,
@@ -3691,65 +3921,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.79,
-    "percent_started": 59.66,
-    "std_dev": 5.88,
+    "percent_owned": 89.69,
+    "percent_started": 43.38,
+    "std_dev": 5.45,
     "floor": 4.9,
     "ceiling": 22.4,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 9.8,
-    "pos_avg_diff": "-0.98",
-    "points_per_game": 13.9
-  },
-  {
-    "id": 2573079,
-    "name": "Carson Wentz",
-    "position": "QB",
-    "team": "To Infinity and Bijan!",
-    "total_points": 78.34,
-    "avg_points": 15.67,
-    "projected_points": 3.02,
-    "weekly_points": [
-      0.0,
-      0.0,
-      20.3,
-      24.2,
-      20.2,
-      0,
-      8.3,
-      5.3
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 10.0,
-    "percent_started": 6.2,
-    "std_dev": 7.45,
-    "floor": 5.26,
-    "ceiling": 24.2,
-    "consistency": 60.0,
-    "games_played": 5,
-    "team_share": 9.2,
-    "pos_avg_diff": "-12.77",
-    "points_per_game": 15.67
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 10.1,
+    "pos_avg_diff": "-0.55",
+    "points_per_game": 13.81
   },
   {
     "id": 4429148,
     "name": "Theo Johnson",
     "position": "TE",
     "team": "To Infinity and Bijan!",
-    "total_points": 62.45,
-    "avg_points": 7.81,
+    "total_points": 73.4,
+    "avg_points": 8.16,
     "projected_points": 109.35,
     "weekly_points": [
       1.2,
@@ -3759,7 +3951,8 @@
       19.8,
       4.2,
       14.8,
-      4.2
+      4.2,
+      10.9
     ],
     "weekly_projected": [
       0,
@@ -3769,57 +3962,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 19.32,
-    "percent_started": 10.95,
-    "std_dev": 6.18,
+    "percent_owned": 33.1,
+    "percent_started": 21.46,
+    "std_dev": 5.91,
     "floor": 1.25,
     "ceiling": 19.8,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 7.3,
-    "pos_avg_diff": "-2.21",
-    "points_per_game": 7.81
-  },
-  {
-    "id": 4686472,
-    "name": "Marvin Mims Jr.",
-    "position": "WR",
-    "team": "To Infinity and Bijan!",
-    "total_points": 49.8,
-    "avg_points": 6.23,
-    "projected_points": 127.21,
-    "weekly_points": [
-      0.7,
-      9.4,
-      0.9,
-      17.5,
-      2.9,
-      3.8,
-      12.8,
-      1.8
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 24.12,
-    "percent_started": 8.76,
-    "std_dev": 5.87,
-    "floor": 0.7,
-    "ceiling": 17.5,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 5.9,
-    "pos_avg_diff": "-5.18",
-    "points_per_game": 6.22
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 7.6,
+    "pos_avg_diff": "-1.87",
+    "points_per_game": 8.16
   },
   {
     "id": 3116165,
@@ -3837,7 +3992,8 @@
       4.1,
       0.0,
       0.0,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -3847,16 +4003,17 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 70.55,
-    "percent_started": 1.46,
+    "percent_owned": 66.45,
+    "percent_started": 2.65,
     "std_dev": 0.0,
     "floor": 4.1,
     "ceiling": 4.1,
     "consistency": 0.0,
     "games_played": 2,
-    "team_share": 1.0,
+    "team_share": 0.9,
     "pos_avg_diff": "-10.38",
     "points_per_game": 4.1
   },
@@ -3865,8 +4022,8 @@
     "name": "Jaylin Lane",
     "position": "WR",
     "team": "To Infinity and Bijan!",
-    "total_points": 26.4,
-    "avg_points": 3.3,
+    "total_points": 28.8,
+    "avg_points": 3.2,
     "projected_points": 18.32,
     "weekly_points": [
       1.6,
@@ -3876,7 +4033,8 @@
       2.1,
       4.9,
       7.5,
-      0.5
+      0.5,
+      2.4
     ],
     "weekly_projected": [
       0,
@@ -3886,26 +4044,109 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 0.73,
-    "percent_started": 0.16,
-    "std_dev": 2.46,
+    "percent_owned": 0.53,
+    "percent_started": 0.13,
+    "std_dev": 2.34,
     "floor": 0.5,
     "ceiling": 7.5,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 3.1,
-    "pos_avg_diff": "-8.1",
-    "points_per_game": 3.3
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 3.0,
+    "pos_avg_diff": "-8.09",
+    "points_per_game": 3.2
+  },
+  {
+    "id": 4241464,
+    "name": "Mac Jones",
+    "position": "QB",
+    "team": "To Infinity and Bijan!",
+    "total_points": 129.38,
+    "avg_points": 18.48,
+    "projected_points": 2.51,
+    "weekly_points": [
+      0.0,
+      27.8,
+      14.8,
+      0.0,
+      26.7,
+      12.7,
+      4.7,
+      18.5,
+      24.3
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 5.93,
+    "percent_started": 2.68,
+    "std_dev": 7.79,
+    "floor": 4.68,
+    "ceiling": 27.76,
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 13.5,
+    "pos_avg_diff": "-7.72",
+    "points_per_game": 18.48
+  },
+  {
+    "id": 4569603,
+    "name": "Malik Washington",
+    "position": "WR",
+    "team": "To Infinity and Bijan!",
+    "total_points": 49.7,
+    "avg_points": 5.52,
+    "projected_points": 45.99,
+    "weekly_points": [
+      3.9,
+      9.0,
+      4.7,
+      3.1,
+      2.0,
+      4.3,
+      5.5,
+      11.6,
+      5.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 18.51,
+    "percent_started": 7.82,
+    "std_dev": 2.83,
+    "floor": 2.0,
+    "ceiling": 11.6,
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 5.2,
+    "pos_avg_diff": "-5.77",
+    "points_per_game": 5.52
   },
   {
     "id": 4426348,
     "name": "Jayden Daniels",
     "position": "QB",
     "team": "Mcconky Donkeys",
-    "total_points": 99.84,
-    "avg_points": 19.97,
+    "total_points": 117.06,
+    "avg_points": 19.51,
     "projected_points": 423.52,
     "weekly_points": [
       20.6,
@@ -3915,7 +4156,8 @@
       15.6,
       30.1,
       15.7,
-      0.0
+      0.0,
+      17.2
     ],
     "weekly_projected": [
       0,
@@ -3925,18 +4167,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.57,
-    "percent_started": 21.14,
-    "std_dev": 5.4,
+    "percent_owned": 97.81,
+    "percent_started": 38.8,
+    "std_dev": 5.03,
     "floor": 15.64,
     "ceiling": 30.14,
-    "consistency": 40.0,
-    "games_played": 5,
-    "team_share": 11.5,
-    "pos_avg_diff": "-10.08",
-    "points_per_game": 19.97
+    "consistency": 33.3,
+    "games_played": 6,
+    "team_share": 12.2,
+    "pos_avg_diff": "-9.09",
+    "points_per_game": 19.51
   },
   {
     "id": 3052587,
@@ -3954,7 +4197,8 @@
       41.2,
       26.1,
       5.1,
-      2.6
+      2.6,
+      0
     ],
     "weekly_projected": [
       0,
@@ -3964,17 +4208,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.06,
-    "percent_started": 68.54,
+    "percent_owned": 94.93,
+    "percent_started": 26.02,
     "std_dev": 11.41,
     "floor": 2.58,
     "ceiling": 41.16,
     "consistency": 50.0,
     "games_played": 8,
-    "team_share": 17.9,
-    "pos_avg_diff": "-3.12",
+    "team_share": 16.3,
+    "pos_avg_diff": "-4.81",
     "points_per_game": 19.45
   },
   {
@@ -3982,8 +4227,8 @@
     "name": "Brian Thomas Jr.",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 63.6,
-    "avg_points": 9.09,
+    "total_points": 70.6,
+    "avg_points": 8.82,
     "projected_points": 222.38,
     "weekly_points": [
       8.5,
@@ -3993,7 +4238,8 @@
       10.0,
       19.0,
       4.6,
-      0
+      0,
+      7.0
     ],
     "weekly_projected": [
       0,
@@ -4003,26 +4249,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 94.74,
-    "percent_started": 27.8,
-    "std_dev": 4.34,
+    "percent_owned": 95.04,
+    "percent_started": 54.77,
+    "std_dev": 4.12,
     "floor": 4.6,
     "ceiling": 19.0,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 7.3,
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 7.4,
     "pos_avg_diff": "-3.45",
-    "points_per_game": 9.09
+    "points_per_game": 8.82
   },
   {
     "id": 4429160,
     "name": "De'Von Achane",
     "position": "RB",
     "team": "Mcconky Donkeys",
-    "total_points": 137.9,
-    "avg_points": 17.24,
+    "total_points": 151.5,
+    "avg_points": 16.83,
     "projected_points": 270.33,
     "weekly_points": [
       15.0,
@@ -4032,7 +4279,8 @@
       13.6,
       29.0,
       11.3,
-      17.6
+      17.6,
+      13.6
     ],
     "weekly_projected": [
       0,
@@ -4042,26 +4290,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.87,
-    "percent_started": 98.9,
-    "std_dev": 5.46,
+    "percent_owned": 99.88,
+    "percent_started": 98.99,
+    "std_dev": 5.27,
     "floor": 11.3,
     "ceiling": 29.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 15.9,
-    "pos_avg_diff": "+ 4.8",
-    "points_per_game": 17.24
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 15.8,
+    "pos_avg_diff": "+ 4.94",
+    "points_per_game": 16.83
   },
   {
     "id": 4612826,
     "name": "Ladd McConkey",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 86.3,
-    "avg_points": 10.79,
+    "total_points": 93.9,
+    "avg_points": 10.43,
     "projected_points": 197.15,
     "weekly_points": [
       10.4,
@@ -4071,7 +4320,8 @@
       12.4,
       19.5,
       11.2,
-      17.8
+      17.8,
+      7.6
     ],
     "weekly_projected": [
       0,
@@ -4081,18 +4331,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.25,
-    "percent_started": 86.09,
-    "std_dev": 5.55,
+    "percent_owned": 97.92,
+    "percent_started": 88.45,
+    "std_dev": 5.33,
     "floor": 1.6,
     "ceiling": 19.5,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 9.9,
-    "pos_avg_diff": "-0.61",
-    "points_per_game": 10.79
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 9.8,
+    "pos_avg_diff": "-0.86",
+    "points_per_game": 10.43
   },
   {
     "id": 16737,
@@ -4110,7 +4361,8 @@
       0.0,
       0.0,
       0.0,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -4120,17 +4372,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 66.53,
-    "percent_started": 7.74,
+    "percent_owned": 60.99,
+    "percent_started": 6.83,
     "std_dev": 1.64,
     "floor": 7.6,
     "ceiling": 11.3,
     "consistency": 33.3,
     "games_played": 3,
-    "team_share": 3.1,
-    "pos_avg_diff": "-8.03",
+    "team_share": 2.8,
+    "pos_avg_diff": "-8.29",
     "points_per_game": 9.0
   },
   {
@@ -4149,7 +4402,8 @@
       7.1,
       5.6,
       11.9,
-      5.8
+      5.8,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -4159,17 +4413,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 84.49,
-    "percent_started": 46.78,
+    "percent_owned": 73.81,
+    "percent_started": 8.19,
     "std_dev": 3.09,
     "floor": 3.4,
     "ceiling": 11.9,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 6.3,
-    "pos_avg_diff": "-5.6",
+    "team_share": 5.7,
+    "pos_avg_diff": "-5.82",
     "points_per_game": 6.84
   },
   {
@@ -4177,8 +4432,8 @@
     "name": "Rashee Rice",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 40.7,
-    "avg_points": 20.35,
+    "total_points": 57.3,
+    "avg_points": 19.1,
     "projected_points": 131.65,
     "weekly_points": [
       0.0,
@@ -4188,7 +4443,8 @@
       0.0,
       0.0,
       19.7,
-      21.0
+      21.0,
+      16.6
     ],
     "weekly_projected": [
       0,
@@ -4198,18 +4454,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.38,
-    "percent_started": 81.79,
-    "std_dev": 0.65,
-    "floor": 19.7,
+    "percent_owned": 98.02,
+    "percent_started": 55.15,
+    "std_dev": 1.85,
+    "floor": 16.6,
     "ceiling": 21.0,
-    "consistency": 50.0,
-    "games_played": 2,
-    "team_share": 4.7,
-    "pos_avg_diff": "-6.31",
-    "points_per_game": 20.35
+    "consistency": 66.7,
+    "games_played": 3,
+    "team_share": 6.0,
+    "pos_avg_diff": "-4.92",
+    "points_per_game": 19.1
   },
   {
     "id": 3123076,
@@ -4227,7 +4484,8 @@
       17.2,
       5.0,
       0.0,
-      12.7
+      12.7,
+      0
     ],
     "weekly_projected": [
       0,
@@ -4237,17 +4495,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 72.22,
-    "percent_started": 32.14,
+    "percent_owned": 66.72,
+    "percent_started": 18.91,
     "std_dev": 4.62,
     "floor": 2.6,
     "ceiling": 17.2,
     "consistency": 28.6,
     "games_played": 7,
-    "team_share": 6.7,
-    "pos_avg_diff": "-2.74",
+    "team_share": 6.1,
+    "pos_avg_diff": "-3.55",
     "points_per_game": 8.32
   },
   {
@@ -4256,7 +4515,7 @@
     "position": "TE",
     "team": "Mcconky Donkeys",
     "total_points": 47.7,
-    "avg_points": 6.81,
+    "avg_points": 5.96,
     "projected_points": 148.73,
     "weekly_points": [
       4.3,
@@ -4266,7 +4525,8 @@
       12.3,
       8.7,
       8.0,
-      6.6
+      6.6,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -4276,17 +4536,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 60.1,
-    "percent_started": 35.12,
+    "percent_owned": 55.03,
+    "percent_started": 24.16,
     "std_dev": 3.06,
     "floor": 1.95,
     "ceiling": 12.3,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 5.5,
-    "pos_avg_diff": "-4.06",
+    "team_share": 5.0,
+    "pos_avg_diff": "-4.72",
     "points_per_game": 6.81
   },
   {
@@ -4305,6 +4566,7 @@
       0.0,
       0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -4315,17 +4577,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 46.02,
-    "percent_started": 2.62,
+    "percent_owned": 43.26,
+    "percent_started": 2.58,
     "std_dev": 0,
     "floor": 0,
     "ceiling": 0,
     "consistency": 0,
     "games_played": 0,
     "team_share": 0.0,
-    "pos_avg_diff": "-12.43",
+    "pos_avg_diff": "-11.9",
     "points_per_game": 0
   },
   {
@@ -4333,8 +4596,8 @@
     "name": "Aaron Rodgers",
     "position": "QB",
     "team": "Mcconky Donkeys",
-    "total_points": 154.36,
-    "avg_points": 22.05,
+    "total_points": 170.98,
+    "avg_points": 21.37,
     "projected_points": 267.57,
     "weekly_points": [
       36.7,
@@ -4344,7 +4607,8 @@
       0,
       23.0,
       31.1,
-      20.8
+      20.8,
+      16.6
     ],
     "weekly_projected": [
       0,
@@ -4354,26 +4618,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 41.7,
-    "percent_started": 23.68,
-    "std_dev": 9.07,
+    "percent_owned": 36.98,
+    "percent_started": 14.26,
+    "std_dev": 8.67,
     "floor": 6.42,
     "ceiling": 36.66,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 17.8,
-    "pos_avg_diff": "-3.27",
-    "points_per_game": 22.05
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 17.9,
+    "pos_avg_diff": "-3.1",
+    "points_per_game": 21.37
   },
   {
     "id": 4569587,
     "name": "Wan'Dale Robinson",
     "position": "WR",
     "team": "Mcconky Donkeys",
-    "total_points": 80.6,
-    "avg_points": 10.08,
+    "total_points": 89.7,
+    "avg_points": 9.97,
     "projected_points": 118.26,
     "weekly_points": [
       8.5,
@@ -4383,6 +4648,130 @@
       5.7,
       17.4,
       12.5,
+      6.3,
+      9.1
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 81.02,
+    "percent_started": 51.47,
+    "std_dev": 6.63,
+    "floor": 2.9,
+    "ceiling": 24.2,
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 9.4,
+    "pos_avg_diff": "-1.32",
+    "points_per_game": 9.97
+  },
+  {
+    "id": 3916945,
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "Mcconky Donkeys",
+    "total_points": 32.9,
+    "avg_points": 4.7,
+    "projected_points": 95.98,
+    "weekly_points": [
+      0.0,
+      7.1,
+      5.0,
+      5.9,
+      2.6,
+      0.0,
+      0.0,
+      3.6,
+      8.7
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 14.86,
+    "percent_started": 5.46,
+    "std_dev": 2.05,
+    "floor": 2.6,
+    "ceiling": 8.7,
+    "consistency": 50.0,
+    "games_played": 6,
+    "team_share": 3.4,
+    "pos_avg_diff": "-7.64",
+    "points_per_game": 5.48
+  },
+  {
+    "id": 2577327,
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "team": "Mcconky Donkeys",
+    "total_points": 18.0,
+    "avg_points": 2.25,
+    "projected_points": 80.1,
+    "weekly_points": [
+      0.0,
+      1.9,
+      5.7,
+      0.0,
+      7.1,
+      0.5,
+      2.8,
+      0,
+      0.0
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 2.04,
+    "percent_started": 0.18,
+    "std_dev": 2.44,
+    "floor": 0.5,
+    "ceiling": 7.1,
+    "consistency": 40.0,
+    "games_played": 5,
+    "team_share": 1.9,
+    "pos_avg_diff": "-9.29",
+    "points_per_game": 3.6
+  },
+  {
+    "id": 4431280,
+    "name": "Troy Franklin",
+    "position": "WR",
+    "team": "Mcconky Donkeys",
+    "total_points": 85.9,
+    "avg_points": 9.54,
+    "projected_points": 66.85,
+    "weekly_points": [
+      6.4,
+      20.0,
+      1.8,
+      7.5,
+      7.0,
+      1.6,
+      11.4,
+      23.9,
       6.3
     ],
     "weekly_projected": [
@@ -4393,143 +4782,27 @@
       0,
       0,
       0,
-      0
-    ],
-    "percent_owned": 81.18,
-    "percent_started": 55.0,
-    "std_dev": 7.03,
-    "floor": 2.9,
-    "ceiling": 24.2,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 9.3,
-    "pos_avg_diff": "-1.33",
-    "points_per_game": 10.07
-  },
-  {
-    "id": 3916945,
-    "name": "Darius Slayton",
-    "position": "WR",
-    "team": "Mcconky Donkeys",
-    "total_points": 24.2,
-    "avg_points": 4.03,
-    "projected_points": 95.98,
-    "weekly_points": [
-      0.0,
-      7.1,
-      5.0,
-      5.9,
-      2.6,
-      0.0,
-      0.0,
-      3.6
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0
     ],
-    "percent_owned": 11.37,
-    "percent_started": 2.13,
-    "std_dev": 1.6,
-    "floor": 2.6,
-    "ceiling": 7.1,
-    "consistency": 60.0,
-    "games_played": 5,
-    "team_share": 2.8,
-    "pos_avg_diff": "-8.38",
-    "points_per_game": 4.84
-  },
-  {
-    "id": 2577327,
-    "name": "Tyler Lockett",
-    "position": "WR",
-    "team": "Mcconky Donkeys",
-    "total_points": 18.0,
-    "avg_points": 2.57,
-    "projected_points": 80.1,
-    "weekly_points": [
-      0.0,
-      1.9,
-      5.7,
-      0.0,
-      7.1,
-      0.5,
-      2.8,
-      0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 1.85,
-    "percent_started": 0.15,
-    "std_dev": 2.44,
-    "floor": 0.5,
-    "ceiling": 7.1,
-    "consistency": 40.0,
-    "games_played": 5,
-    "team_share": 2.1,
-    "pos_avg_diff": "-9.15",
-    "points_per_game": 3.6
-  },
-  {
-    "id": 4431280,
-    "name": "Troy Franklin",
-    "position": "WR",
-    "team": "Mcconky Donkeys",
-    "total_points": 79.6,
-    "avg_points": 9.95,
-    "projected_points": 66.85,
-    "weekly_points": [
-      6.4,
-      20.0,
-      1.8,
-      7.5,
-      7.0,
-      1.6,
-      11.4,
-      23.9
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 43.46,
-    "percent_started": 23.41,
-    "std_dev": 7.59,
+    "percent_owned": 51.84,
+    "percent_started": 22.51,
+    "std_dev": 7.25,
     "floor": 1.6,
     "ceiling": 23.9,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 9.2,
-    "pos_avg_diff": "-1.45",
-    "points_per_game": 9.95
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 9.0,
+    "pos_avg_diff": "-1.75",
+    "points_per_game": 9.54
   },
   {
     "id": 4373626,
     "name": "Tyler Allgeier",
     "position": "RB",
     "team": "Mcconky Donkeys",
-    "total_points": 49.2,
-    "avg_points": 7.03,
+    "total_points": 49.8,
+    "avg_points": 6.22,
     "projected_points": 98.24,
     "weekly_points": [
       2.4,
@@ -4539,7 +4812,8 @@
       0,
       10.3,
       1.6,
-      8.4
+      8.4,
+      0.6
     ],
     "weekly_projected": [
       0,
@@ -4549,18 +4823,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 35.76,
-    "percent_started": 7.86,
-    "std_dev": 4.98,
-    "floor": 0.9,
+    "percent_owned": 31.09,
+    "percent_started": 3.31,
+    "std_dev": 5.12,
+    "floor": 0.6,
     "ceiling": 14.5,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 5.7,
-    "pos_avg_diff": "-6.28",
-    "points_per_game": 7.03
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 5.2,
+    "pos_avg_diff": "-6.36",
+    "points_per_game": 6.22
   },
   {
     "id": 4040715,
@@ -4578,9 +4853,11 @@
       20.0,
       25.6,
       35.5,
-      35.9
+      35.9,
+      0
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -4590,15 +4867,15 @@
       0,
       0
     ],
-    "percent_owned": 99.88,
-    "percent_started": 83.19,
+    "percent_owned": 99.84,
+    "percent_started": 40.24,
     "std_dev": 8.04,
     "floor": 12.04,
     "ceiling": 35.86,
     "consistency": 50.0,
     "games_played": 8,
-    "team_share": 19.9,
-    "pos_avg_diff": "+ 4.35",
+    "team_share": 17.7,
+    "pos_avg_diff": "+ 1.83",
     "points_per_game": 26.91
   },
   {
@@ -4606,8 +4883,8 @@
     "name": "Christian McCaffrey",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 168.9,
-    "avg_points": 21.11,
+    "total_points": 200.7,
+    "avg_points": 22.3,
     "projected_points": 282.63,
     "weekly_points": [
       18.7,
@@ -4617,9 +4894,11 @@
       23.9,
       20.6,
       35.6,
-      8.3
+      8.3,
+      31.8
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -4630,23 +4909,23 @@
       0
     ],
     "percent_owned": 99.93,
-    "percent_started": 99.6,
-    "std_dev": 7.06,
+    "percent_started": 99.62,
+    "std_dev": 7.45,
     "floor": 8.3,
     "ceiling": 35.6,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 15.6,
-    "pos_avg_diff": "+ 8.68",
-    "points_per_game": 21.11
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 16.5,
+    "pos_avg_diff": "+ 10.4",
+    "points_per_game": 22.3
   },
   {
     "id": 4431611,
     "name": "Caleb Williams",
     "position": "QB",
     "team": "Mama Daughter Duo",
-    "total_points": 120.44,
-    "avg_points": 17.21,
+    "total_points": 160.14,
+    "avg_points": 20.02,
     "projected_points": 303.61,
     "weekly_points": [
       22.7,
@@ -4656,7 +4935,8 @@
       0,
       18.4,
       1.2,
-      11.3
+      11.3,
+      39.7
     ],
     "weekly_projected": [
       0,
@@ -4666,18 +4946,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 83.36,
-    "percent_started": 41.98,
-    "std_dev": 10.69,
+    "percent_owned": 81.35,
+    "percent_started": 43.48,
+    "std_dev": 12.47,
     "floor": 1.18,
-    "ceiling": 37.62,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 11.1,
-    "pos_avg_diff": "-7.51",
-    "points_per_game": 17.21
+    "ceiling": 39.7,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 13.2,
+    "pos_avg_diff": "-4.3",
+    "points_per_game": 20.02
   },
   {
     "id": 4241478,
@@ -4695,7 +4976,8 @@
       15.4,
       6.9,
       28.8,
-      11.4
+      11.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -4705,17 +4987,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 94.66,
-    "percent_started": 64.06,
+    "percent_owned": 94.19,
+    "percent_started": 27.73,
     "std_dev": 7.92,
     "floor": 3.1,
     "ceiling": 28.8,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 8.6,
-    "pos_avg_diff": "+ 0.2",
+    "team_share": 7.6,
+    "pos_avg_diff": "-0.98",
     "points_per_game": 11.6
   },
   {
@@ -4734,201 +5017,7 @@
       0,
       24.5,
       20.3,
-      14.1
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 94.5,
-    "percent_started": 77.23,
-    "std_dev": 5.45,
-    "floor": 8.0,
-    "ceiling": 24.5,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 9.5,
-    "pos_avg_diff": "+ 0.39",
-    "points_per_game": 14.66
-  },
-  {
-    "id": 4047650,
-    "name": "DK Metcalf",
-    "position": "WR",
-    "team": "Mama Daughter Duo",
-    "total_points": 89.6,
-    "avg_points": 12.8,
-    "projected_points": 199.76,
-    "weekly_points": [
-      10.3,
-      9.5,
-      10.7,
-      21.1,
-      0,
-      17.5,
-      6.5,
-      14.0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 97.89,
-    "percent_started": 85.54,
-    "std_dev": 4.69,
-    "floor": 6.5,
-    "ceiling": 21.1,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.3,
-    "pos_avg_diff": "-0.2",
-    "points_per_game": 12.8
-  },
-  {
-    "id": 15847,
-    "name": "Travis Kelce",
-    "position": "TE",
-    "team": "Mama Daughter Duo",
-    "total_points": 93.15,
-    "avg_points": 11.64,
-    "projected_points": 161.92,
-    "weekly_points": [
-      12.2,
-      9.1,
-      5.6,
-      8.6,
-      17.4,
-      12.3,
-      7.7,
-      20.4
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 96.98,
-    "percent_started": 82.87,
-    "std_dev": 4.72,
-    "floor": 5.6,
-    "ceiling": 20.4,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 8.6,
-    "pos_avg_diff": "+ 1.62",
-    "points_per_game": 11.64
-  },
-  {
-    "id": 4431299,
-    "name": "Rome Odunze",
-    "position": "WR",
-    "team": "Mama Daughter Duo",
-    "total_points": 92.8,
-    "avg_points": 13.26,
-    "projected_points": 181.31,
-    "weekly_points": [
-      12.7,
-      28.3,
-      13.7,
-      14.9,
-      0,
-      4.2,
-      4.1,
-      14.9
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 94.81,
-    "percent_started": 73.47,
-    "std_dev": 7.54,
-    "floor": 4.1,
-    "ceiling": 28.3,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 8.6,
-    "pos_avg_diff": "+ 0.2",
-    "points_per_game": 13.26
-  },
-  {
-    "id": 4361370,
-    "name": "Chris Olave",
-    "position": "WR",
-    "team": "Mama Daughter Duo",
-    "total_points": 91.0,
-    "avg_points": 11.38,
-    "projected_points": 168.18,
-    "weekly_points": [
-      8.9,
-      8.4,
-      10.7,
-      6.5,
-      9.4,
-      12.8,
-      24.3,
-      10.0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 93.42,
-    "percent_started": 74.5,
-    "std_dev": 5.17,
-    "floor": 6.5,
-    "ceiling": 24.3,
-    "consistency": 25.0,
-    "games_played": 8,
-    "team_share": 8.4,
-    "pos_avg_diff": "-0.03",
-    "points_per_game": 11.38
-  },
-  {
-    "id": 4819231,
-    "name": "Kaleb Johnson",
-    "position": "RB",
-    "team": "Mama Daughter Duo",
-    "total_points": 3.6,
-    "avg_points": 0.9,
-    "projected_points": 148.83,
-    "weekly_points": [
-      -0.2,
-      0.1,
-      0.0,
-      2.2,
-      0,
-      1.5,
-      0.0,
+      14.1,
       0.0
     ],
     "weekly_projected": [
@@ -4939,18 +5028,183 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 23.58,
-    "percent_started": 2.06,
-    "std_dev": 0.87,
-    "floor": 0.1,
-    "ceiling": 2.2,
-    "consistency": 66.7,
-    "games_played": 3,
-    "team_share": 0.3,
-    "pos_avg_diff": "-11.98",
-    "points_per_game": 1.2
+    "percent_owned": 94.45,
+    "percent_started": 36.21,
+    "std_dev": 5.45,
+    "floor": 8.0,
+    "ceiling": 24.5,
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 8.5,
+    "pos_avg_diff": "-0.5",
+    "points_per_game": 14.66
+  },
+  {
+    "id": 4047650,
+    "name": "DK Metcalf",
+    "position": "WR",
+    "team": "Mama Daughter Duo",
+    "total_points": 91.2,
+    "avg_points": 11.4,
+    "projected_points": 199.76,
+    "weekly_points": [
+      10.3,
+      9.5,
+      10.7,
+      21.1,
+      0,
+      17.5,
+      6.5,
+      14.0,
+      1.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 98.01,
+    "percent_started": 83.1,
+    "std_dev": 5.74,
+    "floor": 1.6,
+    "ceiling": 21.1,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 7.5,
+    "pos_avg_diff": "-1.16",
+    "points_per_game": 11.4
+  },
+  {
+    "id": 15847,
+    "name": "Travis Kelce",
+    "position": "TE",
+    "team": "Mama Daughter Duo",
+    "total_points": 104.75,
+    "avg_points": 11.64,
+    "projected_points": 161.92,
+    "weekly_points": [
+      12.2,
+      9.1,
+      5.6,
+      8.6,
+      17.4,
+      12.3,
+      7.7,
+      20.4,
+      11.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 97.09,
+    "percent_started": 70.68,
+    "std_dev": 4.45,
+    "floor": 5.6,
+    "ceiling": 20.4,
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 8.6,
+    "pos_avg_diff": "+ 1.62",
+    "points_per_game": 11.64
+  },
+  {
+    "id": 4431299,
+    "name": "Rome Odunze",
+    "position": "WR",
+    "team": "Mama Daughter Duo",
+    "total_points": 92.8,
+    "avg_points": 11.6,
+    "projected_points": 181.31,
+    "weekly_points": [
+      12.7,
+      28.3,
+      13.7,
+      14.9,
+      0,
+      4.2,
+      4.1,
+      14.9,
+      0.0
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 94.81,
+    "percent_started": 67.54,
+    "std_dev": 7.54,
+    "floor": 4.1,
+    "ceiling": 28.3,
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 7.6,
+    "pos_avg_diff": "-0.98",
+    "points_per_game": 13.26
+  },
+  {
+    "id": 4361370,
+    "name": "Chris Olave",
+    "position": "WR",
+    "team": "Mama Daughter Duo",
+    "total_points": 98.2,
+    "avg_points": 10.91,
+    "projected_points": 168.18,
+    "weekly_points": [
+      8.9,
+      8.4,
+      10.7,
+      6.5,
+      9.4,
+      12.8,
+      24.3,
+      10.0,
+      7.2
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 93.41,
+    "percent_started": 66.91,
+    "std_dev": 5.05,
+    "floor": 6.5,
+    "ceiling": 24.3,
+    "consistency": 22.2,
+    "games_played": 9,
+    "team_share": 8.1,
+    "pos_avg_diff": "-0.38",
+    "points_per_game": 10.91
   },
   {
     "id": 4362249,
@@ -4968,6 +5222,7 @@
       0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -4978,17 +5233,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 41.42,
-    "percent_started": 0.28,
+    "percent_owned": 40.44,
+    "percent_started": 0.27,
     "std_dev": 0,
     "floor": 12.0,
     "ceiling": 12.0,
     "consistency": 0.0,
     "games_played": 1,
-    "team_share": 1.1,
-    "pos_avg_diff": "-9.9",
+    "team_share": 1.0,
+    "pos_avg_diff": "-9.96",
     "points_per_game": 12.0
   },
   {
@@ -4996,8 +5252,8 @@
     "name": "Michael Penix Jr.",
     "position": "QB",
     "team": "Mama Daughter Duo",
-    "total_points": 72.16,
-    "avg_points": 12.03,
+    "total_points": 96.9,
+    "avg_points": 13.84,
     "projected_points": 273.43,
     "weekly_points": [
       24.5,
@@ -5007,7 +5263,8 @@
       0,
       14.6,
       7.7,
-      0.0
+      0.0,
+      24.7
     ],
     "weekly_projected": [
       0,
@@ -5017,26 +5274,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 14.13,
-    "percent_started": 2.36,
-    "std_dev": 9.0,
+    "percent_owned": 12.05,
+    "percent_started": 2.97,
+    "std_dev": 8.91,
     "floor": 3.8,
     "ceiling": 26.72,
-    "consistency": 40.0,
-    "games_played": 5,
-    "team_share": 6.7,
-    "pos_avg_diff": "-13.54",
-    "points_per_game": 14.43
+    "consistency": 50.0,
+    "games_played": 6,
+    "team_share": 8.0,
+    "pos_avg_diff": "-11.33",
+    "points_per_game": 16.15
   },
   {
     "id": 3046439,
     "name": "Hunter Henry",
     "position": "TE",
     "team": "Mama Daughter Duo",
-    "total_points": 74.45,
-    "avg_points": 9.31,
+    "total_points": 82.55,
+    "avg_points": 9.17,
     "projected_points": 134.19,
     "weekly_points": [
       9.6,
@@ -5046,7 +5304,8 @@
       6.1,
       5.0,
       6.3,
-      7.5
+      7.5,
+      8.1
     ],
     "weekly_projected": [
       0,
@@ -5056,18 +5315,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 70.19,
-    "percent_started": 37.71,
-    "std_dev": 7.23,
+    "percent_owned": 67.0,
+    "percent_started": 32.16,
+    "std_dev": 6.82,
     "floor": 1.65,
     "ceiling": 27.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 6.9,
-    "pos_avg_diff": "-0.71",
-    "points_per_game": 9.31
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 6.8,
+    "pos_avg_diff": "-0.85",
+    "points_per_game": 9.17
   },
   {
     "id": 4697815,
@@ -5085,7 +5345,8 @@
       21.1,
       16.1,
       6.4,
-      7.1
+      7.1,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5095,17 +5356,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 93.69,
-    "percent_started": 64.81,
+    "percent_owned": 86.35,
+    "percent_started": 8.35,
     "std_dev": 6.43,
     "floor": 1.9,
     "ceiling": 21.1,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 6.9,
-    "pos_avg_diff": "-3.07",
+    "team_share": 6.2,
+    "pos_avg_diff": "-3.57",
     "points_per_game": 9.36
   },
   {
@@ -5124,7 +5386,8 @@
       0.9,
       0.0,
       1.2,
-      0.2
+      0.2,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5134,17 +5397,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 4.1,
-    "percent_started": 0.43,
+    "percent_owned": 3.49,
+    "percent_started": 0.22,
     "std_dev": 0.87,
     "floor": 0.2,
     "ceiling": 2.6,
     "consistency": 25.0,
     "games_played": 4,
-    "team_share": 0.5,
-    "pos_avg_diff": "-11.82",
+    "team_share": 0.4,
+    "pos_avg_diff": "-11.35",
     "points_per_game": 1.23
   },
   {
@@ -5152,8 +5416,8 @@
     "name": "Emari Demercado",
     "position": "RB",
     "team": "Mama Daughter Duo",
-    "total_points": 15.3,
-    "avg_points": 2.55,
+    "total_points": 23.6,
+    "avg_points": 3.37,
     "projected_points": 25.53,
     "weekly_points": [
       0.0,
@@ -5163,7 +5427,8 @@
       6.1,
       0.1,
       0.0,
-      0
+      0,
+      8.3
     ],
     "weekly_projected": [
       0,
@@ -5173,26 +5438,68 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 7.05,
-    "percent_started": 0.38,
-    "std_dev": 3.74,
+    "percent_owned": 5.15,
+    "percent_started": 0.6,
+    "std_dev": 3.52,
     "floor": 0.1,
     "ceiling": 9.1,
-    "consistency": 66.7,
-    "games_played": 3,
-    "team_share": 1.4,
-    "pos_avg_diff": "-10.52",
-    "points_per_game": 5.1
+    "consistency": 75.0,
+    "games_played": 4,
+    "team_share": 1.9,
+    "pos_avg_diff": "-9.27",
+    "points_per_game": 5.9
+  },
+  {
+    "id": 4883647,
+    "name": "Elic Ayomanor",
+    "position": "WR",
+    "team": "Mama Daughter Duo",
+    "total_points": 57.3,
+    "avg_points": 6.37,
+    "projected_points": 71.81,
+    "weekly_points": [
+      2.3,
+      13.6,
+      11.8,
+      5.4,
+      2.8,
+      4.2,
+      3.9,
+      7.2,
+      6.1
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 20.14,
+    "percent_started": 3.92,
+    "std_dev": 3.71,
+    "floor": 2.3,
+    "ceiling": 13.6,
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 4.7,
+    "pos_avg_diff": "-4.92",
+    "points_per_game": 6.37
   },
   {
     "id": 4430807,
     "name": "Bijan Robinson",
     "position": "RB",
     "team": "Abbey's TNT Team",
-    "total_points": 134.7,
-    "avg_points": 19.24,
+    "total_points": 148.3,
+    "avg_points": 18.54,
     "projected_points": 308.13,
     "weekly_points": [
       21.4,
@@ -5202,9 +5509,11 @@
       0,
       32.8,
       18.2,
-      4.3
+      4.3,
+      13.6
     ],
     "weekly_projected": [
+      0,
       0,
       0,
       0,
@@ -5215,23 +5524,23 @@
       0
     ],
     "percent_owned": 99.93,
-    "percent_started": 98.2,
-    "std_dev": 8.39,
+    "percent_started": 98.37,
+    "std_dev": 8.07,
     "floor": 4.3,
     "ceiling": 32.8,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 14.7,
-    "pos_avg_diff": "+ 4.4",
-    "points_per_game": 19.24
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 13.9,
+    "pos_avg_diff": "+ 4.58",
+    "points_per_game": 18.54
   },
   {
     "id": 4426515,
     "name": "Puka Nacua",
     "position": "WR",
     "team": "Abbey's TNT Team",
-    "total_points": 111.8,
-    "avg_points": 18.63,
+    "total_points": 131.1,
+    "avg_points": 18.73,
     "projected_points": 246.01,
     "weekly_points": [
       18.1,
@@ -5241,7 +5550,8 @@
       19.5,
       3.8,
       0.0,
-      0
+      0,
+      19.3
     ],
     "weekly_projected": [
       0,
@@ -5251,26 +5561,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.86,
-    "percent_started": 26.59,
-    "std_dev": 7.81,
+    "percent_owned": 99.91,
+    "percent_started": 89.2,
+    "std_dev": 7.23,
     "floor": 3.8,
     "ceiling": 29.5,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 12.2,
-    "pos_avg_diff": "+ 2.57",
-    "points_per_game": 18.63
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 12.3,
+    "pos_avg_diff": "+ 3.28",
+    "points_per_game": 18.73
   },
   {
     "id": 4426338,
     "name": "Bo Nix",
     "position": "QB",
     "team": "Abbey's TNT Team",
-    "total_points": 174.72,
-    "avg_points": 21.84,
+    "total_points": 187.24,
+    "avg_points": 20.8,
     "projected_points": 347.67,
     "weekly_points": [
       6.3,
@@ -5280,7 +5591,8 @@
       16.9,
       13.9,
       34.5,
-      31.3
+      31.3,
+      12.5
     ],
     "weekly_projected": [
       0,
@@ -5290,26 +5602,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 93.08,
-    "percent_started": 70.64,
-    "std_dev": 10.18,
+    "percent_owned": 91.32,
+    "percent_started": 51.97,
+    "std_dev": 10.03,
     "floor": 6.34,
     "ceiling": 34.46,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 19.0,
-    "pos_avg_diff": "-0.72",
-    "points_per_game": 21.84
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 17.5,
+    "pos_avg_diff": "-1.29",
+    "points_per_game": 20.8
   },
   {
     "id": 4430737,
     "name": "Kyren Williams",
     "position": "RB",
     "team": "Abbey's TNT Team",
-    "total_points": 99.8,
-    "avg_points": 14.26,
+    "total_points": 117.2,
+    "avg_points": 14.65,
     "projected_points": 266.29,
     "weekly_points": [
       13.4,
@@ -5319,7 +5632,8 @@
       27.1,
       15.7,
       7.5,
-      0
+      0,
+      17.4
     ],
     "weekly_projected": [
       0,
@@ -5329,26 +5643,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 98.87,
-    "percent_started": 33.07,
-    "std_dev": 6.38,
+    "percent_owned": 99.25,
+    "percent_started": 89.5,
+    "std_dev": 6.06,
     "floor": 7.5,
     "ceiling": 27.1,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 10.9,
-    "pos_avg_diff": "+ 0.04",
-    "points_per_game": 14.26
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 11.0,
+    "pos_avg_diff": "+ 1.13",
+    "points_per_game": 14.65
   },
   {
     "id": 15864,
     "name": "Geno Smith",
     "position": "QB",
     "team": "Abbey's TNT Team",
-    "total_points": 85.38,
-    "avg_points": 12.2,
+    "total_points": 124.14,
+    "avg_points": 15.52,
     "projected_points": 310.57,
     "weekly_points": [
       21.5,
@@ -5358,7 +5673,8 @@
       7.4,
       13.2,
       1.8,
-      0
+      0,
+      38.8
     ],
     "weekly_projected": [
       0,
@@ -5368,18 +5684,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 6.54,
-    "percent_started": 0.77,
-    "std_dev": 9.6,
+    "percent_owned": 6.52,
+    "percent_started": 2.06,
+    "std_dev": 12.2,
     "floor": 1.78,
-    "ceiling": 31.56,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 9.3,
-    "pos_avg_diff": "-11.89",
-    "points_per_game": 14.23
+    "ceiling": 38.76,
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 11.6,
+    "pos_avg_diff": "-8.3",
+    "points_per_game": 17.73
   },
   {
     "id": 3925357,
@@ -5397,6 +5714,7 @@
       15.6,
       2.3,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -5407,17 +5725,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 67.86,
-    "percent_started": 8.13,
+    "percent_owned": 60.49,
+    "percent_started": 5.03,
     "std_dev": 4.48,
     "floor": 2.3,
     "ceiling": 15.6,
     "consistency": 33.3,
     "games_played": 6,
-    "team_share": 4.0,
-    "pos_avg_diff": "-6.78",
+    "team_share": 3.5,
+    "pos_avg_diff": "-7.18",
     "points_per_game": 6.17
   },
   {
@@ -5425,8 +5744,8 @@
     "name": "Colston Loveland",
     "position": "TE",
     "team": "Abbey's TNT Team",
-    "total_points": 19.85,
-    "avg_points": 3.31,
+    "total_points": 48.15,
+    "avg_points": 6.88,
     "projected_points": 140.07,
     "weekly_points": [
       2.7,
@@ -5436,7 +5755,8 @@
       0,
       2.6,
       4.7,
-      6.0
+      6.0,
+      28.3
     ],
     "weekly_projected": [
       0,
@@ -5446,18 +5766,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 24.07,
-    "percent_started": 7.58,
-    "std_dev": 1.29,
+    "percent_owned": 23.69,
+    "percent_started": 7.92,
+    "std_dev": 9.14,
     "floor": 2.6,
-    "ceiling": 6.05,
-    "consistency": 40.0,
-    "games_played": 5,
-    "team_share": 2.2,
-    "pos_avg_diff": "-7.54",
-    "points_per_game": 3.97
+    "ceiling": 28.3,
+    "consistency": 16.7,
+    "games_played": 6,
+    "team_share": 4.5,
+    "pos_avg_diff": "-4.67",
+    "points_per_game": 8.03
   },
   {
     "id": 4567750,
@@ -5475,7 +5796,8 @@
       27.8,
       3.4,
       7.8,
-      5.0
+      5.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5485,17 +5807,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.46,
-    "percent_started": 64.03,
+    "percent_owned": 97.17,
+    "percent_started": 35.11,
     "std_dev": 7.97,
     "floor": 3.4,
     "ceiling": 27.8,
     "consistency": 37.5,
     "games_played": 8,
-    "team_share": 11.5,
-    "pos_avg_diff": "+ 1.86",
+    "team_share": 9.9,
+    "pos_avg_diff": "+ 0.5",
     "points_per_game": 13.26
   },
   {
@@ -5503,8 +5826,8 @@
     "name": "Deebo Samuel",
     "position": "WR",
     "team": "Abbey's TNT Team",
-    "total_points": 79.7,
-    "avg_points": 11.39,
+    "total_points": 86.6,
+    "avg_points": 10.83,
     "projected_points": 171.47,
     "weekly_points": [
       19.1,
@@ -5514,7 +5837,8 @@
       19.6,
       3.4,
       0.0,
-      2.7
+      2.7,
+      6.9
     ],
     "weekly_projected": [
       0,
@@ -5524,18 +5848,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.43,
-    "percent_started": 55.07,
-    "std_dev": 7.18,
+    "percent_owned": 92.12,
+    "percent_started": 60.85,
+    "std_dev": 6.88,
     "floor": 2.7,
     "ceiling": 19.6,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 8.7,
-    "pos_avg_diff": "-1.44",
-    "points_per_game": 11.39
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 8.1,
+    "pos_avg_diff": "-1.67",
+    "points_per_game": 10.82
   },
   {
     "id": 4429013,
@@ -5553,7 +5878,8 @@
       0.0,
       0.0,
       1.5,
-      10.4
+      10.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5563,17 +5889,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 19.43,
-    "percent_started": 1.17,
+    "percent_owned": 26.06,
+    "percent_started": 0.85,
     "std_dev": 4.27,
     "floor": 1.2,
     "ceiling": 10.4,
     "consistency": 33.3,
     "games_played": 3,
-    "team_share": 1.4,
-    "pos_avg_diff": "-10.8",
+    "team_share": 1.2,
+    "pos_avg_diff": "-10.44",
     "points_per_game": 4.37
   },
   {
@@ -5592,7 +5919,8 @@
       0.7,
       0.0,
       3.9,
-      2.9
+      2.9,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -5602,17 +5930,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 14.19,
+    "percent_owned": 13.0,
     "percent_started": 1.14,
     "std_dev": 1.34,
     "floor": 0.7,
     "ceiling": 3.9,
     "consistency": 66.7,
     "games_played": 3,
-    "team_share": 0.8,
-    "pos_avg_diff": "-11.5",
+    "team_share": 0.7,
+    "pos_avg_diff": "-11.06",
     "points_per_game": 2.5
   },
   {
@@ -5620,8 +5949,8 @@
     "name": "Xavier Legette",
     "position": "WR",
     "team": "Abbey's TNT Team",
-    "total_points": 37.4,
-    "avg_points": 6.23,
+    "total_points": 40.1,
+    "avg_points": 5.73,
     "projected_points": 135.3,
     "weekly_points": [
       2.5,
@@ -5631,6 +5960,7 @@
       10.1,
       2.1,
       19.7,
+      2.7,
       2.7
     ],
     "weekly_projected": [
@@ -5641,18 +5971,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 32.82,
-    "percent_started": 8.28,
-    "std_dev": 6.77,
+    "percent_owned": 26.09,
+    "percent_started": 2.67,
+    "std_dev": 6.39,
     "floor": 0.3,
     "ceiling": 19.7,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 4.1,
-    "pos_avg_diff": "-6.73",
-    "points_per_game": 6.23
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 3.8,
+    "pos_avg_diff": "-6.84",
+    "points_per_game": 5.73
   },
   {
     "id": 5081397,
@@ -5670,7 +6001,8 @@
       0.7,
       3.4,
       2.2,
-      5.4
+      5.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5680,17 +6012,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 9.52,
-    "percent_started": 1.11,
+    "percent_owned": 10.4,
+    "percent_started": 0.64,
     "std_dev": 4.48,
     "floor": 0.2,
     "ceiling": 13.3,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 3.7,
-    "pos_avg_diff": "-8.13",
+    "team_share": 3.2,
+    "pos_avg_diff": "-8.07",
     "points_per_game": 4.91
   },
   {
@@ -5709,7 +6042,8 @@
       11.1,
       8.8,
       11.8,
-      7.0
+      7.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -5719,17 +6053,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 49.48,
-    "percent_started": 31.02,
+    "percent_owned": 32.82,
+    "percent_started": 3.67,
     "std_dev": 3.14,
     "floor": 3.15,
     "ceiling": 11.75,
     "consistency": 50.0,
     "games_played": 6,
-    "team_share": 5.1,
-    "pos_avg_diff": "-4.2",
+    "team_share": 4.4,
+    "pos_avg_diff": "-4.84",
     "points_per_game": 7.77
   },
   {
@@ -5738,7 +6073,7 @@
     "position": "WR",
     "team": "Abbey's TNT Team",
     "total_points": 17.8,
-    "avg_points": 2.54,
+    "avg_points": 2.22,
     "projected_points": 22.59,
     "weekly_points": [
       2.6,
@@ -5748,45 +6083,7 @@
       0.0,
       0.0,
       3.2,
-      0
-    ],
-    "weekly_projected": [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 0.14,
-    "percent_started": 0.03,
-    "std_dev": 2.5,
-    "floor": 0.9,
-    "ceiling": 8.3,
-    "consistency": 20.0,
-    "games_played": 5,
-    "team_share": 1.9,
-    "pos_avg_diff": "-9.18",
-    "points_per_game": 3.56
-  },
-  {
-    "id": 4599739,
-    "name": "Kendre Miller",
-    "position": "RB",
-    "team": "Abbey's TNT Team",
-    "total_points": 30.8,
-    "avg_points": 4.4,
-    "projected_points": 74.28,
-    "weekly_points": [
-      2.4,
-      1.5,
-      4.6,
-      12.5,
-      5.4,
-      3.7,
-      0.7,
       0.0
     ],
     "weekly_projected": [
@@ -5797,26 +6094,109 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 5.3,
-    "percent_started": 0.27,
-    "std_dev": 3.65,
-    "floor": 0.7,
-    "ceiling": 12.5,
-    "consistency": 42.9,
+    "percent_owned": 0.14,
+    "percent_started": 0.05,
+    "std_dev": 2.5,
+    "floor": 0.9,
+    "ceiling": 8.3,
+    "consistency": 20.0,
+    "games_played": 5,
+    "team_share": 1.7,
+    "pos_avg_diff": "-9.31",
+    "points_per_game": 3.56
+  },
+  {
+    "id": 4596602,
+    "name": "Brashard Smith",
+    "position": "RB",
+    "team": "Abbey's TNT Team",
+    "total_points": 27.4,
+    "avg_points": 3.04,
+    "projected_points": 45.25,
+    "weekly_points": [
+      0.0,
+      0.2,
+      1.3,
+      5.1,
+      5.1,
+      3.6,
+      10.6,
+      0.8,
+      0.7
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 15.31,
+    "percent_started": 3.52,
+    "std_dev": 3.29,
+    "floor": 0.2,
+    "ceiling": 10.6,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 2.6,
+    "pos_avg_diff": "-8.85",
+    "points_per_game": 3.42
+  },
+  {
+    "id": 4432620,
+    "name": "Parker Washington",
+    "position": "WR",
+    "team": "Abbey's TNT Team",
+    "total_points": 55.1,
+    "avg_points": 6.89,
+    "projected_points": 35.55,
+    "weekly_points": [
+      0.0,
+      10.1,
+      5.4,
+      5.9,
+      8.6,
+      3.9,
+      8.2,
+      0,
+      13.0
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 5.14,
+    "percent_started": 2.2,
+    "std_dev": 2.87,
+    "floor": 3.9,
+    "ceiling": 13.0,
+    "consistency": 57.1,
     "games_played": 7,
-    "team_share": 3.4,
-    "pos_avg_diff": "-8.58",
-    "points_per_game": 4.4
+    "team_share": 5.2,
+    "pos_avg_diff": "-5.17",
+    "points_per_game": 7.87
   },
   {
     "id": 3918298,
     "name": "Josh Allen",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 184.5,
-    "avg_points": 26.36,
+    "total_points": 223.82,
+    "avg_points": 27.98,
     "projected_points": 403.93,
     "weekly_points": [
       46.3,
@@ -5826,87 +6206,11 @@
       25.4,
       15.9,
       0,
-      24.2
+      24.2,
+      39.3
     ],
     "weekly_projected": [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 99.92,
-    "percent_started": 86.66,
-    "std_dev": 11.55,
-    "floor": 7.82,
-    "ceiling": 46.26,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 18.4,
-    "pos_avg_diff": "+ 0.5",
-    "points_per_game": 26.36
-  },
-  {
-    "id": 3043078,
-    "name": "Derrick Henry",
-    "position": "RB",
-    "team": "Game of Zones - House Hamlin",
-    "total_points": 88.9,
-    "avg_points": 12.7,
-    "projected_points": 272.8,
-    "weekly_points": [
-      28.7,
-      2.3,
-      9.2,
-      6.8,
-      9.3,
-      13.5,
-      0,
-      19.1
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 99.28,
-    "percent_started": 89.14,
-    "std_dev": 8.14,
-    "floor": 2.3,
-    "ceiling": 28.7,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.9,
-    "pos_avg_diff": "-1.32",
-    "points_per_game": 12.7
-  },
-  {
-    "id": 4374302,
-    "name": "Amon-Ra St. Brown",
-    "position": "WR",
-    "team": "Game of Zones - House Hamlin",
-    "total_points": 121.7,
-    "avg_points": 17.39,
-    "projected_points": 232.27,
-    "weekly_points": [
-      6.5,
-      34.7,
-      17.2,
-      22.5,
-      14.0,
-      9.2,
-      17.6,
-      0
-    ],
-    "weekly_projected": [
       0,
       0,
       0,
@@ -5917,23 +6221,105 @@
       0
     ],
     "percent_owned": 99.91,
-    "percent_started": 34.45,
-    "std_dev": 8.64,
+    "percent_started": 90.11,
+    "std_dev": 11.62,
+    "floor": 7.82,
+    "ceiling": 46.26,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 19.9,
+    "pos_avg_diff": "+ 2.77",
+    "points_per_game": 27.98
+  },
+  {
+    "id": 3043078,
+    "name": "Derrick Henry",
+    "position": "RB",
+    "team": "Game of Zones - House Hamlin",
+    "total_points": 101.5,
+    "avg_points": 12.69,
+    "projected_points": 272.8,
+    "weekly_points": [
+      28.7,
+      2.3,
+      9.2,
+      6.8,
+      9.3,
+      13.5,
+      0,
+      19.1,
+      12.6
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 99.5,
+    "percent_started": 93.4,
+    "std_dev": 7.62,
+    "floor": 2.3,
+    "ceiling": 28.7,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 9.0,
+    "pos_avg_diff": "-0.62",
+    "points_per_game": 12.69
+  },
+  {
+    "id": 4374302,
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "Game of Zones - House Hamlin",
+    "total_points": 135.9,
+    "avg_points": 16.99,
+    "projected_points": 232.27,
+    "weekly_points": [
+      6.5,
+      34.7,
+      17.2,
+      22.5,
+      14.0,
+      9.2,
+      17.6,
+      0,
+      14.2
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 99.93,
+    "percent_started": 94.14,
+    "std_dev": 8.15,
     "floor": 6.5,
     "ceiling": 34.7,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 12.2,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 12.1,
     "pos_avg_diff": "+ 3.81",
-    "points_per_game": 17.39
+    "points_per_game": 16.99
   },
   {
     "id": 4036378,
     "name": "Jordan Love",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 170.32,
-    "avg_points": 24.33,
+    "total_points": 181.34,
+    "avg_points": 22.67,
     "projected_points": 298.44,
     "weekly_points": [
       21.9,
@@ -5943,7 +6329,8 @@
       0,
       19.5,
       14.9,
-      40.8
+      40.8,
+      11.0
     ],
     "weekly_projected": [
       0,
@@ -5953,26 +6340,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 79.97,
-    "percent_started": 36.09,
-    "std_dev": 9.34,
-    "floor": 14.86,
+    "percent_owned": 81.34,
+    "percent_started": 37.66,
+    "std_dev": 9.78,
+    "floor": 11.02,
     "ceiling": 40.8,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 17.0,
-    "pos_avg_diff": "-1.27",
-    "points_per_game": 24.33
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 16.1,
+    "pos_avg_diff": "-1.95",
+    "points_per_game": 22.67
   },
   {
     "id": 4430027,
     "name": "Sam LaPorta",
     "position": "TE",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 67.65,
-    "avg_points": 9.66,
+    "total_points": 87.85,
+    "avg_points": 10.98,
     "projected_points": 173.12,
     "weekly_points": [
       12.4,
@@ -5982,7 +6370,8 @@
       18.9,
       15.2,
       3.8,
-      0
+      0,
+      20.2
     ],
     "weekly_projected": [
       0,
@@ -5992,26 +6381,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.52,
-    "percent_started": 29.13,
-    "std_dev": 5.43,
+    "percent_owned": 97.05,
+    "percent_started": 74.63,
+    "std_dev": 6.16,
     "floor": 3.75,
-    "ceiling": 18.95,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 6.8,
-    "pos_avg_diff": "-1.56",
-    "points_per_game": 9.66
+    "ceiling": 20.2,
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 7.8,
+    "pos_avg_diff": "-0.26",
+    "points_per_game": 10.98
   },
   {
     "id": 4429615,
     "name": "Zay Flowers",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 75.1,
-    "avg_points": 10.73,
+    "total_points": 84.0,
+    "avg_points": 10.5,
     "projected_points": 195.72,
     "weekly_points": [
       24.6,
@@ -6021,7 +6411,8 @@
       9.7,
       5.6,
       0,
-      10.6
+      10.6,
+      8.9
     ],
     "weekly_projected": [
       0,
@@ -6031,26 +6422,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 95.89,
-    "percent_started": 71.82,
-    "std_dev": 6.45,
+    "percent_owned": 96.24,
+    "percent_started": 78.71,
+    "std_dev": 6.06,
     "floor": 2.3,
     "ceiling": 24.6,
-    "consistency": 42.9,
-    "games_played": 7,
+    "consistency": 50.0,
+    "games_played": 8,
     "team_share": 7.5,
-    "pos_avg_diff": "-2.01",
-    "points_per_game": 10.73
+    "pos_avg_diff": "-1.96",
+    "points_per_game": 10.5
   },
   {
     "id": 4688380,
     "name": "Cam Ward",
     "position": "QB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 39.6,
-    "avg_points": 4.95,
+    "total_points": 43.0,
+    "avg_points": 4.78,
     "projected_points": 267.64,
     "weekly_points": [
       -7.5,
@@ -6060,7 +6452,8 @@
       0.5,
       9.9,
       15.7,
-      9.8
+      9.8,
+      3.4
     ],
     "weekly_projected": [
       0,
@@ -6070,26 +6463,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 7.33,
-    "percent_started": 1.92,
-    "std_dev": 4.54,
+    "percent_owned": 6.8,
+    "percent_started": 1.38,
+    "std_dev": 4.62,
     "floor": 0.5,
     "ceiling": 15.7,
-    "consistency": 66.7,
-    "games_played": 6,
-    "team_share": 4.0,
-    "pos_avg_diff": "-17.61",
-    "points_per_game": 6.6
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 3.8,
+    "pos_avg_diff": "-17.32",
+    "points_per_game": 6.14
   },
   {
     "id": 4575131,
     "name": "Jacory Croskey-Merritt",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 69.7,
-    "avg_points": 8.71,
+    "total_points": 74.3,
+    "avg_points": 8.26,
     "projected_points": 151.27,
     "weekly_points": [
       14.2,
@@ -6099,7 +6493,8 @@
       26.0,
       5.3,
       3.7,
-      2.5
+      2.5,
+      4.6
     ],
     "weekly_projected": [
       0,
@@ -6109,26 +6504,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 86.42,
-    "percent_started": 46.32,
-    "std_dev": 7.57,
+    "percent_owned": 81.95,
+    "percent_started": 29.92,
+    "std_dev": 7.25,
     "floor": 1.7,
     "ceiling": 26.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 7.0,
-    "pos_avg_diff": "-3.72",
-    "points_per_game": 8.71
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 6.6,
+    "pos_avg_diff": "-3.64",
+    "points_per_game": 8.26
   },
   {
     "id": 4572680,
     "name": "Tucker Kraft",
     "position": "TE",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 105.7,
-    "avg_points": 15.1,
+    "total_points": 109.2,
+    "avg_points": 13.65,
     "projected_points": 144.18,
     "weekly_points": [
       9.4,
@@ -6138,7 +6534,8 @@
       0,
       11.8,
       15.6,
-      31.6
+      31.6,
+      3.5
     ],
     "weekly_projected": [
       0,
@@ -6148,26 +6545,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.31,
-    "percent_started": 71.79,
-    "std_dev": 8.51,
-    "floor": 5.15,
+    "percent_owned": 86.82,
+    "percent_started": 55.77,
+    "std_dev": 8.84,
+    "floor": 3.5,
     "ceiling": 31.55,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 10.6,
-    "pos_avg_diff": "+ 3.19",
-    "points_per_game": 15.1
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 9.7,
+    "pos_avg_diff": "+ 2.11",
+    "points_per_game": 13.65
   },
   {
     "id": 15818,
     "name": "Keenan Allen",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 95.9,
-    "avg_points": 11.99,
+    "total_points": 101.0,
+    "avg_points": 11.22,
     "projected_points": 172.08,
     "weekly_points": [
       16.3,
@@ -6177,7 +6575,8 @@
       8.3,
       4.7,
       23.4,
-      6.4
+      6.4,
+      5.1
     ],
     "weekly_projected": [
       0,
@@ -6187,65 +6586,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 91.63,
-    "percent_started": 73.66,
-    "std_dev": 6.16,
+    "percent_owned": 91.61,
+    "percent_started": 63.26,
+    "std_dev": 6.19,
     "floor": 4.7,
     "ceiling": 23.4,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 9.6,
-    "pos_avg_diff": "+ 0.59",
-    "points_per_game": 11.99
-  },
-  {
-    "id": 2976592,
-    "name": "Sterling Shepard",
-    "position": "WR",
-    "team": "Game of Zones - House Hamlin",
-    "total_points": 45.1,
-    "avg_points": 5.64,
-    "projected_points": 24.25,
-    "weekly_points": [
-      5.4,
-      5.4,
-      10.0,
-      3.0,
-      9.9,
-      6.1,
-      4.0,
-      1.3
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 14.87,
-    "percent_started": 4.42,
-    "std_dev": 2.87,
-    "floor": 1.3,
-    "ceiling": 10.0,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 4.5,
-    "pos_avg_diff": "-5.76",
-    "points_per_game": 5.64
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 9.0,
+    "pos_avg_diff": "-0.07",
+    "points_per_game": 11.22
   },
   {
     "id": 4371733,
     "name": "Kenneth Gainwell",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 58.0,
-    "avg_points": 8.29,
+    "total_points": 63.4,
+    "avg_points": 7.92,
     "projected_points": 177.08,
     "weekly_points": [
       3.8,
@@ -6255,7 +6616,8 @@
       0,
       6.6,
       2.5,
-      2.5
+      2.5,
+      5.4
     ],
     "weekly_projected": [
       0,
@@ -6265,26 +6627,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 57.94,
-    "percent_started": 24.84,
-    "std_dev": 8.5,
+    "percent_owned": 49.54,
+    "percent_started": 15.95,
+    "std_dev": 8.0,
     "floor": 2.5,
     "ceiling": 28.4,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 5.8,
-    "pos_avg_diff": "-5.18",
-    "points_per_game": 8.29
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 5.6,
+    "pos_avg_diff": "-4.85",
+    "points_per_game": 7.92
   },
   {
     "id": 3059915,
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 64.2,
-    "avg_points": 8.03,
+    "total_points": 76.2,
+    "avg_points": 8.47,
     "projected_points": 88.63,
     "weekly_points": [
       3.6,
@@ -6294,7 +6657,8 @@
       18.2,
       3.9,
       1.8,
-      16.7
+      16.7,
+      12.0
     ],
     "weekly_projected": [
       0,
@@ -6304,65 +6668,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 28.49,
-    "percent_started": 8.44,
-    "std_dev": 5.99,
+    "percent_owned": 52.64,
+    "percent_started": 19.64,
+    "std_dev": 5.79,
     "floor": 1.8,
     "ceiling": 18.2,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 6.4,
-    "pos_avg_diff": "-4.41",
-    "points_per_game": 8.03
-  },
-  {
-    "id": 4429096,
-    "name": "Blake Corum",
-    "position": "RB",
-    "team": "Game of Zones - House Hamlin",
-    "total_points": 28.8,
-    "avg_points": 4.11,
-    "projected_points": 67.77,
-    "weekly_points": [
-      2.1,
-      10.4,
-      5.3,
-      2.6,
-      1.3,
-      2.3,
-      4.8,
-      0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 7.44,
-    "percent_started": 0.26,
-    "std_dev": 2.9,
-    "floor": 1.3,
-    "ceiling": 10.4,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 2.9,
-    "pos_avg_diff": "-8.83",
-    "points_per_game": 4.11
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 6.8,
+    "pos_avg_diff": "-3.43",
+    "points_per_game": 8.47
   },
   {
     "id": 4428718,
     "name": "Tre Tucker",
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
-    "total_points": 80.3,
-    "avg_points": 11.47,
+    "total_points": 85.6,
+    "avg_points": 10.7,
     "projected_points": 108.63,
     "weekly_points": [
       12.4,
@@ -6372,7 +6698,8 @@
       9.1,
       9.5,
       5.8,
-      0
+      0,
+      5.3
     ],
     "weekly_projected": [
       0,
@@ -6382,18 +6709,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 45.54,
-    "percent_started": 2.33,
-    "std_dev": 10.84,
+    "percent_owned": 39.64,
+    "percent_started": 6.95,
+    "std_dev": 10.34,
     "floor": 3.2,
     "ceiling": 36.9,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 8.0,
-    "pos_avg_diff": "-1.36",
-    "points_per_game": 11.47
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 7.6,
+    "pos_avg_diff": "-1.78",
+    "points_per_game": 10.7
   },
   {
     "id": 4426948,
@@ -6401,7 +6729,7 @@
     "position": "WR",
     "team": "Game of Zones - House Hamlin",
     "total_points": 45.8,
-    "avg_points": 5.72,
+    "avg_points": 5.09,
     "projected_points": 22.18,
     "weekly_points": [
       0.0,
@@ -6411,7 +6739,8 @@
       5.5,
       9.8,
       0.0,
-      3.9
+      3.9,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -6421,18 +6750,101 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 5.98,
-    "percent_started": 1.42,
+    "percent_owned": 4.38,
+    "percent_started": 1.04,
     "std_dev": 3.31,
     "floor": 3.9,
     "ceiling": 13.1,
     "consistency": 50.0,
     "games_played": 6,
-    "team_share": 4.6,
-    "pos_avg_diff": "-5.68",
+    "team_share": 4.1,
+    "pos_avg_diff": "-6.2",
     "points_per_game": 7.63
+  },
+  {
+    "id": 3116389,
+    "name": "Samaje Perine",
+    "position": "RB",
+    "team": "Game of Zones - House Hamlin",
+    "total_points": 30.3,
+    "avg_points": 3.37,
+    "projected_points": 54.11,
+    "weekly_points": [
+      1.6,
+      0.0,
+      0.1,
+      0.4,
+      3.9,
+      4.2,
+      3.1,
+      16.5,
+      0.5
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 16.42,
+    "percent_started": 6.54,
+    "std_dev": 5.04,
+    "floor": 0.1,
+    "ceiling": 16.5,
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 2.7,
+    "pos_avg_diff": "-8.53",
+    "points_per_game": 3.79
+  },
+  {
+    "id": 4360078,
+    "name": "Alec Pierce",
+    "position": "WR",
+    "team": "Game of Zones - House Hamlin",
+    "total_points": 62.1,
+    "avg_points": 8.87,
+    "projected_points": 58.74,
+    "weekly_points": [
+      4.1,
+      8.8,
+      8.7,
+      0.0,
+      0.0,
+      5.8,
+      12.3,
+      7.9,
+      14.5
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 11.86,
+    "percent_started": 5.25,
+    "std_dev": 3.31,
+    "floor": 4.1,
+    "ceiling": 14.5,
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 5.5,
+    "pos_avg_diff": "-4.39",
+    "points_per_game": 8.87
   },
   {
     "id": 3929630,
@@ -6450,7 +6862,8 @@
       16.3,
       7.7,
       4.7,
-      31.4
+      31.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -6460,17 +6873,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.93,
-    "percent_started": 83.88,
+    "percent_owned": 99.91,
+    "percent_started": 41.76,
     "std_dev": 7.81,
     "floor": 4.7,
     "ceiling": 31.4,
     "consistency": 62.5,
     "games_played": 8,
-    "team_share": 17.1,
-    "pos_avg_diff": "+ 2.04",
+    "team_share": 14.8,
+    "pos_avg_diff": "+ 0.97",
     "points_per_game": 14.47
   },
   {
@@ -6489,6 +6903,7 @@
       0.0,
       0.0,
       0.0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -6499,17 +6914,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 58.67,
-    "percent_started": 8.54,
+    "percent_owned": 58.76,
+    "percent_started": 10.41,
     "std_dev": 4.06,
     "floor": 16.66,
     "ceiling": 24.78,
     "consistency": 50.0,
     "games_played": 2,
-    "team_share": 6.1,
-    "pos_avg_diff": "-17.38",
+    "team_share": 5.3,
+    "pos_avg_diff": "-17.49",
     "points_per_game": 20.72
   },
   {
@@ -6517,8 +6933,8 @@
     "name": "Drake London",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 75.9,
-    "avg_points": 12.65,
+    "total_points": 110.2,
+    "avg_points": 15.74,
     "projected_points": 218.72,
     "weekly_points": [
       9.5,
@@ -6528,7 +6944,8 @@
       0,
       26.8,
       6.2,
-      0.0
+      0.0,
+      34.3
     ],
     "weekly_projected": [
       0,
@@ -6538,26 +6955,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 99.1,
-    "percent_started": 60.96,
-    "std_dev": 8.28,
+    "percent_owned": 99.13,
+    "percent_started": 87.43,
+    "std_dev": 10.78,
     "floor": 4.4,
-    "ceiling": 26.8,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 11.2,
-    "pos_avg_diff": "-1.91",
-    "points_per_game": 12.65
+    "ceiling": 34.3,
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 14.0,
+    "pos_avg_diff": "+ 0.95",
+    "points_per_game": 15.74
   },
   {
     "id": 3040151,
     "name": "George Kittle",
     "position": "TE",
     "team": "Emma's Excellent Team",
-    "total_points": 24.8,
-    "avg_points": 8.27,
+    "total_points": 30.7,
+    "avg_points": 7.67,
     "projected_points": 207.09,
     "weekly_points": [
       11.5,
@@ -6567,7 +6985,8 @@
       0.0,
       0.0,
       0.0,
-      13.3
+      13.3,
+      5.9
     ],
     "weekly_projected": [
       0,
@@ -6577,26 +6996,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 97.55,
-    "percent_started": 67.96,
-    "std_dev": 0.9,
-    "floor": 11.5,
+    "percent_owned": 98.03,
+    "percent_started": 80.34,
+    "std_dev": 3.15,
+    "floor": 5.9,
     "ceiling": 13.3,
-    "consistency": 50.0,
-    "games_played": 2,
-    "team_share": 3.7,
-    "pos_avg_diff": "-6.92",
-    "points_per_game": 12.4
+    "consistency": 66.7,
+    "games_played": 3,
+    "team_share": 3.9,
+    "pos_avg_diff": "-6.61",
+    "points_per_game": 10.23
   },
   {
     "id": 3916148,
     "name": "Tony Pollard",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 72.5,
-    "avg_points": 9.06,
+    "total_points": 79.8,
+    "avg_points": 8.87,
     "projected_points": 198.95,
     "weekly_points": [
       7.4,
@@ -6606,7 +7026,8 @@
       13.3,
       5.7,
       9.1,
-      5.8
+      5.8,
+      7.3
     ],
     "weekly_projected": [
       0,
@@ -6616,26 +7037,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 84.25,
-    "percent_started": 37.22,
-    "std_dev": 2.68,
+    "percent_owned": 79.83,
+    "percent_started": 24.67,
+    "std_dev": 2.59,
     "floor": 5.7,
     "ceiling": 13.3,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 10.7,
-    "pos_avg_diff": "-3.37",
-    "points_per_game": 9.06
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 10.2,
+    "pos_avg_diff": "-3.03",
+    "points_per_game": 8.87
   },
   {
     "id": 3128429,
     "name": "Courtland Sutton",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 92.1,
-    "avg_points": 11.51,
+    "total_points": 101.6,
+    "avg_points": 11.29,
     "projected_points": 190.02,
     "weekly_points": [
       15.1,
@@ -6645,7 +7067,8 @@
       13.9,
       2.2,
       13.7,
-      8.7
+      8.7,
+      9.5
     ],
     "weekly_projected": [
       0,
@@ -6655,26 +7078,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 94.38,
-    "percent_started": 75.43,
-    "std_dev": 6.51,
+    "percent_owned": 94.04,
+    "percent_started": 65.05,
+    "std_dev": 6.17,
     "floor": 1.1,
     "ceiling": 20.8,
-    "consistency": 62.5,
-    "games_played": 8,
-    "team_share": 13.6,
-    "pos_avg_diff": "+ 0.11",
-    "points_per_game": 11.51
+    "consistency": 55.6,
+    "games_played": 9,
+    "team_share": 12.9,
+    "pos_avg_diff": "-0.0",
+    "points_per_game": 11.29
   },
   {
     "id": 3916433,
     "name": "Jakobi Meyers",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 47.4,
-    "avg_points": 7.9,
+    "total_points": 51.7,
+    "avg_points": 7.39,
     "projected_points": 175.66,
     "weekly_points": [
       13.7,
@@ -6684,7 +7108,8 @@
       5.2,
       5.9,
       0.0,
-      0
+      0,
+      4.3
     ],
     "weekly_projected": [
       0,
@@ -6694,26 +7119,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 75.33,
-    "percent_started": 5.66,
-    "std_dev": 3.08,
-    "floor": 5.0,
+    "percent_owned": 75.9,
+    "percent_started": 18.87,
+    "std_dev": 3.12,
+    "floor": 4.3,
     "ceiling": 13.7,
-    "consistency": 33.3,
-    "games_played": 6,
-    "team_share": 7.0,
-    "pos_avg_diff": "-5.48",
-    "points_per_game": 7.9
+    "consistency": 42.9,
+    "games_played": 7,
+    "team_share": 6.6,
+    "pos_avg_diff": "-5.55",
+    "points_per_game": 7.39
   },
   {
     "id": 4032473,
     "name": "Rashid Shaheed",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 73.1,
-    "avg_points": 9.14,
+    "total_points": 82.4,
+    "avg_points": 9.16,
     "projected_points": 149.63,
     "weekly_points": [
       6.3,
@@ -6723,7 +7149,8 @@
       19.4,
       4.8,
       6.0,
-      10.0
+      10.0,
+      9.3
     ],
     "weekly_projected": [
       0,
@@ -6733,26 +7160,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 71.46,
-    "percent_started": 34.43,
-    "std_dev": 4.63,
+    "percent_owned": 68.74,
+    "percent_started": 17.61,
+    "std_dev": 4.37,
     "floor": 4.8,
     "ceiling": 19.4,
-    "consistency": 37.5,
-    "games_played": 8,
-    "team_share": 10.8,
-    "pos_avg_diff": "-2.26",
-    "points_per_game": 9.14
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 10.5,
+    "pos_avg_diff": "-2.14",
+    "points_per_game": 9.16
   },
   {
     "id": 4241372,
     "name": "Hollywood Brown",
     "position": "WR",
     "team": "Emma's Excellent Team",
-    "total_points": 71.6,
-    "avg_points": 8.95,
+    "total_points": 79.9,
+    "avg_points": 8.88,
     "projected_points": 144.36,
     "weekly_points": [
       14.9,
@@ -6762,7 +7190,8 @@
       6.8,
       18.5,
       8.4,
-      0.0
+      0.0,
+      8.3
     ],
     "weekly_projected": [
       0,
@@ -6772,18 +7201,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 44.86,
-    "percent_started": 10.5,
-    "std_dev": 4.55,
+    "percent_owned": 36.59,
+    "percent_started": 3.69,
+    "std_dev": 4.31,
     "floor": 5.5,
     "ceiling": 18.5,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 10.6,
-    "pos_avg_diff": "-2.45",
-    "points_per_game": 10.23
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 10.2,
+    "pos_avg_diff": "-2.41",
+    "points_per_game": 9.99
   },
   {
     "id": 4429275,
@@ -6801,7 +7231,8 @@
       0.0,
       0.0,
       0.0,
-      0
+      0,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -6811,17 +7242,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 47.49,
-    "percent_started": 0.52,
+    "percent_owned": 49.01,
+    "percent_started": 0.62,
     "std_dev": 0.73,
     "floor": 6.4,
     "ceiling": 8.0,
     "consistency": 50.0,
     "games_played": 4,
-    "team_share": 4.3,
-    "pos_avg_diff": "-8.82",
+    "team_share": 3.7,
+    "pos_avg_diff": "-8.69",
     "points_per_game": 7.22
   },
   {
@@ -6840,6 +7272,7 @@
       4.6,
       7.0,
       0,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -6850,17 +7283,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 4.13,
-    "percent_started": 0.24,
+    "percent_owned": 3.57,
+    "percent_started": 0.18,
     "std_dev": 2.44,
     "floor": 1.0,
     "ceiling": 8.6,
     "consistency": 50.0,
     "games_played": 6,
-    "team_share": 4.5,
-    "pos_avg_diff": "-7.6",
+    "team_share": 3.9,
+    "pos_avg_diff": "-7.91",
     "points_per_game": 5.07
   },
   {
@@ -6868,8 +7302,8 @@
     "name": "Justice Hill",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 44.4,
-    "avg_points": 6.34,
+    "total_points": 46.9,
+    "avg_points": 5.86,
     "projected_points": 89.04,
     "weekly_points": [
       -0.6,
@@ -6879,7 +7313,8 @@
       1.7,
       6.9,
       0,
-      0.2
+      0.2,
+      2.5
     ],
     "weekly_projected": [
       0,
@@ -6889,26 +7324,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 24.18,
-    "percent_started": 8.96,
-    "std_dev": 8.67,
+    "percent_owned": 19.66,
+    "percent_started": 4.07,
+    "std_dev": 8.22,
     "floor": 0.2,
     "ceiling": 26.2,
-    "consistency": 16.7,
-    "games_played": 6,
-    "team_share": 6.6,
-    "pos_avg_diff": "-6.88",
-    "points_per_game": 7.4
+    "consistency": 28.6,
+    "games_played": 7,
+    "team_share": 6.0,
+    "pos_avg_diff": "-6.69",
+    "points_per_game": 6.7
   },
   {
     "id": 4360310,
     "name": "Trevor Lawrence",
     "position": "QB",
     "team": "Emma's Excellent Team",
-    "total_points": 99.1,
-    "avg_points": 14.16,
+    "total_points": 120.8,
+    "avg_points": 15.1,
     "projected_points": 308.75,
     "weekly_points": [
       9.8,
@@ -6918,7 +7354,8 @@
       30.2,
       21.7,
       6.1,
-      0
+      0,
+      21.7
     ],
     "weekly_projected": [
       0,
@@ -6928,26 +7365,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 27.44,
-    "percent_started": 3.11,
-    "std_dev": 7.96,
+    "percent_owned": 29.16,
+    "percent_started": 10.37,
+    "std_dev": 7.56,
     "floor": 6.14,
     "ceiling": 30.24,
-    "consistency": 50.0,
-    "games_played": 6,
-    "team_share": 14.6,
-    "pos_avg_diff": "-10.18",
-    "points_per_game": 16.52
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 15.4,
+    "pos_avg_diff": "-8.67",
+    "points_per_game": 17.26
   },
   {
     "id": 15835,
     "name": "Zach Ertz",
     "position": "TE",
     "team": "Emma's Excellent Team",
-    "total_points": 70.75,
-    "avg_points": 8.84,
+    "total_points": 78.35,
+    "avg_points": 8.71,
     "projected_points": 127.39,
     "weekly_points": [
       10.8,
@@ -6957,7 +7395,8 @@
       0.0,
       14.8,
       11.9,
-      4.6
+      4.6,
+      7.6
     ],
     "weekly_projected": [
       0,
@@ -6967,26 +7406,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 61.2,
-    "percent_started": 30.56,
-    "std_dev": 4.46,
+    "percent_owned": 63.12,
+    "percent_started": 31.56,
+    "std_dev": 4.25,
     "floor": 4.6,
     "ceiling": 16.9,
-    "consistency": 57.1,
-    "games_played": 7,
-    "team_share": 10.4,
-    "pos_avg_diff": "-1.18",
-    "points_per_game": 10.11
+    "consistency": 50.0,
+    "games_played": 8,
+    "team_share": 10.0,
+    "pos_avg_diff": "-1.32",
+    "points_per_game": 9.79
   },
   {
     "id": 3042519,
     "name": "Aaron Jones Sr.",
     "position": "RB",
     "team": "Emma's Excellent Team",
-    "total_points": 20.5,
-    "avg_points": 6.83,
+    "total_points": 31.3,
+    "avg_points": 7.82,
     "projected_points": 190.81,
     "weekly_points": [
       14.2,
@@ -6996,7 +7436,8 @@
       0.0,
       0,
       0.0,
-      4.0
+      4.0,
+      10.8
     ],
     "weekly_projected": [
       0,
@@ -7006,18 +7447,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 75.77,
-    "percent_started": 12.23,
-    "std_dev": 5.26,
+    "percent_owned": 78.26,
+    "percent_started": 25.6,
+    "std_dev": 4.86,
     "floor": 2.3,
     "ceiling": 14.2,
-    "consistency": 33.3,
-    "games_played": 3,
-    "team_share": 3.0,
-    "pos_avg_diff": "-9.87",
-    "points_per_game": 6.83
+    "consistency": 50.0,
+    "games_played": 4,
+    "team_share": 4.0,
+    "pos_avg_diff": "-8.42",
+    "points_per_game": 7.83
   },
   {
     "id": 4427366,
@@ -7035,7 +7477,8 @@
       15.5,
       5.9,
       6.2,
-      34.4
+      34.4,
+      0
     ],
     "weekly_projected": [
       0,
@@ -7045,17 +7488,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.55,
-    "percent_started": 70.09,
+    "percent_owned": 96.36,
+    "percent_started": 35.4,
     "std_dev": 9.13,
     "floor": 4.8,
     "ceiling": 34.36,
     "consistency": 50.0,
     "games_played": 8,
-    "team_share": 12.9,
-    "pos_avg_diff": "+ 0.45",
+    "team_share": 11.1,
+    "pos_avg_diff": "-0.45",
     "points_per_game": 12.88
   },
   {
@@ -7063,8 +7507,8 @@
     "name": "C.J. Stroud",
     "position": "QB",
     "team": "Big Titi Energy",
-    "total_points": 139.12,
-    "avg_points": 19.87,
+    "total_points": 142.48,
+    "avg_points": 17.81,
     "projected_points": 308.29,
     "weekly_points": [
       10.2,
@@ -7074,7 +7518,8 @@
       44.3,
       0,
       1.2,
-      31.7
+      31.7,
+      3.4
     ],
     "weekly_projected": [
       0,
@@ -7084,26 +7529,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 60.1,
-    "percent_started": 23.3,
-    "std_dev": 13.91,
+    "percent_owned": 56.56,
+    "percent_started": 16.88,
+    "std_dev": 14.11,
     "floor": 1.16,
     "ceiling": 44.26,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 17.4,
-    "pos_avg_diff": "-5.17",
-    "points_per_game": 19.87
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 15.3,
+    "pos_avg_diff": "-6.26",
+    "points_per_game": 17.81
   },
   {
     "id": 4433970,
     "name": "J.J. McCarthy",
     "position": "QB",
     "team": "Big Titi Energy",
-    "total_points": 24.04,
-    "avg_points": 12.02,
+    "total_points": 42.96,
+    "avg_points": 14.32,
     "projected_points": 327.01,
     "weekly_points": [
       25.7,
@@ -7113,7 +7559,8 @@
       0.0,
       0,
       0.0,
-      0.0
+      0.0,
+      18.9
     ],
     "weekly_projected": [
       0,
@@ -7123,26 +7570,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 25.65,
-    "percent_started": 1.04,
-    "std_dev": 0,
-    "floor": 25.72,
+    "percent_owned": 25.3,
+    "percent_started": 4.91,
+    "std_dev": 3.4,
+    "floor": 18.92,
     "ceiling": 25.72,
-    "consistency": 0.0,
-    "games_played": 1,
-    "team_share": 3.0,
-    "pos_avg_diff": "-19.56",
-    "points_per_game": 24.04
+    "consistency": 50.0,
+    "games_played": 2,
+    "team_share": 4.6,
+    "pos_avg_diff": "-17.32",
+    "points_per_game": 21.48
   },
   {
     "id": 4239993,
     "name": "Tee Higgins",
     "position": "WR",
     "team": "Big Titi Energy",
-    "total_points": 72.5,
-    "avg_points": 9.06,
+    "total_points": 102.1,
+    "avg_points": 11.34,
     "projected_points": 218.23,
     "weekly_points": [
       4.8,
@@ -7152,7 +7600,8 @@
       9.7,
       8.7,
       18.6,
-      10.9
+      10.9,
+      29.6
     ],
     "weekly_projected": [
       0,
@@ -7162,26 +7611,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 96.1,
-    "percent_started": 74.91,
-    "std_dev": 4.98,
+    "percent_owned": 96.09,
+    "percent_started": 56.41,
+    "std_dev": 7.98,
     "floor": 2.0,
-    "ceiling": 18.6,
-    "consistency": 50.0,
-    "games_played": 8,
-    "team_share": 9.1,
-    "pos_avg_diff": "-2.34",
-    "points_per_game": 9.06
+    "ceiling": 29.6,
+    "consistency": 33.3,
+    "games_played": 9,
+    "team_share": 11.0,
+    "pos_avg_diff": "+ 0.05",
+    "points_per_game": 11.34
   },
   {
     "id": 4567048,
     "name": "Kenneth Walker III",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 71.1,
-    "avg_points": 10.16,
+    "total_points": 78.2,
+    "avg_points": 9.78,
     "projected_points": 216.01,
     "weekly_points": [
       3.9,
@@ -7191,7 +7641,8 @@
       9.1,
       4.2,
       6.6,
-      0
+      0,
+      7.1
     ],
     "weekly_projected": [
       0,
@@ -7201,18 +7652,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 92.3,
-    "percent_started": 22.98,
-    "std_dev": 5.48,
+    "percent_owned": 92.92,
+    "percent_started": 57.17,
+    "std_dev": 5.23,
     "floor": 3.9,
     "ceiling": 18.3,
-    "consistency": 42.9,
-    "games_played": 7,
-    "team_share": 8.9,
-    "pos_avg_diff": "-3.55",
-    "points_per_game": 10.16
+    "consistency": 37.5,
+    "games_played": 8,
+    "team_share": 8.4,
+    "pos_avg_diff": "-3.21",
+    "points_per_game": 9.78
   },
   {
     "id": 3121422,
@@ -7230,7 +7682,8 @@
       0.0,
       0.0,
       0.0,
-      12.9
+      12.9,
+      0.0
     ],
     "weekly_projected": [
       0,
@@ -7240,17 +7693,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 91.16,
-    "percent_started": 40.18,
+    "percent_owned": 88.84,
+    "percent_started": 12.16,
     "std_dev": 3.3,
     "floor": 3.7,
     "ceiling": 12.9,
     "consistency": 50.0,
     "games_played": 4,
-    "team_share": 4.1,
-    "pos_avg_diff": "-7.3",
+    "team_share": 3.5,
+    "pos_avg_diff": "-7.65",
     "points_per_game": 8.2
   },
   {
@@ -7258,8 +7712,8 @@
     "name": "DJ Moore",
     "position": "WR",
     "team": "Big Titi Energy",
-    "total_points": 53.8,
-    "avg_points": 7.69,
+    "total_points": 77.28,
+    "avg_points": 9.66,
     "projected_points": 193.93,
     "weekly_points": [
       7.1,
@@ -7269,7 +7723,8 @@
       0,
       6.7,
       6.7,
-      9.6
+      9.6,
+      23.5
     ],
     "weekly_projected": [
       0,
@@ -7279,18 +7734,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 83.91,
-    "percent_started": 36.14,
-    "std_dev": 1.67,
+    "percent_owned": 85.0,
+    "percent_started": 41.13,
+    "std_dev": 5.45,
     "floor": 5.8,
-    "ceiling": 10.8,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 6.7,
-    "pos_avg_diff": "-4.68",
-    "points_per_game": 7.69
+    "ceiling": 23.48,
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 8.3,
+    "pos_avg_diff": "-2.7",
+    "points_per_game": 9.66
   },
   {
     "id": 3121023,
@@ -7308,7 +7764,8 @@
       10.2,
       23.8,
       4.0,
-      17.1
+      17.1,
+      0
     ],
     "weekly_projected": [
       0,
@@ -7318,17 +7775,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 90.66,
-    "percent_started": 60.86,
+    "percent_owned": 88.56,
+    "percent_started": 20.54,
     "std_dev": 6.23,
     "floor": 4.05,
     "ceiling": 23.75,
     "consistency": 42.9,
     "games_played": 7,
-    "team_share": 11.7,
-    "pos_avg_diff": "+ 1.65",
+    "team_share": 10.0,
+    "pos_avg_diff": "+ 0.36",
     "points_per_game": 13.34
   },
   {
@@ -7336,8 +7794,8 @@
     "name": "Zach Charbonnet",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 57.1,
-    "avg_points": 9.52,
+    "total_points": 62.2,
+    "avg_points": 8.89,
     "projected_points": 122.04,
     "weekly_points": [
       10.7,
@@ -7347,7 +7805,8 @@
       11.3,
       4.2,
       18.5,
-      0
+      0,
+      5.1
     ],
     "weekly_projected": [
       0,
@@ -7357,65 +7816,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 64.44,
-    "percent_started": 6.04,
-    "std_dev": 5.62,
+    "percent_owned": 71.07,
+    "percent_started": 25.18,
+    "std_dev": 5.43,
     "floor": 1.0,
     "ceiling": 18.5,
-    "consistency": 66.7,
-    "games_played": 6,
-    "team_share": 7.1,
-    "pos_avg_diff": "-5.3",
-    "points_per_game": 9.52
-  },
-  {
-    "id": 4426386,
-    "name": "Roschon Johnson",
-    "position": "RB",
-    "team": "Big Titi Energy",
-    "total_points": 1.7,
-    "avg_points": 0.34,
-    "projected_points": 73.33,
-    "weekly_points": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0,
-      0.6,
-      1.1,
-      0.0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 1.33,
-    "percent_started": 0.07,
-    "std_dev": 0.25,
-    "floor": 0.6,
-    "ceiling": 1.1,
-    "consistency": 50.0,
-    "games_played": 2,
-    "team_share": 0.2,
-    "pos_avg_diff": "-12.22",
-    "points_per_game": 0.85
+    "consistency": 57.1,
+    "games_played": 7,
+    "team_share": 6.7,
+    "pos_avg_diff": "-4.99",
+    "points_per_game": 8.89
   },
   {
     "id": 3929645,
     "name": "Juwan Johnson",
     "position": "TE",
     "team": "Big Titi Energy",
-    "total_points": 67.8,
-    "avg_points": 8.48,
+    "total_points": 79.15,
+    "avg_points": 8.79,
     "projected_points": 104.37,
     "weekly_points": [
       13.6,
@@ -7425,7 +7846,8 @@
       3.2,
       1.0,
       11.7,
-      9.1
+      9.1,
+      11.3
     ],
     "weekly_projected": [
       0,
@@ -7435,26 +7857,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 32.89,
-    "percent_started": 13.67,
-    "std_dev": 4.63,
+    "percent_owned": 32.56,
+    "percent_started": 12.82,
+    "std_dev": 4.46,
     "floor": 1.0,
     "ceiling": 14.65,
-    "consistency": 62.5,
-    "games_played": 8,
+    "consistency": 66.7,
+    "games_played": 9,
     "team_share": 8.5,
-    "pos_avg_diff": "-1.55",
-    "points_per_game": 8.47
+    "pos_avg_diff": "-1.23",
+    "points_per_game": 8.79
   },
   {
     "id": 11252,
     "name": "Joe Flacco",
     "position": "QB",
     "team": "Big Titi Energy",
-    "total_points": 87.96,
-    "avg_points": 12.57,
+    "total_points": 126.16,
+    "avg_points": 15.77,
     "projected_points": 99.83,
     "weekly_points": [
       15.7,
@@ -7464,7 +7887,8 @@
       0.0,
       21.3,
       31.5,
-      25.8
+      25.8,
+      38.2
     ],
     "weekly_projected": [
       0,
@@ -7474,26 +7898,27 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 36.57,
-    "percent_started": 26.11,
-    "std_dev": 9.64,
+    "percent_owned": 32.79,
+    "percent_started": 9.02,
+    "std_dev": 11.23,
     "floor": 3.26,
-    "ceiling": 31.48,
-    "consistency": 60.0,
-    "games_played": 5,
-    "team_share": 11.0,
-    "pos_avg_diff": "-11.57",
-    "points_per_game": 17.59
+    "ceiling": 38.2,
+    "consistency": 50.0,
+    "games_played": 6,
+    "team_share": 13.6,
+    "pos_avg_diff": "-8.08",
+    "points_per_game": 21.03
   },
   {
     "id": 3045523,
     "name": "Kendrick Bourne",
     "position": "WR",
     "team": "Big Titi Energy",
-    "total_points": 56.9,
-    "avg_points": 8.13,
+    "total_points": 61.3,
+    "avg_points": 7.66,
     "projected_points": 0.0,
     "weekly_points": [
       0,
@@ -7503,7 +7928,8 @@
       19.2,
       16.7,
       2.4,
-      5.9
+      5.9,
+      4.4
     ],
     "weekly_projected": [
       0,
@@ -7513,57 +7939,19 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 33.17,
-    "percent_started": 8.4,
-    "std_dev": 6.39,
+    "percent_owned": 25.21,
+    "percent_started": 5.08,
+    "std_dev": 6.11,
     "floor": 2.2,
     "ceiling": 19.2,
-    "consistency": 28.6,
-    "games_played": 7,
-    "team_share": 7.1,
-    "pos_avg_diff": "-4.29",
-    "points_per_game": 8.13
-  },
-  {
-    "id": 2578570,
-    "name": "Jacoby Brissett",
-    "position": "QB",
-    "team": "Big Titi Energy",
-    "total_points": 45.66,
-    "avg_points": 11.41,
-    "projected_points": 2.38,
-    "weekly_points": [
-      0.0,
-      0.2,
-      0.0,
-      0.0,
-      -1.0,
-      21.2,
-      25.3,
-      0
-    ],
-    "weekly_projected": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "percent_owned": 1.03,
-    "percent_started": 0.11,
-    "std_dev": 10.98,
-    "floor": 0.2,
-    "ceiling": 25.26,
-    "consistency": 66.7,
-    "games_played": 3,
-    "team_share": 5.7,
-    "pos_avg_diff": "-16.86",
-    "points_per_game": 15.22
+    "consistency": 25.0,
+    "games_played": 8,
+    "team_share": 6.6,
+    "pos_avg_diff": "-4.48",
+    "points_per_game": 7.66
   },
   {
     "id": 2576581,
@@ -7571,7 +7959,7 @@
     "position": "WR",
     "team": "Big Titi Energy",
     "total_points": 27.3,
-    "avg_points": 3.9,
+    "avg_points": 3.41,
     "projected_points": 0.0,
     "weekly_points": [
       3.9,
@@ -7581,6 +7969,7 @@
       0.0,
       12.1,
       6.9,
+      0.0,
       0.0
     ],
     "weekly_projected": [
@@ -7591,17 +7980,18 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 3.39,
-    "percent_started": 0.75,
+    "percent_owned": 2.04,
+    "percent_started": 0.4,
     "std_dev": 3.83,
     "floor": 0.9,
     "ceiling": 12.1,
     "consistency": 40.0,
     "games_played": 5,
-    "team_share": 3.4,
-    "pos_avg_diff": "-7.99",
+    "team_share": 2.9,
+    "pos_avg_diff": "-8.26",
     "points_per_game": 5.46
   },
   {
@@ -7620,7 +8010,8 @@
       6.4,
       4.0,
       4.4,
-      0.0
+      0.0,
+      0
     ],
     "weekly_projected": [
       0,
@@ -7630,36 +8021,38 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 7.9,
-    "percent_started": 2.6,
+    "percent_owned": 4.43,
+    "percent_started": 0.23,
     "std_dev": 1.3,
     "floor": 2.8,
     "ceiling": 6.4,
     "consistency": 25.0,
     "games_played": 4,
-    "team_share": 2.2,
-    "pos_avg_diff": "-9.2",
+    "team_share": 1.9,
+    "pos_avg_diff": "-9.34",
     "points_per_game": 4.4
   },
   {
-    "id": 4682652,
-    "name": "Devin Neal",
+    "id": 4040761,
+    "name": "Devin Singletary",
     "position": "RB",
     "team": "Big Titi Energy",
-    "total_points": 3.6,
-    "avg_points": 0.9,
-    "projected_points": 47.84,
+    "total_points": 18.8,
+    "avg_points": 2.09,
+    "projected_points": 17.69,
     "weekly_points": [
       0.9,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      2.6
+      0.5,
+      1.1,
+      2.8,
+      2.9,
+      1.0,
+      0.2,
+      3.3,
+      6.1
     ],
     "weekly_projected": [
       0,
@@ -7669,17 +8062,100 @@
       0,
       0,
       0,
+      0,
       0
     ],
-    "percent_owned": 3.12,
-    "percent_started": 0.53,
-    "std_dev": 1.04,
-    "floor": 0.1,
-    "ceiling": 2.6,
-    "consistency": 33.3,
-    "games_played": 3,
-    "team_share": 0.5,
-    "pos_avg_diff": "-11.98",
-    "points_per_game": 1.2
+    "percent_owned": 4.55,
+    "percent_started": 1.6,
+    "std_dev": 1.78,
+    "floor": 0.2,
+    "ceiling": 6.1,
+    "consistency": 44.4,
+    "games_played": 9,
+    "team_share": 2.0,
+    "pos_avg_diff": "-9.81",
+    "points_per_game": 2.09
+  },
+  {
+    "id": 4431492,
+    "name": "Roman Wilson",
+    "position": "WR",
+    "team": "Big Titi Energy",
+    "total_points": 19.9,
+    "avg_points": 2.49,
+    "projected_points": 55.83,
+    "weekly_points": [
+      0.0,
+      1.2,
+      0.0,
+      0.0,
+      0,
+      1.7,
+      2.7,
+      15.4,
+      -1.1
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 0.46,
+    "percent_started": 0.07,
+    "std_dev": 5.88,
+    "floor": 1.2,
+    "ceiling": 15.4,
+    "consistency": 25.0,
+    "games_played": 4,
+    "team_share": 2.1,
+    "pos_avg_diff": "-9.08",
+    "points_per_game": 4.97
+  },
+  {
+    "id": 4243389,
+    "name": "Calvin Austin III",
+    "position": "WR",
+    "team": "Big Titi Energy",
+    "total_points": 43.8,
+    "avg_points": 7.3,
+    "projected_points": 87.96,
+    "weekly_points": [
+      15.0,
+      2.7,
+      10.9,
+      2.3,
+      0,
+      0.0,
+      0.0,
+      4.8,
+      8.1
+    ],
+    "weekly_projected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "percent_owned": 11.01,
+    "percent_started": 4.15,
+    "std_dev": 4.57,
+    "floor": 2.3,
+    "ceiling": 15.0,
+    "consistency": 50.0,
+    "games_played": 6,
+    "team_share": 4.7,
+    "pos_avg_diff": "-6.42",
+    "points_per_game": 7.3
   }
 ]

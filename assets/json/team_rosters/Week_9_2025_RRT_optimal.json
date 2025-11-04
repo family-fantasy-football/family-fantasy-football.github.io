@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 42.7,
+    "projected": 21.84
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.0,
+    "projected": 20.31
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 18.83
+  },
+  {
+    "player_name": "Kyle Monangai",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.3,
+    "projected": 14.42
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.0,
+    "projected": 12.22
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 15.25,
+    "projected": 16.88
+  },
+  {
+    "player_name": "Josh Downs",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 12.7,
+    "projected": 8.84
+  },
+  {
+    "player_name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 12.2,
+    "projected": 7.44
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 38.84,
+    "projected": 22.07
+  }
+]

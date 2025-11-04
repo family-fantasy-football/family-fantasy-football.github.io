@@ -8,7 +8,7 @@
     "before_trade": "115.8",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-26.4",
+    "value_diff": "-44.2",
     "grade": "C"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "41.4",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-128.1",
+    "value_diff": "-149.3",
     "grade": "D"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
-    "points": "201.5",
+    "points": "215.9",
     "before_trade": "0.0",
-    "after_trade": "201.5",
+    "after_trade": "215.9",
     "draft_position": 27,
-    "value_diff": "42.9",
+    "value_diff": "37.5",
     "grade": "A"
   },
   {
@@ -40,23 +40,23 @@
     "round": 4,
     "pick": 10,
     "player_name": "Drake London",
-    "points": "75.9",
-    "before_trade": "75.9",
+    "points": "110.2",
+    "before_trade": "110.2",
     "after_trade": "0.0",
     "draft_position": 46,
-    "value_diff": "-27.0",
-    "grade": "C"
+    "value_diff": "-5.6",
+    "grade": "B"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 5,
     "pick": 3,
     "player_name": "George Kittle",
-    "points": "24.8",
-    "before_trade": "24.8",
+    "points": "30.7",
+    "before_trade": "30.7",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-72.7",
+    "value_diff": "-78.9",
     "grade": "D"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 10,
     "player_name": "Tony Pollard",
-    "points": "72.5",
-    "before_trade": "72.5",
+    "points": "79.8",
+    "before_trade": "79.8",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-21.1",
+    "value_diff": "-25.5",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 3,
     "player_name": "Courtland Sutton",
-    "points": "92.1",
-    "before_trade": "92.1",
+    "points": "101.6",
+    "before_trade": "101.6",
     "after_trade": "0.0",
     "draft_position": 75,
-    "value_diff": "2.7",
+    "value_diff": "1.0",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 10,
     "player_name": "Tyrone Tracy Jr.",
-    "points": "33.7",
+    "points": "38.9",
     "before_trade": "0.0",
-    "after_trade": "33.7",
+    "after_trade": "38.9",
     "draft_position": 94,
-    "value_diff": "-54.4",
+    "value_diff": "-60.2",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 3,
     "player_name": "Jakobi Meyers",
-    "points": "47.4",
-    "before_trade": "47.4",
+    "points": "51.7",
+    "before_trade": "51.7",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "-35.3",
+    "value_diff": "-41.3",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 10,
     "player_name": "Rashid Shaheed",
-    "points": "73.1",
-    "before_trade": "73.1",
+    "points": "82.4",
+    "before_trade": "82.4",
     "after_trade": "0.0",
     "draft_position": 118,
-    "value_diff": "2.7",
+    "value_diff": "3.2",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 3,
     "player_name": "Hollywood Brown",
-    "points": "71.6",
-    "before_trade": "71.6",
+    "points": "79.9",
+    "before_trade": "79.9",
     "after_trade": "0.0",
     "draft_position": 123,
-    "value_diff": "3.7",
+    "value_diff": "3.5",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "28.9",
     "after_trade": "0.0",
     "draft_position": 142,
-    "value_diff": "-26.2",
+    "value_diff": "-33.0",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 147,
-    "value_diff": "-43.8",
+    "value_diff": "-49.6",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 166,
-    "value_diff": "-55.8",
+    "value_diff": "-62.8",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "30.4",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-12.1",
+    "value_diff": "-17.4",
     "grade": "B"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 10,
     "player_name": "Justice Hill",
-    "points": "44.4",
-    "before_trade": "44.4",
+    "points": "46.9",
+    "before_trade": "46.9",
     "after_trade": "0.0",
     "draft_position": 190,
-    "value_diff": "2.5",
+    "value_diff": "-0.2",
     "grade": "B"
   }
 ]

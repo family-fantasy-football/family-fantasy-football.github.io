@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 27.05,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.64,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.32,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 20.33,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "J.K. Dobbins",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.91,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 11.29,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 12.17,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Dalton Kincaid",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 8.79,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 26.69,
+    "opponent": "WSH"
+  }
+]

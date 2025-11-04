@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-182.0",
+    "value_diff": "-206.7",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "88.6",
-    "before_trade": "88.6",
+    "points": "106.0",
+    "before_trade": "106.0",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-38.8",
+    "value_diff": "-37.3",
     "grade": "C"
   },
   {
@@ -28,23 +28,23 @@
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "172.5",
-    "before_trade": "172.5",
+    "points": "196.4",
+    "before_trade": "196.4",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "16.9",
-    "grade": "B"
+    "value_diff": "21.3",
+    "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 4,
     "pick": 6,
     "player_name": "James Cook III",
-    "points": "132.2",
-    "before_trade": "132.2",
+    "points": "145.2",
+    "before_trade": "145.2",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "13.8",
+    "value_diff": "12.0",
     "grade": "B"
   },
   {
@@ -56,19 +56,19 @@
     "before_trade": "67.0",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-45.5",
-    "grade": "C"
+    "value_diff": "-59.5",
+    "grade": "D"
   },
   {
     "team": "Rookie Mistake",
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
-    "points": "63.6",
-    "before_trade": "63.6",
+    "points": "82.7",
+    "before_trade": "82.7",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "-29.9",
+    "value_diff": "-22.5",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 7,
     "player_name": "Matthew Golden",
-    "points": "40.3",
-    "before_trade": "40.3",
+    "points": "42.2",
+    "before_trade": "42.2",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-39.3",
+    "value_diff": "-47.4",
     "grade": "C"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "49.8",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-31.5",
+    "value_diff": "-41.7",
     "grade": "C"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "100.5",
-    "before_trade": "100.5",
+    "points": "106.9",
+    "before_trade": "106.9",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "30.0",
+    "value_diff": "27.6",
     "grade": "A"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 6,
     "player_name": "J.K. Dobbins",
-    "points": "95.1",
-    "before_trade": "95.1",
+    "points": "101.5",
+    "before_trade": "101.5",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "23.4",
+    "value_diff": "20.8",
     "grade": "A"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-55.1",
+    "value_diff": "-62.9",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-22.2",
+    "value_diff": "-26.7",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
-    "points": "108.4",
-    "before_trade": "108.4",
+    "points": "142.6",
+    "before_trade": "142.6",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "44.2",
+    "value_diff": "70.4",
     "grade": "A"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
-    "points": "74.5",
-    "before_trade": "74.5",
+    "points": "87.1",
+    "before_trade": "87.1",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "25.9",
+    "value_diff": "32.5",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-52.3",
+    "value_diff": "-58.8",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "39.0",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-17.9",
+    "value_diff": "-25.0",
     "grade": "C"
   }
 ]

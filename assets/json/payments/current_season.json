@@ -1,7 +1,7 @@
 [
   {
-    "team": "Third Time's the Charm?",
-    "manager": "Christian Ratcliff",
+    "team": "Michael's Managable Team",
+    "manager": "Michael Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",
@@ -9,8 +9,8 @@
     "net": "$5"
   },
   {
-    "team": "Michael's Managable Team",
-    "manager": "Michael Ratcliff",
+    "team": "Third Time's the Charm?",
+    "manager": "Christian Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",
@@ -48,10 +48,10 @@
     "team": "Americas Team",
     "manager": "Ryan Ratcliff",
     "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
     "penalties": "$0",
-    "net": "$5"
+    "net": "$10"
   },
   {
     "team": "Rookie Mistake",

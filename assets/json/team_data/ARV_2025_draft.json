@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 4,
     "player_name": "Bijan Robinson",
-    "points": "134.7",
-    "before_trade": "134.7",
+    "points": "148.3",
+    "before_trade": "148.3",
     "after_trade": "0.0",
     "draft_position": 4,
-    "value_diff": "-10.3",
+    "value_diff": "-14.8",
     "grade": "B"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 9,
     "player_name": "Puka Nacua",
-    "points": "111.8",
-    "before_trade": "111.8",
+    "points": "131.1",
+    "before_trade": "131.1",
     "after_trade": "0.0",
     "draft_position": 21,
-    "value_diff": "-4.0",
+    "value_diff": "0.9",
     "grade": "B"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 4,
     "player_name": "Bo Nix",
-    "points": "174.7",
-    "before_trade": "174.7",
+    "points": "187.2",
+    "before_trade": "187.2",
     "after_trade": "0.0",
     "draft_position": 28,
-    "value_diff": "11.1",
+    "value_diff": "3.2",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 9,
     "player_name": "Kyren Williams",
-    "points": "99.8",
-    "before_trade": "99.8",
+    "points": "117.2",
+    "before_trade": "117.2",
     "after_trade": "0.0",
     "draft_position": 45,
-    "value_diff": "-25.5",
+    "value_diff": "-23.8",
     "grade": "C"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "43.0",
     "after_trade": "0.0",
     "draft_position": 52,
-    "value_diff": "-59.0",
+    "value_diff": "-71.8",
     "grade": "D"
   },
   {
@@ -64,12 +64,12 @@
     "round": 6,
     "pick": 9,
     "player_name": "Geno Smith",
-    "points": "85.4",
-    "before_trade": "85.4",
+    "points": "124.1",
+    "before_trade": "124.1",
     "after_trade": "0.0",
     "draft_position": 69,
-    "value_diff": "-60.8",
-    "grade": "D"
+    "value_diff": "-40.3",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -80,7 +80,7 @@
     "before_trade": "37.0",
     "after_trade": "0.0",
     "draft_position": 76,
-    "value_diff": "-54.5",
+    "value_diff": "-65.9",
     "grade": "D"
   },
   {
@@ -88,12 +88,12 @@
     "round": 8,
     "pick": 9,
     "player_name": "Colston Loveland",
-    "points": "19.9",
-    "before_trade": "19.9",
+    "points": "48.1",
+    "before_trade": "48.1",
     "after_trade": "0.0",
     "draft_position": 93,
-    "value_diff": "-46.1",
-    "grade": "D"
+    "value_diff": "-26.0",
+    "grade": "C"
   },
   {
     "team": "Abbey's TNT Team \ud83e\udde8",
@@ -104,7 +104,7 @@
     "before_trade": "106.1",
     "after_trade": "0.0",
     "draft_position": 100,
-    "value_diff": "36.8",
+    "value_diff": "28.1",
     "grade": "A"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 9,
     "player_name": "Deebo Samuel",
-    "points": "79.7",
-    "before_trade": "79.7",
+    "points": "86.6",
+    "before_trade": "86.6",
     "after_trade": "0.0",
     "draft_position": 117,
-    "value_diff": "-1.0",
+    "value_diff": "-4.2",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "13.1",
     "after_trade": "0.0",
     "draft_position": 124,
-    "value_diff": "-35.5",
+    "value_diff": "-41.6",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 141,
-    "value_diff": "-0.6",
+    "value_diff": "-1.6",
     "grade": "B"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 4,
     "player_name": "Xavier Legette",
-    "points": "37.4",
-    "before_trade": "37.4",
+    "points": "40.1",
+    "before_trade": "40.1",
     "after_trade": "0.0",
     "draft_position": 148,
-    "value_diff": "-26.3",
+    "value_diff": "-31.5",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "34.4",
     "after_trade": "0.0",
     "draft_position": 165,
-    "value_diff": "-48.3",
+    "value_diff": "-58.6",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "46.6",
     "after_trade": "0.0",
     "draft_position": 172,
-    "value_diff": "-12.4",
+    "value_diff": "-19.8",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "17.8",
     "after_trade": "0.0",
     "draft_position": 189,
-    "value_diff": "7.2",
+    "value_diff": "5.8",
     "grade": "B"
   }
 ]
