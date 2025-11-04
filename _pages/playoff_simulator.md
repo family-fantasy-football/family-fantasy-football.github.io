@@ -447,24 +447,6 @@ description: Simulate playoff scenarios
 
 <div class="simulator-container" id="playoff-simulator">
     
-    <!-- Magic Numbers Section -->
-    <div class="magic-numbers-section">
-        <h2>🎯 Magic Numbers</h2>
-        <table class="magic-table" id="magic-numbers-table">
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Team</th>
-                    <th>Record</th>
-                    <th>Games Left</th>
-                    <th>Clinch #</th>
-                    <th>Elim #</th>
-                    <th>Status</th>
-                </tr>
-            </thead>
-            <tbody id="magic-numbers-body"></tbody>
-        </table>
-    </div>
 
     <div class="controls">
         <button class="btn-sim btn-primary" onclick="resetSimulator()">🔄 Reset All</button>
