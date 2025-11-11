@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "J.J. McCarthy",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 4.72,
+    "projected": 20.24
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 9.66
+  },
+  {
+    "player_name": "Roman Wilson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.5,
+    "projected": 2.15
+  },
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.0,
+    "projected": 13.46
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.3,
+    "projected": 9.3
+  },
+  {
+    "player_name": "Juwan Johnson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 18.2,
+    "projected": 7.98
+  },
+  {
+    "player_name": "Devin Singletary",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.8,
+    "projected": 8.85
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.5,
+    "projected": 11.79
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "OP",
+    "points": 7.3,
+    "projected": 9.62
+  }
+]

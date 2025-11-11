@@ -9,11 +9,7 @@ chart:
 echarts: true
 pretty_table: True
 ---
-<style>
-  table[data-toggle="table"] tbody td {
-    color: #2c3e50 !important;
-  }
-</style>
+
 <div style="text-align: center; padding: 40px 0 30px 0;">
   <h1 style="font-size: 42px; font-weight: 700; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px;">
     League Records
@@ -22,6 +18,11 @@ pretty_table: True
 </div>
 
 ---
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 
 ## 🏆 Single Game Records
 
@@ -40,8 +41,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Combined Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">157.33</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 6: Emma's Excellent Team vs 90s MonCon (89.62-67.71)</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">154.54</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 10: Emma's Excellent Team vs Big Titi Energy (76.42-78.12)</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -128,10 +129,10 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best RB Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">44.2</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 12: Saquon Barkley</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Michael's Managable Team</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">48.1</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 10: Jonathan Taylor</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">90s MonCon</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best TE Game</div>

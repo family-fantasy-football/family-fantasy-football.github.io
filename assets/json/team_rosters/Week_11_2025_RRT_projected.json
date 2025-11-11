@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.89,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 18.71,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 18.15,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.03,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 9.91,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 16.36,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 14.76,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.31,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 18.26,
+    "opponent": "LAR"
+  }
+]

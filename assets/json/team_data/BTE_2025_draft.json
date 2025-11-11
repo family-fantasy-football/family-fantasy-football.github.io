@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 8,
     "player_name": "Breece Hall",
-    "points": "103.1",
-    "before_trade": "103.1",
+    "points": "122.1",
+    "before_trade": "122.1",
     "after_trade": "0.0",
     "draft_position": 8,
-    "value_diff": "-4.7",
+    "value_diff": "2.3",
     "grade": "B"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "142.5",
     "after_trade": "0.0",
     "draft_position": 17,
-    "value_diff": "-20.7",
+    "value_diff": "-38.9",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 8,
     "player_name": "J.J. McCarthy",
-    "points": "43.0",
-    "before_trade": "43.0",
+    "points": "47.7",
+    "before_trade": "47.7",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-130.2",
+    "value_diff": "-144.7",
     "grade": "D"
   },
   {
@@ -44,19 +44,19 @@
     "before_trade": "102.1",
     "after_trade": "0.0",
     "draft_position": 41,
-    "value_diff": "-13.4",
-    "grade": "B"
+    "value_diff": "-26.3",
+    "grade": "C"
   },
   {
     "team": "Big Titi Energy",
     "round": 5,
     "pick": 8,
     "player_name": "Kenneth Walker III",
-    "points": "78.2",
-    "before_trade": "78.2",
+    "points": "85.7",
+    "before_trade": "85.7",
     "after_trade": "0.0",
     "draft_position": 56,
-    "value_diff": "-36.2",
+    "value_diff": "-41.4",
     "grade": "C"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "32.8",
     "after_trade": "0.0",
     "draft_position": 65,
-    "value_diff": "-75.6",
+    "value_diff": "-87.6",
     "grade": "D"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "77.3",
     "after_trade": "0.0",
     "draft_position": 80,
-    "value_diff": "-25.4",
+    "value_diff": "-36.8",
     "grade": "C"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 5,
     "player_name": "Dallas Goedert",
-    "points": "93.4",
-    "before_trade": "93.4",
+    "points": "100.7",
+    "before_trade": "100.7",
     "after_trade": "0.0",
     "draft_position": 89,
-    "value_diff": "18.9",
+    "value_diff": "18.0",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 104,
-    "value_diff": "-66.1",
+    "value_diff": "-73.4",
     "grade": "D"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 5,
     "player_name": "Zach Charbonnet",
-    "points": "62.2",
-    "before_trade": "62.2",
+    "points": "76.5",
+    "before_trade": "76.5",
     "after_trade": "0.0",
     "draft_position": 113,
-    "value_diff": "-2.4",
+    "value_diff": "4.7",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "15.9",
     "after_trade": "0.0",
     "draft_position": 128,
-    "value_diff": "-39.8",
+    "value_diff": "-46.0",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "25.0",
     "after_trade": "0.0",
     "draft_position": 137,
-    "value_diff": "-27.6",
+    "value_diff": "-33.5",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "61.7",
     "after_trade": "0.0",
     "draft_position": 152,
-    "value_diff": "-8.6",
+    "value_diff": "-16.4",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "12.9",
     "after_trade": "0.0",
     "draft_position": 161,
-    "value_diff": "-47.0",
+    "value_diff": "-53.7",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 176,
-    "value_diff": "-29.6",
+    "value_diff": "-32.8",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "1.7",
     "after_trade": "0.0",
     "draft_position": 185,
-    "value_diff": "-37.1",
+    "value_diff": "-41.4",
     "grade": "C"
   }
 ]

@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 1,
     "player_name": "Lamar Jackson",
-    "points": "157.9",
-    "before_trade": "157.9",
+    "points": "173.1",
+    "before_trade": "173.1",
     "after_trade": "0.0",
     "draft_position": 1,
-    "value_diff": "-66.6",
+    "value_diff": "-76.4",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 12,
     "player_name": "Jonathan Taylor",
-    "points": "210.8",
-    "before_trade": "210.8",
+    "points": "258.9",
+    "before_trade": "258.9",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "66.6",
+    "value_diff": "98.6",
     "grade": "A"
   },
   {
@@ -28,23 +28,23 @@
     "round": 3,
     "pick": 1,
     "player_name": "Nico Collins",
-    "points": "74.7",
-    "before_trade": "74.7",
+    "points": "93.8",
+    "before_trade": "93.8",
     "after_trade": "0.0",
     "draft_position": 25,
-    "value_diff": "-51.8",
-    "grade": "D"
+    "value_diff": "-46.8",
+    "grade": "C"
   },
   {
     "team": "90s MonCon",
     "round": 4,
     "pick": 12,
     "player_name": "Tua Tagovailoa",
-    "points": "148.1",
-    "before_trade": "148.1",
+    "points": "164.4",
+    "before_trade": "164.4",
     "after_trade": "0.0",
     "draft_position": 48,
-    "value_diff": "-36.2",
+    "value_diff": "-40.4",
     "grade": "C"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 1,
     "player_name": "Brock Bowers",
-    "points": "79.0",
-    "before_trade": "79.0",
+    "points": "82.5",
+    "before_trade": "82.5",
     "after_trade": "0.0",
     "draft_position": 49,
-    "value_diff": "-45.2",
+    "value_diff": "-55.6",
     "grade": "C"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "81.5",
     "after_trade": "0.0",
     "draft_position": 72,
-    "value_diff": "-22.6",
+    "value_diff": "-34.2",
     "grade": "C"
   },
   {
@@ -76,23 +76,23 @@
     "round": 7,
     "pick": 1,
     "player_name": "Jameson Williams",
-    "points": "64.1",
-    "before_trade": "64.1",
+    "points": "85.0",
+    "before_trade": "85.0",
     "after_trade": "0.0",
     "draft_position": 73,
-    "value_diff": "-34.3",
-    "grade": "C"
+    "value_diff": "-24.3",
+    "grade": "B"
   },
   {
     "team": "90s MonCon",
     "round": 8,
     "pick": 12,
     "player_name": "Jaylen Waddle",
-    "points": "103.9",
-    "before_trade": "103.9",
+    "points": "120.8",
+    "before_trade": "120.8",
     "after_trade": "0.0",
     "draft_position": 96,
-    "value_diff": "7.2",
+    "value_diff": "13.3",
     "grade": "B"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 1,
     "player_name": "Jaylen Warren",
-    "points": "88.2",
-    "before_trade": "88.2",
+    "points": "98.3",
+    "before_trade": "98.3",
     "after_trade": "0.0",
     "draft_position": 97,
-    "value_diff": "-28.4",
+    "value_diff": "-31.2",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 12,
     "player_name": "Jordan Mason",
-    "points": "73.2",
-    "before_trade": "73.2",
+    "points": "76.8",
+    "before_trade": "76.8",
     "after_trade": "0.0",
     "draft_position": 120,
-    "value_diff": "6.3",
+    "value_diff": "2.5",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "50.3",
     "after_trade": "0.0",
     "draft_position": 121,
-    "value_diff": "-33.2",
+    "value_diff": "-42.4",
     "grade": "C"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 12,
     "player_name": "Jordan Addison",
-    "points": "60.8",
-    "before_trade": "60.8",
+    "points": "65.8",
+    "before_trade": "65.8",
     "after_trade": "0.0",
     "draft_position": 144,
-    "value_diff": "-12.2",
+    "value_diff": "-15.3",
     "grade": "B"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 1,
     "player_name": "Quinshon Judkins",
-    "points": "90.6",
-    "before_trade": "90.6",
+    "points": "100.1",
+    "before_trade": "100.1",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "67.6",
+    "value_diff": "74.5",
     "grade": "A"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.7",
     "after_trade": "0.0",
     "draft_position": 168,
-    "value_diff": "-66.6",
+    "value_diff": "-74.1",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "18.1",
     "after_trade": "0.0",
     "draft_position": 169,
-    "value_diff": "-34.7",
+    "value_diff": "-40.6",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "37.3",
     "after_trade": "0.0",
     "draft_position": 192,
-    "value_diff": "-17.7",
+    "value_diff": "-23.8",
     "grade": "B"
   }
 ]

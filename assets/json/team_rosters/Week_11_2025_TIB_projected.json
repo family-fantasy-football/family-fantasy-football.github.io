@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Mac Jones",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.04,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 16.82,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.25,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 19.53,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.82,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.28,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.87,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "Theo Johnson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.08,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Justin Fields",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 17.82,
+    "opponent": "NE"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 27.92,
+    "projected": 19.09
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.7,
+    "projected": 12.46
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.5,
+    "projected": 10.45
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 37.5,
+    "projected": 18.74
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.7,
+    "projected": 4.64
+  },
+  {
+    "player_name": "David Njoku",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.6,
+    "projected": 8.23
+  },
+  {
+    "player_name": "Darius Slayton",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.9,
+    "projected": 9.31
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.2,
+    "projected": 11.23
+  },
+  {
+    "player_name": "Tyler Lockett",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 6.9,
+    "projected": 2.97
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 8.32,
+    "projected": 9.86
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 21.4,
+    "projected": 16.2
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.6,
+    "projected": 6.6
+  },
+  {
+    "player_name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.4,
+    "projected": 9.95
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.6,
+    "projected": 14.51
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 21.15,
+    "projected": 10.45
+  },
+  {
+    "player_name": "Zach Ertz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 8.4,
+    "projected": 8.48
+  },
+  {
+    "player_name": "Justice Hill",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.8,
+    "projected": 4.93
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 3.9,
+    "projected": 11.05
+  }
+]

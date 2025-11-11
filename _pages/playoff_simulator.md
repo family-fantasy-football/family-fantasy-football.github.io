@@ -7,10 +7,11 @@ nav_order: 7
 description: Simulate playoff scenarios
 ---
 <style>
-  table[data-toggle="table"] tbody td {
+  table[data-toggle="table"] tbody td {{
     color: #2c3e50 !important;
-  }
+  }}
 </style>
+
 <style>
 .simulator-container {
     max-width: 1400px;

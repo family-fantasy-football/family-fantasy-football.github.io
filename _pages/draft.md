@@ -14,6 +14,7 @@ pretty_table: True
     color: #2c3e50 !important;
   }
 </style>
+
 ## Best Draft Picks
 
 <table

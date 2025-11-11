@@ -11,16 +11,16 @@
   "xAxis": {
     "type": "category",
     "data": [
-      "Emma's Excellent Team",
       "To Infinity and Bijan!",
-      "Big Titi Energy",
-      "Americas Team",
+      "Emma's Excellent Team",
       "Abbey's TNT Team",
-      "Game of Zones - House Hamlin",
-      "90s MonCon",
+      "Big Titi Energy",
       "Rookie Mistake",
+      "90s MonCon",
+      "Americas Team",
       "Mcconky Donkeys",
       "Mama Daughter Duo",
+      "Game of Zones - House Hamlin",
       "Michael's Managable Team",
       "Third Time's the Charm?"
     ],
@@ -43,18 +43,18 @@
       "name": "Opponent Win %",
       "type": "bar",
       "data": [
-        59.3,
-        55.6,
-        55.6,
-        51.9,
-        50.6,
-        49.4,
-        49.4,
-        48.1,
-        46.9,
-        45.7,
-        44.4,
-        43.2
+        56.0,
+        56.0,
+        51.0,
+        51.0,
+        50.0,
+        50.0,
+        49.0,
+        49.0,
+        48.0,
+        48.0,
+        46.0,
+        46.0
       ]
     },
     {
@@ -62,18 +62,18 @@
       "type": "line",
       "yAxisIndex": 1,
       "data": [
-        125.7,
-        122.4,
-        124.4,
-        120.3,
-        119.1,
-        115.5,
+        122.2,
+        122.2,
+        119.6,
+        119.6,
+        116.4,
+        116.4,
         117.3,
-        117.0,
-        116.9,
-        116.6,
-        117.5,
-        116.1
+        117.3,
+        116.0,
+        116.0,
+        115.5,
+        115.5
       ]
     }
   ],

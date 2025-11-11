@@ -45,7 +45,11 @@ children:
     - title: Third Time's the Charm?
       permalink: /teams/TTC_2025/
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 <!-- pages/teams.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

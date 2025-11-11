@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 34.9,
+    "projected": 25.21
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.8,
+    "projected": 18.16
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.4,
+    "projected": 7.09
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 14.7,
+    "projected": 11.32
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.6,
+    "projected": 12.88
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 25.45,
+    "projected": 15.32
+  },
+  {
+    "player_name": "Dalton Schultz",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 16.55,
+    "projected": 8.37
+  },
+  {
+    "player_name": "Kyle Monangai",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.8,
+    "projected": 10.62
+  },
+  {
+    "player_name": "Sam Darnold",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 9.92,
+    "projected": 19.93
+  }
+]

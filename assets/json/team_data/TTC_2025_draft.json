@@ -8,8 +8,8 @@
     "before_trade": "230.5",
     "after_trade": "0.0",
     "draft_position": 12,
-    "value_diff": "24.0",
-    "grade": "A"
+    "value_diff": "1.1",
+    "grade": "B"
   },
   {
     "team": "Third Time's the Charm?",
@@ -20,7 +20,7 @@
     "before_trade": "72.8",
     "after_trade": "0.0",
     "draft_position": 13,
-    "value_diff": "-64.1",
+    "value_diff": "-79.3",
     "grade": "D"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "62.5",
     "after_trade": "0.0",
     "draft_position": 36,
-    "value_diff": "-73.4",
+    "value_diff": "-88.5",
     "grade": "D"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "98.6",
     "after_trade": "0.0",
     "draft_position": 37,
-    "value_diff": "-33.2",
+    "value_diff": "-47.9",
     "grade": "C"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "50.9",
     "after_trade": "0.0",
     "draft_position": 60,
-    "value_diff": "-23.6",
+    "value_diff": "-31.9",
     "grade": "C"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 1,
     "player_name": "Trevor Lawrence",
-    "points": "120.8",
+    "points": "129.1",
     "before_trade": "0.0",
-    "after_trade": "120.8",
+    "after_trade": "129.1",
     "draft_position": 61,
-    "value_diff": "-42.7",
+    "value_diff": "-52.5",
     "grade": "C"
   },
   {
@@ -76,23 +76,23 @@
     "round": 7,
     "pick": 12,
     "player_name": "Jerry Jeudy",
-    "points": "36.7",
-    "before_trade": "36.7",
+    "points": "53.5",
+    "before_trade": "53.5",
     "after_trade": "0.0",
     "draft_position": 84,
-    "value_diff": "-62.0",
-    "grade": "D"
+    "value_diff": "-56.1",
+    "grade": "C"
   },
   {
     "team": "Third Time's the Charm?",
     "round": 8,
     "pick": 1,
     "player_name": "Aaron Jones Sr.",
-    "points": "31.3",
+    "points": "45.7",
     "before_trade": "0.0",
-    "after_trade": "31.3",
+    "after_trade": "45.7",
     "draft_position": 85,
-    "value_diff": "-69.7",
+    "value_diff": "-66.5",
     "grade": "D"
   },
   {
@@ -100,12 +100,12 @@
     "round": 9,
     "pick": 12,
     "player_name": "Stefon Diggs",
-    "points": "85.3",
-    "before_trade": "85.3",
+    "points": "98.4",
+    "before_trade": "98.4",
     "after_trade": "0.0",
     "draft_position": 108,
-    "value_diff": "17.6",
-    "grade": "B"
+    "value_diff": "23.2",
+    "grade": "A"
   },
   {
     "team": "Third Time's the Charm?",
@@ -116,7 +116,7 @@
     "before_trade": "106.2",
     "after_trade": "0.0",
     "draft_position": 109,
-    "value_diff": "39.8",
+    "value_diff": "32.5",
     "grade": "A"
   },
   {
@@ -124,12 +124,12 @@
     "round": 11,
     "pick": 12,
     "player_name": "Bryce Young",
-    "points": "96.9",
-    "before_trade": "96.9",
+    "points": "99.0",
+    "before_trade": "99.0",
     "after_trade": "0.0",
     "draft_position": 132,
-    "value_diff": "-49.7",
-    "grade": "C"
+    "value_diff": "-63.9",
+    "grade": "D"
   },
   {
     "team": "Third Time's the Charm?",
@@ -140,7 +140,7 @@
     "before_trade": "4.1",
     "after_trade": "4.1",
     "draft_position": 133,
-    "value_diff": "-72.1",
+    "value_diff": "-81.1",
     "grade": "D"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 12,
     "player_name": "Zach Ertz",
-    "points": "78.3",
+    "points": "86.7",
     "before_trade": "0.0",
-    "after_trade": "78.3",
+    "after_trade": "86.7",
     "draft_position": 156,
-    "value_diff": "10.9",
+    "value_diff": "11.8",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "14.3",
     "after_trade": "0.0",
     "draft_position": 157,
-    "value_diff": "-31.0",
+    "value_diff": "-36.0",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "32.5",
     "after_trade": "0.0",
     "draft_position": 180,
-    "value_diff": "-33.3",
+    "value_diff": "-40.6",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 181,
-    "value_diff": "-49.7",
+    "value_diff": "-55.3",
     "grade": "C"
   }
 ]
