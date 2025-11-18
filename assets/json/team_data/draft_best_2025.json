@@ -8,7 +8,7 @@
     "before_trade": "238.2",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "106.8",
+    "value_diff": "93.7",
     "grade": "A"
   },
   {
@@ -20,7 +20,7 @@
     "before_trade": "258.9",
     "after_trade": "0.0",
     "draft_position": 24,
-    "value_diff": "98.6",
+    "value_diff": "82.6",
     "grade": "A"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "168.4",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "88.2",
+    "value_diff": "80.2",
     "grade": "A"
   },
   {
@@ -40,11 +40,11 @@
     "round": 13,
     "pick": 1,
     "player_name": "Quinshon Judkins",
-    "points": "100.1",
-    "before_trade": "100.1",
+    "points": "106.0",
+    "before_trade": "106.0",
     "after_trade": "0.0",
     "draft_position": 145,
-    "value_diff": "74.5",
+    "value_diff": "77.9",
     "grade": "A"
   },
   {
@@ -52,11 +52,11 @@
     "round": 3,
     "pick": 6,
     "player_name": "Drake Maye",
-    "points": "266.7",
-    "before_trade": "266.7",
+    "points": "287.6",
+    "before_trade": "287.6",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "71.7",
+    "value_diff": "73.1",
     "grade": "A"
   }
 ]

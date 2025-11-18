@@ -1,16 +1,16 @@
 [
   {
-    "team": "Michael's Managable Team",
-    "manager": "Michael Ratcliff",
-    "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
-    "penalties": "$0",
-    "net": "$5"
-  },
-  {
     "team": "Third Time's the Charm?",
     "manager": "Christian Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
+    "penalties": "$0",
+    "net": "$10"
+  },
+  {
+    "team": "Michael's Managable Team",
+    "manager": "Michael Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",
@@ -25,15 +25,6 @@
     "winnings": "$10",
     "penalties": "$0",
     "net": "$10"
-  },
-  {
-    "team": "Mama Daughter Duo",
-    "manager": "Cathy Dickson and Jordan Dickson",
-    "paid": "Yes",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
   },
   {
     "team": "Game of Zones - House Hamlin",
@@ -61,6 +52,15 @@
     "winnings": "$5",
     "penalties": "$0",
     "net": "$5"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "manager": "Cathy Dickson and Jordan Dickson",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
   },
   {
     "team": "Mcconky Donkeys",

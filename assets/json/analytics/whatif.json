@@ -1,74 +1,74 @@
 [
   {
-    "team": "Michael's Managable Team",
-    "actual_record": "7-3",
-    "potential_record": "72-38",
-    "luck_factor": "+5.0"
+    "team": "Third Time's the Charm?",
+    "actual_record": "8-3",
+    "potential_record": "69-52",
+    "luck_factor": "+4.7"
   },
   {
-    "team": "Third Time's the Charm?",
-    "actual_record": "7-3",
-    "potential_record": "58-52",
-    "luck_factor": "+3.9"
+    "team": "Michael's Managable Team",
+    "actual_record": "7-4",
+    "potential_record": "76-45",
+    "luck_factor": "+5.3"
   },
   {
     "team": "Americas Team",
-    "actual_record": "6-4",
-    "potential_record": "68-42",
-    "luck_factor": "+4.8"
-  },
-  {
-    "team": "Mama Daughter Duo",
-    "actual_record": "6-4",
-    "potential_record": "73-37",
+    "actual_record": "7-4",
+    "potential_record": "74-47",
     "luck_factor": "+5.2"
   },
   {
     "team": "Game of Zones - House Hamlin",
-    "actual_record": "6-4",
-    "potential_record": "56-54",
-    "luck_factor": "+3.8"
-  },
-  {
-    "team": "Rookie Mistake",
-    "actual_record": "6-4",
-    "potential_record": "60-50",
-    "luck_factor": "+4.2"
-  },
-  {
-    "team": "Abbey's TNT Team",
-    "actual_record": "6-4",
-    "potential_record": "64-46",
+    "actual_record": "7-4",
+    "potential_record": "66-55",
     "luck_factor": "+4.5"
   },
   {
+    "team": "Rookie Mistake",
+    "actual_record": "7-4",
+    "potential_record": "65-56",
+    "luck_factor": "+4.5"
+  },
+  {
+    "team": "Abbey's TNT Team",
+    "actual_record": "7-4",
+    "potential_record": "73-48",
+    "luck_factor": "+5.1"
+  },
+  {
+    "team": "Mama Daughter Duo",
+    "actual_record": "6-5",
+    "potential_record": "75-46",
+    "luck_factor": "+5.3"
+  },
+  {
     "team": "Mcconky Donkeys",
-    "actual_record": "5-5",
-    "potential_record": "40-70",
-    "luck_factor": "+2.7"
+    "actual_record": "5-6",
+    "potential_record": "43-78",
+    "luck_factor": "+2.9"
   },
   {
     "team": "90s MonCon",
-    "actual_record": "4-6",
-    "potential_record": "77-33",
-    "luck_factor": "+5.6"
+    "actual_record": "4-7",
+    "potential_record": "78-43",
+    "luck_factor": "+5.7"
   },
   {
     "team": "To Infinity and Bijan!",
-    "actual_record": "3-7",
-    "potential_record": "42-68",
-    "luck_factor": "+3.0"
+    "actual_record": "4-7",
+    "potential_record": "50-71",
+    "luck_factor": "+3.5"
   },
   {
     "team": "Big Titi Energy",
-    "actual_record": "3-7",
-    "potential_record": "37-73",
+    "actual_record": "3-8",
+    "potential_record": "37-84",
     "luck_factor": "+2.6"
   },
   {
     "team": "Emma's Excellent Team",
-    "actual_record": "1-9",
-    "potential_record": "13-97",
-    "luck_factor": "+0.9"
+    "actual_record": "1-10",
+    "potential_record": "20-101",
+    "luck_factor": "+1.5"
   }
 ]

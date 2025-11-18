@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 13.99,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 16.98,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.78,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 19.23,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.84,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 8.78,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Parker Washington",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 6.44,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Xavier Legette",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 5.92,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "OP",
+    "projected": 5.42,
+    "opponent": "PIT"
+  }
+]

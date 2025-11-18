@@ -1,19 +1,15 @@
 [
   {
-    "name": "Michael's Managable Team",
-    "abbrev": "MMT"
-  },
-  {
     "name": "Third Time's the Charm?",
     "abbrev": "TTC"
   },
   {
-    "name": "Americas Team",
-    "abbrev": "RRT"
+    "name": "Michael's Managable Team",
+    "abbrev": "MMT"
   },
   {
-    "name": "Mama Daughter Duo",
-    "abbrev": "JST"
+    "name": "Americas Team",
+    "abbrev": "RRT"
   },
   {
     "name": "Game of Zones - House Hamlin",
@@ -26,6 +22,10 @@
   {
     "name": "Abbey's TNT Team",
     "abbrev": "ARV"
+  },
+  {
+    "name": "Mama Daughter Duo",
+    "abbrev": "JST"
   },
   {
     "name": "Mcconky Donkeys",

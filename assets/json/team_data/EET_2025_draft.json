@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 3,
     "player_name": "Saquon Barkley",
-    "points": "127.4",
-    "before_trade": "127.4",
+    "points": "136.9",
+    "before_trade": "136.9",
     "after_trade": "0.0",
     "draft_position": 3,
-    "value_diff": "-50.4",
+    "value_diff": "-58.6",
     "grade": "C"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 10,
     "player_name": "Brock Purdy",
-    "points": "41.4",
-    "before_trade": "41.4",
+    "points": "69.2",
+    "before_trade": "69.2",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-170.5",
+    "value_diff": "-163.9",
     "grade": "D"
   },
   {
@@ -28,23 +28,23 @@
     "round": 3,
     "pick": 3,
     "player_name": "Dak Prescott",
-    "points": "215.9",
+    "points": "252.7",
     "before_trade": "0.0",
-    "after_trade": "215.9",
+    "after_trade": "252.7",
     "draft_position": 27,
-    "value_diff": "17.7",
-    "grade": "B"
+    "value_diff": "34.7",
+    "grade": "A"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 4,
     "pick": 10,
     "player_name": "Drake London",
-    "points": "131.6",
-    "before_trade": "131.6",
+    "points": "147.0",
+    "before_trade": "147.0",
     "after_trade": "0.0",
     "draft_position": 46,
-    "value_diff": "2.9",
+    "value_diff": "5.5",
     "grade": "B"
   },
   {
@@ -52,23 +52,23 @@
     "round": 5,
     "pick": 3,
     "player_name": "George Kittle",
-    "points": "51.9",
-    "before_trade": "51.9",
+    "points": "75.0",
+    "before_trade": "75.0",
     "after_trade": "0.0",
     "draft_position": 51,
-    "value_diff": "-70.0",
-    "grade": "D"
+    "value_diff": "-58.9",
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 6,
     "pick": 10,
     "player_name": "Tony Pollard",
-    "points": "79.8",
-    "before_trade": "79.8",
+    "points": "83.9",
+    "before_trade": "83.9",
     "after_trade": "0.0",
     "draft_position": 70,
-    "value_diff": "-37.2",
+    "value_diff": "-44.8",
     "grade": "C"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 3,
     "player_name": "Courtland Sutton",
-    "points": "105.5",
-    "before_trade": "105.5",
+    "points": "113.4",
+    "before_trade": "113.4",
     "after_trade": "0.0",
     "draft_position": 75,
-    "value_diff": "-6.3",
+    "value_diff": "-9.6",
     "grade": "B"
   },
   {
@@ -88,23 +88,23 @@
     "round": 8,
     "pick": 10,
     "player_name": "Tyrone Tracy Jr.",
-    "points": "46.5",
+    "points": "62.4",
     "before_trade": "0.0",
-    "after_trade": "46.5",
+    "after_trade": "62.4",
     "draft_position": 94,
-    "value_diff": "-63.6",
-    "grade": "D"
+    "value_diff": "-58.7",
+    "grade": "C"
   },
   {
     "team": "Emma's Excellent Team",
     "round": 9,
     "pick": 3,
     "player_name": "Jakobi Meyers",
-    "points": "57.3",
-    "before_trade": "57.3",
+    "points": "66.2",
+    "before_trade": "66.2",
     "after_trade": "0.0",
     "draft_position": 99,
-    "value_diff": "-46.0",
+    "value_diff": "-47.5",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 10,
     "player_name": "Rashid Shaheed",
-    "points": "85.2",
-    "before_trade": "85.2",
+    "points": "89.1",
+    "before_trade": "89.1",
     "after_trade": "0.0",
     "draft_position": 118,
-    "value_diff": "-2.8",
+    "value_diff": "-7.7",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 3,
     "player_name": "Hollywood Brown",
-    "points": "79.9",
-    "before_trade": "79.9",
+    "points": "85.9",
+    "before_trade": "85.9",
     "after_trade": "0.0",
     "draft_position": 123,
-    "value_diff": "-5.0",
+    "value_diff": "-7.5",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "28.9",
     "after_trade": "0.0",
     "draft_position": 142,
-    "value_diff": "-39.9",
+    "value_diff": "-46.8",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 147,
-    "value_diff": "-55.4",
+    "value_diff": "-61.2",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 166,
-    "value_diff": "-69.8",
+    "value_diff": "-76.7",
     "grade": "D"
   },
   {
@@ -172,11 +172,11 @@
     "round": 15,
     "pick": 3,
     "player_name": "Joshua Palmer",
-    "points": "30.4",
-    "before_trade": "30.4",
+    "points": "33.1",
+    "before_trade": "33.1",
     "after_trade": "0.0",
     "draft_position": 171,
-    "value_diff": "-22.8",
+    "value_diff": "-25.4",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "54.7",
     "after_trade": "0.0",
     "draft_position": 190,
-    "value_diff": "2.3",
+    "value_diff": "-2.9",
     "grade": "B"
   }
 ]

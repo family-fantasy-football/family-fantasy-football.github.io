@@ -19,16 +19,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Drake Maye (266.7 pts) owned by Michael's Managable Team
+* **QB:** Josh Allen (296.34 pts) owned by Game of Zones - House Hamlin
 
 * **RB:** Jonathan Taylor (258.9 pts) owned by 90s MonCon
 
-* **WR:** Jaxon Smith-Njigba (165.8 pts) owned by Americas Team
+* **WR:** Jaxon Smith-Njigba (181.9 pts) owned by Americas Team
 
-* **TE:** Trey McBride (142.05 pts) owned by Americas Team
+* **TE:** Trey McBride (167.05 pts) owned by Americas Team
 
 
-Below are the top 10 performers at each position through Week 10.
+Below are the top 10 performers at each position through Week 11.
 
 
 

@@ -4,23 +4,23 @@
     "round": 1,
     "pick": 10,
     "player_name": "Jalen Hurts",
-    "points": "225.8",
-    "before_trade": "225.8",
+    "points": "233.3",
+    "before_trade": "233.3",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "-15.5",
-    "grade": "B"
+    "value_diff": "-32.1",
+    "grade": "C"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 2,
     "pick": 3,
     "player_name": "Christian McCaffrey",
-    "points": "214.3",
-    "before_trade": "214.3",
+    "points": "246.9",
+    "before_trade": "246.9",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "48.0",
+    "value_diff": "64.0",
     "grade": "A"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 10,
     "player_name": "Caleb Williams",
-    "points": "181.2",
-    "before_trade": "181.2",
+    "points": "183.6",
+    "before_trade": "183.6",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "2.6",
+    "value_diff": "-12.9",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 3,
     "player_name": "DeVonta Smith",
-    "points": "107.7",
-    "before_trade": "107.7",
+    "points": "109.0",
+    "before_trade": "109.0",
     "after_trade": "0.0",
     "draft_position": 39,
-    "value_diff": "2.5",
+    "value_diff": "-6.8",
     "grade": "B"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 10,
     "player_name": "D'Andre Swift",
-    "points": "114.9",
-    "before_trade": "114.9",
+    "points": "123.9",
+    "before_trade": "123.9",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-7.6",
+    "value_diff": "-10.8",
     "grade": "B"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 3,
     "player_name": "DK Metcalf",
-    "points": "96.2",
-    "before_trade": "96.2",
+    "points": "103.6",
+    "before_trade": "103.6",
     "after_trade": "0.0",
     "draft_position": 63,
-    "value_diff": "-21.3",
+    "value_diff": "-25.7",
     "grade": "B"
   },
   {
@@ -76,23 +76,23 @@
     "round": 7,
     "pick": 10,
     "player_name": "Travis Kelce",
-    "points": "104.8",
-    "before_trade": "104.8",
+    "points": "126.6",
+    "before_trade": "126.6",
     "after_trade": "0.0",
     "draft_position": 82,
-    "value_diff": "9.5",
-    "grade": "B"
+    "value_diff": "21.8",
+    "grade": "A"
   },
   {
     "team": "Mama Daughter Duo",
     "round": 8,
     "pick": 3,
     "player_name": "Rome Odunze",
-    "points": "110.4",
-    "before_trade": "110.4",
+    "points": "115.5",
+    "before_trade": "115.5",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "3.7",
+    "value_diff": "-1.8",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "117.1",
     "after_trade": "0.0",
     "draft_position": 106,
-    "value_diff": "18.2",
+    "value_diff": "8.3",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "3.6",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "-83.9",
+    "value_diff": "-92.7",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "12.0",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-74.7",
+    "value_diff": "-83.3",
     "grade": "D"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 3,
     "player_name": "Michael Penix Jr.",
-    "points": "99.9",
-    "before_trade": "99.9",
+    "points": "111.3",
+    "before_trade": "111.3",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "-61.0",
+    "value_diff": "-65.6",
     "grade": "D"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 10,
     "player_name": "Hunter Henry",
-    "points": "84.2",
-    "before_trade": "84.2",
+    "points": "91.7",
+    "before_trade": "91.7",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "5.3",
+    "value_diff": "4.9",
     "grade": "B"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 3,
     "player_name": "Rachaad White",
-    "points": "82.8",
-    "before_trade": "82.8",
+    "points": "90.0",
+    "before_trade": "90.0",
     "after_trade": "0.0",
     "draft_position": 159,
-    "value_diff": "16.9",
+    "value_diff": "17.6",
     "grade": "B"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "9.3",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-21.6",
+    "value_diff": "-24.7",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 183,
-    "value_diff": "-51.6",
+    "value_diff": "-56.8",
     "grade": "C"
   }
 ]

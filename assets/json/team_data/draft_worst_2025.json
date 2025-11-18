@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-231.3",
+    "value_diff": "-256.0",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 10,
     "player_name": "Brock Purdy",
-    "points": "41.4",
-    "before_trade": "41.4",
+    "points": "69.2",
+    "before_trade": "69.2",
     "after_trade": "0.0",
     "draft_position": 22,
-    "value_diff": "-170.5",
+    "value_diff": "-163.9",
     "grade": "D"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "47.7",
     "after_trade": "0.0",
     "draft_position": 32,
-    "value_diff": "-144.7",
+    "value_diff": "-163.9",
     "grade": "D"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "117.1",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-132.1",
+    "value_diff": "-157.0",
     "grade": "D"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "93.8",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "-118.7",
+    "value_diff": "-140.0",
     "grade": "D"
   }
 ]

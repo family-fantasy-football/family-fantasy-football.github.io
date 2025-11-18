@@ -18,7 +18,8 @@
       7,
       8,
       9,
-      10
+      10,
+      11
     ]
   },
   "yAxis": {
@@ -52,6 +53,7 @@
         8,
         9,
         9,
+        9,
         9
       ],
       "symbol": "circle",
@@ -68,10 +70,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#8c564b"
+        "color": "#9467bd"
       },
       "itemStyle": {
-        "color": "#8c564b"
+        "color": "#9467bd"
       },
       "data": [
         4,
@@ -83,7 +85,8 @@
         3,
         4,
         4,
-        7
+        7,
+        6
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -114,6 +117,7 @@
         4,
         6,
         6,
+        3,
         3
       ],
       "symbol": "circle",
@@ -142,6 +146,7 @@
         12,
         11,
         12,
+        11,
         11,
         11,
         11,
@@ -176,6 +181,7 @@
         12,
         12,
         12,
+        12,
         12
       ],
       "symbol": "circle",
@@ -192,10 +198,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "itemStyle": {
-        "color": "#d62728"
+        "color": "#98df8a"
       },
       "data": [
         1,
@@ -207,7 +213,8 @@
         5,
         3,
         3,
-        5
+        5,
+        4
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -223,10 +230,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#98df8a"
+        "color": "#8c564b"
       },
       "itemStyle": {
-        "color": "#98df8a"
+        "color": "#8c564b"
       },
       "data": [
         3,
@@ -238,7 +245,8 @@
         7,
         5,
         5,
-        4
+        4,
+        7
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -269,6 +277,7 @@
         6,
         8,
         8,
+        8,
         8
       ],
       "symbol": "circle",
@@ -285,10 +294,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#1f77b4"
+        "color": "#aec7e8"
       },
       "itemStyle": {
-        "color": "#1f77b4"
+        "color": "#aec7e8"
       },
       "data": [
         5,
@@ -300,7 +309,8 @@
         2,
         2,
         1,
-        1
+        1,
+        2
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -316,10 +326,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#9467bd"
+        "color": "#d62728"
       },
       "itemStyle": {
-        "color": "#9467bd"
+        "color": "#d62728"
       },
       "data": [
         9,
@@ -331,7 +341,8 @@
         9,
         7,
         7,
-        6
+        6,
+        5
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -347,10 +358,10 @@
       "smooth": true,
       "lineStyle": {
         "width": 3,
-        "color": "#aec7e8"
+        "color": "#1f77b4"
       },
       "itemStyle": {
-        "color": "#aec7e8"
+        "color": "#1f77b4"
       },
       "data": [
         6,
@@ -362,7 +373,8 @@
         1,
         1,
         2,
-        2
+        2,
+        1
       ],
       "symbol": "circle",
       "symbolSize": 12,
@@ -388,6 +400,7 @@
         6,
         8,
         8,
+        10,
         10,
         10,
         10,

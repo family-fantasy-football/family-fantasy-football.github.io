@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.82,
+    "projected": 18.64
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.4,
+    "projected": 10.62
+  },
+  {
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 6.8,
+    "projected": 13.32
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.0,
+    "projected": 24.96
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.6,
+    "projected": 6.59
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.3,
+    "projected": 7.26
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.6,
+    "projected": 11.55
+  },
+  {
+    "player_name": "Tyler Lockett",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.8,
+    "projected": 6.27
+  },
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 9.94,
+    "projected": 24.05
+  }
+]

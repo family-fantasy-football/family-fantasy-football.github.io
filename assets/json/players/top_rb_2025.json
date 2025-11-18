@@ -5,78 +5,78 @@
     "draft": "2.12",
     "overall_pick": 24,
     "points": 258.9,
-    "projected": 160.26
+    "projected": 176.29
   },
   {
     "player_name": "Christian McCaffrey",
     "team": "Mama Daughter Duo",
     "draft": "2.3",
     "overall_pick": 15,
-    "points": 214.3,
-    "projected": 166.25
+    "points": 246.9,
+    "projected": 182.88
   },
   {
     "player_name": "De'Von Achane",
     "team": "Mcconky Donkeys",
     "draft": "4.2",
     "overall_pick": 38,
-    "points": 189.0,
-    "projected": 159.02
-  },
-  {
-    "player_name": "Jahmyr Gibbs",
-    "team": "Michael's Managable Team",
-    "draft": "1.6",
-    "overall_pick": 6,
-    "points": 168.0,
-    "projected": 168.89
-  },
-  {
-    "player_name": "Josh Jacobs",
-    "team": "To Infinity and Bijan!",
-    "draft": "4.4",
-    "overall_pick": 40,
-    "points": 162.5,
-    "projected": 154.24
+    "points": 208.0,
+    "projected": 174.92
   },
   {
     "player_name": "Bijan Robinson",
     "team": "Abbey's TNT Team",
     "draft": "1.4",
     "overall_pick": 4,
-    "points": 158.1,
-    "projected": 181.25
+    "points": 186.4,
+    "projected": 199.38
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "team": "Michael's Managable Team",
+    "draft": "1.6",
+    "overall_pick": 6,
+    "points": 185.1,
+    "projected": 185.78
   },
   {
     "player_name": "James Cook III",
     "team": "Rookie Mistake",
     "draft": "4.6",
     "overall_pick": 42,
-    "points": 153.4,
-    "projected": 148.01
+    "points": 172.3,
+    "projected": 162.81
   },
   {
-    "player_name": "Javonte Williams",
+    "player_name": "Josh Jacobs",
     "team": "To Infinity and Bijan!",
-    "draft": "10.4",
-    "overall_pick": 112,
-    "points": 143.4,
-    "projected": 115.81
+    "draft": "4.4",
+    "overall_pick": 40,
+    "points": 166.5,
+    "projected": 169.66
   },
   {
     "player_name": "Kyren Williams",
     "team": "Abbey's TNT Team",
     "draft": "4.9",
     "overall_pick": 45,
-    "points": 138.6,
-    "projected": 156.64
+    "points": 154.7,
+    "projected": 172.31
+  },
+  {
+    "player_name": "Javonte Williams",
+    "team": "To Infinity and Bijan!",
+    "draft": "10.4",
+    "overall_pick": 112,
+    "points": 153.2,
+    "projected": 127.39
   },
   {
     "player_name": "Rico Dowdle",
     "team": "Third Time's the Charm?",
     "draft": "FA",
     "overall_pick": 999,
-    "points": 138.0,
-    "projected": 43.05
+    "points": 150.5,
+    "projected": 47.36
   }
 ]

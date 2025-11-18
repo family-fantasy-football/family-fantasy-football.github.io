@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Joe Flacco",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 6.36,
+    "projected": 18.18
+  },
+  {
+    "player_name": "Tee Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 13.8,
+    "projected": 11.25
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.4,
+    "projected": 11.98
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.6,
+    "projected": 9.98
+  },
+  {
+    "player_name": "Devin Singletary",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.2,
+    "projected": 8.66
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.9,
+    "projected": 9.94
+  },
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.4,
+    "projected": 12.75
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.7,
+    "projected": 8.04
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 2.6,
+    "projected": 8.09
+  }
+]

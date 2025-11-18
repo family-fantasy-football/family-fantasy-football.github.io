@@ -1,35 +1,51 @@
 [
   {
-    "player_name": "Drake Maye",
-    "team": "Michael's Managable Team",
-    "draft": "3.6",
-    "overall_pick": 30,
-    "points": 266.7,
-    "projected": 195.02
-  },
-  {
     "player_name": "Josh Allen",
     "team": "Game of Zones - House Hamlin",
     "draft": "1.2",
     "overall_pick": 2,
-    "points": 249.16,
-    "projected": 237.61
+    "points": 296.34,
+    "projected": 261.37
   },
   {
-    "player_name": "Justin Herbert",
+    "player_name": "Drake Maye",
     "team": "Michael's Managable Team",
-    "draft": "2.7",
-    "overall_pick": 19,
-    "points": 242.8,
-    "projected": 189.54
+    "draft": "3.6",
+    "overall_pick": 30,
+    "points": 287.64,
+    "projected": 214.53
+  },
+  {
+    "player_name": "Dak Prescott",
+    "team": "Third Time's the Charm?",
+    "draft": "3.3",
+    "overall_pick": 27,
+    "points": 252.68,
+    "projected": 217.97
   },
   {
     "player_name": "Matthew Stafford",
     "team": "Americas Team",
     "draft": "7.5",
     "overall_pick": 77,
-    "points": 240.18,
-    "projected": 189.72
+    "points": 251.88,
+    "projected": 208.69
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "team": "Third Time's the Charm?",
+    "draft": "1.12",
+    "overall_pick": 12,
+    "points": 244.3,
+    "projected": 252.34
+  },
+  {
+    "player_name": "Justin Herbert",
+    "team": "Michael's Managable Team",
+    "draft": "2.7",
+    "overall_pick": 19,
+    "points": 243.14,
+    "projected": 208.5
   },
   {
     "player_name": "Daniel Jones",
@@ -37,46 +53,30 @@
     "draft": "14.7",
     "overall_pick": 163,
     "points": 238.16,
-    "projected": 131.35
-  },
-  {
-    "player_name": "Jared Goff",
-    "team": "Rookie Mistake",
-    "draft": "3.7",
-    "overall_pick": 31,
-    "points": 231.7,
-    "projected": 194.61
-  },
-  {
-    "player_name": "Patrick Mahomes",
-    "team": "Third Time's the Charm?",
-    "draft": "1.12",
-    "overall_pick": 12,
-    "points": 230.46,
-    "projected": 229.4
+    "projected": 144.48
   },
   {
     "player_name": "Jalen Hurts",
     "team": "Mama Daughter Duo",
     "draft": "1.10",
     "overall_pick": 10,
-    "points": 225.8,
-    "projected": 241.29
+    "points": 233.3,
+    "projected": 265.42
   },
   {
-    "player_name": "Dak Prescott",
-    "team": "Third Time's the Charm?",
-    "draft": "3.3",
-    "overall_pick": 27,
-    "points": 215.86,
-    "projected": 198.15
+    "player_name": "Jared Goff",
+    "team": "Rookie Mistake",
+    "draft": "3.7",
+    "overall_pick": 31,
+    "points": 229.8,
+    "projected": 214.07
   },
   {
-    "player_name": "Sam Darnold",
-    "team": "Americas Team",
-    "draft": "8.8",
-    "overall_pick": 92,
-    "points": 191.38,
-    "projected": 161.38
+    "player_name": "Bo Nix",
+    "team": "Abbey's TNT Team",
+    "draft": "3.4",
+    "overall_pick": 28,
+    "points": 202.64,
+    "projected": 224.96
   }
 ]
