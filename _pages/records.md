@@ -41,8 +41,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Combined Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">154.54</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 10: Emma's Excellent Team vs Big Titi Energy (76.42-78.12)</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">151.54</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 12: Mcconky Donkeys vs To Infinity and Bijan! (77.92-73.62)</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -129,9 +129,9 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best RB Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">48.1</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 10: Jonathan Taylor</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">90s MonCon</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">49.9</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 12: Jahmyr Gibbs</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Michael's Managable Team</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">

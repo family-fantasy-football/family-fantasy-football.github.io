@@ -1,0 +1,58 @@
+[
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.1,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.57,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 17.57,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.82,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.57,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 10.2,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 8.61,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "OP",
+    "projected": 8.44,
+    "opponent": "LV"
+  }
+]

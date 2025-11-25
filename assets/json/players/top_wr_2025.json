@@ -4,32 +4,40 @@
     "team": "Americas Team",
     "draft": "4.8",
     "overall_pick": 44,
-    "points": 181.9,
-    "projected": 127.26
+    "points": 215.0,
+    "projected": 138.83
   },
   {
     "player_name": "George Pickens",
     "team": "Michael's Managable Team",
     "draft": "6.7",
     "overall_pick": 67,
-    "points": 161.8,
-    "projected": 119.88
-  },
-  {
-    "player_name": "Puka Nacua",
-    "team": "Abbey's TNT Team",
-    "draft": "2.9",
-    "overall_pick": 21,
-    "points": 156.8,
-    "projected": 159.18
+    "points": 186.9,
+    "projected": 130.78
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "team": "Game of Zones - House Hamlin",
     "draft": "3.2",
     "overall_pick": 26,
-    "points": 155.4,
-    "projected": 150.29
+    "points": 180.8,
+    "projected": 163.96
+  },
+  {
+    "player_name": "Puka Nacua",
+    "team": "Abbey's TNT Team",
+    "draft": "2.9",
+    "overall_pick": 21,
+    "points": 170.0,
+    "projected": 173.65
+  },
+  {
+    "player_name": "Davante Adams",
+    "team": "Michael's Managable Team",
+    "draft": "4.7",
+    "overall_pick": 43,
+    "points": 159.1,
+    "projected": 151.44
   },
   {
     "player_name": "Ja'Marr Chase",
@@ -37,7 +45,7 @@
     "draft": "1.5",
     "overall_pick": 5,
     "points": 154.2,
-    "projected": 182.26
+    "projected": 198.83
   },
   {
     "player_name": "Drake London",
@@ -45,38 +53,30 @@
     "draft": "4.10",
     "overall_pick": 46,
     "points": 147.0,
-    "projected": 141.52
-  },
-  {
-    "player_name": "Davante Adams",
-    "team": "Michael's Managable Team",
-    "draft": "4.7",
-    "overall_pick": 43,
-    "points": 138.4,
-    "projected": 138.82
+    "projected": 154.39
   },
   {
     "player_name": "Emeka Egbuka",
     "team": "Abbey's TNT Team",
     "draft": "9.4",
     "overall_pick": 100,
-    "points": 133.1,
-    "projected": 95.28
-  },
-  {
-    "player_name": "Jaylen Waddle",
-    "team": "90s MonCon",
-    "draft": "8.12",
-    "overall_pick": 96,
-    "points": 127.52,
-    "projected": 118.24
+    "points": 137.8,
+    "projected": 103.94
   },
   {
     "player_name": "Tetairoa McMillan",
     "team": "To Infinity and Bijan!",
     "draft": "7.9",
     "overall_pick": 81,
-    "points": 125.8,
-    "projected": 125.42
+    "points": 136.3,
+    "projected": 136.82
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "team": "Michael's Managable Team",
+    "draft": "10.7",
+    "overall_pick": 115,
+    "points": 134.2,
+    "projected": 111.43
   }
 ]

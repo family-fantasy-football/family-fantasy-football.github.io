@@ -8,7 +8,7 @@
     "before_trade": "117.1",
     "after_trade": "0.0",
     "draft_position": 11,
-    "value_diff": "-157.0",
+    "value_diff": "-181.9",
     "grade": "D"
   },
   {
@@ -20,8 +20,8 @@
     "before_trade": "198.3",
     "after_trade": "0.0",
     "draft_position": 14,
-    "value_diff": "-54.7",
-    "grade": "C"
+    "value_diff": "-77.7",
+    "grade": "D"
   },
   {
     "team": "Mcconky Donkeys",
@@ -32,7 +32,7 @@
     "before_trade": "70.6",
     "after_trade": "0.0",
     "draft_position": 35,
-    "value_diff": "-73.3",
+    "value_diff": "-86.4",
     "grade": "D"
   },
   {
@@ -44,8 +44,8 @@
     "before_trade": "208.0",
     "after_trade": "0.0",
     "draft_position": 38,
-    "value_diff": "33.1",
-    "grade": "A"
+    "value_diff": "17.2",
+    "grade": "B"
   },
   {
     "team": "Mcconky Donkeys",
@@ -56,7 +56,7 @@
     "before_trade": "115.4",
     "after_trade": "0.0",
     "draft_position": 59,
-    "value_diff": "-12.2",
+    "value_diff": "-23.8",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 62,
-    "value_diff": "-99.4",
+    "value_diff": "-110.9",
     "grade": "D"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "54.7",
     "after_trade": "0.0",
     "draft_position": 83,
-    "value_diff": "-69.8",
+    "value_diff": "-81.1",
     "grade": "D"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 2,
     "player_name": "Rashee Rice",
-    "points": "64.1",
-    "before_trade": "64.1",
+    "points": "84.2",
+    "before_trade": "84.2",
     "after_trade": "0.0",
     "draft_position": 86,
-    "value_diff": "-21.1",
+    "value_diff": "-8.7",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "69.3",
     "after_trade": "0.0",
     "draft_position": 107,
-    "value_diff": "-33.1",
+    "value_diff": "-42.5",
     "grade": "C"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "7.2",
     "after_trade": "0.0",
     "draft_position": 110,
-    "value_diff": "-110.2",
+    "value_diff": "-120.9",
     "grade": "D"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "56.7",
     "after_trade": "0.0",
     "draft_position": 131,
-    "value_diff": "-39.5",
+    "value_diff": "-48.3",
     "grade": "C"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 134,
-    "value_diff": "-69.9",
+    "value_diff": "-76.2",
     "grade": "D"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "182.4",
     "after_trade": "0.0",
     "draft_position": 155,
-    "value_diff": "9.2",
+    "value_diff": "-6.5",
     "grade": "B"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 2,
     "player_name": "Wan'Dale Robinson",
-    "points": "104.5",
-    "before_trade": "104.5",
+    "points": "130.6",
+    "before_trade": "130.6",
     "after_trade": "0.0",
     "draft_position": 158,
-    "value_diff": "28.0",
+    "value_diff": "47.1",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "2.4",
     "after_trade": "0.0",
     "draft_position": 179,
-    "value_diff": "-45.7",
+    "value_diff": "-50.0",
     "grade": "C"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 2,
     "player_name": "Darius Slayton",
-    "points": "43.8",
-    "before_trade": "43.8",
+    "points": "46.6",
+    "before_trade": "46.6",
     "after_trade": "0.0",
     "draft_position": 182,
-    "value_diff": "-18.3",
+    "value_diff": "-21.2",
     "grade": "B"
   }
 ]

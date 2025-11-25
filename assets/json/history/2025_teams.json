@@ -1,20 +1,10 @@
 [
   {
-    "team_name": "Third Time's the Charm?",
-    "managers": "Christian Ratcliff",
-    "final_rank": 1,
-    "record": "8-3",
-    "points": 1397.04,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
     "team_name": "Michael's Managable Team",
     "managers": "Michael Ratcliff",
-    "final_rank": 2,
-    "record": "7-4",
-    "points": 1441.98,
+    "final_rank": 1,
+    "record": "8-4",
+    "points": 1604.73,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -22,9 +12,19 @@
   {
     "team_name": "Americas Team",
     "managers": "Ryan Ratcliff",
+    "final_rank": 2,
+    "record": "8-4",
+    "points": 1577.86,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "Third Time's the Charm?",
+    "managers": "Christian Ratcliff",
     "final_rank": 3,
-    "record": "7-4",
-    "points": 1424.83,
+    "record": "8-4",
+    "points": 1514.23,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -33,18 +33,8 @@
     "team_name": "Game of Zones - House Hamlin",
     "managers": "Kyle Hamlin",
     "final_rank": 4,
-    "record": "7-4",
-    "points": 1342.53,
-    "playoff_result": "TBD",
-    "division": "League Standings",
-    "division_result": "TBD"
-  },
-  {
-    "team_name": "Rookie Mistake",
-    "managers": "Tom Ratcliff",
-    "final_rank": 5,
-    "record": "7-4",
-    "points": 1295.79,
+    "record": "8-4",
+    "points": 1454.76,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -52,9 +42,9 @@
   {
     "team_name": "Abbey's TNT Team",
     "managers": "Abbey Hamlin",
-    "final_rank": 6,
-    "record": "7-4",
-    "points": 1278.32,
+    "final_rank": 5,
+    "record": "8-4",
+    "points": 1361.92,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -62,9 +52,19 @@
   {
     "team_name": "Mama Daughter Duo",
     "managers": "Cathy Dickson and Jordan Dickson",
+    "final_rank": 6,
+    "record": "7-5",
+    "points": 1524.42,
+    "playoff_result": "TBD",
+    "division": "League Standings",
+    "division_result": "TBD"
+  },
+  {
+    "team_name": "Rookie Mistake",
+    "managers": "Tom Ratcliff",
     "final_rank": 7,
-    "record": "6-5",
-    "points": 1394.3,
+    "record": "7-5",
+    "points": 1415.98,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -73,8 +73,8 @@
     "team_name": "Mcconky Donkeys",
     "managers": "Kayden Mullins",
     "final_rank": 8,
-    "record": "5-6",
-    "points": 1167.58,
+    "record": "6-6",
+    "points": 1245.5,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -83,8 +83,8 @@
     "team_name": "90s MonCon",
     "managers": "Connor Dickson and Monika Monko",
     "final_rank": 9,
-    "record": "4-7",
-    "points": 1382.87,
+    "record": "4-8",
+    "points": 1476.95,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -93,8 +93,8 @@
     "team_name": "To Infinity and Bijan!",
     "managers": "Nick Hill",
     "final_rank": 10,
-    "record": "4-7",
-    "points": 1168.19,
+    "record": "4-8",
+    "points": 1241.81,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -103,8 +103,8 @@
     "team_name": "Big Titi Energy",
     "managers": "Christine Hamlin",
     "final_rank": 11,
-    "record": "3-8",
-    "points": 1072.97,
+    "record": "3-9",
+    "points": 1149.81,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"
@@ -113,8 +113,8 @@
     "team_name": "Emma's Excellent Team",
     "managers": "Emma Grau",
     "final_rank": 12,
-    "record": "1-10",
-    "points": 967.42,
+    "record": "1-11",
+    "points": 1048.88,
     "playoff_result": "TBD",
     "division": "League Standings",
     "division_result": "TBD"

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 26.04,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 16.34,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.0,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 15.37,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.69,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.82,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 13.37,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "RJ Harvey",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 13.2,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 25.66,
+    "opponent": "DAL"
+  }
+]

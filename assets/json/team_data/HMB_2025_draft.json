@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 2,
     "player_name": "Josh Allen",
-    "points": "296.3",
-    "before_trade": "296.3",
+    "points": "306.5",
+    "before_trade": "306.5",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "35.0",
+    "value_diff": "21.3",
     "grade": "A"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 11,
     "player_name": "Derrick Henry",
-    "points": "130.6",
-    "before_trade": "130.6",
+    "points": "152.4",
+    "before_trade": "152.4",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-45.9",
+    "value_diff": "-40.2",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 2,
     "player_name": "Amon-Ra St. Brown",
-    "points": "155.4",
-    "before_trade": "155.4",
+    "points": "180.8",
+    "before_trade": "180.8",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "5.1",
+    "value_diff": "16.8",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 11,
     "player_name": "Jordan Love",
-    "points": "200.3",
-    "before_trade": "200.3",
+    "points": "207.4",
+    "before_trade": "207.4",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "7.2",
+    "value_diff": "-3.3",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "29.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-117.8",
+    "value_diff": "-131.2",
     "grade": "D"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "96.9",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-15.1",
+    "value_diff": "-25.3",
     "grade": "B"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 2,
     "player_name": "Zay Flowers",
-    "points": "103.9",
-    "before_trade": "103.9",
+    "points": "113.3",
+    "before_trade": "113.3",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "-22.7",
+    "value_diff": "-24.9",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "57.1",
-    "before_trade": "57.1",
+    "points": "83.0",
+    "before_trade": "83.0",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-116.1",
+    "value_diff": "-105.9",
     "grade": "D"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "81.1",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-16.8",
+    "value_diff": "-25.7",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "109.2",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "15.9",
+    "value_diff": "7.4",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "111.2",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-0.1",
+    "value_diff": "-10.3",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "-60.1",
+    "value_diff": "-68.0",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "7.3",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-50.0",
+    "value_diff": "-55.2",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-69.3",
+    "value_diff": "-76.0",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.6",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "-49.6",
+    "value_diff": "-54.2",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 191,
-    "value_diff": "-50.8",
+    "value_diff": "-56.0",
     "grade": "C"
   }
 ]

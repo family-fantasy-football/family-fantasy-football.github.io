@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Mason Rudolph",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.54,
+    "projected": 19.24
+  },
+  {
+    "player_name": "Darnell Mooney",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.9,
+    "projected": 9.1
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.5,
+    "projected": 13.34
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.1,
+    "projected": 13.23
+  },
+  {
+    "player_name": "Nick Chubb",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 2.0,
+    "projected": 5.88
+  },
+  {
+    "player_name": "Theo Johnson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.95,
+    "projected": 8.73
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.8,
+    "projected": 14.18
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 4.0,
+    "projected": 9.64
+  },
+  {
+    "player_name": "Davis Mills",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 12.52,
+    "projected": 15.98
+  }
+]

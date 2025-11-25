@@ -1,19 +1,27 @@
 [
   {
-    "player_name": "Jonathan Taylor",
-    "team": "90s MonCon",
-    "draft": "2.12",
-    "overall_pick": 24,
-    "points": 258.9,
-    "projected": 176.29
-  },
-  {
     "player_name": "Christian McCaffrey",
     "team": "Mama Daughter Duo",
     "draft": "2.3",
     "overall_pick": 15,
-    "points": 246.9,
-    "projected": 182.88
+    "points": 270.6,
+    "projected": 199.5
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "team": "90s MonCon",
+    "draft": "2.12",
+    "overall_pick": 24,
+    "points": 266.5,
+    "projected": 192.32
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "team": "Michael's Managable Team",
+    "draft": "1.6",
+    "overall_pick": 6,
+    "points": 235.0,
+    "projected": 202.67
   },
   {
     "player_name": "De'Von Achane",
@@ -21,31 +29,23 @@
     "draft": "4.2",
     "overall_pick": 38,
     "points": 208.0,
-    "projected": 174.92
+    "projected": 190.82
   },
   {
     "player_name": "Bijan Robinson",
     "team": "Abbey's TNT Team",
     "draft": "1.4",
     "overall_pick": 4,
-    "points": 186.4,
-    "projected": 199.38
-  },
-  {
-    "player_name": "Jahmyr Gibbs",
-    "team": "Michael's Managable Team",
-    "draft": "1.6",
-    "overall_pick": 6,
-    "points": 185.1,
-    "projected": 185.78
+    "points": 200.1,
+    "projected": 217.5
   },
   {
     "player_name": "James Cook III",
     "team": "Rookie Mistake",
     "draft": "4.6",
     "overall_pick": 42,
-    "points": 172.3,
-    "projected": 162.81
+    "points": 192.7,
+    "projected": 177.61
   },
   {
     "player_name": "Josh Jacobs",
@@ -53,30 +53,30 @@
     "draft": "4.4",
     "overall_pick": 40,
     "points": 166.5,
-    "projected": 169.66
-  },
-  {
-    "player_name": "Kyren Williams",
-    "team": "Abbey's TNT Team",
-    "draft": "4.9",
-    "overall_pick": 45,
-    "points": 154.7,
-    "projected": 172.31
+    "projected": 185.08
   },
   {
     "player_name": "Javonte Williams",
     "team": "To Infinity and Bijan!",
     "draft": "10.4",
     "overall_pick": 112,
-    "points": 153.2,
-    "projected": 127.39
+    "points": 164.3,
+    "projected": 138.97
+  },
+  {
+    "player_name": "Kyren Williams",
+    "team": "Abbey's TNT Team",
+    "draft": "4.9",
+    "overall_pick": 45,
+    "points": 160.0,
+    "projected": 187.97
   },
   {
     "player_name": "Rico Dowdle",
     "team": "Third Time's the Charm?",
     "draft": "FA",
     "overall_pick": 999,
-    "points": 150.5,
-    "projected": 47.36
+    "points": 159.9,
+    "projected": 51.66
   }
 ]

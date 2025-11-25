@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 23.38,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 16.68,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.77,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 19.31,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 11.05,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Jonnu Smith",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 5.07,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.63,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 8.82,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 16.72,
+    "opponent": "DET"
+  }
+]

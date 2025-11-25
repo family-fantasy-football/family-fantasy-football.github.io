@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.7,
+    "projected": 19.19
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 13.2,
+    "projected": 16.89
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.3,
+    "projected": 13.82
+  },
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 17.2,
+    "projected": 13.99
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.7,
+    "projected": 14.0
+  },
+  {
+    "player_name": "Xavier Legette",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 3.7,
+    "projected": 5.89
+  },
+  {
+    "player_name": "Cade Otton",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.1,
+    "projected": 8.42
+  },
+  {
+    "player_name": "Brashard Smith",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 5.1,
+    "projected": 4.14
+  },
+  {
+    "player_name": "Parker Washington",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.6,
+    "projected": 7.2
+  }
+]

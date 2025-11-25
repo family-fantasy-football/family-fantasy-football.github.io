@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 19.36,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.37,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 8.13,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.03,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 11.01,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 12.67,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Trey Benson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 9.49,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 9.46,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 18.35,
+    "opponent": "TEN"
+  }
+]

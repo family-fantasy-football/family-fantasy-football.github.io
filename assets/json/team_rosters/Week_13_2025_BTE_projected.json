@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "C.J. Stroud",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 18.63,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Jauan Jennings",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.08,
+    "opponent": "CLE"
+  },
+  {
+    "player_name": "Terry McLaurin",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 9.01,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Breece Hall",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.9,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "Kenneth Walker III",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.94,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "Dallas Goedert",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.65,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Zach Charbonnet",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 8.03,
+    "opponent": "MIN"
+  },
+  {
+    "player_name": "DJ Moore",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 8.0,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Tyler Shough",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 16.92,
+    "opponent": "MIA"
+  }
+]

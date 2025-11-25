@@ -15,14 +15,14 @@
       "Big Titi Energy",
       "90s MonCon",
       "To Infinity and Bijan!",
-      "Mcconky Donkeys",
-      "Mama Daughter Duo",
-      "Michael's Managable Team",
       "Americas Team",
-      "Game of Zones - House Hamlin",
+      "Third Time's the Charm?",
+      "Mama Daughter Duo",
       "Rookie Mistake",
-      "Abbey's TNT Team",
-      "Third Time's the Charm?"
+      "Mcconky Donkeys",
+      "Michael's Managable Team",
+      "Game of Zones - House Hamlin",
+      "Abbey's TNT Team"
     ],
     "axisLabel": {
       "rotate": 45
@@ -43,18 +43,18 @@
       "name": "Opponent Win %",
       "type": "bar",
       "data": [
-        53.7,
-        52.1,
-        51.2,
-        51.2,
-        50.4,
-        49.6,
-        48.8,
-        48.8,
-        48.8,
-        48.8,
-        48.8,
-        47.9
+        54.9,
+        53.5,
+        52.8,
+        51.4,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        48.6,
+        47.2,
+        46.5,
+        45.1
       ]
     },
     {
@@ -62,18 +62,18 @@
       "type": "line",
       "yAxisIndex": 1,
       "data": [
-        118.7,
-        117.9,
-        115.3,
-        117.1,
-        117.1,
-        115.2,
-        114.8,
+        117.6,
+        117.5,
+        116.3,
+        115.4,
         115.0,
-        115.6,
-        116.0,
-        116.2,
-        115.2
+        115.8,
+        114.6,
+        116.1,
+        115.4,
+        114.5,
+        113.3,
+        113.2
       ]
     }
   ],

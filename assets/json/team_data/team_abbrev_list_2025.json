@@ -1,9 +1,5 @@
 [
   {
-    "name": "Third Time's the Charm?",
-    "abbrev": "TTC"
-  },
-  {
     "name": "Michael's Managable Team",
     "abbrev": "MMT"
   },
@@ -12,12 +8,12 @@
     "abbrev": "RRT"
   },
   {
-    "name": "Game of Zones - House Hamlin",
-    "abbrev": "HMB"
+    "name": "Third Time's the Charm?",
+    "abbrev": "TTC"
   },
   {
-    "name": "Rookie Mistake",
-    "abbrev": "TOM"
+    "name": "Game of Zones - House Hamlin",
+    "abbrev": "HMB"
   },
   {
     "name": "Abbey's TNT Team",
@@ -26,6 +22,10 @@
   {
     "name": "Mama Daughter Duo",
     "abbrev": "JST"
+  },
+  {
+    "name": "Rookie Mistake",
+    "abbrev": "TOM"
   },
   {
     "name": "Mcconky Donkeys",

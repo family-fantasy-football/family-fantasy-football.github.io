@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Cam Ward",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 25.94,
+    "projected": 8.22
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 25.4,
+    "projected": 16.64
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.4,
+    "projected": 10.94
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.8,
+    "projected": 16.4
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 18.5,
+    "projected": 12.39
+  },
+  {
+    "player_name": "Jonnu Smith",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.05,
+    "projected": 6.79
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 15.2,
+    "projected": 8.61
+  },
+  {
+    "player_name": "Tre Tucker",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 4.3,
+    "projected": 7.87
+  },
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 10.12,
+    "projected": 19.85
+  }
+]

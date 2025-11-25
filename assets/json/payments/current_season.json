@@ -1,7 +1,7 @@
 [
   {
-    "team": "Third Time's the Charm?",
-    "manager": "Christian Ratcliff",
+    "team": "Michael's Managable Team",
+    "manager": "Michael Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 2,
     "winnings": "$10",
@@ -9,17 +9,17 @@
     "net": "$10"
   },
   {
-    "team": "Michael's Managable Team",
-    "manager": "Michael Ratcliff",
-    "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
-    "penalties": "$0",
-    "net": "$5"
-  },
-  {
     "team": "Americas Team",
     "manager": "Ryan Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
+    "penalties": "$0",
+    "net": "$10"
+  },
+  {
+    "team": "Third Time's the Charm?",
+    "manager": "Christian Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 2,
     "winnings": "$10",
@@ -36,15 +36,6 @@
     "net": "$5"
   },
   {
-    "team": "Rookie Mistake",
-    "manager": "Tom Ratcliff",
-    "paid": "Yes",
-    "high_scoring_weeks": 0,
-    "winnings": "$0",
-    "penalties": "$0",
-    "net": "$0"
-  },
-  {
     "team": "Abbey's TNT Team",
     "manager": "Abbey Hamlin",
     "paid": "Yes",
@@ -56,6 +47,15 @@
   {
     "team": "Mama Daughter Duo",
     "manager": "Cathy Dickson and Jordan Dickson",
+    "paid": "Yes",
+    "high_scoring_weeks": 0,
+    "winnings": "$0",
+    "penalties": "$0",
+    "net": "$0"
+  },
+  {
+    "team": "Rookie Mistake",
+    "manager": "Tom Ratcliff",
     "paid": "Yes",
     "high_scoring_weeks": 0,
     "winnings": "$0",
