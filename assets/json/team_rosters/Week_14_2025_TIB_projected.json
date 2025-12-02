@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 12.15,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.48,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Chris Godwin Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 8.89,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 19.89,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.99,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 8.43,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Mark Andrews",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 8.28,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 7.27,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Malik Washington",
+    "pos": "WR",
+    "slot": "OP",
+    "projected": 6.92,
+    "opponent": "NYJ"
+  }
+]

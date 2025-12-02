@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.1,
+    "projected": 13.35
+  },
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 28.64,
+    "projected": 20.56
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.2,
+    "projected": 16.82
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 10.45,
+    "projected": 11.99
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 17.06,
+    "projected": 20.13
+  },
+  {
+    "player_name": "Chimere Dike",
+    "pos": "WR",
+    "slot": "WR",
+    "points": -0.6,
+    "projected": 8.35
+  },
+  {
+    "player_name": "AJ Barner",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 6.7,
+    "projected": 6.97
+  },
+  {
+    "player_name": "Tez Johnson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 1.0,
+    "projected": 5.36
+  },
+  {
+    "player_name": "Jayden Higgins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.0,
+    "projected": 8.62
+  }
+]

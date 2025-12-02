@@ -1,147 +1,105 @@
 {
-  "current_week": 12,
+  "current_week": 13,
   "regular_season_weeks": 14,
   "current_standings": [
     {
       "team_id": 1,
       "team_name": "Third Time's the Charm?",
-      "wins": 8,
+      "wins": 9,
       "losses": 4,
-      "points_for": 1514.23,
-      "points_against": 1357.96
+      "points_for": 1652.72,
+      "points_against": 1425.06
     },
     {
       "team_id": 2,
       "team_name": "90s MonCon",
       "wins": 4,
-      "losses": 8,
-      "points_for": 1476.9499999999998,
-      "points_against": 1484.89
+      "losses": 9,
+      "points_for": 1566.9699999999998,
+      "points_against": 1590.73
     },
     {
       "team_id": 3,
       "team_name": "Rookie Mistake",
       "wins": 7,
-      "losses": 5,
-      "points_for": 1415.9800000000002,
-      "points_against": 1341.54
+      "losses": 6,
+      "points_for": 1514.5300000000002,
+      "points_against": 1448.49
     },
     {
       "team_id": 4,
       "team_name": "Americas Team",
-      "wins": 8,
+      "wins": 9,
       "losses": 4,
-      "points_for": 1577.8600000000001,
-      "points_against": 1401.79
+      "points_for": 1683.7,
+      "points_against": 1491.81
     },
     {
       "team_id": 5,
       "team_name": "Michael's Managable Team",
-      "wins": 8,
+      "wins": 9,
       "losses": 4,
-      "points_for": 1604.73,
-      "points_against": 1328.29
+      "points_for": 1721.2,
+      "points_against": 1419.5
     },
     {
       "team_id": 6,
       "team_name": "To Infinity and Bijan!",
       "wins": 4,
-      "losses": 8,
-      "points_for": 1241.81,
-      "points_against": 1394.3
+      "losses": 9,
+      "points_for": 1308.9099999999999,
+      "points_against": 1532.79
     },
     {
       "team_id": 7,
       "team_name": "Mcconky Donkeys",
-      "wins": 6,
+      "wins": 7,
       "losses": 6,
-      "points_for": 1245.5000000000002,
-      "points_against": 1268.17
+      "points_for": 1363.8400000000001,
+      "points_against": 1356.95
     },
     {
       "team_id": 8,
       "team_name": "Mama Daughter Duo",
       "wins": 7,
-      "losses": 5,
-      "points_for": 1524.42,
-      "points_against": 1453.21
+      "losses": 6,
+      "points_for": 1615.63,
+      "points_against": 1569.68
     },
     {
       "team_id": 9,
       "team_name": "Abbey's TNT Team",
-      "wins": 8,
+      "wins": 9,
       "losses": 4,
-      "points_for": 1361.9199999999998,
-      "points_against": 1294.37
+      "points_for": 1467.2599999999998,
+      "points_against": 1380.2
     },
     {
       "team_id": 10,
       "team_name": "Game of Zones - House Hamlin",
       "wins": 8,
-      "losses": 4,
-      "points_for": 1454.7599999999998,
-      "points_against": 1287.59
+      "losses": 5,
+      "points_for": 1540.5899999999997,
+      "points_against": 1392.93
     },
     {
       "team_id": 11,
       "team_name": "Emma's Excellent Team",
       "wins": 1,
-      "losses": 11,
-      "points_for": 1048.8799999999999,
-      "points_against": 1440.23
+      "losses": 12,
+      "points_for": 1137.6599999999999,
+      "points_against": 1558.57
     },
     {
       "team_id": 12,
       "team_name": "Big Titi Energy",
-      "wins": 3,
+      "wins": 4,
       "losses": 9,
-      "points_for": 1149.8099999999997,
-      "points_against": 1564.51
+      "points_for": 1256.7599999999998,
+      "points_against": 1663.06
     }
   ],
   "remaining_games": [
-    {
-      "week": 13,
-      "away_team": "To Infinity and Bijan!",
-      "away_id": 6,
-      "home_team": "Third Time's the Charm?",
-      "home_id": 1
-    },
-    {
-      "week": 13,
-      "away_team": "Americas Team",
-      "away_id": 4,
-      "home_team": "90s MonCon",
-      "home_id": 2
-    },
-    {
-      "week": 13,
-      "away_team": "Big Titi Energy",
-      "away_id": 12,
-      "home_team": "Rookie Mistake",
-      "home_id": 3
-    },
-    {
-      "week": 13,
-      "away_team": "Mama Daughter Duo",
-      "away_id": 8,
-      "home_team": "Michael's Managable Team",
-      "home_id": 5
-    },
-    {
-      "week": 13,
-      "away_team": "Emma's Excellent Team",
-      "away_id": 11,
-      "home_team": "Mcconky Donkeys",
-      "home_id": 7
-    },
-    {
-      "week": 13,
-      "away_team": "Game of Zones - House Hamlin",
-      "away_id": 10,
-      "home_team": "Abbey's TNT Team",
-      "home_id": 9
-    },
     {
       "week": 14,
       "away_team": "90s MonCon",
@@ -193,122 +151,62 @@
   },
   "magic_numbers": [
     {
-      "team": "Mama Daughter Duo",
-      "rank": 6,
-      "current_record": "7-5",
-      "remaining_games": 2,
-      "clinch_number": 1,
-      "elimination_number": 2,
-      "status": "ACTIVE",
-      "scenarios": [
-        {
-          "wins": [
-            "Week 13 vs Michael's Managable Team"
-          ],
-          "description": "Win 1 games"
-        },
-        {
-          "wins": [
-            "Week 14 vs Americas Team"
-          ],
-          "description": "Win 1 games"
-        },
-        {
-          "losses": [
-            "Week 13 vs Michael's Managable Team",
-            "Week 14 vs Americas Team"
-          ],
-          "description": "Lose 2 games"
-        }
-      ]
-    },
-    {
-      "team": "Game of Zones - House Hamlin",
-      "rank": 4,
-      "current_record": "8-4",
-      "remaining_games": 2,
-      "clinch_number": 1,
-      "elimination_number": null,
-      "status": "ACTIVE",
-      "scenarios": [
-        {
-          "wins": [
-            "Week 13 vs Abbey's TNT Team"
-          ],
-          "description": "Win 1 games"
-        },
-        {
-          "wins": [
-            "Week 14 vs Rookie Mistake"
-          ],
-          "description": "Win 1 games"
-        }
-      ]
-    },
-    {
-      "team": "Abbey's TNT Team",
-      "rank": 5,
-      "current_record": "8-4",
-      "remaining_games": 2,
-      "clinch_number": 1,
-      "elimination_number": null,
-      "status": "ACTIVE",
-      "scenarios": [
-        {
-          "wins": [
-            "Week 13 vs Game of Zones - House Hamlin"
-          ],
-          "description": "Win 1 games"
-        },
-        {
-          "wins": [
-            "Week 14 vs Big Titi Energy"
-          ],
-          "description": "Win 1 games"
-        }
-      ]
-    },
-    {
       "team": "Rookie Mistake",
       "rank": 7,
-      "current_record": "7-5",
-      "remaining_games": 2,
-      "clinch_number": 2,
-      "elimination_number": 2,
+      "current_record": "7-6",
+      "remaining_games": 1,
+      "clinch_number": 1,
+      "elimination_number": 1,
       "status": "ACTIVE",
       "scenarios": [
         {
-          "wins": [
-            "Week 13 vs Big Titi Energy",
-            "Week 14 vs Game of Zones - House Hamlin"
-          ],
-          "description": "Win 2 games"
-        },
-        {
           "losses": [
-            "Week 13 vs Big Titi Energy",
             "Week 14 vs Game of Zones - House Hamlin"
           ],
-          "description": "Lose 2 games"
+          "description": "Lose 1 games"
         }
       ]
     },
     {
       "team": "Mcconky Donkeys",
       "rank": 8,
-      "current_record": "6-6",
-      "remaining_games": 2,
-      "clinch_number": 2,
+      "current_record": "7-6",
+      "remaining_games": 1,
+      "clinch_number": 1,
+      "elimination_number": 1,
+      "status": "ACTIVE",
+      "scenarios": [
+        {
+          "losses": [
+            "Week 14 vs Michael's Managable Team"
+          ],
+          "description": "Lose 1 games"
+        }
+      ]
+    },
+    {
+      "team": "Mama Daughter Duo",
+      "rank": 6,
+      "current_record": "7-6",
+      "remaining_games": 1,
+      "clinch_number": 1,
       "elimination_number": null,
       "status": "ACTIVE",
-      "scenarios": []
+      "scenarios": [
+        {
+          "wins": [
+            "Week 14 vs Americas Team"
+          ],
+          "description": "Win 1 games"
+        }
+      ]
     },
     {
       "team": "90s MonCon",
       "rank": 9,
-      "current_record": "4-8",
-      "remaining_games": 2,
-      "clinch_number": 2,
+      "current_record": "4-9",
+      "remaining_games": 1,
+      "clinch_number": 1,
       "elimination_number": null,
       "status": "ACTIVE",
       "scenarios": []
@@ -316,9 +214,9 @@
     {
       "team": "To Infinity and Bijan!",
       "rank": 10,
-      "current_record": "4-8",
-      "remaining_games": 2,
-      "clinch_number": 2,
+      "current_record": "4-9",
+      "remaining_games": 1,
+      "clinch_number": 1,
       "elimination_number": null,
       "status": "ACTIVE",
       "scenarios": []
@@ -326,9 +224,9 @@
     {
       "team": "Big Titi Energy",
       "rank": 11,
-      "current_record": "3-9",
-      "remaining_games": 2,
-      "clinch_number": 2,
+      "current_record": "4-9",
+      "remaining_games": 1,
+      "clinch_number": 1,
       "elimination_number": null,
       "status": "ACTIVE",
       "scenarios": []
@@ -336,9 +234,9 @@
     {
       "team": "Emma's Excellent Team",
       "rank": 12,
-      "current_record": "1-11",
-      "remaining_games": 2,
-      "clinch_number": 2,
+      "current_record": "1-12",
+      "remaining_games": 1,
+      "clinch_number": 1,
       "elimination_number": null,
       "status": "ACTIVE",
       "scenarios": []
@@ -346,8 +244,8 @@
     {
       "team": "Michael's Managable Team",
       "rank": 1,
-      "current_record": "8-4",
-      "remaining_games": 2,
+      "current_record": "9-4",
+      "remaining_games": 1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -356,8 +254,8 @@
     {
       "team": "Americas Team",
       "rank": 2,
-      "current_record": "8-4",
-      "remaining_games": 2,
+      "current_record": "9-4",
+      "remaining_games": 1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -366,8 +264,28 @@
     {
       "team": "Third Time's the Charm?",
       "rank": 3,
-      "current_record": "8-4",
-      "remaining_games": 2,
+      "current_record": "9-4",
+      "remaining_games": 1,
+      "clinch_number": null,
+      "elimination_number": null,
+      "status": "CLINCHED",
+      "scenarios": []
+    },
+    {
+      "team": "Abbey's TNT Team",
+      "rank": 4,
+      "current_record": "9-4",
+      "remaining_games": 1,
+      "clinch_number": null,
+      "elimination_number": null,
+      "status": "CLINCHED",
+      "scenarios": []
+    },
+    {
+      "team": "Game of Zones - House Hamlin",
+      "rank": 5,
+      "current_record": "8-5",
+      "remaining_games": 1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",

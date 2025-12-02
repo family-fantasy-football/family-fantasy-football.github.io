@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jalen Hurts",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.79,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "Chris Olave",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.09,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Rome Odunze",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.01,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "D'Andre Swift",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 9.95,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Emari Demercado",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 4.89,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Travis Kelce",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.05,
+    "opponent": "HOU"
+  },
+  {
+    "player_name": "DeVonta Smith",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.74,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "DK Metcalf",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.22,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Caleb Williams",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 17.0,
+    "opponent": "GB"
+  }
+]

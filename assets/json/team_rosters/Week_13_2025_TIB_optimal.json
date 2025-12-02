@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Kyler Murray",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 0.0,
+    "projected": 0.0
+  },
+  {
+    "player_name": "Tetairoa McMillan",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 10.8,
+    "projected": 10.57
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.8,
+    "projected": 8.44
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 15.5,
+    "projected": 13.83
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 9.6,
+    "projected": 17.73
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 13.45,
+    "projected": 10.18
+  },
+  {
+    "player_name": "Nick Chubb",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 9.4,
+    "projected": 4.77
+  },
+  {
+    "player_name": "Chris Godwin Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.3,
+    "projected": 6.55
+  },
+  {
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 7.9,
+    "projected": 3.75
+  }
+]

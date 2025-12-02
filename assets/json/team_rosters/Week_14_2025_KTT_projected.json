@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Tyrod Taylor",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 18.39,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Rashee Rice",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.18,
+    "opponent": "HOU"
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 9.98,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 21.28,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 7.63,
+    "opponent": "HOU"
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 6.94,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.11,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 6.69,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 17.8,
+    "opponent": "NO"
+  }
+]

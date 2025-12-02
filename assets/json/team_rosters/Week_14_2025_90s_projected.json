@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 17.92,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Nico Collins",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.86,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Jameson Williams",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.77,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 19.35,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Quinshon Judkins",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.18,
+    "opponent": "TEN"
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 11.76,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 11.4,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 11.19,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 14.49,
+    "opponent": "NYJ"
+  }
+]

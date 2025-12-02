@@ -21,14 +21,14 @@
     "team": "Third Time's the Charm?",
     "manager": "Christian Ratcliff",
     "paid": "Yes",
-    "high_scoring_weeks": 2,
-    "winnings": "$10",
+    "high_scoring_weeks": 3,
+    "winnings": "$15",
     "penalties": "$0",
-    "net": "$10"
+    "net": "$15"
   },
   {
-    "team": "Game of Zones - House Hamlin",
-    "manager": "Kyle Hamlin",
+    "team": "Abbey's TNT Team",
+    "manager": "Abbey Hamlin",
     "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",
@@ -36,8 +36,8 @@
     "net": "$5"
   },
   {
-    "team": "Abbey's TNT Team",
-    "manager": "Abbey Hamlin",
+    "team": "Game of Zones - House Hamlin",
+    "manager": "Kyle Hamlin",
     "paid": "Yes",
     "high_scoring_weeks": 1,
     "winnings": "$5",

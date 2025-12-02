@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Daniel Jones",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.2,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 15.82,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.2,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 21.42,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 10.62,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 9.75,
+    "opponent": "DET"
+  },
+  {
+    "player_name": "Woody Marks",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.17,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.07,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 16.14,
+    "opponent": "PHI"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Lamar Jackson",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 0.04,
+    "projected": 25.28
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.6,
+    "projected": 18.92
+  },
+  {
+    "player_name": "Nico Collins",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 19.0,
+    "projected": 13.52
+  },
+  {
+    "player_name": "Tua Tagovailoa",
+    "pos": "QB",
+    "slot": "OP",
+    "points": -0.32,
+    "projected": 17.35
+  },
+  {
+    "player_name": "Brock Bowers",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 21.3,
+    "projected": 12.98
+  },
+  {
+    "player_name": "Jaylen Waddle",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.5,
+    "projected": 11.59
+  },
+  {
+    "player_name": "Jaylen Warren",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 11.4,
+    "projected": 12.88
+  },
+  {
+    "player_name": "Quinshon Judkins",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 14.4,
+    "projected": 12.55
+  },
+  {
+    "player_name": "Michael Wilson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.1,
+    "projected": 9.24
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.62,
+    "projected": 23.13
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 30.2,
+    "projected": 13.9
+  },
+  {
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.3,
+    "projected": 10.39
+  },
+  {
+    "player_name": "Chuba Hubbard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.4,
+    "projected": 5.16
+  },
+  {
+    "player_name": "Kyle Monangai",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 19.0,
+    "projected": 7.53
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 20.2,
+    "projected": 15.52
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 14.5,
+    "projected": 17.63
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 10.8,
+    "projected": 9.42
+  },
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 13.24,
+    "projected": 20.08
+  }
+]

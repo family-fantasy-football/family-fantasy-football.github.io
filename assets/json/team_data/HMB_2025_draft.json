@@ -4,23 +4,23 @@
     "round": 1,
     "pick": 2,
     "player_name": "Josh Allen",
-    "points": "306.5",
-    "before_trade": "306.5",
+    "points": "324.7",
+    "before_trade": "324.7",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "21.3",
-    "grade": "A"
+    "value_diff": "15.8",
+    "grade": "B"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 2,
     "pick": 11,
     "player_name": "Derrick Henry",
-    "points": "152.4",
-    "before_trade": "152.4",
+    "points": "169.3",
+    "before_trade": "169.3",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-40.2",
+    "value_diff": "-39.3",
     "grade": "C"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "180.8",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "16.8",
+    "value_diff": "3.2",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 11,
     "player_name": "Jordan Love",
-    "points": "207.4",
-    "before_trade": "207.4",
+    "points": "238.2",
+    "before_trade": "238.2",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "-3.3",
+    "value_diff": "9.9",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "29.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-131.2",
+    "value_diff": "-144.6",
     "grade": "D"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "96.9",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-25.3",
+    "value_diff": "-35.5",
     "grade": "B"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 2,
     "player_name": "Zay Flowers",
-    "points": "113.3",
-    "before_trade": "113.3",
+    "points": "112.9",
+    "before_trade": "112.9",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "-24.9",
+    "value_diff": "-36.8",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "83.0",
-    "before_trade": "83.0",
+    "points": "87.3",
+    "before_trade": "87.3",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-105.9",
+    "value_diff": "-117.3",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 2,
     "player_name": "Jacory Croskey-Merritt",
-    "points": "81.1",
-    "before_trade": "81.1",
+    "points": "83.1",
+    "before_trade": "83.1",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-25.7",
+    "value_diff": "-32.6",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "109.2",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "7.4",
+    "value_diff": "-1.1",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "111.2",
-    "before_trade": "111.2",
+    "points": "116.2",
+    "before_trade": "116.2",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-10.3",
+    "value_diff": "-15.4",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "-68.0",
+    "value_diff": "-75.9",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "7.3",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-55.2",
+    "value_diff": "-60.4",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-76.0",
+    "value_diff": "-82.7",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.6",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "-54.2",
+    "value_diff": "-58.8",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 191,
-    "value_diff": "-56.0",
+    "value_diff": "-61.2",
     "grade": "C"
   }
 ]

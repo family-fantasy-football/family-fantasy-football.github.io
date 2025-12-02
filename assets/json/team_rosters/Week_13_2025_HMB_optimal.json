@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 30.76,
+    "projected": 16.21
+  },
+  {
+    "player_name": "Alec Pierce",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 15.8,
+    "projected": 8.29
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.0,
+    "projected": 9.64
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.9,
+    "projected": 19.72
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.5,
+    "projected": 8.81
+  },
+  {
+    "player_name": "Darnell Washington",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.0,
+    "projected": 4.51
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.5,
+    "projected": 11.05
+  },
+  {
+    "player_name": "Jordan Mason",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 5.3,
+    "projected": 5.41
+  },
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 18.22,
+    "projected": 23.13
+  }
+]
