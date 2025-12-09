@@ -4,12 +4,12 @@
     "round": 1,
     "pick": 9,
     "player_name": "Justin Jefferson",
-    "points": "123.3",
-    "before_trade": "123.3",
+    "points": "125.4",
+    "before_trade": "125.4",
     "after_trade": "0.0",
     "draft_position": 9,
-    "value_diff": "-75.3",
-    "grade": "C"
+    "value_diff": "-88.5",
+    "grade": "D"
   },
   {
     "team": "To Infinity and Bijan!",
@@ -20,7 +20,7 @@
     "before_trade": "93.8",
     "after_trade": "0.0",
     "draft_position": 16,
-    "value_diff": "-182.5",
+    "value_diff": "-203.7",
     "grade": "D"
   },
   {
@@ -32,7 +32,7 @@
     "before_trade": "48.1",
     "after_trade": "0.0",
     "draft_position": 33,
-    "value_diff": "-141.4",
+    "value_diff": "-156.0",
     "grade": "D"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 4,
     "player_name": "Josh Jacobs",
-    "points": "176.1",
-    "before_trade": "176.1",
+    "points": "192.3",
+    "before_trade": "192.3",
     "after_trade": "0.0",
     "draft_position": 40,
-    "value_diff": "-24.4",
+    "value_diff": "-23.6",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "30.9",
     "after_trade": "101.5",
     "draft_position": 57,
-    "value_diff": "-22.3",
+    "value_diff": "-34.2",
     "grade": "B"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "144.7",
     "after_trade": "0.0",
     "draft_position": 64,
-    "value_diff": "-88.9",
+    "value_diff": "-106.9",
     "grade": "D"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "147.1",
     "after_trade": "0.0",
     "draft_position": 81,
-    "value_diff": "-1.1",
+    "value_diff": "-12.5",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 4,
     "player_name": "Mark Andrews",
-    "points": "101.5",
-    "before_trade": "101.5",
+    "points": "103.1",
+    "before_trade": "103.1",
     "after_trade": "0.0",
     "draft_position": 88,
-    "value_diff": "-19.4",
+    "value_diff": "-27.1",
     "grade": "B"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 9,
     "player_name": "Keon Coleman",
-    "points": "72.9",
-    "before_trade": "72.9",
+    "points": "75.5",
+    "before_trade": "75.5",
     "after_trade": "0.0",
     "draft_position": 105,
-    "value_diff": "-59.3",
+    "value_diff": "-66.8",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 4,
     "player_name": "Javonte Williams",
-    "points": "179.8",
-    "before_trade": "179.8",
+    "points": "193.5",
+    "before_trade": "193.5",
     "after_trade": "0.0",
     "draft_position": 112,
-    "value_diff": "29.3",
+    "value_diff": "31.4",
     "grade": "A"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 9,
     "player_name": "Nick Chubb",
-    "points": "76.7",
-    "before_trade": "76.7",
+    "points": "77.0",
+    "before_trade": "77.0",
     "after_trade": "0.0",
     "draft_position": 129,
-    "value_diff": "-10.2",
+    "value_diff": "-16.6",
     "grade": "B"
   },
   {
@@ -136,11 +136,11 @@
     "round": 12,
     "pick": 4,
     "player_name": "Darnell Mooney",
-    "points": "48.8",
-    "before_trade": "48.8",
+    "points": "49.9",
+    "before_trade": "49.9",
     "after_trade": "0.0",
     "draft_position": 136,
-    "value_diff": "-52.1",
+    "value_diff": "-58.8",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 9,
     "player_name": "Kyle Pitts Sr.",
-    "points": "102.1",
-    "before_trade": "102.1",
+    "points": "115.6",
+    "before_trade": "115.6",
     "after_trade": "0.0",
     "draft_position": 153,
-    "value_diff": "2.2",
+    "value_diff": "8.0",
     "grade": "B"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "0.2",
     "after_trade": "0.0",
     "draft_position": 160,
-    "value_diff": "-57.0",
+    "value_diff": "-61.4",
     "grade": "C"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "11.2",
     "after_trade": "0.0",
     "draft_position": 177,
-    "value_diff": "-24.0",
+    "value_diff": "-26.7",
     "grade": "B"
   },
   {
@@ -184,11 +184,11 @@
     "round": 16,
     "pick": 4,
     "player_name": "Quentin Johnston",
-    "points": "113.2",
-    "before_trade": "113.2",
+    "points": "115.0",
+    "before_trade": "115.0",
     "after_trade": "0.0",
     "draft_position": 184,
-    "value_diff": "8.5",
+    "value_diff": "2.2",
     "grade": "B"
   }
 ]

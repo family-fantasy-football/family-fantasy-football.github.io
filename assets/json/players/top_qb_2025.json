@@ -1,82 +1,82 @@
 [
   {
+    "player_name": "Josh Allen",
+    "team": "Game of Zones - House Hamlin",
+    "draft": "1.2",
+    "overall_pick": 2,
+    "points": 373.52,
+    "projected": 332.65
+  },
+  {
     "player_name": "Drake Maye",
     "team": "Michael's Managable Team",
     "draft": "3.6",
     "overall_pick": 30,
     "points": 333.08,
-    "projected": 253.53
-  },
-  {
-    "player_name": "Josh Allen",
-    "team": "Game of Zones - House Hamlin",
-    "draft": "1.2",
-    "overall_pick": 2,
-    "points": 324.68,
-    "projected": 308.89
-  },
-  {
-    "player_name": "Dak Prescott",
-    "team": "Third Time's the Charm?",
-    "draft": "3.3",
-    "overall_pick": 27,
-    "points": 308.34,
-    "projected": 257.6
+    "projected": 273.03
   },
   {
     "player_name": "Matthew Stafford",
     "team": "Americas Team",
     "draft": "7.5",
     "overall_pick": 77,
-    "points": 297.92,
-    "projected": 246.63
+    "points": 329.16,
+    "projected": 265.6
   },
   {
-    "player_name": "Patrick Mahomes",
+    "player_name": "Dak Prescott",
     "team": "Third Time's the Charm?",
-    "draft": "1.12",
-    "overall_pick": 12,
-    "points": 296.82,
-    "projected": 298.22
-  },
-  {
-    "player_name": "Jalen Hurts",
-    "team": "Mama Daughter Duo",
-    "draft": "1.10",
-    "overall_pick": 10,
-    "points": 282.46,
-    "projected": 313.67
+    "draft": "3.3",
+    "overall_pick": 27,
+    "points": 328.28,
+    "projected": 277.41
   },
   {
     "player_name": "Jared Goff",
     "team": "Rookie Mistake",
     "draft": "3.7",
     "overall_pick": 31,
-    "points": 279.6,
-    "projected": 252.99
+    "points": 301.26,
+    "projected": 272.45
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "team": "Third Time's the Charm?",
+    "draft": "1.12",
+    "overall_pick": 12,
+    "points": 290.62,
+    "projected": 321.16
+  },
+  {
+    "player_name": "Jalen Hurts",
+    "team": "Mama Daughter Duo",
+    "draft": "1.10",
+    "overall_pick": 10,
+    "points": 274.36,
+    "projected": 337.8
   },
   {
     "player_name": "Daniel Jones",
     "team": "Michael's Managable Team",
     "draft": "14.7",
     "overall_pick": 163,
-    "points": 270.64,
-    "projected": 170.75
+    "points": 271.94,
+    "projected": 183.89
   },
   {
     "player_name": "Justin Herbert",
     "team": "Michael's Managable Team",
     "draft": "2.7",
     "overall_pick": 19,
-    "points": 262.48,
-    "projected": 246.4
+    "points": 268.64,
+    "projected": 265.36
   },
   {
     "player_name": "Jordan Love",
     "team": "Game of Zones - House Hamlin",
     "draft": "4.11",
     "overall_pick": 47,
-    "points": 238.16,
-    "projected": 228.22
+    "points": 263.92,
+    "projected": 245.77
   }
 ]

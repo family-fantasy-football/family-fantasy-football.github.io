@@ -41,8 +41,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Combined Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">151.54</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 12: Mcconky Donkeys vs To Infinity and Bijan! (77.92-73.62)</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">136.63</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 14: Michael's Managable Team vs Mcconky Donkeys (97.21-39.42)</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
@@ -53,8 +53,8 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Lowest Single Game Score</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">60.54</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 8: Americas Team vs Michael's Managable Team</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">39.42</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 14: Mcconky Donkeys vs Michael's Managable Team</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">

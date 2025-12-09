@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 32.86,
+    "projected": 18.1
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 24.6,
+    "projected": 17.26
+  },
+  {
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.9,
+    "projected": 10.1
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 20.7,
+    "projected": 10.52
+  },
+  {
+    "player_name": "David Montgomery",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.8,
+    "projected": 9.78
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 9.55,
+    "projected": 13.84
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 13.0,
+    "projected": 13.37
+  },
+  {
+    "player_name": "Cooper Kupp",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 10.5,
+    "projected": 7.08
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 31.24,
+    "projected": 22.69
+  }
+]

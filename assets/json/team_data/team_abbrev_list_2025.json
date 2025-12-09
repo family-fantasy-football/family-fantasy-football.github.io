@@ -1,19 +1,19 @@
 [
   {
-    "name": "Michael's Managable Team",
-    "abbrev": "MMT"
-  },
-  {
     "name": "Americas Team",
     "abbrev": "RRT"
   },
   {
-    "name": "Third Time's the Charm?",
-    "abbrev": "TTC"
+    "name": "Michael's Managable Team",
+    "abbrev": "MMT"
   },
   {
     "name": "Abbey's TNT Team",
     "abbrev": "ARV"
+  },
+  {
+    "name": "Third Time's the Charm?",
+    "abbrev": "TTC"
   },
   {
     "name": "Game of Zones - House Hamlin",

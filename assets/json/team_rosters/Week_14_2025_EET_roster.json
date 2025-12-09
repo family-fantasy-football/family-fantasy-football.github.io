@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 18.2,
+    "projected": 12.95
+  },
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 0,
+    "projected": 0.0
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 0,
+    "projected": 0.0
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 28.1,
+    "projected": 9.34
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 12.8,
+    "projected": 8.99
+  },
+  {
+    "player_name": "Rashid Shaheed",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.7,
+    "projected": 6.78
+  },
+  {
+    "player_name": "Hollywood Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 4.0,
+    "projected": 2.31
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 18.86,
+    "projected": 15.91
+  },
+  {
+    "player_name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 7.6,
+    "projected": 11.28
+  }
+]

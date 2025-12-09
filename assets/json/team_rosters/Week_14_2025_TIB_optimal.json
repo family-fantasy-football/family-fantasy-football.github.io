@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Aaron Rodgers",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 23.46,
+    "projected": 12.21
+  },
+  {
+    "player_name": "Chris Godwin Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.0,
+    "projected": 8.89
+  },
+  {
+    "player_name": "Keon Coleman",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 2.6,
+    "projected": 5.67
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.2,
+    "projected": 19.89
+  },
+  {
+    "player_name": "Javonte Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 13.7,
+    "projected": 13.0
+  },
+  {
+    "player_name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 13.5,
+    "projected": 9.54
+  },
+  {
+    "player_name": "Malik Washington",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 2.5,
+    "projected": 6.92
+  },
+  {
+    "player_name": "Justin Jefferson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 2.1,
+    "projected": 12.58
+  },
+  {
+    "player_name": "Quentin Johnston",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 1.8,
+    "projected": 7.28
+  }
+]

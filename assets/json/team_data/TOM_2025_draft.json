@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-305.3",
+    "value_diff": "-330.0",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "156.1",
-    "before_trade": "156.1",
+    "points": "160.9",
+    "before_trade": "160.9",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-50.9",
+    "value_diff": "-62.0",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "279.6",
-    "before_trade": "279.6",
+    "points": "301.3",
+    "before_trade": "301.3",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "26.6",
+    "value_diff": "28.8",
     "grade": "A"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 6,
     "player_name": "James Cook III",
-    "points": "209.9",
-    "before_trade": "209.9",
+    "points": "220.0",
+    "before_trade": "220.0",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "17.5",
+    "value_diff": "12.8",
     "grade": "B"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "67.0",
-    "before_trade": "67.0",
+    "points": "80.7",
+    "before_trade": "80.7",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-115.8",
+    "value_diff": "-116.1",
     "grade": "D"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "105.4",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "-46.6",
+    "value_diff": "-58.3",
     "grade": "C"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "42.2",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-87.2",
+    "value_diff": "-97.2",
     "grade": "D"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "49.8",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-82.3",
+    "value_diff": "-92.5",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "141.5",
-    "before_trade": "141.5",
+    "points": "144.7",
+    "before_trade": "144.7",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "26.9",
+    "value_diff": "21.3",
     "grade": "A"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "110.4",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "-6.1",
+    "value_diff": "-15.1",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-94.2",
+    "value_diff": "-102.1",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-44.7",
+    "value_diff": "-49.2",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "185.4",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "81.2",
+    "value_diff": "73.2",
     "grade": "A"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "108.7",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "29.8",
+    "value_diff": "23.7",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-85.0",
+    "value_diff": "-91.5",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "39.0",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-53.5",
+    "value_diff": "-60.6",
     "grade": "C"
   }
 ]

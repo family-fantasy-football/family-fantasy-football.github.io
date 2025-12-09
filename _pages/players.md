@@ -19,16 +19,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Drake Maye (333.08 pts) owned by Michael's Managable Team
+* **QB:** Josh Allen (373.52 pts) owned by Game of Zones - House Hamlin
 
-* **RB:** Christian McCaffrey (285.0 pts) owned by Mama Daughter Duo
+* **RB:** Jonathan Taylor (291.5 pts) owned by 90s MonCon
 
-* **WR:** Jaxon Smith-Njigba (218.3 pts) owned by Americas Team
+* **WR:** Jaxon Smith-Njigba (242.9 pts) owned by Americas Team
 
-* **TE:** Trey McBride (201.9 pts) owned by Americas Team
+* **TE:** Trey McBride (211.45 pts) owned by Americas Team
 
 
-Below are the top 10 performers at each position through Week 13.
+Below are the top 10 performers at each position through Week 14.
 
 
 

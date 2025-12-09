@@ -1,5 +1,14 @@
 [
   {
+    "team": "Americas Team",
+    "manager": "Ryan Ratcliff",
+    "paid": "Yes",
+    "high_scoring_weeks": 3,
+    "winnings": "$15",
+    "penalties": "$0",
+    "net": "$15"
+  },
+  {
     "team": "Michael's Managable Team",
     "manager": "Michael Ratcliff",
     "paid": "Yes",
@@ -9,13 +18,13 @@
     "net": "$10"
   },
   {
-    "team": "Americas Team",
-    "manager": "Ryan Ratcliff",
+    "team": "Abbey's TNT Team",
+    "manager": "Abbey Hamlin",
     "paid": "Yes",
-    "high_scoring_weeks": 2,
-    "winnings": "$10",
+    "high_scoring_weeks": 1,
+    "winnings": "$5",
     "penalties": "$0",
-    "net": "$10"
+    "net": "$5"
   },
   {
     "team": "Third Time's the Charm?",
@@ -25,15 +34,6 @@
     "winnings": "$15",
     "penalties": "$0",
     "net": "$15"
-  },
-  {
-    "team": "Abbey's TNT Team",
-    "manager": "Abbey Hamlin",
-    "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
-    "penalties": "$0",
-    "net": "$5"
   },
   {
     "team": "Game of Zones - House Hamlin",

@@ -26,21 +26,10 @@
   "week": 9,
   "player_name": "Jacoby Brissett",
   "position": "QB",
-  "total_points": "60.6",
-  "avg_per_week": "30.3",
-  "points_above_prev": "14.7",
-  "weeks_played": 2,
-  "type": "WAIVER"
- },
- {
-  "team": "Big Titi Energy",
-  "week": 1,
-  "player_name": "Juwan Johnson",
-  "position": "TE",
-  "total_points": "51.8",
-  "avg_per_week": "8.6",
-  "points_above_prev": "8.6",
-  "weeks_played": 6,
+  "total_points": "77.1",
+  "avg_per_week": "25.7",
+  "points_above_prev": "10.1",
+  "weeks_played": 3,
   "type": "WAIVER"
  },
  {
@@ -48,10 +37,21 @@
   "week": 3,
   "player_name": "Kareem Hunt",
   "position": "RB",
-  "total_points": "51.7",
-  "avg_per_week": "12.9",
-  "points_above_prev": "9.2",
-  "weeks_played": 4,
+  "total_points": "60.7",
+  "avg_per_week": "12.1",
+  "points_above_prev": "8.4",
+  "weeks_played": 5,
+  "type": "WAIVER"
+ },
+ {
+  "team": "Big Titi Energy",
+  "week": 1,
+  "player_name": "Juwan Johnson",
+  "position": "TE",
+  "total_points": "58.6",
+  "avg_per_week": "8.4",
+  "points_above_prev": "8.4",
+  "weeks_played": 7,
   "type": "WAIVER"
  }
 ]

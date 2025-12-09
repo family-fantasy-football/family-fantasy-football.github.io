@@ -4,23 +4,23 @@
     "round": 1,
     "pick": 2,
     "player_name": "Josh Allen",
-    "points": "324.7",
-    "before_trade": "324.7",
+    "points": "373.5",
+    "before_trade": "373.5",
     "after_trade": "0.0",
     "draft_position": 2,
-    "value_diff": "15.8",
-    "grade": "B"
+    "value_diff": "40.9",
+    "grade": "A"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 2,
     "pick": 11,
     "player_name": "Derrick Henry",
-    "points": "169.3",
-    "before_trade": "169.3",
+    "points": "180.0",
+    "before_trade": "180.0",
     "after_trade": "0.0",
     "draft_position": 23,
-    "value_diff": "-39.3",
+    "value_diff": "-44.7",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 2,
     "player_name": "Amon-Ra St. Brown",
-    "points": "180.8",
-    "before_trade": "180.8",
+    "points": "193.0",
+    "before_trade": "193.0",
     "after_trade": "0.0",
     "draft_position": 26,
-    "value_diff": "3.2",
+    "value_diff": "1.7",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 11,
     "player_name": "Jordan Love",
-    "points": "238.2",
-    "before_trade": "238.2",
+    "points": "263.9",
+    "before_trade": "263.9",
     "after_trade": "0.0",
     "draft_position": 47,
-    "value_diff": "9.9",
+    "value_diff": "18.1",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "29.3",
     "after_trade": "0.0",
     "draft_position": 50,
-    "value_diff": "-144.6",
+    "value_diff": "-157.9",
     "grade": "D"
   },
   {
@@ -68,19 +68,19 @@
     "before_trade": "96.9",
     "after_trade": "0.0",
     "draft_position": 71,
-    "value_diff": "-35.5",
-    "grade": "B"
+    "value_diff": "-45.7",
+    "grade": "C"
   },
   {
     "team": "Game of Zones: House Hamlin",
     "round": 7,
     "pick": 2,
     "player_name": "Zay Flowers",
-    "points": "112.9",
-    "before_trade": "112.9",
+    "points": "129.5",
+    "before_trade": "129.5",
     "after_trade": "0.0",
     "draft_position": 74,
-    "value_diff": "-36.8",
+    "value_diff": "-31.7",
     "grade": "B"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 11,
     "player_name": "Cam Ward",
-    "points": "87.3",
-    "before_trade": "87.3",
+    "points": "95.4",
+    "before_trade": "95.4",
     "after_trade": "0.0",
     "draft_position": 95,
-    "value_diff": "-117.3",
+    "value_diff": "-125.0",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 2,
     "player_name": "Jacory Croskey-Merritt",
-    "points": "83.1",
-    "before_trade": "83.1",
+    "points": "86.3",
+    "before_trade": "86.3",
     "after_trade": "0.0",
     "draft_position": 98,
-    "value_diff": "-32.6",
+    "value_diff": "-38.3",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "109.2",
     "after_trade": "0.0",
     "draft_position": 119,
-    "value_diff": "-1.1",
+    "value_diff": "-9.5",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 2,
     "player_name": "Keenan Allen",
-    "points": "116.2",
-    "before_trade": "116.2",
+    "points": "119.9",
+    "before_trade": "119.9",
     "after_trade": "0.0",
     "draft_position": 122,
-    "value_diff": "-15.4",
+    "value_diff": "-21.8",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "27.0",
     "after_trade": "0.0",
     "draft_position": 143,
-    "value_diff": "-75.9",
+    "value_diff": "-83.8",
     "grade": "C"
   },
   {
@@ -152,7 +152,7 @@
     "before_trade": "7.3",
     "after_trade": "0.0",
     "draft_position": 146,
-    "value_diff": "-60.4",
+    "value_diff": "-65.7",
     "grade": "C"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "4.5",
     "after_trade": "0.0",
     "draft_position": 167,
-    "value_diff": "-82.7",
+    "value_diff": "-89.4",
     "grade": "D"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.6",
     "after_trade": "0.0",
     "draft_position": 170,
-    "value_diff": "-58.8",
+    "value_diff": "-63.3",
     "grade": "C"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "6.6",
     "after_trade": "0.0",
     "draft_position": 191,
-    "value_diff": "-61.2",
+    "value_diff": "-66.5",
     "grade": "C"
   }
 ]
