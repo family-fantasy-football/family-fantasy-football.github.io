@@ -72,21 +72,21 @@ pretty_table: True
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Most Points For</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1762.02</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Hamlin My Business </div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1840.75</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Americas Team</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Most Points Against</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1757.48</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Hit and Ruggs</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1774.18</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Big Titi Energy</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Least Points For</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1438.72</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Abbey Road to Victory</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">1241.92</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Emma's Excellent Team</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 8px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best Win Percentage</div>
