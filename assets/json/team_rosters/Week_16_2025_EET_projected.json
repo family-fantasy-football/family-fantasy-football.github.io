@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Brock Purdy",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 20.74,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Drake London",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.78,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Courtland Sutton",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.55,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Saquon Barkley",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 17.61,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.58,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "George Kittle",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 13.71,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Tony Pollard",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 11.28,
+    "opponent": "KC"
+  },
+  {
+    "player_name": "Jakobi Meyers",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.27,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 15.86,
+    "opponent": "DEN"
+  }
+]

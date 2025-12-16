@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 19.27,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 13.84,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 8.93,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.27,
+    "opponent": "TB"
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.69,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.28,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 12.61,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 12.56,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 19.25,
+    "opponent": "LAC"
+  }
+]

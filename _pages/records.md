@@ -115,10 +115,10 @@ pretty_table: True
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 30px auto; max-width: 900px;">
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best QB Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">51.88</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 14: Josh Allen</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Fantasy Guru Kayden</div>
-    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2024</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">52.3</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 15: Trevor Lawrence</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">Emma's Excellent Team</div>
+    <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best WR Game</div>
@@ -136,9 +136,9 @@ pretty_table: True
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); color: white;">
     <div style="font-size: 14px; opacity: 0.9; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Best TE Game</div>
-    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">40.3</div>
-    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 9: Brock Bowers</div>
-    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">90s MonCon</div>
+    <div style="font-size: 42px; font-weight: 700; margin-bottom: 10px;">42.85</div>
+    <div style="font-size: 16px; opacity: 0.95; line-height: 1.4;">Week 15: Kyle Pitts Sr.</div>
+    <div style="font-size: 14px; opacity: 0.9; margin-top: 5px;">To Infinity and Bijan!</div>
     <div style="font-size: 14px; opacity: 0.8; margin-top: 5px;">Year: 2025</div>
   </div>
 </div>

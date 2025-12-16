@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.92,
+    "projected": 14.1
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.8,
+    "projected": 8.47
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.1,
+    "projected": 14.18
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 29.1,
+    "projected": 11.27
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 23.2,
+    "projected": 12.51
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 3.35,
+    "projected": 7.34
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 12.5,
+    "projected": 13.31
+  },
+  {
+    "player_name": "Rico Dowdle",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 11.9,
+    "projected": 11.78
+  },
+  {
+    "player_name": "RJ Harvey",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 10.5,
+    "projected": 12.94
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Joe Burrow",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 21.92,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 17.22,
+    "opponent": "LAR"
+  },
+  {
+    "player_name": "Ja'Marr Chase",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 15.6,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 12.65,
+    "opponent": "DEN"
+  },
+  {
+    "player_name": "Kyle Monangai",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 9.71,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Trey McBride",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 15.06,
+    "opponent": "ATL"
+  },
+  {
+    "player_name": "A.J. Brown",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 14.55,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Christian Watson",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 10.12,
+    "opponent": "CHI"
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 17.69,
+    "opponent": "SEA"
+  }
+]

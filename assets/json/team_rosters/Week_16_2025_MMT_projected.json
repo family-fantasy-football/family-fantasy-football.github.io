@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 22.96,
+    "opponent": "BAL"
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 12.2,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 11.56,
+    "opponent": "LAC"
+  },
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 21.4,
+    "opponent": "PIT"
+  },
+  {
+    "player_name": "Woody Marks",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.2,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.99,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Alvin Kamara",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.71,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.8,
+    "opponent": "SF"
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 22.6,
+    "opponent": "DAL"
+  }
+]

@@ -1664,6 +1664,22 @@
   "bid_amount": 12
  },
  {
+  "team": "Game of Zones - House Hamlin",
+  "week": 14,
+  "player_name": "Cam Ward",
+  "position": "QB",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 14,
+  "player_name": "Shedeur Sanders",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 10
+ },
+ {
   "team": "Mcconky Donkeys",
   "week": 14,
   "player_name": "Darius Slayton",
@@ -1686,5 +1702,29 @@
   "position": "RB",
   "type": "WAIVER",
   "bid_amount": 10
+ },
+ {
+  "team": "Michael's Managable Team",
+  "week": 15,
+  "player_name": "Darius Slayton",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 15
+ },
+ {
+  "team": "Michael's Managable Team",
+  "week": 15,
+  "player_name": "Tre' Harris",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Michael's Managable Team",
+  "week": 15,
+  "player_name": "J.J. McCarthy",
+  "position": "QB",
+  "type": "WAIVER",
+  "bid_amount": 20
  }
 ]

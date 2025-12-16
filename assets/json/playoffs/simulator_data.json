@@ -1,5 +1,5 @@
 {
-  "current_week": 14,
+  "current_week": 15,
   "regular_season_weeks": 14,
   "current_standings": [
     {
@@ -108,10 +108,70 @@
   },
   "magic_numbers": [
     {
+      "team": "Rookie Mistake",
+      "rank": 7,
+      "current_record": "7-7",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
+      "team": "Mcconky Donkeys",
+      "rank": 8,
+      "current_record": "7-7",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
+      "team": "90s MonCon",
+      "rank": 9,
+      "current_record": "5-9",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
+      "team": "To Infinity and Bijan!",
+      "rank": 10,
+      "current_record": "4-10",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
+      "team": "Big Titi Energy",
+      "rank": 11,
+      "current_record": "4-10",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
+      "team": "Emma's Excellent Team",
+      "rank": 12,
+      "current_record": "2-12",
+      "remaining_games": -1,
+      "clinch_number": 0,
+      "elimination_number": null,
+      "status": "ACTIVE",
+      "scenarios": []
+    },
+    {
       "team": "Americas Team",
       "rank": 1,
       "current_record": "10-4",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -121,7 +181,7 @@
       "team": "Michael's Managable Team",
       "rank": 2,
       "current_record": "10-4",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -131,7 +191,7 @@
       "team": "Abbey's TNT Team",
       "rank": 3,
       "current_record": "10-4",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -141,7 +201,7 @@
       "team": "Third Time's the Charm?",
       "rank": 4,
       "current_record": "9-5",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -151,7 +211,7 @@
       "team": "Game of Zones - House Hamlin",
       "rank": 5,
       "current_record": "9-5",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
@@ -161,70 +221,10 @@
       "team": "Mama Daughter Duo",
       "rank": 6,
       "current_record": "7-7",
-      "remaining_games": 0,
+      "remaining_games": -1,
       "clinch_number": null,
       "elimination_number": null,
       "status": "CLINCHED",
-      "scenarios": []
-    },
-    {
-      "team": "Rookie Mistake",
-      "rank": 7,
-      "current_record": "7-7",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
-      "scenarios": []
-    },
-    {
-      "team": "Mcconky Donkeys",
-      "rank": 8,
-      "current_record": "7-7",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
-      "scenarios": []
-    },
-    {
-      "team": "90s MonCon",
-      "rank": 9,
-      "current_record": "5-9",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
-      "scenarios": []
-    },
-    {
-      "team": "To Infinity and Bijan!",
-      "rank": 10,
-      "current_record": "4-10",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
-      "scenarios": []
-    },
-    {
-      "team": "Big Titi Energy",
-      "rank": 11,
-      "current_record": "4-10",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
-      "scenarios": []
-    },
-    {
-      "team": "Emma's Excellent Team",
-      "rank": 12,
-      "current_record": "2-12",
-      "remaining_games": 0,
-      "clinch_number": null,
-      "elimination_number": null,
-      "status": "ELIMINATED",
       "scenarios": []
     }
   ]

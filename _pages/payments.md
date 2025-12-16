@@ -47,9 +47,9 @@ data-url="{{ "/assets/json/payments/current_season.json" }}">
 ### Payout Structure
 
 - **Weekly High Score**: $5 per week (all weeks, including playoffs)
-- **Weekly High Score Total**: $90
+- **Weekly High Score Total**: $85
 - **2nd Place**: $15 (buy-in back)
-- **1st Place**: $75 (remainder + penalties)
+- **1st Place**: $80 (remainder + penalties)
 
 
 ### Payment Information

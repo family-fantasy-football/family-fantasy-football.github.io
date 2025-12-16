@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "J.J. McCarthy",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 26.0,
+    "projected": 16.58
+  },
+  {
+    "player_name": "Ricky Pearsall",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.6,
+    "projected": 7.04
+  },
+  {
+    "player_name": "Davante Adams",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 9.1,
+    "projected": 14.05
+  },
+  {
+    "player_name": "Woody Marks",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.3,
+    "projected": 14.34
+  },
+  {
+    "player_name": "Bhayshul Tuten",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 8.8,
+    "projected": 6.31
+  },
+  {
+    "player_name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 10.25,
+    "projected": 10.01
+  },
+  {
+    "player_name": "T.J. Hockenson",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 9.6,
+    "projected": 7.96
+  },
+  {
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 9.0,
+    "projected": 8.3
+  },
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 18.5,
+    "projected": 25.7
+  }
+]

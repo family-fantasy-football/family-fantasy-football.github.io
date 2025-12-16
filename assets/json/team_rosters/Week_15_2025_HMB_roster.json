@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Josh Allen",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 31.02,
+    "projected": 24.02
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.0,
+    "projected": 16.84
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 34.9,
+    "projected": 16.89
+  },
+  {
+    "player_name": "Jordan Love",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 11.94,
+    "projected": 16.11
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 14.3,
+    "projected": 10.57
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.1,
+    "projected": 10.36
+  },
+  {
+    "player_name": "Kareem Hunt",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 2.5,
+    "projected": 9.37
+  },
+  {
+    "player_name": "Colby Parkinson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 23.25,
+    "projected": 8.49
+  },
+  {
+    "player_name": "Jerry Jeudy",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 3.2,
+    "projected": 7.78
+  }
+]

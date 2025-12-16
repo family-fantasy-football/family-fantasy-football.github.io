@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Bo Nix",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 18.01,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Puka Nacua",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 15.92,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Deebo Samuel",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.16,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Bijan Robinson",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 21.44,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "Kyren Williams",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 10.84,
+    "opponent": "SEA"
+  },
+  {
+    "player_name": "Colston Loveland",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 8.27,
+    "opponent": "GB"
+  },
+  {
+    "player_name": "Emeka Egbuka",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "projected": 9.19,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Dylan Sampson",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 6.1,
+    "opponent": "BUF"
+  },
+  {
+    "player_name": "Geno Smith",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 9.22,
+    "opponent": "HOU"
+  }
+]

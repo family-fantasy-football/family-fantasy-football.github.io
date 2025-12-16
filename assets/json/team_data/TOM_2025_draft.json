@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-330.0",
+    "value_diff": "-354.7",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "160.9",
-    "before_trade": "160.9",
+    "points": "167.1",
+    "before_trade": "167.1",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-62.0",
+    "value_diff": "-71.7",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "301.3",
-    "before_trade": "301.3",
+    "points": "329.3",
+    "before_trade": "329.3",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "28.8",
+    "value_diff": "37.4",
     "grade": "A"
   },
   {
@@ -40,23 +40,23 @@
     "round": 4,
     "pick": 6,
     "player_name": "James Cook III",
-    "points": "220.0",
-    "before_trade": "220.0",
+    "points": "250.1",
+    "before_trade": "250.1",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "12.8",
-    "grade": "B"
+    "value_diff": "28.1",
+    "grade": "A"
   },
   {
     "team": "Rookie Mistake",
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "80.7",
-    "before_trade": "80.7",
+    "points": "87.7",
+    "before_trade": "87.7",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-116.1",
+    "value_diff": "-123.2",
     "grade": "D"
   },
   {
@@ -68,7 +68,7 @@
     "before_trade": "105.4",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "-58.3",
+    "value_diff": "-70.0",
     "grade": "C"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "42.2",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-97.2",
+    "value_diff": "-107.1",
     "grade": "D"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "49.8",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-92.5",
+    "value_diff": "-102.7",
     "grade": "D"
   },
   {
@@ -100,12 +100,12 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "144.7",
-    "before_trade": "144.7",
+    "points": "148.8",
+    "before_trade": "148.8",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "21.3",
-    "grade": "A"
+    "value_diff": "16.6",
+    "grade": "B"
   },
   {
     "team": "Rookie Mistake",
@@ -116,7 +116,7 @@
     "before_trade": "110.4",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "-15.1",
+    "value_diff": "-24.0",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-102.1",
+    "value_diff": "-109.9",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-49.2",
+    "value_diff": "-53.8",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
-    "points": "185.4",
-    "before_trade": "185.4",
+    "points": "205.6",
+    "before_trade": "205.6",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "73.2",
+    "value_diff": "85.3",
     "grade": "A"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
-    "points": "108.7",
-    "before_trade": "108.7",
+    "points": "113.3",
+    "before_trade": "113.3",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "23.7",
+    "value_diff": "22.3",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-91.5",
+    "value_diff": "-98.1",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "39.0",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-60.6",
+    "value_diff": "-67.8",
     "grade": "C"
   }
 ]

@@ -8,7 +8,11 @@ nav_order: 7
 chart:
   echarts: true
 ---
-
+<style>
+  table[data-toggle="table"] tbody td {
+    color: #2c3e50 !important;
+  }
+</style>
 
 ```echarts
 {
@@ -27,8 +31,8 @@ chart:
               "symbolSize": [250, 50],
               "children": [
                 {
-                  "name": "Third Time's the Charm?",
-                  "value": "141.2",
+                  "name": "Americas Team",
+                  "value": "147.92",
                   "itemStyle": {
                     "color": "#7EC8B6"
                   },
@@ -39,8 +43,8 @@ chart:
                   }
                 },
                 {
-                  "name": "Americas Team",
-                  "value": "173.1",
+                  "name": "Third Time's the Charm?",
+                  "value": "98.77",
                   "itemStyle": {
                     "color": "#FF6347"
                   },
@@ -59,7 +63,7 @@ chart:
               "children": [
                 {
                   "name": "Michael's Managable Team",
-                  "value": "187.93",
+                  "value": "79.85",
                   "itemStyle": {
                     "color": "#FFD700"
                   },
@@ -71,7 +75,7 @@ chart:
                 },
                 {
                   "name": "Abbey's TNT Team",
-                  "value": "101.89",
+                  "value": "135.98",
                   "itemStyle": {
                     "color": "#1E90FF"
                   },
