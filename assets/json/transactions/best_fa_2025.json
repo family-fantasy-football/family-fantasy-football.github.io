@@ -4,10 +4,21 @@
   "week": 5,
   "player_name": "Rico Dowdle",
   "position": "RB",
-  "total_points": "119.1",
-  "avg_per_week": "14.9",
-  "points_above_prev": "10.2",
-  "weeks_played": 8,
+  "total_points": "125.4",
+  "avg_per_week": "13.9",
+  "points_above_prev": "9.2",
+  "weeks_played": 9,
+  "type": "WAIVER"
+ },
+ {
+  "team": "Rookie Mistake",
+  "week": 9,
+  "player_name": "Jacoby Brissett",
+  "position": "QB",
+  "total_points": "109.8",
+  "avg_per_week": "22.0",
+  "points_above_prev": "6.4",
+  "weeks_played": 5,
   "type": "WAIVER"
  },
  {
@@ -22,25 +33,14 @@
   "type": "WAIVER"
  },
  {
-  "team": "Rookie Mistake",
-  "week": 9,
-  "player_name": "Jacoby Brissett",
-  "position": "QB",
-  "total_points": "104.2",
-  "avg_per_week": "26.0",
-  "points_above_prev": "10.5",
-  "weeks_played": 4,
-  "type": "WAIVER"
- },
- {
   "team": "Big Titi Energy",
   "week": 11,
   "player_name": "Tyler Shough",
   "position": "QB",
-  "total_points": "77.1",
-  "avg_per_week": "19.3",
-  "points_above_prev": "2.2",
-  "weeks_played": 4,
+  "total_points": "95.2",
+  "avg_per_week": "19.0",
+  "points_above_prev": "1.9",
+  "weeks_played": 5,
   "type": "WAIVER"
  },
  {
@@ -48,10 +48,10 @@
   "week": 11,
   "player_name": "Michael Wilson",
   "position": "WR",
-  "total_points": "67.5",
-  "avg_per_week": "16.9",
-  "points_above_prev": "10.7",
-  "weeks_played": 4,
+  "total_points": "79.7",
+  "avg_per_week": "15.9",
+  "points_above_prev": "9.7",
+  "weeks_played": 5,
   "type": "WAIVER"
  }
 ]

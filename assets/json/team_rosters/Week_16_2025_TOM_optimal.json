@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jared Goff",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 29.46,
+    "projected": 21.78
+  },
+  {
+    "player_name": "Romeo Doubs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 16.9,
+    "projected": 8.0
+  },
+  {
+    "player_name": "Chimere Dike",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.5,
+    "projected": 8.56
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 31.3,
+    "projected": 12.61
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 25.9,
+    "projected": 17.04
+  },
+  {
+    "player_name": "AJ Barner",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 14.0,
+    "projected": 7.91
+  },
+  {
+    "player_name": "Omarion Hampton",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 16.0,
+    "projected": 12.19
+  },
+  {
+    "player_name": "Chris Rodriguez Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 13.4,
+    "projected": 7.71
+  },
+  {
+    "player_name": "Blake Corum",
+    "pos": "RB",
+    "slot": "OP",
+    "points": 12.6,
+    "projected": 6.03
+  }
+]

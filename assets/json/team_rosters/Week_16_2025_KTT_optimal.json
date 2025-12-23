@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Baker Mayfield",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 15.7,
+    "projected": 17.89
+  },
+  {
+    "player_name": "Ladd McConkey",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 12.3,
+    "projected": 10.37
+  },
+  {
+    "player_name": "Mike Evans",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 11.6,
+    "projected": 10.67
+  },
+  {
+    "player_name": "De'Von Achane",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 16.5,
+    "projected": 22.69
+  },
+  {
+    "player_name": "Isiah Pacheco",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 10.5,
+    "projected": 8.68
+  },
+  {
+    "player_name": "Evan Engram",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 5.1,
+    "projected": 5.9
+  },
+  {
+    "player_name": "Tyler Allgeier",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 7.8,
+    "projected": 7.7
+  },
+  {
+    "player_name": "Adonai Mitchell",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.8,
+    "projected": 8.96
+  },
+  {
+    "player_name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 3.7,
+    "projected": 10.79
+  }
+]

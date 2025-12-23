@@ -3,7 +3,7 @@ layout: page
 permalink: /playoffs/
 title: playoffs
 description: 
-nav: false
+nav: true
 nav_order: 7
 chart:
   echarts: true
@@ -32,7 +32,7 @@ chart:
               "children": [
                 {
                   "name": "Americas Team",
-                  "value": "147.92",
+                  "value": "155.34",
                   "itemStyle": {
                     "color": "#7EC8B6"
                   },
@@ -44,7 +44,7 @@ chart:
                 },
                 {
                   "name": "Third Time's the Charm?",
-                  "value": "98.77",
+                  "value": "131.85",
                   "itemStyle": {
                     "color": "#FF6347"
                   },
@@ -63,7 +63,7 @@ chart:
               "children": [
                 {
                   "name": "Michael's Managable Team",
-                  "value": "79.85",
+                  "value": "149.95",
                   "itemStyle": {
                     "color": "#FFD700"
                   },
@@ -75,7 +75,7 @@ chart:
                 },
                 {
                   "name": "Abbey's TNT Team",
-                  "value": "135.98",
+                  "value": "130.97",
                   "itemStyle": {
                     "color": "#1E90FF"
                   },

@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 24.66,
+    "projected": 19.22
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 18.3,
+    "projected": 8.93
+  },
+  {
+    "player_name": "Troy Franklin",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 8.6,
+    "projected": 6.37
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 30.9,
+    "projected": 12.69
+  },
+  {
+    "player_name": "RJ Harvey",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 20.1,
+    "projected": 11.85
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 13.65,
+    "projected": 7.28
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.8,
+    "projected": 11.63
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 8.1,
+    "projected": 13.84
+  },
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 21.14,
+    "projected": 19.29
+  }
+]

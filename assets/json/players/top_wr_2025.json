@@ -4,40 +4,48 @@
     "team": "Americas Team",
     "draft": "4.8",
     "overall_pick": 44,
-    "points": 257.7,
-    "projected": 173.53
+    "points": 277.3,
+    "projected": 185.1
   },
   {
     "player_name": "Puka Nacua",
     "team": "Abbey's TNT Team",
     "draft": "2.9",
     "overall_pick": 21,
-    "points": 235.8,
-    "projected": 217.07
+    "points": 276.3,
+    "projected": 231.54
   },
   {
     "player_name": "Amon-Ra St. Brown",
     "team": "Game of Zones - House Hamlin",
     "draft": "3.2",
     "overall_pick": 26,
-    "points": 227.9,
-    "projected": 204.94
+    "points": 235.3,
+    "projected": 218.61
   },
   {
     "player_name": "George Pickens",
     "team": "Michael's Managable Team",
     "draft": "6.7",
     "overall_pick": 67,
-    "points": 211.7,
-    "projected": 163.47
+    "points": 234.2,
+    "projected": 174.37
   },
   {
     "player_name": "Ja'Marr Chase",
     "team": "Americas Team",
     "draft": "1.5",
     "overall_pick": 5,
-    "points": 194.6,
-    "projected": 248.54
+    "points": 210.0,
+    "projected": 265.11
+  },
+  {
+    "player_name": "Chris Olave",
+    "team": "Mama Daughter Duo",
+    "draft": "9.10",
+    "overall_pick": 106,
+    "points": 195.1,
+    "projected": 158.29
   },
   {
     "player_name": "Davante Adams",
@@ -45,38 +53,30 @@
     "draft": "4.7",
     "overall_pick": 43,
     "points": 192.9,
-    "projected": 189.3
+    "projected": 201.92
   },
   {
     "player_name": "Nico Collins",
     "team": "90s MonCon",
     "draft": "3.1",
     "overall_pick": 25,
-    "points": 175.6,
-    "projected": 210.88
-  },
-  {
-    "player_name": "Chris Olave",
-    "team": "Mama Daughter Duo",
-    "draft": "9.10",
-    "overall_pick": 106,
-    "points": 163.3,
-    "projected": 148.39
-  },
-  {
-    "player_name": "Jameson Williams",
-    "team": "90s MonCon",
-    "draft": "7.1",
-    "overall_pick": 73,
-    "points": 162.8,
-    "projected": 163.92
+    "points": 183.5,
+    "projected": 224.94
   },
   {
     "player_name": "Courtland Sutton",
     "team": "Emma's Excellent Team",
     "draft": "7.3",
     "overall_pick": 75,
-    "points": 158.1,
-    "projected": 167.66
+    "points": 175.7,
+    "projected": 178.84
+  },
+  {
+    "player_name": "Jameson Williams",
+    "team": "90s MonCon",
+    "draft": "7.1",
+    "overall_pick": 73,
+    "points": 172.3,
+    "projected": 174.85
   }
 ]

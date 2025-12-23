@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jacoby Brissett",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 23.76,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.93,
+    "opponent": "CIN"
+  },
+  {
+    "player_name": "Chimere Dike",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 8.89,
+    "opponent": "NO"
+  },
+  {
+    "player_name": "Ashton Jeanty",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 18.44,
+    "opponent": "NYG"
+  },
+  {
+    "player_name": "James Cook III",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 16.15,
+    "opponent": "PHI"
+  },
+  {
+    "player_name": "Tyler Warren",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 10.92,
+    "opponent": "JAX"
+  },
+  {
+    "player_name": "Chris Rodriguez Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 10.38,
+    "opponent": "DAL"
+  },
+  {
+    "player_name": "AJ Barner",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "projected": 9.52,
+    "opponent": "CAR"
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 20.34,
+    "opponent": "LV"
+  }
+]

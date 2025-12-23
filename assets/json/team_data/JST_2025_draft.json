@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 10,
     "player_name": "Jalen Hurts",
-    "points": "306.3",
-    "before_trade": "306.3",
+    "points": "332.7",
+    "before_trade": "332.7",
     "after_trade": "0.0",
     "draft_position": 10,
-    "value_diff": "-55.7",
+    "value_diff": "-53.4",
     "grade": "C"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 3,
     "player_name": "Christian McCaffrey",
-    "points": "300.2",
-    "before_trade": "300.2",
+    "points": "329.8",
+    "before_trade": "329.8",
     "after_trade": "0.0",
     "draft_position": 15,
-    "value_diff": "50.8",
+    "value_diff": "63.8",
     "grade": "A"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 10,
     "player_name": "Caleb Williams",
-    "points": "238.6",
-    "before_trade": "238.6",
+    "points": "258.1",
+    "before_trade": "258.1",
     "after_trade": "0.0",
     "draft_position": 34,
-    "value_diff": "-29.3",
+    "value_diff": "-27.7",
     "grade": "B"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 3,
     "player_name": "DeVonta Smith",
-    "points": "139.9",
-    "before_trade": "139.9",
+    "points": "153.1",
+    "before_trade": "153.1",
     "after_trade": "0.0",
     "draft_position": 39,
-    "value_diff": "-18.0",
+    "value_diff": "-15.3",
     "grade": "B"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 10,
     "player_name": "D'Andre Swift",
-    "points": "177.4",
-    "before_trade": "177.4",
+    "points": "185.4",
+    "before_trade": "185.4",
     "after_trade": "0.0",
     "draft_position": 58,
-    "value_diff": "-6.3",
+    "value_diff": "-10.5",
     "grade": "B"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 3,
     "player_name": "DK Metcalf",
-    "points": "151.5",
-    "before_trade": "151.5",
+    "points": "157.7",
+    "before_trade": "157.7",
     "after_trade": "0.0",
     "draft_position": 63,
-    "value_diff": "-24.8",
+    "value_diff": "-30.3",
     "grade": "B"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 10,
     "player_name": "Travis Kelce",
-    "points": "162.1",
-    "before_trade": "162.1",
+    "points": "163.4",
+    "before_trade": "163.4",
     "after_trade": "0.0",
     "draft_position": 82,
-    "value_diff": "19.2",
+    "value_diff": "11.0",
     "grade": "B"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "124.1",
     "after_trade": "0.0",
     "draft_position": 87,
-    "value_diff": "-35.9",
+    "value_diff": "-46.5",
     "grade": "B"
   },
   {
@@ -100,12 +100,12 @@
     "round": 9,
     "pick": 10,
     "player_name": "Chris Olave",
-    "points": "163.3",
-    "before_trade": "163.3",
+    "points": "195.1",
+    "before_trade": "195.1",
     "after_trade": "0.0",
     "draft_position": 106,
-    "value_diff": "14.9",
-    "grade": "B"
+    "value_diff": "36.8",
+    "grade": "A"
   },
   {
     "team": "Mama Daughter Duo",
@@ -116,7 +116,7 @@
     "before_trade": "3.6",
     "after_trade": "0.0",
     "draft_position": 111,
-    "value_diff": "-127.7",
+    "value_diff": "-136.5",
     "grade": "D"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 10,
     "player_name": "Jayden Reed",
-    "points": "27.3",
-    "before_trade": "27.3",
+    "points": "32.9",
+    "before_trade": "32.9",
     "after_trade": "0.0",
     "draft_position": 130,
-    "value_diff": "-102.7",
+    "value_diff": "-105.8",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "111.3",
     "after_trade": "0.0",
     "draft_position": 135,
-    "value_diff": "-130.0",
+    "value_diff": "-146.1",
     "grade": "D"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 10,
     "player_name": "Hunter Henry",
-    "points": "127.3",
-    "before_trade": "127.3",
+    "points": "141.3",
+    "before_trade": "141.3",
     "after_trade": "0.0",
     "draft_position": 154,
-    "value_diff": "8.9",
+    "value_diff": "15.0",
     "grade": "B"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 3,
     "player_name": "Rachaad White",
-    "points": "108.2",
-    "before_trade": "108.2",
+    "points": "115.2",
+    "before_trade": "115.2",
     "after_trade": "0.0",
     "draft_position": 159,
-    "value_diff": "9.4",
+    "value_diff": "9.8",
     "grade": "B"
   },
   {
@@ -172,11 +172,11 @@
     "round": 15,
     "pick": 10,
     "player_name": "Will Shipley",
-    "points": "11.7",
-    "before_trade": "11.7",
+    "points": "10.5",
+    "before_trade": "10.5",
     "after_trade": "0.0",
     "draft_position": 178,
-    "value_diff": "-34.7",
+    "value_diff": "-39.0",
     "grade": "B"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 183,
-    "value_diff": "-77.5",
+    "value_diff": "-82.6",
     "grade": "C"
   }
 ]

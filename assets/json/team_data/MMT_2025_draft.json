@@ -4,11 +4,11 @@
     "round": 1,
     "pick": 6,
     "player_name": "Jahmyr Gibbs",
-    "points": "286.4",
-    "before_trade": "286.4",
+    "points": "304.2",
+    "before_trade": "304.2",
     "after_trade": "0.0",
     "draft_position": 6,
-    "value_diff": "33.1",
+    "value_diff": "34.0",
     "grade": "A"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 7,
     "player_name": "Justin Herbert",
-    "points": "280.5",
-    "before_trade": "280.5",
+    "points": "320.2",
+    "before_trade": "320.2",
     "after_trade": "0.0",
     "draft_position": 19,
-    "value_diff": "-3.8",
+    "value_diff": "17.0",
     "grade": "B"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 6,
     "player_name": "Drake Maye",
-    "points": "351.6",
-    "before_trade": "351.6",
+    "points": "381.8",
+    "before_trade": "381.8",
     "after_trade": "0.0",
     "draft_position": 30,
-    "value_diff": "59.0",
+    "value_diff": "69.7",
     "grade": "A"
   },
   {
@@ -44,7 +44,7 @@
     "before_trade": "192.9",
     "after_trade": "0.0",
     "draft_position": 43,
-    "value_diff": "3.6",
+    "value_diff": "-9.0",
     "grade": "B"
   },
   {
@@ -56,7 +56,7 @@
     "before_trade": "84.2",
     "after_trade": "0.0",
     "draft_position": 54,
-    "value_diff": "-119.7",
+    "value_diff": "-133.3",
     "grade": "D"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 7,
     "player_name": "George Pickens",
-    "points": "211.7",
-    "before_trade": "211.7",
+    "points": "234.2",
+    "before_trade": "234.2",
     "after_trade": "0.0",
     "draft_position": 67,
-    "value_diff": "48.2",
+    "value_diff": "59.8",
     "grade": "A"
   },
   {
@@ -76,11 +76,11 @@
     "round": 7,
     "pick": 6,
     "player_name": "T.J. Hockenson",
-    "points": "99.1",
-    "before_trade": "99.1",
+    "points": "100.0",
+    "before_trade": "100.0",
     "after_trade": "0.0",
     "draft_position": 78,
-    "value_diff": "-46.0",
+    "value_diff": "-54.7",
     "grade": "C"
   },
   {
@@ -88,11 +88,11 @@
     "round": 8,
     "pick": 7,
     "player_name": "RJ Harvey",
-    "points": "142.1",
+    "points": "162.2",
     "before_trade": "10.3",
-    "after_trade": "131.8",
+    "after_trade": "151.9",
     "draft_position": 91,
-    "value_diff": "-20.5",
+    "value_diff": "-11.2",
     "grade": "B"
   },
   {
@@ -104,7 +104,7 @@
     "before_trade": "59.6",
     "after_trade": "0.0",
     "draft_position": 102,
-    "value_diff": "-85.1",
+    "value_diff": "-94.7",
     "grade": "C"
   },
   {
@@ -112,11 +112,11 @@
     "round": 10,
     "pick": 7,
     "player_name": "Michael Pittman Jr.",
-    "points": "152.5",
-    "before_trade": "152.5",
+    "points": "157.7",
+    "before_trade": "157.7",
     "after_trade": "0.0",
     "draft_position": 115,
-    "value_diff": "13.2",
+    "value_diff": "9.1",
     "grade": "B"
   },
   {
@@ -124,11 +124,11 @@
     "round": 11,
     "pick": 6,
     "player_name": "Khalil Shakir",
-    "points": "118.5",
-    "before_trade": "118.5",
+    "points": "123.9",
+    "before_trade": "123.9",
     "after_trade": "0.0",
     "draft_position": 126,
-    "value_diff": "-19.9",
+    "value_diff": "-23.7",
     "grade": "B"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "75.3",
     "after_trade": "0.0",
     "draft_position": 139,
-    "value_diff": "71.4",
+    "value_diff": "71.1",
     "grade": "A"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 6,
     "player_name": "Jake Ferguson",
-    "points": "154.8",
-    "before_trade": "154.8",
+    "points": "159.0",
+    "before_trade": "159.0",
     "after_trade": "0.0",
     "draft_position": 150,
-    "value_diff": "36.9",
+    "value_diff": "33.2",
     "grade": "A"
   },
   {
@@ -164,7 +164,7 @@
     "before_trade": "271.9",
     "after_trade": "0.0",
     "draft_position": 163,
-    "value_diff": "74.9",
+    "value_diff": "61.8",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "125.3",
     "after_trade": "0.0",
     "draft_position": 174,
-    "value_diff": "71.0",
+    "value_diff": "67.4",
     "grade": "A"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "34.8",
     "after_trade": "0.0",
     "draft_position": 187,
-    "value_diff": "15.9",
+    "value_diff": "14.7",
     "grade": "B"
   }
 ]

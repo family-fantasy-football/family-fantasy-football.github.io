@@ -19,16 +19,16 @@ pretty_table: True
 
 Leading the way this season:
 
-* **QB:** Josh Allen (404.54 pts) owned by Game of Zones - House Hamlin
+* **QB:** Josh Allen (410.44 pts) owned by Game of Zones - House Hamlin
 
-* **RB:** Jonathan Taylor (303.1 pts) owned by 90s MonCon
+* **RB:** Christian McCaffrey (329.8 pts) owned by Mama Daughter Duo
 
-* **WR:** Jaxon Smith-Njigba (257.7 pts) owned by Americas Team
+* **WR:** Jaxon Smith-Njigba (277.3 pts) owned by Americas Team
 
-* **TE:** Trey McBride (245.85 pts) owned by Americas Team
+* **TE:** Trey McBride (251.55 pts) owned by Americas Team
 
 
-Below are the top 10 performers at each position through Week 15.
+Below are the top 10 performers at each position through Week 16.
 
 
 

@@ -102,9 +102,9 @@
     "team": "Emma's Excellent Team",
     "manager": "Emma Grau",
     "paid": "Yes",
-    "high_scoring_weeks": 1,
-    "winnings": "$5",
+    "high_scoring_weeks": 2,
+    "winnings": "$10",
     "penalties": "$0",
-    "net": "$5"
+    "net": "$10"
   }
 ]

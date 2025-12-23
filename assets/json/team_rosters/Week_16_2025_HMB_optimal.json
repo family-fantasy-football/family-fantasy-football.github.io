@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Shedeur Sanders",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 14.18,
+    "projected": 9.86
+  },
+  {
+    "player_name": "Zay Flowers",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 17.7,
+    "projected": 11.17
+  },
+  {
+    "player_name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 7.4,
+    "projected": 17.56
+  },
+  {
+    "player_name": "Derrick Henry",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 22.8,
+    "projected": 13.72
+  },
+  {
+    "player_name": "Kenneth Gainwell",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 21.3,
+    "projected": 12.21
+  },
+  {
+    "player_name": "Darren Waller",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 6.25,
+    "projected": 8.55
+  },
+  {
+    "player_name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "points": 8.5,
+    "projected": 4.28
+  },
+  {
+    "player_name": "Keenan Allen",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 6.9,
+    "projected": 8.56
+  },
+  {
+    "player_name": "Jalen Coker",
+    "pos": "WR",
+    "slot": "OP",
+    "points": 6.2,
+    "projected": 8.33
+  }
+]

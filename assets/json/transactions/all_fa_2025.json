@@ -730,7 +730,7 @@
  {
   "team": "90s MonCon",
   "week": 7,
-  "player_name": "Oronde Gadsden II",
+  "player_name": "Oronde Gadsden",
   "position": "TE",
   "type": "WAIVER",
   "bid_amount": 11
@@ -1704,6 +1704,54 @@
   "bid_amount": 10
  },
  {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Alec Pierce",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Jalen Coker",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Darnell Washington",
+  "position": "TE",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Darren Waller",
+  "position": "TE",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Tre Tucker",
+  "position": "WR",
+  "type": "FA",
+  "bid_amount": 0
+ },
+ {
+  "team": "Game of Zones - House Hamlin",
+  "week": 15,
+  "player_name": "Jalen Nailor",
+  "position": "WR",
+  "type": "WAIVER",
+  "bid_amount": 0
+ },
+ {
   "team": "Michael's Managable Team",
   "week": 15,
   "player_name": "Darius Slayton",
@@ -1726,5 +1774,21 @@
   "position": "QB",
   "type": "WAIVER",
   "bid_amount": 20
+ },
+ {
+  "team": "Michael's Managable Team",
+  "week": 16,
+  "player_name": "Michael Carter",
+  "position": "RB",
+  "type": "WAIVER",
+  "bid_amount": 15
+ },
+ {
+  "team": "Michael's Managable Team",
+  "week": 16,
+  "player_name": "Bhayshul Tuten",
+  "position": "RB",
+  "type": "FA",
+  "bid_amount": 0
  }
 ]

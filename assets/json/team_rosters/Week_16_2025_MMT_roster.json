@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 17.8,
+    "projected": 21.42
+  },
+  {
+    "player_name": "Justin Herbert",
+    "pos": "QB",
+    "slot": "OP",
+    "points": 39.7,
+    "projected": 22.62
+  },
+  {
+    "player_name": "Drake Maye",
+    "pos": "QB",
+    "slot": "QB",
+    "points": 30.2,
+    "projected": 22.97
+  },
+  {
+    "player_name": "George Pickens",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 22.5,
+    "projected": 11.56
+  },
+  {
+    "player_name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "slot": "RB/WR/TE",
+    "points": 5.2,
+    "projected": 9.79
+  },
+  {
+    "player_name": "Khalil Shakir",
+    "pos": "WR",
+    "slot": "WR",
+    "points": 5.4,
+    "projected": 7.69
+  },
+  {
+    "player_name": "Jake Ferguson",
+    "pos": "TE",
+    "slot": "TE",
+    "points": 4.15,
+    "projected": 8.71
+  },
+  {
+    "player_name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "slot": "RB/WR/TE",
+    "points": 18.5,
+    "projected": 11.15
+  },
+  {
+    "player_name": "Michael Carter",
+    "pos": "RB",
+    "slot": "RB",
+    "points": 6.5,
+    "projected": 9.58
+  }
+]

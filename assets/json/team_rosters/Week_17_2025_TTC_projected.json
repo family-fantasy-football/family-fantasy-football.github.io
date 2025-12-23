@@ -1,0 +1,65 @@
+[
+  {
+    "player_name": "Dak Prescott",
+    "pos": "QB",
+    "slot": "QB",
+    "projected": 26.6,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "CeeDee Lamb",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 14.5,
+    "opponent": "WSH"
+  },
+  {
+    "player_name": "Stefon Diggs",
+    "pos": "WR",
+    "slot": "WR",
+    "projected": 10.48,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Chase Brown",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 14.33,
+    "opponent": "ARI"
+  },
+  {
+    "player_name": "TreVeyon Henderson",
+    "pos": "RB",
+    "slot": "RB",
+    "projected": 13.86,
+    "opponent": "NYJ"
+  },
+  {
+    "player_name": "Brenton Strange",
+    "pos": "TE",
+    "slot": "TE",
+    "projected": 7.88,
+    "opponent": "IND"
+  },
+  {
+    "player_name": "Bucky Irving",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 13.4,
+    "opponent": "MIA"
+  },
+  {
+    "player_name": "Tyrone Tracy Jr.",
+    "pos": "RB",
+    "slot": "RB/WR/TE",
+    "projected": 12.0,
+    "opponent": "LV"
+  },
+  {
+    "player_name": "Bryce Young",
+    "pos": "QB",
+    "slot": "OP",
+    "projected": 12.83,
+    "opponent": "SEA"
+  }
+]

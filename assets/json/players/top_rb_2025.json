@@ -1,82 +1,82 @@
 [
   {
-    "player_name": "Jonathan Taylor",
-    "team": "90s MonCon",
-    "draft": "2.12",
-    "overall_pick": 24,
-    "points": 303.1,
-    "projected": 240.4
-  },
-  {
     "player_name": "Christian McCaffrey",
     "team": "Mama Daughter Duo",
     "draft": "2.3",
     "overall_pick": 15,
-    "points": 300.2,
-    "projected": 249.38
+    "points": 329.8,
+    "projected": 266.0
+  },
+  {
+    "player_name": "Jonathan Taylor",
+    "team": "90s MonCon",
+    "draft": "2.12",
+    "overall_pick": 24,
+    "points": 318.5,
+    "projected": 256.42
   },
   {
     "player_name": "Jahmyr Gibbs",
     "team": "Michael's Managable Team",
     "draft": "1.6",
     "overall_pick": 6,
-    "points": 286.4,
-    "projected": 253.33
+    "points": 304.2,
+    "projected": 270.22
   },
   {
     "player_name": "Bijan Robinson",
     "team": "Abbey's TNT Team",
     "draft": "1.4",
     "overall_pick": 4,
-    "points": 261.8,
-    "projected": 271.88
+    "points": 288.1,
+    "projected": 290.0
   },
   {
     "player_name": "De'Von Achane",
     "team": "Mcconky Donkeys",
     "draft": "4.2",
     "overall_pick": 38,
-    "points": 260.1,
-    "projected": 238.53
+    "points": 276.6,
+    "projected": 254.43
   },
   {
     "player_name": "James Cook III",
     "team": "Rookie Mistake",
     "draft": "4.6",
     "overall_pick": 42,
-    "points": 250.1,
-    "projected": 222.01
-  },
-  {
-    "player_name": "Josh Jacobs",
-    "team": "To Infinity and Bijan!",
-    "draft": "4.4",
-    "overall_pick": 40,
-    "points": 214.5,
-    "projected": 231.35
-  },
-  {
-    "player_name": "Kyren Williams",
-    "team": "Abbey's TNT Team",
-    "draft": "4.9",
-    "overall_pick": 45,
-    "points": 211.2,
-    "projected": 234.96
-  },
-  {
-    "player_name": "Javonte Williams",
-    "team": "To Infinity and Bijan!",
-    "draft": "10.4",
-    "overall_pick": 112,
-    "points": 208.6,
-    "projected": 173.71
+    "points": 276.0,
+    "projected": 236.81
   },
   {
     "player_name": "Travis Etienne Jr.",
     "team": "Americas Team",
     "draft": "11.5",
     "overall_pick": 125,
-    "points": 206.8,
-    "projected": 144.76
+    "points": 221.4,
+    "projected": 154.41
+  },
+  {
+    "player_name": "Kyren Williams",
+    "team": "Abbey's TNT Team",
+    "draft": "4.9",
+    "overall_pick": 45,
+    "points": 221.2,
+    "projected": 250.63
+  },
+  {
+    "player_name": "Josh Jacobs",
+    "team": "To Infinity and Bijan!",
+    "draft": "4.4",
+    "overall_pick": 40,
+    "points": 218.3,
+    "projected": 246.78
+  },
+  {
+    "player_name": "Javonte Williams",
+    "team": "To Infinity and Bijan!",
+    "draft": "10.4",
+    "overall_pick": 112,
+    "points": 213.9,
+    "projected": 185.29
   }
 ]

@@ -8,7 +8,7 @@
     "before_trade": "15.4",
     "after_trade": "0.0",
     "draft_position": 7,
-    "value_diff": "-354.7",
+    "value_diff": "-379.3",
     "grade": "D"
   },
   {
@@ -16,11 +16,11 @@
     "round": 2,
     "pick": 6,
     "player_name": "Ashton Jeanty",
-    "points": "167.1",
-    "before_trade": "167.1",
+    "points": "198.4",
+    "before_trade": "198.4",
     "after_trade": "0.0",
     "draft_position": 18,
-    "value_diff": "-71.7",
+    "value_diff": "-56.4",
     "grade": "C"
   },
   {
@@ -28,11 +28,11 @@
     "round": 3,
     "pick": 7,
     "player_name": "Jared Goff",
-    "points": "329.3",
-    "before_trade": "329.3",
+    "points": "358.7",
+    "before_trade": "358.7",
     "after_trade": "0.0",
     "draft_position": 31,
-    "value_diff": "37.4",
+    "value_diff": "47.4",
     "grade": "A"
   },
   {
@@ -40,11 +40,11 @@
     "round": 4,
     "pick": 6,
     "player_name": "James Cook III",
-    "points": "250.1",
-    "before_trade": "250.1",
+    "points": "276.0",
+    "before_trade": "276.0",
     "after_trade": "0.0",
     "draft_position": 42,
-    "value_diff": "28.1",
+    "value_diff": "39.2",
     "grade": "A"
   },
   {
@@ -52,11 +52,11 @@
     "round": 5,
     "pick": 7,
     "player_name": "Omarion Hampton",
-    "points": "87.7",
-    "before_trade": "87.7",
+    "points": "103.7",
+    "before_trade": "103.7",
     "after_trade": "0.0",
     "draft_position": 55,
-    "value_diff": "-123.2",
+    "value_diff": "-121.3",
     "grade": "D"
   },
   {
@@ -64,11 +64,11 @@
     "round": 6,
     "pick": 6,
     "player_name": "Marvin Harrison Jr.",
-    "points": "105.4",
-    "before_trade": "105.4",
+    "points": "107.3",
+    "before_trade": "107.3",
     "after_trade": "0.0",
     "draft_position": 66,
-    "value_diff": "-70.0",
+    "value_diff": "-79.8",
     "grade": "C"
   },
   {
@@ -80,7 +80,7 @@
     "before_trade": "42.2",
     "after_trade": "0.0",
     "draft_position": 79,
-    "value_diff": "-107.1",
+    "value_diff": "-117.1",
     "grade": "D"
   },
   {
@@ -92,7 +92,7 @@
     "before_trade": "49.8",
     "after_trade": "0.0",
     "draft_position": 90,
-    "value_diff": "-102.7",
+    "value_diff": "-112.8",
     "grade": "D"
   },
   {
@@ -100,11 +100,11 @@
     "round": 9,
     "pick": 7,
     "player_name": "Tyler Warren",
-    "points": "148.8",
-    "before_trade": "148.8",
+    "points": "154.1",
+    "before_trade": "154.1",
     "after_trade": "0.0",
     "draft_position": 103,
-    "value_diff": "16.6",
+    "value_diff": "13.0",
     "grade": "B"
   },
   {
@@ -116,7 +116,7 @@
     "before_trade": "110.4",
     "after_trade": "0.0",
     "draft_position": 114,
-    "value_diff": "-24.0",
+    "value_diff": "-33.0",
     "grade": "B"
   },
   {
@@ -128,7 +128,7 @@
     "before_trade": "7.5",
     "after_trade": "0.0",
     "draft_position": 127,
-    "value_diff": "-109.9",
+    "value_diff": "-117.7",
     "grade": "D"
   },
   {
@@ -140,7 +140,7 @@
     "before_trade": "13.9",
     "after_trade": "0.0",
     "draft_position": 138,
-    "value_diff": "-53.8",
+    "value_diff": "-58.3",
     "grade": "C"
   },
   {
@@ -148,11 +148,11 @@
     "round": 13,
     "pick": 7,
     "player_name": "Jaxson Dart",
-    "points": "205.6",
-    "before_trade": "205.6",
+    "points": "203.1",
+    "before_trade": "203.1",
     "after_trade": "0.0",
     "draft_position": 151,
-    "value_diff": "85.3",
+    "value_diff": "74.8",
     "grade": "A"
   },
   {
@@ -160,11 +160,11 @@
     "round": 14,
     "pick": 6,
     "player_name": "Romeo Doubs",
-    "points": "113.3",
-    "before_trade": "113.3",
+    "points": "130.2",
+    "before_trade": "130.2",
     "after_trade": "0.0",
     "draft_position": 162,
-    "value_diff": "22.3",
+    "value_diff": "33.1",
     "grade": "A"
   },
   {
@@ -176,7 +176,7 @@
     "before_trade": "0.0",
     "after_trade": "0.0",
     "draft_position": 175,
-    "value_diff": "-98.1",
+    "value_diff": "-104.6",
     "grade": "D"
   },
   {
@@ -188,7 +188,7 @@
     "before_trade": "39.0",
     "after_trade": "0.0",
     "draft_position": 186,
-    "value_diff": "-67.8",
+    "value_diff": "-74.9",
     "grade": "C"
   }
 ]
